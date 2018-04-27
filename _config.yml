@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: De-Dale
+description: >
+  Venez vous perdre dans les méandres de notre imaginaire collectif.
+twitter_username: de-dale
+github_username: de-dale
+
+# Build Setting
+theme: minima
+
+# Env Settings
+world: de-dale
