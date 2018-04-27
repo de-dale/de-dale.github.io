@@ -10,4 +10,8 @@ github_username: de-dale
 theme: minima
 
 # Env Settings
+header_pages:
+ - index.md
+ - about.md
+
 world: de-dale
