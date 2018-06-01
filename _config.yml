@@ -2,16 +2,31 @@
 title: De-Dale
 author: Les labyrinthuses
 description: >
-  Venez vous perdre dans les méandres de notre imaginaire collectif.
+  Méandres de l'imaginaire
 twitter_username: de-dale
 github_username: de-dale
+slack: de-dale
+rss: rss
 
 # Build Setting
 theme: minima
+port: 9000
 
 # Env Settings
+show_excerpts: true
 header_pages:
- - index.md
+ - index.html
+ - all.html
  - about.md
 
-world: de-dale
+collections:
+  category:
+    output: true
+    permalink: /:name/index.html
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock

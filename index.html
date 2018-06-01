@@ -1,0 +1,8 @@
+---
+layout: home
+list_title: Nouveautés
+---
+<h2 class="post-list-heading">Catégories</h2>
+{% for category in site.category %}
+{% include category-preview.html category=category %}
+{% endfor %}
