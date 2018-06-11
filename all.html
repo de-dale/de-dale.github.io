@@ -1,16 +1,8 @@
 ---
 layout: default
-title: Tous
+title: Articles
 ---
 <div class="all">
-    {%- if site.posts.size > 0 -%}
-    <ul class="post-list">
-        {%- for post in site.posts -%}
-        <li>
-            {% include post-preview.html post=post %}
-        </li>
-        {%- endfor -%}
-    </ul>
-    {%- endif -%}
-
+    {% assign drafts = site.posts %}
+    {% include post-list.html title='Articles publiés' list=drafts %}
 </div>

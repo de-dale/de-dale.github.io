@@ -1,0 +1,13 @@
+{%- if include.title -%}
+<h1 class="post-title">{{ include.title | default: "Posts" | escape }}</h1>
+{%- endif -%}
+{% assign list = include.list %}
+{%- if list.size > 0 -%}
+<ul class="post-list">
+    {%- for post in list -%}
+    <li>
+        {% include post-preview.html post=post %}
+    </li>
+    {%- endfor -%}
+</ul>
+{%- endif -%}
