@@ -20,6 +20,8 @@ header_pages:
  - all.html
  - about.md
 
+messages: 'Attention : site en construction'
+
 collections:
   category:
     output: true
