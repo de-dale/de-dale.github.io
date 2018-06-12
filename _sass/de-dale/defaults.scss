@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+$content-width: 1000px;
+
+$text-color: #111;
+
+$sepia-main: #704214;
+$sepia: (
+    main: $sepia-main,
+    dark: darken($sepia-main, 0%),
+    light: lighten($sepia-main, 70%)
+);
+
+$antiqua-main: #faebd7;
+$antiqua: (
+    main: $antiqua-main,
+    dark: darken($antiqua-main, 70%),
+    light: lighten($antiqua-main, 0%)
+);
+
+$theme: $sepia;
+
+$brand-color: map-get($theme, "dark");
+$light-brand-color: map-get($theme, "light");
+$dark-brand-color:  map-get($theme, "dark");
+
+$background-color: $light-brand-color;
+$draft-color: #ffffaa;

@@ -1,7 +1,6 @@
 ---
 ---
 
-$content-width: 1000px;
-
+@import "de-dale/defaults";
 @import "{{ site.theme }}";
-@import "mine";
+@import "de-dale";

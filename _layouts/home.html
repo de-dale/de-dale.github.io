@@ -9,14 +9,12 @@ layout: default
     {{ content }}
 
     {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-        {%- for post in site.posts limit:5 -%}
-        <li>
-            {%- include post-preview.html post=post -%}
-        </li>
-        {%- endfor -%}
-    </ul>
+    <div class="news">
+        {% assign news = site.posts | limit:5  %}
+        {% include post-list.html
+                title='Nouveautés'
+                list=news %}
+    </div>
     {%- endif -%}
 
 </div>

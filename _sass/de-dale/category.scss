@@ -1,0 +1,14 @@
+.category-preview-list {
+  //display: flex;
+}
+
+.category-preview {
+  display: inline-block;
+  width: calc(50% - 2px);
+  background-color: darken($background-color, 5%);
+  margin-bottom: 2px;
+}
+
+.category-preview:hover {
+  background-color: darken($background-color, 10%);
+}

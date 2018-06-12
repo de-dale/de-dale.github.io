@@ -2,7 +2,11 @@
 layout: home
 list_title: Nouveautés
 ---
-<h2 class="post-list-heading">Catégories</h2>
-{% for category in site.category %}
-{% include category-preview.html category=category %}
-{% endfor %}
+<div class="categories-preview">
+    <h1 class="list-heading">Catégories</h1>
+    <div class="category-preview-list">
+        {% for category in site.category %}
+        {% include category-preview.html category=category %}
+        {% endfor %}
+    </div>
+</div>
