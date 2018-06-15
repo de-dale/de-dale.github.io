@@ -1,0 +1,54 @@
+//
+// Colors utilities
+//
+
+//adjust-hue( $base-color, 20% )
+
+@function map-color-by-light($hue, $saturation) {
+  $lightnesses: (
+      lightest: 98%,
+      lighter: 82.9%,
+      light:74.1%,
+      main-light: 60%,
+      main: 50%,
+      main-dark: 40%,
+      dark: 25.9,
+      darker: 17.1%,
+      darkest: 9.2%
+  );
+
+  $result: ();
+  @each $name, $lightness in $lightnesses {
+    $result: map-merge($result, ($name: hsl($hue, $saturation, $lightness)))
+  }
+
+  @return $result;
+}
+
+@function hsl-theme($hue, $saturation) {
+  @return (
+      primary: map-color-by-light($hue, $saturation),
+      secondary: map-color-by-light($hue + 30, $saturation),
+      secondary-antiwise: map-color-by-light($hue - 30, $saturation),
+      complement: map-color-by-light($hue +180, $saturation));
+}
+
+@function theme-get($theme, $color, $lightness) {
+  @return map-get(map-get($theme, $color), $lightness);
+}
+
+@mixin colors($colors, $name) {
+  $prefix: if(str-length($name) > 0, "#{$name}-", "");
+  @each $declinaison, $content in $colors {
+    .#{$prefix}#{$declinaison} {
+      background-color: $content;
+    }
+  }
+}
+
+@mixin theme($theme,$name) {
+  $prefix: if(str-length($name) > 0, "#{$name}-", "");
+  @each $color-name, $content in $theme {
+    @include colors($content, "#{$prefix}#{$color-name}")
+  }
+}

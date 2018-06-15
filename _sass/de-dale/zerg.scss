@@ -1,0 +1,8 @@
+/**
+* ZERGS MAIN COLOR: #800080
+*/
+@import '../colors';
+
+$zerg-theme: hsl-theme(271.3,68.5%); // hsl(271.3,68.5%,32.4%)
+$zerg-theme: hsl-theme(300, 100%); // hsl(271.3,68.5%,32.4%)
+@include theme($zerg-theme, "zerg");

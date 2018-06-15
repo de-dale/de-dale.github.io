@@ -1,0 +1,7 @@
+/**
+* SEPIA: #704214
+*/
+@import '../colors';
+
+$antiqua-theme: hsl-theme(34.3, 77%);
+@include theme($antiqua-theme, "antiqua");

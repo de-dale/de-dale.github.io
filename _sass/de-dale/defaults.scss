@@ -13,18 +13,27 @@ $sepia: (
     light: lighten($sepia-main, 70%)
 );
 
-$antiqua-main: #faebd7;
+$antiqua-main: #faebd7; // hsl(34.3,77.8%,91.2%)
 $antiqua: (
     main: $antiqua-main,
     dark: darken($antiqua-main, 70%),
     light: lighten($antiqua-main, 0%)
 );
 
-$theme: $sepia;
+@import "antiqua";
+@import "sepia";
+@import "zerg";
+@import "protoss";
 
-$brand-color: map-get($theme, "dark");
-$light-brand-color: map-get($theme, "light");
-$dark-brand-color:  map-get($theme, "dark");
+
+//$theme: $antiqua-theme;
+$theme: $sepia-theme;
+//$theme: $zerg-theme;
+//$theme: $protoss-theme;
+
+$brand-color: theme-get($theme, "primary", "dark");
+$light-brand-color: theme-get($theme, "primary", "lightest");
+$dark-brand-color: theme-get($theme, "primary", "darker");
 
 $background-color: $light-brand-color;
 $draft-color: #ffffaa;

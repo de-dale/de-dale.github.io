@@ -1,0 +1,7 @@
+/**
+* SEPIA: #704214
+*/
+@import '../colors';
+
+$sepia-theme: hsl-theme(30, 70%);
+@include theme($sepia-theme, "sepia");

@@ -12,6 +12,8 @@ rss: rss
 theme: minima
 port: 9000
 
+themes: [antiqua, sepia, protoss, zerg]
+
 # Env Settings
 show_excerpts: true
 show_drafts: true

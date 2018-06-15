@@ -1,0 +1,7 @@
+/**
+* PROTOSS MAIN COLOR: #800080
+*/
+@import '../colors';
+
+$protoss-theme: hsl-theme(180, 100%);
+@include theme($protoss-theme, "protoss");

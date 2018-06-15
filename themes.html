@@ -1,0 +1,25 @@
+---
+layout: default
+list_title: Nouveautés
+---
+<div class="themes-preview">
+    <h1 class="list-heading">Thèmes</h1>
+    <div class="theme-preview-list">
+        {% for theme in site.themes %}
+        <h3>{{ theme }}</h3>
+        <table class="color-table small">
+            {% assign colors = "primary,secondary,secondary-antiwise,complement" | split: ',' %}
+            {% for color in colors %}
+            <tr>
+                <th>{{ theme }}-{{color}}</th>
+                {% assign lightnesses = "lightest,lighter,light,main-light,main,main-dark,dark,darker,darkest" | split:
+                ',' %}
+                {% for lightness in lightnesses %}
+                <td class="{{ lightness }} {{ theme }}-{{color}}-{{lightness}}"></td>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+        </table>
+        {% endfor %}
+    </div>
+</div>
