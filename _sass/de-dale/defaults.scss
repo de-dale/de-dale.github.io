@@ -11,11 +11,7 @@ $text-color: #111;
 @import "../themes/zerg";
 @import "../themes/protoss";
 
-
-//$theme: $antiqua-theme;
 $theme: $sepia-theme;
-//$theme: $zerg-theme;
-//$theme: $protoss-theme;
 
 $brand-color: theme-get($theme, "primary", "dark");
 $light-brand-color: theme-get($theme, "primary", "lightest");

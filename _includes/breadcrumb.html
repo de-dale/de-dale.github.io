@@ -1,0 +1,7 @@
+{%- assign category = site.category | where:"category", page.category | first %}
+<div id="breadcrumb">
+    {%- if page.layout != "category" -%}
+    <span class="breadcrumb-item"><a href="{{ category.url }}">{{ category.title }}</a></span>
+    {%- endif -%}
+    <span class="breadcrumb-item"><a href="{{ page.url }}">{{ page.title }}</a></span>
+</div>

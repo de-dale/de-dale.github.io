@@ -15,7 +15,7 @@
   background-color: $dark-brand-color;
 
   a {
-    color:$light-brand-color;
+    color: $light-brand-color;
     text-decoration: none;
 
     &:visited {
@@ -30,13 +30,13 @@
 
   &,
   &:visited {
-    color:$light-brand-color;
+    color: $light-brand-color;
   }
 
   .site-title {
     &,
     &:visited {
-      color:$light-brand-color;
+      color: $light-brand-color;
     }
   }
 
@@ -46,7 +46,7 @@
   .page-link {
     &,
     &:visited {
-      color:$light-brand-color;
+      color: $light-brand-color;
     }
   }
 }
@@ -60,6 +60,31 @@
 .home {
   > * {
     margin-bottom: $spacing-unit;
+  }
+}
+
+$header-height: 55px;
+.site-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  + *:first-of-type {
+    margin-top: $header-height;
+  }
+}
+
+#breadcrumb {
+  line-height: $header-height;
+  float: left;
+
+  .breadcrumb-item {
+    margin-left: $spacing-unit;
+  }
+  .breadcrumb-item:before {
+    display: inline-block;
+    content: ">";
+    width:  $spacing-unit;
+    color:inherit;
   }
 }
 
