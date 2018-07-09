@@ -1,11 +1,12 @@
 ---
-title: SYNOPSIS
+title: 'Les Marais du Cerythan'
 date: 2018-07-09 19:19
 author: Naveed
 category: arkilen
-excerpt: '' # empĉhe d'afficher le er paragraphe
+excerpt: 'Synopsis du One-Shot "Les Marais du Cerythan"'
 ---
-SYNOPSIS
+
+# SYNOPSIS
 
 Le Cerythan est un considéré par les premiers nés comme un puissant état mais pour le Dalwyn, c’est une nation secrète et refermée surtout connu pour ses fruits exotiques et en particulier le cacao qu’il est le seul à produire. De nombreux mythes sur l’opulence des cités du Cerythan existent car il est vrai que les étranges produits qui sont commercés rapportent une fortune aux Hommes-Tigres du Cerythan.
 
@@ -28,7 +29,8 @@ Vous êtes parmi les rares chanceux à avoir survécu à ce drame mais vous n’
 A l’est le Cerythan et les Nailkresh n’auront aucune raison de vous épargner et puis de toute façon pour aller où ? A l’ouest et au sud, le Marais, jamais vous n’arriverez à en sortir vivant. Il ne reste que le nord et Achammon, vous devez prévenir l’armée principale de l’échec de l’opération et du danger… Enfin, est-ce vraiment la priorité ?
 
 
-LA SORCIERE
+# LA SORCIERE
+
 Corline se rappelle bien de son enfance à la ferme entourée par une mère aimante, un père travailleur et des frères taquins. La vie était dure, il fallait se lever tôt, travailler toute la journée et se coucher épuisé le soir avant de recommencer le jour suivant. Il y avait régulièrement des distractions lorsqu’on allait au village vendre ou acheter ou pour les fêtes. Les étranges yeux vairons de Corline faisaient qu’elle était souvent l’objet de méchancetés mais alors que ses frères étaient les premiers à lui faire des crasses, ils étaient aussi les premiers à la défendre dans les bagarres. Et puis il y avait toujours maman.
 La vie s’écoulait paisiblement mais elle ennuyait Corline, elle sentait bien qu’elle pouvait aspirer à mieux que les champs et ce travail même honnête. Elle avait besoin de réponse à ces questions, elle demandait souvent « pourquoi » et personne ne lui répondait. Elle rêvassait de plus en plus et ces frères se moquaient d’elle : ce n’était qu’une fille. Alors qu’elle se baladait dans les bois proches, Corline tomba sur un ancien petit autel enchâssait dans un vieux chêne. Elle savait que les autels des Nailkresh étaient sacrés et que les hommes avaient pour mission de les entretenir. Alors elle se mit à nettoyer le temple. Aussitôt un étrange petit être la dévisagea depuis les branches de l’arbre, il semblait fait de bois, avait un chapeau chinois et une robe couleur feuille masquait son corps. Il fit un bruit étrange. Une petite statue parcourut de runes scintillantes cachée dans l’autel lui répondit alors et les deux créatures semblèrent s’engager dans une curieuse conversation. Elle ne put s’empêcher de demander ce qu’il se passait. Etrangement un écureuil descendit de l’arbre et lui répondit : ils se disputaient pour savoir qui de l’arbre ou de l’autel devait être protégé.
 Avec l’aide de l’écureuil, Corline grandit de façon plus épanoui mais à la puberté, elle entendit un appel. D’abord faible, il grandit chaque jour un peu plus jusqu’à ce qu’elle ne puisse plus y résister. Elle quitta sa famille et s’enfonça dans les marais. Elle découvrit qu’elle n’était pas du tout ce qu’elle était.
@@ -41,11 +43,11 @@ Objectif : - Trouver les Hauts Prêtres de Nimeht-Luhn ou un moyen d’empêche
 - Si les drows échouent, c’est bonus.
 
 Relation :
-	⁃	Le soldat : C’est un homme étrange qui ne semble pas à sa place dans cet endroit. Il préfère manifestement les grands espaces, sans eau. C’est le plus lent du groupe mais il dispose d’une force redoutable et une volonté à toute épreuve. Il ne rechigne jamais à la tâche et il est toujours prêt à aider.
+- Le soldat : C’est un homme étrange qui ne semble pas à sa place dans cet endroit. Il préfère manifestement les grands espaces, sans eau. C’est le plus lent du groupe mais il dispose d’une force redoutable et une volonté à toute épreuve. Il ne rechigne jamais à la tâche et il est toujours prêt à aider.
 Plusieurs fois son bras armé à sauver des vies d’un monstre et il donne son maximum pour travailler efficacement avec les autres. Sera-t-il prêt à accepter que tu te moques bien de prévenir les drows ? Peut-être, il a l’air d’apprécier le groupe et plus particulièrement toi.
-	⁃	L’elfe : Qu’est ce qu’une elfe fait ici ? Tu n’y connais pas grand-chose sur les drows mais leur inimité avec les elfes est connue. Elle cherche peut-être à devenir une drow comme les premiers elfes ou alors c’est une espionne et elle pourrait être utile.
+- L’elfe : Qu’est ce qu’une elfe fait ici ? Tu n’y connais pas grand-chose sur les drows mais leur inimité avec les elfes est connue. Elle cherche peut-être à devenir une drow comme les premiers elfes ou alors c’est une espionne et elle pourrait être utile.
 Elle est utile en tout cas, elle mange peu, elle se déplace avec aisance, sait se battre mais surtout elle a deux grandes utilités : elle a des sens très aiguisés qui ont permis plus d’une fois d’éviter un piège mortel et elle s’y connait mieux que tous les autres sur la nature.
-	⁃	Le moine : Quel homme étrange, toujours détaché. Il s’exprime souvent étrangement et ses objectifs sont mystérieux. Il parle 
+- Le moine : Quel homme étrange, toujours détaché. Il s’exprime souvent étrangement et ses objectifs sont mystérieux. Il parle 
 Version Courte :
 Corline est née dans une modeste ferme de l'Orée nommée le Chemin Vert. Elle a vécu une vie de travail éreintante mais elle aspirait à beaucoup mieux. C'est à cause de sa curiosité qu'elle finit par passer un pacte pour obtenir des réponses à ces questions.
 Alors qu'elle s'enfonçait dans la puberté, elle ressenti l'appel qui devint si fort qu'elle finit par céder.
@@ -53,9 +55,7 @@ Elle découvrit alors que tout n'était que mensonge : sa vraie mère était une
 À la fin de sa dure formation, sa mère lui révéla le rituel pour qu'elle finisse sa transformation : elle devait tuer sa fausse famille pour marquer la séparation définitive des simples humains. Toutefois lorsqu'elle arriva chez elle, elle tomba sur la mère qui l'avait toujours aimée et l'aimait toujours. Corline fut incapable de lui faire du mal. Elle s'enfuit, incapable de choisir ce qu'elle devait faire.
 C'est le pacte qui se rappela à elle : elle devait choisir ce qu'elle voulait être pour savoir où aller. Elle se rendit compte que sa mère humaine lui manquait. Elle eut alors peur, pouvait-elle résister à l’appel s’il revenait ? Pouvait-elle empêchait la transformation ? Elle ne connaissait personne parmi les humains qui pouvait l’aider, en revanche, on disait que les Hauts Prêtres de Nimeht-Luhn, Déesse de la rédemption, était capable de purger les cœurs et les corps du vice. Elle devait les trouver mais atteindre le Cerythan était une mission bien plus délicate.
 
-
-
-LE CHEVALIER
+# LE CHEVALIER
 
 Cassian est né en Angldeth, terre des chevaliers et des batailles, et c’est ce qu’il a connu la majeure partie de sa vie.
 Cassian vient d’une petite lignée terrienne qui a toujours été prise entre deux camps, c’est pourquoi il s’est rapidement tourné vers la protection et la défense des siens mais la vie l’a mené bien loin. De rencontres en aléas, de désillusions en trahisons, Cassian a fini par parcourir une grande partie du Dalwyn. Tantôt gardien, tantôt capitaine, tantôt mercenaire, la seule constance de Cassian est qu’il a besoin d’une cause à défendre, d’un groupe à protéger pour avoir l’impression d’avoir un but.
@@ -67,19 +67,11 @@ Dans tous les cas, il doit sortir de là, prévenir de l’échec de la mission 
 Objectif : - Cassian a suffisamment perdu d’allié or son serment est de défendre son groupe, il ne peut supporter un nouvel échec. Cassian doit veiller à ce que tout le groupe s’en sorte. Lui y compris.
 	⁃	Prévenir les drows et conserver son honneur, défendre son groupe et respecter son serment. Un choix sera-t-il nécessaire ?
 
-
-
-
-
-
-LA ROUBLARDE
+# LA ROUBLARDE
 
 Depuis longtemps une grande communauté des elfes du soleil ont été intégrés à l’Empire du Dalwyn tant au niveau de l’élite que du commun. Aujourd’hui le Dalwyn n’est plus, morcelé entre plusieurs états. Oksana est née dans la noblesse gomarienne, dernier état prétendant rétablir l’antique gloire du Dalwyn. Un état où les complots, les secrets et les coups bas font partis du jeu. Oksana a été formée à être une parfaite participante de ce jeu : agile, trompeuse, séduisante, mortelle, diplomate et savante. Elle a très bien appris tout ce qu’on lui a enseigné, se révélant même extrêmement douée. Cependant ce n’était pas ce qu’Oksana voulait être. Escaler des murs et crocheter des coffres forts allaient encore mais mentir pour nuire aux autres et leur causer des souffrances, accepter de coucher avec des hommes pour entendre leur confidence, faire tomber les têtes d’innocents ou jouer les greluches maniérées étaient contraire à ce qu’Oksana considérait comme juste et bon. Quand sa formation fut finit, elle préféra fuir plutôt que d’offrir son corps et son âme à quelques complots immoraux.
 Grâce à ces talents, elle n’eut aucun mal à survivre et à voyager. Elle rejoignit les elfes du soleil des forêts du Silas espérant y trouver l’essence même de ce qu’elle était mais elle fut déçue. Mage érudit et archer compétent les elfes du soleil ne pouvaient se départir de leur air hautain et d’une certaine condescendance envers une pauvre elfe éduquée chez les humains. Elle n’arriva pas à trouver sa place. Elle voyagea jusqu’aux elfes des étoiles et les trouva agréable mais elle ne parvint pas à se faire une place, elle qui avait grandi si loin de la nature et qui ne se sentait pas lié à la Porte des Etoiles. Elle parcourue le monde pour accompagner les Elfes de la Lune, soldats du bien, mais leur vision du monde était trop éloignée de la sienne. Elle découvrit des elfes de la terre mais les elfes « sauvages » étaient bien toi réfractaires à toute civilisation pour elle. Elle désespéra de trouver un endroit où elle se sentirait chez elle et qui lui permettrait de savoir si sa vision du bien était une valeur partagée. Elle avait voyagé longtemps, vu beaucoup de gens et appris énormément de chose sans trouver un endroit où elle pourrait dire : je suis rentrée.
 Un jour alors qu’elle accompagnait des marchands, elle sympathisa avec une escorte un peu spéciale : des Hommes-Tigres défendaient une cargaison exotique : du chocolat. Les Nailkresh semblaient la comprendre et ne la jugeait pas, ils semblaient se moquer de sa race. Elle se lia d’amitié avec le plus étrange d’entre eux, un homme-tigre au pelage noir (alors qu’il est normalement tigré) appelé Chelwyn. Elle décida de continuer à les accompagner pour en apprendre plus sur eux car les Hommes-Tigres n’étaient pas courant. Elle découvrit alors que si les Nailkresh l’acceptaient aussi bien, c’est car ils croyaient que tous avaient le droit de se tourner vers le bien et étaient égaux devant lui. Ce n’est que lorsque la séparation fut venue que l’elfe découvrit à quel point elle avait été bien avec les tigres. 
-
-
-
 
 Oksana est née dans la noblesse gomarienne, un état qui se livre à un jeu de complots, de secrets et coups bas pour la puissance politique. Formée à l’intrigue, à l’espionnage et au charme, Oksana a très vite réalisé que ce genre de comportement ne correspondait pas à sa vision du monde et la vie qu’elle voulait. Escaler des murs et crocheter des coffres forts allaient encore mais mentir pour nuire aux autres et leur causer des souffrances, accepter de coucher avec des hommes pour entendre leur confidence, faire tomber les têtes d’innocents ou jouer les greluches maniérées étaient contraire à ce qu’Oksana considérait comme juste et bon. Quand sa formation fut finit, elle préféra fuir plutôt que d’offrir son corps et son âme à quelques complots immoraux.
 Elle mit à profit l’ensemble de son enseignement pour parcourir le monde, apprenant et améliorant ses talents, faisant preuve d’un talent certain pour l’apprentissage et l’adaptation. Elle ne fut pas toujours fière d’elle mais c’est sa capacité à se remettre en cause et à vouloir s’améliorer qui fait d’elle une bonne personne. Elle continua à chercher un endroit qui serait chez elle. Elle ne le trouva pas chez les elfes du soleil, des étoiles, de la lune ou de la terre ou encore chez les humains du Kastiro ou les navires de la Fédération.
