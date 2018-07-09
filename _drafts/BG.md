@@ -1,10 +1,11 @@
 ---
-title: BG
+title: Personnages
 date: 2018-07-09 19:17
 author: Naveed
 category: arkilen
 excerpt: '' # empĉhe d'afficher le er paragraphe
 ---
+# Oksana
 
 Oksana est née dans la noblesse gomarienne, un état qui se livre à un jeu de complots, de secrets et coups bas pour la puissance politique. Formée à l’intrigue, à l’espionnage et au charme, Oksana a très vite réalisé que ce genre de comportement ne correspondait pas à sa vision du monde et la vie qu’elle voulait. Escaler des murs et crocheter des coffres forts allaient encore mais mentir pour nuire aux autres et leur causer des souffrances, accepter de coucher avec des hommes pour entendre leur confidence, faire tomber les têtes d’innocents ou jouer les greluches maniérées étaient contraire à ce qu’Oksana considérait comme juste et bon. Quand sa formation fut finit, elle préféra fuir plutôt que d’offrir son corps et son âme à quelques complots immoraux.
 Elle mit à profit l’ensemble de son enseignement pour parcourir le monde, apprenant et améliorant ses talents, faisant preuve d’un talent certain pour l’apprentissage et l’adaptation. Elle ne fut pas toujours fière d’elle mais c’est sa capacité à se remettre en cause et à vouloir s’améliorer qui fait d’elle une bonne personne. Elle continua à chercher un endroit qui serait chez elle. Elle ne le trouva pas chez les elfes du soleil, des étoiles, de la lune ou de la terre ou encore chez les humains du Kastiro ou les navires de la Fédération.
@@ -20,16 +21,7 @@ Depuis longtemps une grande communauté des elfes du soleil ont été intégrés
 Grâce à ces talents, elle n’eut aucun mal à survivre et à voyager. Elle rejoignit les elfes du soleil des forêts du Silas espérant y trouver l’essence même de ce qu’elle était mais elle fut déçue. Mage érudit et archer compétent les elfes du soleil ne pouvaient se départir de leur air hautain et d’une certaine condescendance envers une pauvre elfe éduquée chez les humains. Elle n’arriva pas à trouver sa place. Elle voyagea jusqu’aux elfes des étoiles et les trouva agréable mais elle ne parvint pas à se faire une place, elle qui avait grandi si loin de la nature et qui ne se sentait pas lié à la Porte des Etoiles. Elle parcourue le monde pour accompagner les Elfes de la Lune, soldats du bien, mais leur vision du monde était trop éloignée de la sienne. Elle découvrit des elfes de la terre mais les elfes « sauvages » étaient bien toi réfractaires à toute civilisation pour elle. Elle désespéra de trouver un endroit où elle se sentirait chez elle et qui lui permettrait de savoir si sa vision du bien était une valeur partagée. Elle avait voyagé longtemps, vu beaucoup de gens et appris énormément de chose sans trouver un endroit où elle pourrait dire : je suis rentrée.
 Un jour alors qu’elle accompagnait des marchands, elle sympathisa avec une escorte un peu spéciale : des Hommes-Tigres défendaient une cargaison exotique : du chocolat. Les Nailkresh semblaient la comprendre et ne la jugeait pas, ils semblaient se moquer de sa race. Elle se lia d’amitié avec le plus étrange d’entre eux, un homme-tigre au pelage noir (alors qu’il est normalement tigré) appelé Chelwyn. Elle décida de continuer à les accompagner pour en apprendre plus sur eux car les Hommes-Tigres n’étaient pas courant. Elle découvrit alors que si les Nailkresh l’acceptaient aussi bien, c’est car ils croyaient que tous avaient le droit de se tourner vers le bien et étaient égaux devant lui. Ce n’est que lorsque la séparation fut venue que l’elfe découvrit à quel point elle avait été bien avec les tigres. 
 
-
-
-
-
-
-
-
-
-
-
+# Corline
 
 Corline est née dans une modeste ferme de l'Orée nommée le Chemin Vert. Elle a vécu une vie de travail éreintante mais elle aspirait à beaucoup mieux. C'est à cause de sa curiosité qu'elle finie par passer un pacte pour obtenir des réponses à ces questions.
 Alors qu'elle s'enfonçait dans la puberté, elle ressenti l'appel qui devint si fort qu'elle finie par céder.
@@ -58,31 +50,7 @@ Malheureusement les drows arrivèrent et les rares accès au Cerythan se fermèr
 Objectif : - Trouver les Hauts Prêtres de Nimeht-Luhn ou un moyen d’empêcher la transformation en Guenaude.
 - Si les drows échouent, c’est bonus.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Cassian
 
 Cassian est né en Angldeth, terre des chevaliers et des batailles, et c’est ce qu’il a connu la majeure partie de sa vie.
 Cassian vient d’une petite lignée terrienne qui a toujours été prise entre deux camps, c’est pourquoi il s’est rapidement tourné vers la protection et la défense des siens mais la vie l’a mené bien loin. De rencontres en aléas, de désillusions en trahisons, Cassian a fini par parcourir une grande partie du Dalwyn. Tantôt gardien, tantôt capitaine, tantôt mercenaire, la seule constance de Cassian est qu’il a besoin d’une cause à défendre, d’un groupe à protéger pour avoir l’impression d’avoir un but.
@@ -94,7 +62,7 @@ Dans tous les cas, il doit sortir de là, prévenir de l’échec de la mission 
 Objectif : - Cassian a suffisamment perdu d’allié or son serment est de défendre son groupe, il ne peut supporter un nouvel échec. Cassian doit veiller à ce que tout le groupe s’en sorte. Lui y compris.
 -    Prévenir les drows et conserver son honneur, défendre son groupe et respecter son serment. Un choix sera-t-il nécessaire ?
 
-
+# Hélori
 
 Pendant longtemps Hélori n'a connu que le monastère où il a été élevé. Orphelin, il a grandi parmi les moines en suivant l'enseignement et la doctrine du Monastère. Bien qu'austère, la vie dans le monastère n'était pas malheureuse. Les moines étaient certes strictes mais aussi philosophe et érudit, aussi ne négligeaient-ils pas l'enseignement des enfants, certes dans le but qu'ils deviennent moine. Les entrainements physiques intenses étaient complétés par des cours pour apprendre à lire et écrire et les bases de la philosophie. Cela dans le but de préparer les jeunes à devenir des membres à part entière de l'Ordre.
 Calme, réfléchit et résistant, Hélori s'intégra très bien dans ce milieu. Nombreux étaient les enfants qui quittaient le monastère à l'âge adulte et au contact de la "civilisation" changeait complètement. Ils étaient encore jeune et n'avaient pas appris les secrets de l'Ordre aussi étaient-ils juste "perdus". Hélori n'était pas du genre à céder à l'appel des vices et au confort des villes, les secrets des techniques les plus avancés et la philosophie de l'Ordre l'intéressait beaucoup plus que les plaisirs si facile d'accès des citadins.
