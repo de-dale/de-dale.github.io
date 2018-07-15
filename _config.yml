@@ -16,14 +16,13 @@ themes: [antiqua, sepia, protoss, zerg]
 
 # Env Settings
 show_excerpts: true
-show_drafts: true
 header_pages:
  - index.html
  - cards.html
  - all.html
  - about.md
 
-messages: 'Attention : site en construction'
+# messages: 'Attention : site en construction'
 
 collections:
   category:
