@@ -19,6 +19,7 @@ show_excerpts: true
 show_drafts: true
 header_pages:
  - index.html
+ - cards.html
  - all.html
  - about.md
 
@@ -46,3 +47,4 @@ defaults:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor
