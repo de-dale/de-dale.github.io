@@ -12,12 +12,9 @@ Le monde de Cearran est marqué par une noirceur intense. Les puissances les plu
 
 > @finaliser
 
-Royaume d'Erianth : Royaume humain, dont les dirigeants sont aussi noirs que les fosses des Enfers
-
-Les Seigneuries du Mervac 
-
-Ovelost : autocratie Gobeline
-
-"@Nommer" : théocratie de l'Ordre de Sceau
-
-"@Nommer" : lointain royaume de marchands du soleil, esclavagistes, dont des elfes.
+- Erianth : Royaume humain, dont les dirigeants sont aussi noirs que les fosses des Enfers
+- Cearn : Autre Royaume huamin, un peu plus bisounours
+- Les Seigneuries du Mervac : Nation marchande
+- Ovelost : autocratie Gobeline
+- "@Nommer" : théocratie de l'Ordre de Sceau
+- "@Nommer" : lointain royaume de marchands du soleil, esclavagistes, dont des elfes.

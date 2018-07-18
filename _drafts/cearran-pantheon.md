@@ -1,3 +1,11 @@
+---
+title: Elfes
+date: ''
+author: Faby
+category: cearran
+excerpt: '' # empĉhe d'afficher le er paragraphe
+---
+
 Le panthéon suivant décrit les religions les pratiquées dans le royaume d'Erianth. Il est communément admi que ces religions transcendent les races, bien que les noms, et certaines paraboles varient d'une race à l'autre, et même, d'une ethnie à l'autre.
 
 # Sarulk

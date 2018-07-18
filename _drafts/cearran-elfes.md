@@ -1,3 +1,11 @@
+---
+title: Elfes
+date: ''
+author: Faby
+category: cearran
+excerpt: '' # empĉhe d'afficher le er paragraphe
+---
+
 Les elfes constituent une race très spirituelle ; dont la pensée a dirigé l'existence et l'évolution. Il existe quatre grandes ethnies elfes, émergeant de quatre grands courants de pensée. Chaque ethnie possède ses forces et ses faiblesses, chacune a ses parangons.
 
 > Ebauche : Descendants des Premiers Nés, les elfes et leur magie ont évolué au fil des génération, chacun laissant une trace de son esprit dans le corps de la génération suivantes.
