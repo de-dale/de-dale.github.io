@@ -1,13 +1,10 @@
 ---
 title: Cearn
-date: ''
+date: 2018-05-06 12:10
 author: Faby
 category: cearran
 excerpt: '' # empĉhe d'afficher le er paragraphe
 ---
-
-Premier jet pour fixer les idées et mettre les quelques données disponibles à un endroit accessible (surtout que j'ai déjà quelques trucs dessus, que c'est à St-Maur et que je suis actuellement à Douai)
-
 Type de régime : Royauté
 Roi : Roi Arneram
 Capitale : Falfox
