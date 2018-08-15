@@ -1,3 +1,12 @@
+---
+title: 'Nailkresh'
+date: 2018-08-15 16:50
+author: Naveed
+category: arkilen
+tags: race
+excerpt: 'Présentation de la race des Nailkreshs'
+---
+
 # NAILKRESH (HOMME-TIGRE)
 
 - **+2 DEX +2 CHA (2PR)** : Les Nailkreshs sont agiles et facile à vivre.
