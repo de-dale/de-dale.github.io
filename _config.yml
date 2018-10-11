@@ -18,8 +18,9 @@ themes: [antiqua, sepia, protoss, zerg]
 show_excerpts: true
 header_pages:
  - index.html
- - cards.html
  - all.html
+ - url: spherier
+   title: 'Sphérier'
  - about.md
 
 # messages: 'Attention : site en construction'
