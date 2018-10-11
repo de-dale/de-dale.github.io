@@ -12,9 +12,17 @@ Le panthéon suivant décrit les religions les pratiquées dans le royaume d'Eri
 
 > Domaines : Mal, Feu, Magie, Connaissance autres @trouver.
 
-L'ambition et la recherche du pouvoir ont fait de Sarulk ce qu'il est aujourd'hui ; le plus puissant des dieux. C'est également celui dont le culte est le plus répandu. Son ascension n'a pas été de tout repos ; il lui a fallu trouver des alliés, faire des promesses, montrer ses ennemis les uns contre les autres.
+L'ambition et la recherche du pouvoir ont fait de Sarulk ce qu'il est aujourd'hui
+; le plus puissant des dieux. C'est également celui dont le culte est le plus 
+répandu. Son ascension n'a pas été de tout repos ; il lui a fallu trouver des 
+alliés, faire des promesses, montrer ses ennemis les uns contre les autres.
 
-Actuellement, il réside en un lieu hors du monde et du temps : La Tour infinie. La légende veut que cette tour se situe au point de conjonction des plus puissantes forces des Enfers ; là où le Styx finit sa traversée des Grandes plaines de la Géhenne, et se jette dans les Faille du Bout du Monde. De plus, on raconte qu'il est possible de gravir ses étages pendant une infinité de vies, et descendre dans ses fondations deux fois plus longtemps encore.
+Actuellement, il réside en un lieu hors du monde et du temps : La Tour infinie. 
+La légende veut que cette tour se situe au point de conjonction des plus 
+puissantes forces des Enfers ; là où le Styx finit sa traversée des Grandes 
+plaines de la Géhenne, et se jette dans les Faille du Bout du Monde. De plus, on
+raconte qu'il est possible de gravir ses étages pendant une infinité de vies, 
+et descendre dans ses fondations deux fois plus longtemps encore.
 
 Autres appellations :
 
