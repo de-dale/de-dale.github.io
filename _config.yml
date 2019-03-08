@@ -9,16 +9,17 @@ slack: de-dale
 rss: rss
 
 # Build Setting
-theme: minima
 port: 9000
-
+theme: minima
 themes: [antiqua, sepia, protoss, zerg]
+
 
 # Env Settings
 show_excerpts: true
 header_pages:
  - index.html
  - all.html
+ - cards/index.html
  - url: spherier
    title: 'Sphérier'
  - about.md
@@ -48,3 +49,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - package*
+  - node_modules
+  - webpack
