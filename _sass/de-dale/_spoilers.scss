@@ -1,0 +1,33 @@
+//.spoiler > .spoil {
+//  transform: scale(0);
+//  transition: transform 1s;
+//}
+
+//.spoiler {
+//  //background-color: blue;
+//
+//}
+
+.spoiler {
+  //display:inline-block;
+  border:1px solid grey;
+  height:200px;
+  width: 200px;
+  line-height:1em;
+  //background: grey;
+  margin: 5px;
+  opacity: 0.1;
+  background-color: blue;
+}
+
+.spoiler:focus {
+  background-color: red;
+}
+
+//
+//.spoiler:focus > .spoil {
+//
+//  transform: scale(1);
+//  transition: ease-in transform 1s;
+//}
+
