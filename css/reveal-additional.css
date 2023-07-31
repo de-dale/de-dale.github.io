@@ -1,0 +1,8 @@
+.cells {
+    display: flex;
+    justify-content: space-between;
+}
+
+.small {
+    font-size: 0.5em;
+}
