@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "daf8aa31-4ea8-42a9-adfc-421e1d90d8ca",
+        "type": "message",
+        "text": "Plop le Hobbit",
+        "user": "U0A48EDPD",
+        "ts": "1618472619.008000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/pVhB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop le Hobbit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b76dde1f-dfc1-44c4-b00e-e57e7e62b422",
+        "type": "message",
+        "text": "Le Plopain",
+        "user": "U0AA0KVLH",
+        "ts": "1618472701.008200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j9qzj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le Plopain"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

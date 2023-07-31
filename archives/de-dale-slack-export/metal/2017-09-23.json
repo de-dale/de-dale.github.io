@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "text": "J'crois que je vais craquer et aller voir satyricon : <https:\/\/www.youtube.com\/watch?v=pwU22xcDiJ4>",
+        "user": "U0DSEQH9S",
+        "ts": "1506152678.000041",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vr70g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'crois que je vais craquer et aller voir satyricon : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=pwU22xcDiJ4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Satyricon Mother North Live At The Opera",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=pwU22xcDiJ4",
+                "author_name": "Oytun Bektaş",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCl2EyIYTUFYEj_HzZr7Oo_Q",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/pwU22xcDiJ4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Satyricon Mother North Live At The Opera",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/pwU22xcDiJ4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=pwU22xcDiJ4",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    }
+]

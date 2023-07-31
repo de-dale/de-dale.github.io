@@ -1,0 +1,1373 @@
+[
+    {
+        "client_msg_id": "58828f8c-723a-4ca0-9846-de16a56b8864",
+        "type": "message",
+        "text": "<@U0DTHMU81>, tes question portent sur quel point en fait ? Sur des Variantes E6 de Pathfinder mais dans quel contexte ?",
+        "user": "U0A48EDPD",
+        "ts": "1546951851.009700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RZnGM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0DTHMU81"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", tes question portent sur quel point en fait ? Sur des Variantes E6 de Pathfinder mais dans quel contexte ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546951851.009700",
+        "reply_count": 5,
+        "reply_users_count": 1,
+        "latest_reply": "1546951897.010600",
+        "reply_users": [
+            "U0A48EDPD"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546951873.009800"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546951876.010000"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546951884.010200"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546951892.010400"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546951897.010600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1546951897.010600"
+    },
+    {
+        "client_msg_id": "dfb33e94-c188-4ed9-be8e-e8197a7a27a0",
+        "type": "message",
+        "text": "Après, pour répondre aà tes points :",
+        "user": "U0A48EDPD",
+        "ts": "1546951873.009800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kjV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Après, pour répondre aà tes points :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546951851.009700",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "075d9033-030f-4214-a31c-12f3e8741031",
+        "type": "message",
+        "text": "&gt; Dans les idées que j'ai, les classes sont pour l'instant réduites au guerrier \/mage \/ pretre \/ (druide later)\n&gt; Les classes martiales étant des archétypes du guerrier en fait et les classes mixte (barde palos...) étant du multiclassage guerrier-caster\nJ'aime bien comme idée ; proposer des bases, et chacun fait sa sauce avec le multiclasse.\nEst-ce que tu prévoies des synergies\/combos dans les multi-classage ? Et des eléments différenciants ? pour qu'un guerrier\/mage puisse être qualifié de Barde ou de Magus par exemple.",
+        "user": "U0A48EDPD",
+        "ts": "1546951876.010000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j7C",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dans les idées que j'ai, les classes sont pour l'instant réduites au guerrier \/mage \/ pretre \/ (druide later)\nLes classes martiales étant des archétypes du guerrier en fait et les classes mixte (barde palos...) étant du multiclassage guerrier-caster"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'aime bien comme idée ; proposer des bases, et chacun fait sa sauce avec le multiclasse.\nEst-ce que tu prévoies des synergies\/combos dans les multi-classage ? Et des eléments différenciants ? pour qu'un guerrier\/mage puisse être qualifié de Barde ou de Magus par exemple."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546951851.009700",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "733f1aa6-1144-400d-b8fd-f1a85528378b",
+        "type": "message",
+        "text": "&gt; Le guerrier sera la base avec actions infinies et non restreintes\nQu'est ce que ça veut dire en fait ? Que les actions du guerrier ne consomment pas de ressources-jour ? A quelle(s) restriction(s) fais-tu référence ?\nAprès ; oui, ça ressemble au fonctionnement D&amp;D.",
+        "user": "U0A48EDPD",
+        "ts": "1546951884.010200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PPJP",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le guerrier sera la base avec actions infinies et non restreintes"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Qu'est ce que ça veut dire en fait ? Que les actions du guerrier ne consomment pas de ressources-jour ? A quelle(s) restriction(s) fais-tu référence ?\nAprès ; oui, ça ressemble au fonctionnement D&D."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546951851.009700",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "225c416a-7ff3-4956-b912-58c14ba04553",
+        "type": "message",
+        "text": "&gt; Le mage, je reste sur la magie de DD (sorts préparés) mais ils ne peuvent lancer que les sorts de leur école sauf 1 par lvl de sort qui est universel.\nJ'aime bien cette restriction. Par contre, est-ce que ça  ne risque pas de mettre certaines écoles de côté ? Je pense à Divination; Illusion, et Enchantement, qui ont (à mes yeux) peu de sorts de combat intéressants, (ou des SaveOrDie).\nEnfin, si le gameplay du mage, c'est du spell-economy, que fait-il le reste du temps ?\n\n&gt; Bien sur ca demande de retravailler les écoles de magie et les domaines.\nCeci, risque de répondre à ma question sur les ecoles :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1546951892.010400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BN4",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le mage, je reste sur la magie de DD (sorts préparés) mais ils ne peuvent lancer que les sorts de leur école sauf 1 par lvl de sort qui est universel."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'aime bien cette restriction. Par contre, est-ce que ça  ne risque pas de mettre certaines écoles de côté ? Je pense à Divination; Illusion, et Enchantement, qui ont (à mes yeux) peu de sorts de combat intéressants, (ou des SaveOrDie).\nEnfin, si le gameplay du mage, c'est du spell-economy, que fait-il le reste du temps ?\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bien sur ca demande de retravailler les écoles de magie et les domaines."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ceci, risque de répondre à ma question sur les ecoles "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546951851.009700",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "002f2a14-9399-4915-9a84-917317a1d802",
+        "type": "message",
+        "text": "&gt; Le Pretre ne connait que les sorts de sa divinité et peut les lancer a volonté mais ils ont faibles.\n&gt; Il peut par contre utiliser 1 ressource (canalisation ?) pour leur conférer des effets supp\nEst-ce que les sorts faibles sont tout de même utiles à eux tous seuls ?",
+        "user": "U0A48EDPD",
+        "ts": "1546951897.010600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aFQ",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le Pretre ne connait que les sorts de sa divinité et peut les lancer a volonté mais ils ont faibles.\nIl peut par contre utiliser 1 ressource (canalisation ?) pour leur conférer des effets supp"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est-ce que les sorts faibles sont tout de même utiles à eux tous seuls ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546951851.009700",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "e9ddb151-7a4b-4d81-9041-ae333cdc5e35",
+        "type": "message",
+        "text": "(ne pas poser de question dans un thread, on ne peut pas y répondre)",
+        "user": "U0DTHMU81",
+        "ts": "1546952274.011200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8JX6o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(ne pas poser de question dans un thread, on ne peut pas y répondre)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DTHMU81",
+            "ts": "1546952277.000000"
+        }
+    },
+    {
+        "client_msg_id": "abf4e51b-eec3-4af6-bfd9-712f642a9da9",
+        "type": "message",
+        "text": "Comment ça dans quel contexte ?",
+        "user": "U0DTHMU81",
+        "ts": "1546952297.011700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XC\/o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Comment ça dans quel contexte ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "268d4079-acb7-480f-98de-a869dc8ba5f5",
+        "type": "message",
+        "text": "Est-ce que tu prévoies des synergies\/combos dans les multi-classage ? Et des eléments différenciants ? pour qu'un guerrier\/mage puisse être qualifié de Barde ou de Magus par exemple.\nWIP (pour te paraphraser). En vrai, ce n'est pas très difficile à mettre en oeuvre. Il suffit de créer des \"dons de multiclasse\" avec des prérequis bien spécifiques. Après, est-ce que les barde et le palos seront des c\/c de ceux de PF ? Je ne pense aps et si c'est vraiment plus complexe qu'attendu, je peux créer des classes mixtes Guerrier-caster",
+        "user": "U0DTHMU81",
+        "ts": "1546952481.014400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fLE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est-ce que tu prévoies des synergies\/combos dans les multi-classage ? Et des eléments différenciants ? pour qu'un guerrier\/mage puisse être qualifié de Barde ou de Magus par exemple.\nWIP (pour te paraphraser). En vrai, ce n'est pas très difficile à mettre en oeuvre. Il suffit de créer des \"dons de multiclasse\" avec des prérequis bien spécifiques. Après, est-ce que les barde et le palos seront des c\/c de ceux de PF ? Je ne pense aps et si c'est vraiment plus complexe qu'attendu, je peux créer des classes mixtes Guerrier-caster"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7f7c4086-5d63-4eb3-8176-0c22d28dcaca",
+        "type": "message",
+        "text": "*Le guerrier sera la base avec actions infinies et non restreintes\nQu'est ce que ça veut dire en fait ? Que les actions du guerrier ne consomment pas de ressources-jour ? A quelle(s) restriction(s) fais-tu référence ?\nAprès ; oui, ça ressemble au fonctionnement D&amp;D.*\nGlobalement le guerrier aura des attaques de bases qu'il peut utiliser à volonté (comme actuellement). Il aura aussi sûrement des actions limitées, mais son rôle 1° (taper) se fera à l'inifini. Ca assure qu'une équipe pourra toujours finir un mob.\nJe ne sais plus de quelles restrictions je parlais mais que je l'ai écrit ça avait l'air suffisamment important pour être mentionné :stuck_out_tongue:",
+        "user": "U0DTHMU81",
+        "ts": "1546952734.017300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qVg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "*Le guerrier sera la base avec actions infinies et non restreintes\nQu'est ce que ça veut dire en fait ? Que les actions du guerrier ne consomment pas de ressources-jour ? A quelle(s) restriction(s) fais-tu référence ?\nAprès ; oui, ça ressemble au fonctionnement D&D.*\nGlobalement le guerrier aura des attaques de bases qu'il peut utiliser à volonté (comme actuellement). Il aura aussi sûrement des actions limitées, mais son rôle 1° (taper) se fera à l'inifini. Ca assure qu'une équipe pourra toujours finir un mob.\nJe ne sais plus de quelles restrictions je parlais mais que je l'ai écrit ça avait l'air suffisamment important pour être mentionné "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DTHMU81",
+            "ts": "1546952830.000000"
+        }
+    },
+    {
+        "client_msg_id": "062868cd-729a-4b3a-b4e9-5cd473778286",
+        "type": "message",
+        "text": "Enfin, si le gameplay du mage, c'est du spell-economy, que fait-il le reste du temps ?\nIl fait quoi dans PF actuellement ? Un mage lvl 1, c'est environ 4-6 sorts de lvl 1 + 6-8 capas (généralement des ping) ainsi qu'à volonté : 5 sorts lvl 0 + son arme.\nTu lui ajoutes le prana qui permet de recharger 1 ou 2 sorts par jour au lvl 1 et tu as un perso qui a 11-16 capas utilisables, dont 5-7 plus fortes que la moyenne. Vers le lvl 3, ce nombre a augmenté de près de 50%.\nCa demande un peu de gestion, mais de base un mage peut faire ses 3-4 combats par jour sans trop se faire chier. Avec 2-3 tweaks, il pourra facilement tenir 4-5 (sauf s'il brûle des ressources dans le 1°)",
+        "user": "U0DTHMU81",
+        "ts": "1546956202.024000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3iWGE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Enfin, si le gameplay du mage, c'est du spell-economy, que fait-il le reste du temps ?\nIl fait quoi dans PF actuellement ? Un mage lvl 1, c'est environ 4-6 sorts de lvl 1 + 6-8 capas (généralement des ping) ainsi qu'à volonté : 5 sorts lvl 0 + son arme.\nTu lui ajoutes le prana qui permet de recharger 1 ou 2 sorts par jour au lvl 1 et tu as un perso qui a 11-16 capas utilisables, dont 5-7 plus fortes que la moyenne. Vers le lvl 3, ce nombre a augmenté de près de 50%.\nCa demande un peu de gestion, mais de base un mage peut faire ses 3-4 combats par jour sans trop se faire chier. Avec 2-3 tweaks, il pourra facilement tenir 4-5 (sauf s'il brûle des ressources dans le 1°)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "67aa1ccd-804b-4dae-8c30-60650776eda7",
+        "type": "message",
+        "text": "Le Pretre ne connait que les sorts de sa divinité et peut les lancer a volonté mais ils ont faibles.\n&gt; Il peut par contre utiliser 1 ressource (canalisation ?) pour leur conférer des effets supp\nEst-ce que les sorts faibles sont tout de même utiles à eux tous seuls ?\nOui sinon autant faire des trucs blank.\nPar exemple, on peut imaginer que Bénédiction soit à volonté et qu'en claquant X ressources à un certain lvl, elle devienne Prière.\nOu Protection contre le mal devient Protection contre le mal partagé puis Cercle magique contre le mal.",
+        "user": "U0DTHMU81",
+        "ts": "1546956611.025900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SA2T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le Pretre ne connait que les sorts de sa divinité et peut les lancer a volonté mais ils ont faibles."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il peut par contre utiliser 1 ressource (canalisation ?) pour leur conférer des effets supp"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est-ce que les sorts faibles sont tout de même utiles à eux tous seuls ?\nOui sinon autant faire des trucs blank.\nPar exemple, on peut imaginer que Bénédiction soit à volonté et qu'en claquant X ressources à un certain lvl, elle devienne Prière.\nOu Protection contre le mal devient Protection contre le mal partagé puis Cercle magique contre le mal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5341bd72-44df-4a3a-ad4f-8590e77576ca",
+        "type": "message",
+        "text": "Honnêtement les sorts lvl 1 sont majoritairement assez faibles pour être lancés à volonté",
+        "user": "U0DTHMU81",
+        "ts": "1546956677.026400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D0DA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Honnêtement les sorts lvl 1 sont majoritairement assez faibles pour être lancés à volonté"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Lien vers le tableau des compétences : <https:\/\/docs.google.com\/spreadsheets\/d\/1qnslOPmFaXh2ZilmVvLgJEAaa4hVxEhjVXjL0yAm0kU\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "FFARKK8RL",
+                "created": 1546988484,
+                "timestamp": 1546988484,
+                "name": "Compétences",
+                "title": "Compétences",
+                "mimetype": "application\/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "G Suite Spreadsheet",
+                "user": "U0DTHMU81",
+                "user_team": "T0A48J0MV",
+                "editable": false,
+                "size": 40652,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1qnslOPmFaXh2ZilmVvLgJEAaa4hVxEhjVXjL0yAm0kU\/edit?usp=sharing",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0A48J0MV-FFARKK8RL-8d0f14dd88\/comp__tences_64.png?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0A48J0MV-FFARKK8RL-8d0f14dd88\/comp__tences_80.png?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0A48J0MV-FFARKK8RL-8d0f14dd88\/comp__tences_360.png?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0A48J0MV-FFARKK8RL-8d0f14dd88\/comp__tences_480.png?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0A48J0MV-FFARKK8RL-8d0f14dd88\/comp__tences_160.png?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0A48J0MV-FFARKK8RL-8d0f14dd88\/comp__tences_720.png?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0A48J0MV-FFARKK8RL-8d0f14dd88\/comp__tences_800.png?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1132,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0A48J0MV-FFARKK8RL-8d0f14dd88\/comp__tences_960.png?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "thumb_960_w": 678,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0A48J0MV-FFARKK8RL-8d0f14dd88\/comp__tences_1024.png?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 1449,
+                "permalink": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/FFARKK8RL\/comp__tences",
+                "is_starred": false,
+                "external_id": "1qnslOPmFaXh2ZilmVvLgJEAaa4hVxEhjVXjL0yAm0kU",
+                "external_url": "https:\/\/docs.google.com\/spreadsheets\/d\/1qnslOPmFaXh2ZilmVvLgJEAaa4hVxEhjVXjL0yAm0kU\/edit?usp=sharing",
+                "has_rich_preview": true,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0DTHMU81",
+        "display_as_bot": false,
+        "x_files": [
+            "FFARKK8RL"
+        ],
+        "ts": "1546988483.027100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VjwXk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lien vers le tableau des compétences : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1qnslOPmFaXh2ZilmVvLgJEAaa4hVxEhjVXjL0yAm0kU\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "cd700649-008d-42cb-a9a5-312989f13a18"
+    },
+    {
+        "client_msg_id": "1ccd7cd0-803d-42df-8b20-97707d06b821",
+        "type": "message",
+        "text": "Le nombre de compétence a été réduit et elles regroupent plusieurs anciennes compétences.\nArtisanat et Profession ont pour l'instant disparu, je cherche ce que je peux en faire (merci à Clément pour les pistes)",
+        "user": "U0DTHMU81",
+        "ts": "1546988653.027900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OaRA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le nombre de compétence a été réduit et elles regroupent plusieurs anciennes compétences.\nArtisanat et Profession ont pour l'instant disparu, je cherche ce que je peux en faire (merci à Clément pour les pistes)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DTHMU81",
+            "ts": "1546989047.000000"
+        }
+    },
+    {
+        "client_msg_id": "40b4f827-3ec2-4d99-b876-dff24291b6e3",
+        "type": "message",
+        "text": "Certaines peuvent se superposer et c'est volontaire. Par exemple, pour détecter une embuscade, il est possible de faire un test de Perception ou de Survie. Idem pour reconnaître une plante dangereuse, Nature et Survie pourront convenir.",
+        "user": "U0DTHMU81",
+        "ts": "1546988732.029300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8qD7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Certaines peuvent se superposer et c'est volontaire. Par exemple, pour détecter une embuscade, il est possible de faire un test de Perception ou de Survie. Idem pour reconnaître une plante dangereuse, Nature et Survie pourront convenir."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fa40cf18-9977-43c9-aec5-364729de7f31",
+        "type": "message",
+        "text": "Enfin les compétences n'ont plus de carac associée. Elles sont sur le même modèle que la 5E : les PJ font des tests de carac auquels ils ajoutent le bonus de la compétence la plus pertinente (s'il y en a une).",
+        "user": "U0DTHMU81",
+        "ts": "1546988811.030800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UJB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Enfin les compétences n'ont plus de carac associée. Elles sont sur le même modèle que la 5E : les PJ font des tests de carac auquels ils ajoutent le bonus de la compétence la plus pertinente (s'il y en a une)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61596883-e8b8-4823-9c2a-a0e321397f6d",
+        "type": "message",
+        "text": "Concernant les maîtrises et la perfection :\nLorsque le total des bonus permanents et non-spécifique d'une compétence atteint +10, le joueur doit choisir une maîtrise parmi les 3 proposées.\nS'il atteint +15, il gagne le bonus de perfection en plus. Il s'agit d'un sort de niveau 4-6 avec une utilisation très limitée (par exemple : Vision lucide pendant 1 round ou un Mur de pierre à durée limitée).",
+        "user": "U0DTHMU81",
+        "ts": "1546988988.033900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OT0Rq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Concernant les maîtrises et la perfection :\nLorsque le total des bonus permanents et non-spécifique d'une compétence atteint +10, le joueur doit choisir une maîtrise parmi les 3 proposées.\nS'il atteint +15, il gagne le bonus de perfection en plus. Il s'agit d'un sort de niveau 4-6 avec une utilisation très limitée (par exemple : Vision lucide pendant 1 round ou un Mur de pierre à durée limitée)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c23311d9-f509-4c0d-baaa-761ef6454e2d",
+        "type": "message",
+        "text": "L'objectif est de rendre le +10 atteignable sans trop de difficulté au lvl 6 ou plus tôt pour un perso qui commit dans cette compétence et vise le +15. Le +15 sera bien plus dur, nécessitant soit un choix de classe\/race\/don spécifique pour l'atteindre. Un PJ aura ainsi vraisemblablement 1 seule perfection, peut-être 2 pour un perso dédié aux compétences.",
+        "user": "U0DTHMU81",
+        "ts": "1546989306.037500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PuUB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L'objectif est de rendre le +10 atteignable sans trop de difficulté au lvl 6 ou plus tôt pour un perso qui commit dans cette compétence et vise le +15. Le +15 sera bien plus dur, nécessitant soit un choix de classe\/race\/don spécifique pour l'atteindre. Un PJ aura ainsi vraisemblablement 1 seule perfection, peut-être 2 pour un perso dédié aux compétences."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "175614b3-4aa5-4360-b7e0-e6acb61806eb",
+        "type": "message",
+        "text": "A première vue, qu'en pensez-vous ?\nCertains pouvoir vous paraissent-ils intéressants ? Drôles ? Tentants ? Trop forts\/faibles ?\nAvez-vous des idées, même génériques ?",
+        "user": "U0DTHMU81",
+        "ts": "1546989356.038500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UIM8U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A première vue, qu'en pensez-vous ?\nCertains pouvoir vous paraissent-ils intéressants ? Drôles ? Tentants ? Trop forts\/faibles ?\nAvez-vous des idées, même génériques ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cfdc5b55-8f02-4d21-a4f9-264e571ec619",
+        "type": "message",
+        "text": "J'aime bien l'idée du choix multiple à +10\nJe ne suis pass fan du wording de certaines compétence (Finesse, Manipulation) mais j'ai rien de mieux à proposer.",
+        "user": "U0A48EDPD",
+        "ts": "1547017697.041100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TTjl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'aime bien l'idée du choix multiple à +10\nJe ne suis pass fan du wording de certaines compétence (Finesse, Manipulation) mais j'ai rien de mieux à proposer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547017697.041100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1547020172.048800",
+        "reply_users": [
+            "U0DTHMU81"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547020172.048800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1547025760.000000"
+    },
+    {
+        "client_msg_id": "7237dfab-df3d-4e0c-a257-048f50a7074b",
+        "type": "message",
+        "text": "Idées:\nArt de la magie: \n - Capacité de contrer plus facilement luttes sorts\n - Globe d'invulnérabilité\n - Capacité d'augmenter la puissance des sorts ou de traverser la RM\nManipulation :\n - Télékinésie en pouvoir de lvl +15 \n - Déverrouillage\n - Détection passive des pièges magiques (comme Fouille des elfes pour les passages dans 3.5)\n - Capacité d'identifier les golems et autres créatures artificielles ",
+        "user": "U0A48EDPD",
+        "ts": "1547018354.047300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZLZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Idées:\nArt de la magie: \n - Capacité de contrer plus facilement luttes sorts\n - Globe d'invulnérabilité\n - Capacité d'augmenter la puissance des sorts ou de traverser la RM\nManipulation :\n - Télékinésie en pouvoir de lvl +15 \n - Déverrouillage\n - Détection passive des pièges magiques (comme Fouille des elfes pour les passages dans 3.5)\n - Capacité d'identifier les golems et autres créatures artificielles"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547018354.047300",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1547020608.049400",
+        "reply_users": [
+            "U0DTHMU81"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547020224.049000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547020530.049200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547020608.049400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1547025760.000000"
+    },
+    {
+        "client_msg_id": "c40876a4-fc3e-4c2d-a4a5-96211a6c1473",
+        "type": "message",
+        "text": "Du coup, les compétences concernent le combat et le hors combat ?",
+        "user": "U0A48EDPD",
+        "ts": "1547018409.047800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AixEl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Du coup, les compétences concernent le combat et le hors combat ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547018409.047800",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1547021066.049800",
+        "reply_users": [
+            "U0DTHMU81"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547020741.049600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547021066.049800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1547025760.000000"
+    },
+    {
+        "client_msg_id": "232bc134-4eca-41fb-aa5c-591038110006",
+        "type": "message",
+        "text": "Trop bien merci pour les retours",
+        "user": "U0DTHMU81",
+        "ts": "1547020141.048700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SlWdp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trop bien merci pour les retours"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8e340cad-e10f-4f2b-bae7-561aef5c6380",
+        "type": "message",
+        "text": "Je suis d'accord mais pas de meilleure idée non plus.",
+        "user": "U0DTHMU81",
+        "ts": "1547020172.048800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V=GX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis d'accord mais pas de meilleure idée non plus."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547017697.041100",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "db79eaa6-5a32-481f-9e2c-6c28d6fb2b5c",
+        "type": "message",
+        "text": "Pour le contre sort je verrai. C'est une option mais l'anti jeu n'est pas le truc le plus drôle ni a faire ni a subit",
+        "user": "U0DTHMU81",
+        "ts": "1547020224.049000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ae6P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour le contre sort je verrai. C'est une option mais l'anti jeu n'est pas le truc le plus drôle ni a faire ni a subit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547018354.047300",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "7143b0a9-57de-4665-b13d-a3a7baed4508",
+        "type": "message",
+        "text": "J'aime bien Télékinésie.\nGlobe d'invulnérabilite est un peu fort je trouve. Tu rends tous tes joueurs insensibles aux sorts pendant X rounds. Et si c'est limité a 1 tour ça devient dur a bien placer.",
+        "user": "U0DTHMU81",
+        "ts": "1547020530.049200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wUyf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'aime bien Télékinésie.\nGlobe d'invulnérabilite est un peu fort je trouve. Tu rends tous tes joueurs insensibles aux sorts pendant X rounds. Et si c'est limité a 1 tour ça devient dur a bien placer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547018354.047300",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "517f78c2-5353-4d98-bee1-d5d819982195",
+        "type": "message",
+        "text": "L'idée des golems me plait aussi",
+        "user": "U0DTHMU81",
+        "ts": "1547020608.049400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xDopK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L'idée des golems me plait aussi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547018354.047300",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "51f5128a-0a82-483d-95b4-13d6fd0450f0",
+        "type": "message",
+        "text": "Oui. J'ai essayé de leur donner différents attraits dans 1 même bonus.\nPar exemple, donner une vitesse de nage et d'escalade, ca permet de passer des endroits difficile hors combat ou de se placer pmus facilement en combat.",
+        "user": "U0DTHMU81",
+        "ts": "1547020741.049600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iH=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui. J'ai essayé de leur donner différents attraits dans 1 même bonus.\nPar exemple, donner une vitesse de nage et d'escalade, ca permet de passer des endroits difficile hors combat ou de se placer pmus facilement en combat."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547018409.047800",
+        "parent_user_id": "U0A48EDPD"
+    }
+]

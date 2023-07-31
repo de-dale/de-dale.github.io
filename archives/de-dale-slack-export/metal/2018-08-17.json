@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "28166cfd-4dba-412d-bf7c-bff02f9d0821",
+        "type": "message",
+        "text": "<@U0B0S4YFP> C'est toi qui disait que tu aimais bien Manowar nan ? (Moi aussi j'aime bien :stuck_out_tongue: ) Ils passeront au Hellfest en 2019 :open_mouth:",
+        "user": "U0DSEQH9S",
+        "ts": "1534496709.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N7Kz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0B0S4YFP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " C'est toi qui disait que tu aimais bien Manowar nan ? (Moi aussi j'aime bien "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) Ils passeront au Hellfest en 2019 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "open_mouth",
+                                "unicode": "1f62e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

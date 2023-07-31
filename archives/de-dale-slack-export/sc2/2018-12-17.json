@@ -1,0 +1,46 @@
+[
+    {
+        "type": "message",
+        "text": "Mon fond d'écran au taf ! :zerg:",
+        "files": [
+            {
+                "id": "FEVECHSP6",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "user": "U0A48EDPD",
+        "display_as_bot": false,
+        "ts": "1545048392.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zKGL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mon fond d'écran au taf ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "zerg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "terran",
+                "users": [
+                    "U0AA0KVLH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

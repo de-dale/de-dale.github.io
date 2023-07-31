@@ -1,0 +1,322 @@
+[
+    {
+        "client_msg_id": "fc9f7848-3bb8-4ad1-9bca-f0252954ecfc",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1536397732.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uoVK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f1e5cacd-b0e4-470d-8729-62b6bd4fd084",
+        "type": "message",
+        "text": "Chaud pour un prochain OS?",
+        "user": "U0AA0KVLH",
+        "ts": "1536397745.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "um=SY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chaud pour un prochain OS?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55a7a373-1d5c-4dca-a91b-967f38ed9011",
+        "type": "message",
+        "text": "C'est quoi OS ? ",
+        "user": "U5ETCTF7V",
+        "ts": "1536406825.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D72Mo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est quoi OS ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gc97cf1e535a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3c97cf1e535a7dc75d5b1cbaeb11e89e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Seb",
+            "real_name": "Seb Lebossu",
+            "display_name": "seblebossu",
+            "team": "T0A48J0MV",
+            "name": "seblebossu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "C'est moche",
+        "user": "U5ETCTF7V",
+        "ts": "1536406858.000100",
+        "thread_ts": "1536388039.000100",
+        "root": {
+            "client_msg_id": "21ec3749-76cf-488c-9dd1-d825d9a9a465",
+            "type": "message",
+            "text": "(enfin je suis sûr à 80% que c'était elle, on a croisé nos regards d'assez loin, mais elle lui ressemblait énormément)",
+            "user": "U0DSEQH9S",
+            "ts": "1536388039.000100",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "i0R+0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "(enfin je suis sûr à 80% que c'était elle, on a croisé nos regards d'assez loin, mais elle lui ressemblait énormément)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0A48J0MV",
+            "thread_ts": "1536388039.000100",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1536415242.000100",
+            "reply_users": [
+                "U5ETCTF7V",
+                "U0DSEQH9S"
+            ],
+            "replies": [
+                {
+                    "user": "U5ETCTF7V",
+                    "ts": "1536406858.000100"
+                },
+                {
+                    "user": "U0DSEQH9S",
+                    "ts": "1536415242.000100"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LDN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est moche"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1cffe518-365c-4e03-a190-3ff6b3d8add5",
+        "reactions": [
+            {
+                "name": "disappointed",
+                "users": [
+                    "U0DSEQH9S",
+                    "U5ETCTF7V"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2638b65a-fdd6-4344-b07d-7556b452dc2a",
+        "type": "message",
+        "text": "Un OS c'est un one shot en jdr",
+        "user": "U0DSEQH9S",
+        "ts": "1536412512.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zOG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un OS c'est un one shot en jdr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "21a7b0de-abac-4dcc-83be-9495208694aa",
+        "type": "message",
+        "text": "Tout à fait",
+        "user": "U0AA0KVLH",
+        "ts": "1536413445.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gtm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tout à fait"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2e97cc77-ac7f-4b8c-a66a-4e2ba6035979",
+        "type": "message",
+        "text": "Ouais. C'est surtout que je suis pas encore remis à 100%, car même si on s'est quitté en bon terme, un deuil reste un deuil !",
+        "user": "U0DSEQH9S",
+        "ts": "1536415242.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d8Jnq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ouais. C'est surtout que je suis pas encore remis à 100%, car même si on s'est quitté en bon terme, un deuil reste un deuil !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1536388039.000100",
+        "parent_user_id": "U0DSEQH9S"
+    }
+]

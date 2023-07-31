@@ -1,0 +1,101 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/9gag.com\/gag\/anjgovL>",
+        "user": "U0A48EDPD",
+        "ts": "1503770950.000044",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QXguV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/9gag.com\/gag\/anjgovL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "9GAG",
+                "title": "Spiders",
+                "title_link": "https:\/\/9gag.com\/gag\/anjgovL",
+                "text": "Share with your friends now",
+                "fallback": "9GAG: Spiders",
+                "image_url": "https:\/\/images-cdn.9gag.com\/photo\/anjgovL_700b.jpg",
+                "from_url": "https:\/\/9gag.com\/gag\/anjgovL",
+                "image_width": 270,
+                "image_height": 250,
+                "image_bytes": 92876,
+                "service_icon": "https:\/\/assets-9gag-fun.9cache.com\/s\/fab0aa49\/8946411bb07f6cac10365a92a412d0267dd54849\/static\/dist\/core\/img\/favicon_v2.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "unicorn_face",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hahaha",
+        "user": "U0DSEQH9S",
+        "ts": "1503775207.000083",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YQCu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hahaha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

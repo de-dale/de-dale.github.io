@@ -1,0 +1,407 @@
+[
+    {
+        "client_msg_id": "d29ce5f6-6447-48b8-8862-a0f759e57fc5",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1528358441.000324",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0wlzk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cb4fb3d6-cbf5-492b-9631-f93132261915",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1528358936.000219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QRW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "850954a8-e149-4772-8468-45f82202e6aa",
+        "type": "message",
+        "text": "<https:\/\/chaotheque.org\/ougepro\/auto-lovecraft>",
+        "user": "U0A48EDPD",
+        "ts": "1528369244.000403",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FSF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/chaotheque.org\/ougepro\/auto-lovecraft"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "OuGéPro",
+                "title": "Auto-Lovecraft - OuGéPro",
+                "title_link": "https:\/\/chaotheque.org\/ougepro\/auto-lovecraft",
+                "text": "Iä ! Iä ! Shub-Niggurath !",
+                "fallback": "OuGéPro: Auto-Lovecraft - OuGéPro",
+                "from_url": "https:\/\/chaotheque.org\/ougepro\/auto-lovecraft",
+                "id": 1,
+                "original_url": "https:\/\/chaotheque.org\/ougepro\/auto-lovecraft"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3cce779-f9d0-475b-b83e-cea45033d7b4",
+        "type": "message",
+        "text": "Le site héberge tout un tas de projets de génération aléatoire de phrases.\nCa, c'est un générateur aléatoire de synopsis de Lovecraft :stuck_out_tongue:",
+        "user": "U0A48EDPD",
+        "ts": "1528369294.000545",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "73mOy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le site héberge tout un tas de projets de génération aléatoire de phrases.\nCa, c'est un générateur aléatoire de synopsis de Lovecraft "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5e6e6ecb-8ecf-4746-a97d-4cb8b6e43a7b",
+        "type": "message",
+        "text": "Marrant ça aussi : \n<https:\/\/www.welcometothejungle.co\/articles\/co-waking-alternative-reunion>",
+        "user": "U0A48EDPD",
+        "ts": "1528373786.000347",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+o7pf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Marrant ça aussi : \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.welcometothejungle.co\/articles\/co-waking-alternative-reunion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Le co-walking, l’alternative à la réunion | Welcome to the Jungle",
+                "title_link": "https:\/\/www.welcometothejungle.co\/articles\/co-waking-alternative-reunion",
+                "text": "Selon une enquête réalisée par OpinionWay en avril 2017, seulement une réunion sur quatre aboutirait à une prise de décision. La « réunionite », cette habitude de recourir sans cesse à des réunions, très souvent épinglée ces dernières années, ne ...",
+                "fallback": "Le co-walking, l’alternative à la réunion | Welcome to the Jungle",
+                "image_url": "https:\/\/cdn.welcometothejungle.co\/uploads\/article\/image\/6336\/152688\/large_co-waking-alternative-reunion.jpg",
+                "from_url": "https:\/\/www.welcometothejungle.co\/articles\/co-waking-alternative-reunion",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 394113,
+                "service_icon": "https:\/\/www.welcometothejungle.co\/favicon.ico",
+                "service_name": "welcometothejungle.co",
+                "id": 1,
+                "original_url": "https:\/\/www.welcometothejungle.co\/articles\/co-waking-alternative-reunion"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "356d0586-b1da-4a28-9c80-b83279477ac5",
+        "type": "message",
+        "text": "<https:\/\/bbrt.org\/the-beyond-budgeting-principles\/>",
+        "user": "U0DSEQH9S",
+        "ts": "1528433758.000177",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gzQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bbrt.org\/the-beyond-budgeting-principles\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Beyond Budgeting Institute",
+                "title": "The 12 Beyond Budgeting principles - See the list here",
+                "title_link": "https:\/\/bbrt.org\/the-beyond-budgeting-principles\/",
+                "text": "Based on 12 years of dedicated research we´ve developed the 12 Beyond Budgeting principles - See the 12 principles that you need to understand here",
+                "fallback": "Beyond Budgeting Institute: The 12 Beyond Budgeting principles - See the list here",
+                "thumb_url": "http:\/\/bbrt.org\/wp-content\/uploads\/2014\/05\/The-12-BB-principles-newversion2016-1024x724.jpg",
+                "from_url": "https:\/\/bbrt.org\/the-beyond-budgeting-principles\/",
+                "thumb_width": 1024,
+                "thumb_height": 724,
+                "service_icon": "https:\/\/bbrt.org\/wp-content\/themes\/enterprise-pro\/images\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/bbrt.org\/the-beyond-budgeting-principles\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c64ceedc-701a-4c1e-bb62-a244afde3c74",
+        "type": "message",
+        "text": "J'ai repensé à ce concept récemment, et j'avais pas vu qu'il y avait une sorte de \"manifeste\" plutôt bien fait",
+        "user": "U0DSEQH9S",
+        "ts": "1528433780.000272",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LdA8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai repensé à ce concept récemment, et j'avais pas vu qu'il y avait une sorte de \"manifeste\" plutôt bien fait"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "174c3543-cee7-49ac-b721-18f3c504ffee",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1528438277.000044",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W2AI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3729d338-9ba6-47ac-960e-f62ef434f519",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1528438292.000202",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zyefj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

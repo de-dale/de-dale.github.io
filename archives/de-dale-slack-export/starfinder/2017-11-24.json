@@ -1,0 +1,92 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1511520383.000245",
+        "user": "U0DTHMU81",
+        "text": "<@U0DTHMU81> has joined the channel",
+        "inviter": "U0AA0KVLH"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1511520390.000340",
+        "user": "U0A48EDPD",
+        "text": "<@U0A48EDPD> has joined the channel",
+        "inviter": "U0AA0KVLH"
+    },
+    {
+        "type": "message",
+        "text": "c'est porté par Pazio ?",
+        "user": "U0A48EDPD",
+        "ts": "1511520529.000105",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SKGO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est porté par Pazio ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "oui",
+        "user": "U0AA0KVLH",
+        "ts": "1511520626.000433",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+pv1u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

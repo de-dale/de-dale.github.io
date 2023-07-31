@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "f1280057-03f4-4d0d-8a41-69893076cdd7",
+        "type": "message",
+        "text": "<@U0DTHMU81> je découvre l'article d'angry sur le \"Calling\"\nEst-ce que c'est celui dont tu m'avais parlé ? \n\n<https:\/\/theangrygm.com\/lost-player-skills-calling\/|https:\/\/theangrygm.com\/lost-player-skills-calling\/>",
+        "user": "U0A48EDPD",
+        "ts": "1583396741.001900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y5O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0DTHMU81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je découvre l'article d'angry sur le \"Calling\"\nEst-ce que c'est celui dont tu m'avais parlé ? \n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/theangrygm.com\/lost-player-skills-calling\/",
+                                "text": "https:\/\/theangrygm.com\/lost-player-skills-calling\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The Angry GM",
+                "title": "Lost Player Skills: Calling",
+                "title_link": "https:\/\/theangrygm.com\/lost-player-skills-calling\/",
+                "text": "Maybe this is just me being an angry, 40-something, gen x grognard, but gamers today have lost touch with some essential skills. Skills that those fancy core books USED TO teach you. Like mapping. …",
+                "fallback": "The Angry GM: Lost Player Skills: Calling",
+                "image_url": "https:\/\/i1.wp.com\/theangrygm.com\/wp-content\/uploads\/2015\/03\/Category-GMing-800-x-450.png?fit=800%2C450&ssl=1",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1575284434,
+                "from_url": "https:\/\/theangrygm.com\/lost-player-skills-calling\/",
+                "image_bytes": 42669,
+                "service_icon": "https:\/\/theangrygm.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/theangrygm.com\/lost-player-skills-calling\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "96356a60-d653-4020-b016-e204f5326cf0",
+        "type": "message",
+        "text": "Je crois bien oui",
+        "user": "U0DTHMU81",
+        "ts": "1583397395.002200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hFjlz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je crois bien oui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

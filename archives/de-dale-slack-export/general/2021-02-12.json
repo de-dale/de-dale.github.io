@@ -1,0 +1,403 @@
+[
+    {
+        "client_msg_id": "36821fe5-9f9a-4b52-914e-5fe625e3369b",
+        "type": "message",
+        "text": "Y-a-t-il un Plop dans l'avion ?",
+        "user": "U0AA0KVLH",
+        "ts": "1613119531.001800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4oO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y-a-t-il un Plop dans l'avion ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d0d977c4-8612-4b3e-a670-821982d85f11",
+        "type": "message",
+        "text": "Jurassic Plop",
+        "user": "U0A48EDPD",
+        "ts": "1613120226.002100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AbHn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jurassic Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a0c24c3d-d9c1-4d51-b555-4fda7cdafb66",
+        "type": "message",
+        "text": "L'Armée des douze plops",
+        "user": "U0M8SF5CG",
+        "ts": "1613126064.002300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gcN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L'Armée des douze plops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "82c102e1-12cc-4ae0-8fd8-4aff345654b5",
+        "type": "message",
+        "text": "J'entends bcp parler de ça : <https:\/\/www.kickstarter.com\/projects\/lets-role\/lets-role-an-immersive-and-easy-to-use-virtual-tabletop?ref=section-games-view-more-discovery-p1>",
+        "user": "U0AA0KVLH",
+        "ts": "1613141151.002600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2IJo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'entends bcp parler de ça : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kickstarter.com\/projects\/lets-role\/lets-role-an-immersive-and-easy-to-use-virtual-tabletop?ref=section-games-view-more-discovery-p1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Kickstarter",
+                "title": "Let's Role - An immersive and Easy-to-use Virtual TableTop",
+                "title_link": "https:\/\/www.kickstarter.com\/projects\/lets-role\/lets-role-an-immersive-and-easy-to-use-virtual-tabletop?ref=section-games-view-more-discovery-p1",
+                "text": "Play any of your favourite TableTop RPGs directly in your browser, using pictures, pdfs, music, sfx and video.",
+                "fallback": "Kickstarter: Let's Role - An immersive and Easy-to-use Virtual TableTop",
+                "image_url": "https:\/\/ksr-ugc.imgix.net\/assets\/032\/308\/128\/665dfa675ff061e9aeb24655dabbe6bc_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1612862921&auto=format&frame=1&q=92&s=3e3c92a6b2c62eebedbfda8d574da670",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/www.kickstarter.com\/projects\/lets-role\/lets-role-an-immersive-and-easy-to-use-virtual-tabletop?ref=section-games-view-more-discovery-p1",
+                "image_bytes": 415908,
+                "service_icon": "https:\/\/www.kickstarter.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.kickstarter.com\/projects\/lets-role\/lets-role-an-immersive-and-easy-to-use-virtual-tabletop?ref=section-games-view-more-discovery-p1"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ff5e092-eda0-439d-9116-76e1b82d6036",
+        "type": "message",
+        "text": "Ca vous dit qqchose ?",
+        "user": "U0AA0KVLH",
+        "ts": "1613141155.002900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Afcx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca vous dit qqchose ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d4d6b350-e8f9-4e87-b733-18dd348a9b61",
+        "type": "message",
+        "text": "Il y a déjà d'autre truc du genre qui existe ça à quoi de plus ici?",
+        "user": "U0M8SF5CG",
+        "ts": "1613143125.003700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sNFz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il y a déjà d'autre truc du genre qui existe ça à quoi de plus ici?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a1f70ebc-9c0a-494c-b334-beea4c8057f0",
+        "type": "message",
+        "text": "c'est fait par des français et les gens ont l'air de l'apprécier",
+        "user": "U0AA0KVLH",
+        "ts": "1613145369.004000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z9yna",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est fait par des français et les gens ont l'air de l'apprécier"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b18707ca-0048-4128-8dc5-7908d0fa1fa6",
+        "type": "message",
+        "text": "et c'est fait par des français",
+        "user": "U0AA0KVLH",
+        "ts": "1613145377.004200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t=Qh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et c'est fait par des français"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1d15ade9-54bd-469f-8759-6af67deffc96",
+        "type": "message",
+        "text": "J'oubliais, c'est fait par des français",
+        "user": "U0AA0KVLH",
+        "ts": "1613145384.004500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c8dej",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'oubliais, c'est fait par des français"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4eaa9135-475a-480d-a369-b4a5cce1901b",
+        "type": "message",
+        "text": "Ah si, je crois avoir lu que la différence, c'est que c'est un achat unique alors que l'autre est un truc par abonnement",
+        "user": "U0AA0KVLH",
+        "ts": "1613145421.005100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fwvU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah si, je crois avoir lu que la différence, c'est que c'est un achat unique alors que l'autre est un truc par abonnement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

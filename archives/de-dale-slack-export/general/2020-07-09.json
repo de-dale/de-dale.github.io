@@ -1,0 +1,170 @@
+[
+    {
+        "client_msg_id": "8af9edb8-4f54-410f-bb50-f47daa6a98b5",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1594278582.025900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GkFD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "30ca630a-ccf8-4590-a1b3-924d97155b87",
+        "type": "message",
+        "text": "plop",
+        "user": "U0M8SF5CG",
+        "ts": "1594282878.026100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jUTa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "54874d1f-a72a-4525-9b66-2a5f0bffe186",
+        "type": "message",
+        "text": "<https:\/\/www.franceinter.fr\/emissions\/blockbusters\/blockbusters-08-juillet-2020?fbclid=IwAR3SxSi58zLmzfwRTVN_Rm9IscfcF6ZMnIxxZbGeAbUw8c6R1PNKyyw_Chs>",
+        "user": "U0AA0KVLH",
+        "ts": "1594306068.026300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C9o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.franceinter.fr\/emissions\/blockbusters\/blockbusters-08-juillet-2020?fbclid=IwAR3SxSi58zLmzfwRTVN_Rm9IscfcF6ZMnIxxZbGeAbUw8c6R1PNKyyw_Chs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "France Inter",
+                "title": "Donjons et dragons, deux D à jouer !",
+                "title_link": "https:\/\/www.franceinter.fr\/emissions\/blockbusters\/blockbusters-08-juillet-2020?fbclid=IwAR3SxSi58zLmzfwRTVN_Rm9IscfcF6ZMnIxxZbGeAbUw8c6R1PNKyyw_Chs",
+                "text": "Aujourd'hui, dans Blockbuster, on revient sur la création de Donjons et Dragons et sur les règles qui sous-tendent les jeux de rôle. La magie d’un jeu où l’imaginaire seul sert de contrainte...",
+                "fallback": "France Inter: Donjons et dragons, deux D à jouer !",
+                "image_url": "https:\/\/cdn.radiofrance.fr\/s3\/cruiser-production\/2020\/07\/469996fd-262d-4d58-9039-819ab38c76fa\/1200x680_gettyimages-1179178863.jpg",
+                "image_width": 441,
+                "image_height": 250,
+                "from_url": "https:\/\/www.franceinter.fr\/emissions\/blockbusters\/blockbusters-08-juillet-2020?fbclid=IwAR3SxSi58zLmzfwRTVN_Rm9IscfcF6ZMnIxxZbGeAbUw8c6R1PNKyyw_Chs",
+                "image_bytes": 85032,
+                "service_icon": "https:\/\/www.franceinter.fr\/img\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.franceinter.fr\/emissions\/blockbusters\/blockbusters-08-juillet-2020?fbclid=IwAR3SxSi58zLmzfwRTVN_Rm9IscfcF6ZMnIxxZbGeAbUw8c6R1PNKyyw_Chs"
+            }
+        ],
+        "thread_ts": "1594306068.026300",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1594798709.029800",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0AA0KVLH"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1594631868.028100"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1594644012.028600"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1594644020.028800"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1594733423.029200"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1594733445.029400"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1594798709.029800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1594798709.029800"
+    }
+]

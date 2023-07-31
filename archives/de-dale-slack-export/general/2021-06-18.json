@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "2f32c591-bfbb-434e-99b2-d0a5b6af050b",
+        "type": "message",
+        "text": "C'est le super gadget, où je me fais une feuille excele à imprimer :stuck_out_tongue:",
+        "user": "U0A48EDPD",
+        "ts": "1624014411.003500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PSUK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est le super gadget, où je me fais une feuille excele à imprimer "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fbee711d-cb44-41ef-931d-2693a06145fa",
+        "type": "message",
+        "text": "même si une feuille excele c'dest moins beau que leurs carnets",
+        "user": "U0A48EDPD",
+        "ts": "1624014420.003900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h7hTi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "même si une feuille excele c'dest moins beau que leurs carnets"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

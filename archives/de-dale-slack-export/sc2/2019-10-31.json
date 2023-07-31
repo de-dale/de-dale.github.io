@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "47822a9b-96db-4879-98ec-94c418cb8951",
+        "type": "message",
+        "text": "dernière nouvelles de l'ia : <https:\/\/deepmind.com\/blog\/article\/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning>",
+        "user": "U0M8SF5CG",
+        "ts": "1572547389.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=WdO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dernière nouvelles de l'ia : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/deepmind.com\/blog\/article\/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Deepmind",
+                "title": "AlphaStar: Grandmaster level in StarCraft II using multi-agent reinforcement learning",
+                "title_link": "https:\/\/deepmind.com\/blog\/article\/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning",
+                "text": "We research and build safe AI systems that learn how to solve problems and advance scientific discovery for all. Explore our work: <http:\/\/deepmind.com\/research|deepmind.com\/research>",
+                "fallback": "Deepmind: AlphaStar: Grandmaster level in StarCraft II using multi-agent reinforcement learning",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/OPMXAmT4DW-k-n_Zg3pt0NqrV6H08Nm5ok1-mrWr8vcrBQxRPk8jwY8Y_569yOwIwHpABtJS_morydjS86ABXEWt5g54fLoQT7M0_Ng",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/deepmind.com\/blog\/article\/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning",
+                "image_bytes": 26619,
+                "id": 1,
+                "original_url": "https:\/\/deepmind.com\/blog\/article\/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning"
+            }
+        ]
+    }
+]

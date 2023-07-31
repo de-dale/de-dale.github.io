@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "f4f39409-61a4-43ab-aa73-b22795109b90",
+        "type": "message",
+        "text": "<http:\/\/videos.ncrafts.io\/video\/275328050>",
+        "user": "U0A48EDPD",
+        "ts": "1529656187.000133",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2kGQZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/videos.ncrafts.io\/video\/275328050"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Vimeo",
+                "service_url": "https:\/\/vimeo.com\/",
+                "title": "Fighting the Invisible Enemy",
+                "title_link": "http:\/\/videos.ncrafts.io\/video\/275328050",
+                "author_name": "NEWCRAFTS Conferences",
+                "author_link": "https:\/\/vimeo.com\/newcrafts",
+                "thumb_url": "https:\/\/i.vimeocdn.com\/video\/707596710_200x150.jpg",
+                "thumb_width": 200,
+                "thumb_height": 150,
+                "text": "Do you ever feel like development work seems to involve a lot of waiting? Waiting for builds to finish. Waiting for your team members to complete the code you need. Waiting for testing to be completed? Waiting for other teams, or for approvals to happen? Sigh. Yawn. The typical approach is to try to make the coding more efficient or start new work. But what if all these wait-states are actually where we should be focusing our improvement efforts first? These invisible piles of unfinished work slow us down far more than we realize, sucking team productivity, and making everything take longer than it should.\n\nDon Reinertsen says, The enemy of flow is the invisible and unmeasured queues that undermine all aspects of product development performance, but how can we fight an invisible enemy? Most development teams remain blissfully unaware of the negative impact of these invisible queues on productivity, or how to deal with them effectively.\n\nThis talk focuses on demonstrating the presence and the negative impact of these invisible queues in the work of real teams. Task boards are great for helping teams visualize and coordinate their work, but they don't show the full picture. In this session, you’ll see a live demo of visualizing and troubleshooting team development queues as timelines with Flow. I can’t get you out of boring meetings, but I can help you reduce waste so you can spend more time doing the coding you love.",
+                "fallback": "Vimeo Video: Fighting the Invisible Enemy",
+                "from_url": "http:\/\/videos.ncrafts.io\/video\/275328050",
+                "service_icon": "http:\/\/i.vimeocdn.com\/favicon\/main-touch_180",
+                "id": 1,
+                "original_url": "http:\/\/videos.ncrafts.io\/video\/275328050"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

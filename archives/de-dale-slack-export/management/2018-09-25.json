@@ -1,0 +1,135 @@
+[
+    {
+        "client_msg_id": "7d7e988b-3647-4578-a14f-336812325247",
+        "type": "message",
+        "text": "Moi j'ai ces KPIs en tête :\nLa réactivité: délai entre une demande à l’IT et sa mise en production\nLa fluidité: délai entre la fin du développement et la mise en production (= nbre de jours de stocks)\nLa qualité: ratio du temps passé par les équipes de développement à corriger des anomalies ou à traiter des requêtes de support versus temps passé à développer de nouvelles fonctionnalités\nLa communication: nombre de passes d’une même demande au niveau des équipes de développement (capacité à faire bon du premier coup, grâce à une bonne qualité d’échange entre le métier et l’informatique)\nLa fiabilité : taux de défauts découverts en production sur volume de code produit\nLe progrès: questionner les clients par sondage “pensez-vous que vos besoins sont mieux pris en compte qu’il y a un an ?” ou “pensez-vous que la valeur apportée par vos outils logiciels va en s’améliorant ?”\nLe moral des équipes: mesuré par une météo du sprint (“quel temps faisait-il dans l’équipe ce sprint ci: ensoleillé, nuageux, pluvieux, orageux ?”)",
+        "user": "U0A48EDPD",
+        "ts": "1537869350.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J+N7U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moi j'ai ces KPIs en tête :\nLa réactivité: délai entre une demande à l’IT et sa mise en production\nLa fluidité: délai entre la fin du développement et la mise en production (= nbre de jours de stocks)\nLa qualité: ratio du temps passé par les équipes de développement à corriger des anomalies ou à traiter des requêtes de support versus temps passé à développer de nouvelles fonctionnalités\nLa communication: nombre de passes d’une même demande au niveau des équipes de développement (capacité à faire bon du premier coup, grâce à une bonne qualité d’échange entre le métier et l’informatique)\nLa fiabilité : taux de défauts découverts en production sur volume de code produit\nLe progrès: questionner les clients par sondage “pensez-vous que vos besoins sont mieux pris en compte qu’il y a un an ?” ou “pensez-vous que la valeur apportée par vos outils logiciels va en s’améliorant ?”\nLe moral des équipes: mesuré par une météo du sprint (“quel temps faisait-il dans l’équipe ce sprint ci: ensoleillé, nuageux, pluvieux, orageux ?”)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c07501c7-a89a-4938-9d45-60aaf540a6ce",
+        "type": "message",
+        "text": "Je suis en train de faire un doc de présentation sur le sujet :stuck_out_tongue:",
+        "user": "U0A48EDPD",
+        "ts": "1537870110.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=uUxY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis en train de faire un doc de présentation sur le sujet "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e90ed26c-360c-429d-ba79-68bb617069a6",
+        "type": "message",
+        "text": "Je pensais que la qualité c'était le nombre de WTF dans un code review ? :smile: ",
+        "user": "U0DSEQH9S",
+        "ts": "1537909840.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CHS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je pensais que la qualité c'était le nombre de WTF dans un code review ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

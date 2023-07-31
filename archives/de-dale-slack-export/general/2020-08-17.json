@@ -1,0 +1,125 @@
+[
+    {
+        "client_msg_id": "5705a853-69ca-4850-b205-f02b74d54ac7",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0A48EDPD",
+        "ts": "1597672701.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+WRt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "485808eb-cf4a-4321-8540-08388dc2834a",
+        "type": "message",
+        "text": "<@U0A9S1HCJ> pas dispo jusqu'au 31",
+        "user": "U0A48EDPD",
+        "ts": "1597672715.000700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cckw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A9S1HCJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pas dispo jusqu'au 31"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "50c5dc7b-a2ec-42da-9200-807079847d68",
+        "type": "message",
+        "text": "Mais si tu veux peaufiner ton Gnome, c'est possible :stuck_out_tongue_closed_eyes:",
+        "user": "U0A48EDPD",
+        "ts": "1597672774.001700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bZ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mais si tu veux peaufiner ton Gnome, c'est possible "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue_closed_eyes",
+                                "unicode": "1f61d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0H2X7X4Z",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "user": "U0DTHMU81",
+        "display_as_bot": false,
+        "ts": "1450651386.000005"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U0DTHMU81> pinned ’s File  to this channel.",
+        "user": "U0DTHMU81",
+        "item_type": "F",
+        "item": {
+            "id": "F0H2X7X4Z",
+            "created": 1450651386,
+            "timestamp": 1450651386,
+            "user": "U0DTHMU81",
+            "is_hidden_by_limit": 1
+        },
+        "ts": "1450651403.000006"
+    }
+]

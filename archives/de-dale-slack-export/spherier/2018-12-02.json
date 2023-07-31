@@ -1,0 +1,159 @@
+[
+    {
+        "client_msg_id": "132ec942-ab30-43a4-8bb4-11773f602b0b",
+        "type": "message",
+        "text": "Note de clément : pas maîtrise de l'initiative si aléatoire... dommzge",
+        "user": "U0A48EDPD",
+        "ts": "1543771413.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2f43",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Note de clément : pas maîtrise de l'initiative si aléatoire... dommzge"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1159eddf-20ce-4f0c-8b60-a2cb7974b97c",
+        "type": "message",
+        "text": "Note de moi : proposer des manières de contrôler\/prévoir l'aléatoire.\nEx: faire différents decks avec des priorités (Init 1, Init 2, etc.) Et tirer aléatoirement dans les decks par ordre croissant.\nEx: avoir une capa permettant de mettre sa carte au dessus du deck. Avoir une capa permettant de trier tout ou partie du deck.",
+        "user": "U0A48EDPD",
+        "ts": "1543771653.006100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Wr4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Note de moi : proposer des manières de contrôler\/prévoir l'aléatoire.\nEx: faire différents decks avec des priorités (Init 1, Init 2, etc.) Et tirer aléatoirement dans les decks par ordre croissant.\nEx: avoir une capa permettant de mettre sa carte au dessus du deck. Avoir une capa permettant de trier tout ou partie du deck."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1543771653.006100",
+        "reply_count": 17,
+        "reply_users_count": 2,
+        "latest_reply": "1546252811.009800",
+        "reply_users": [
+            "U0DTHMU81",
+            "U0A48EDPD"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546188092.001300"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546248234.002100"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546248546.002600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546248745.002800"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546248776.003000"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546248787.003200"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546248814.003400"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546248823.003600"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546248840.003800"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546248870.004200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546248918.004400"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546249646.006200"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546252687.009000"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546252741.009200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546252756.009400"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546252807.009600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546252811.009800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1546252811.009800"
+    }
+]

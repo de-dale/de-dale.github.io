@@ -1,0 +1,481 @@
+[
+    {
+        "client_msg_id": "02002386-d227-4d10-930f-15cc9387049c",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1603783927.011200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pWtA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "52d5371e-c3bf-46f7-882e-291145616990",
+        "type": "message",
+        "text": "Je découvre ça :\n&gt; Les rassemblements, réunions ou activités *sur la voie publique ou dans un lieu ouvert au public* autres que ceux mentionnés au II mettant en présence de manière simultanée plus de six personnes sont interdits.",
+        "user": "U0A48EDPD",
+        "ts": "1603784075.011700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7elgV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je découvre ça :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les rassemblements, réunions ou activités "
+                            },
+                            {
+                                "type": "text",
+                                "text": "sur la voie publique ou dans un lieu ouvert au public",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " autres que ceux mentionnés au II mettant en présence de manière simultanée plus de six personnes sont interdits."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1603784090.000000"
+        }
+    },
+    {
+        "client_msg_id": "5988b3e1-1f10-4474-91b6-c37776246f39",
+        "type": "message",
+        "text": "Noël est sauvé",
+        "user": "U0A48EDPD",
+        "ts": "1603784097.012100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eUg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Noël est sauvé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "830f6cb4-3b35-43a4-b70d-78daa6a38595",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1603792768.012300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nZUn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "41f70226-138a-40d8-80b9-fc75176f21b7",
+        "type": "message",
+        "text": "Tu veux voir ma consultation sur la question des rassemblement privées ?",
+        "user": "U0AA0KVLH",
+        "ts": "1603792783.012700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Qs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu veux voir ma consultation sur la question des rassemblement privées ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c27f03ef-98a2-4912-8612-8b1933aa4137",
+        "type": "message",
+        "text": "c'était dans le cadre des Assemblées générales de copropriété mais ca peut s'appliquer à d'autres réunions privées.",
+        "user": "U0AA0KVLH",
+        "ts": "1603792805.013200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ylMx2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'était dans le cadre des Assemblées générales de copropriété mais ca peut s'appliquer à d'autres réunions privées."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "66f71e57-46e6-49de-b4b3-d43cecf9749a",
+        "type": "message",
+        "text": "Sinon je te fais un résumé en deux lignes",
+        "user": "U0AA0KVLH",
+        "ts": "1603792812.013500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WNZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sinon je te fais un résumé en deux lignes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "me_message",
+        "text": "Naveed qui s'est tapé la lecture d'une partie du décret",
+        "user": "U0AA0KVLH",
+        "ts": "1603792831.013600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mBHvQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Naveed qui s'est tapé la lecture d'une partie du décret"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U0AA0KVLH",
+            "ts": "1603792842.000000"
+        }
+    },
+    {
+        "client_msg_id": "f1cdf884-8aac-41da-9019-2b0d16cf5d61",
+        "type": "message",
+        "text": "J'achete le résumé de 2 lignes :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1603798622.014200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f\/aI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'achete le résumé de 2 lignes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e19587a3-7b09-4f4c-849c-5b5fb5c4a35d",
+        "type": "message",
+        "text": "L'Etat ne peut pas réglementer ce qu'il se passe chez toi, c'est protégé par la vie privée donc il règlement que les lieux publics ou les lieux ouvert au public",
+        "user": "U0AA0KVLH",
+        "ts": "1603799844.015000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/5oE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L'Etat ne peut pas réglementer ce qu'il se passe chez toi, c'est protégé par la vie privée donc il règlement que les lieux publics ou les lieux ouvert au public"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f521bebf-b9b1-4266-8f6b-10714c9ab76a",
+        "type": "message",
+        "text": "Donc du moment que ca se passe chez toi, dans un lieu privé, tu es libre de faire ce que tu veux.",
+        "user": "U0AA0KVLH",
+        "ts": "1603799888.015900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GNCR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Donc du moment que ca se passe chez toi, dans un lieu privé, tu es libre de faire ce que tu veux."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7a4231b1-f29a-4d5e-89f8-03acfac44cc1",
+        "type": "message",
+        "text": "Il n'y a qu'une limite que j'ai trouvé : pas plus de 5000€ même dans un lieu privé (ca devrait le faire pour noël)",
+        "user": "U0AA0KVLH",
+        "ts": "1603799932.016600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YKh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il n'y a qu'une limite que j'ai trouvé : pas plus de 5000€ même dans un lieu privé (ca devrait le faire pour noël)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0AA0KVLH",
+            "ts": "1603799940.000000"
+        }
+    }
+]

@@ -1,0 +1,835 @@
+[
+    {
+        "client_msg_id": "000dca87-ef8c-40b9-8e22-5774c5def617",
+        "type": "message",
+        "text": "<@U0DTHMU81> dans ton système d'initiative ping-pong. Tu as deux phases:\n- l'action (le ping) où l'équipe qui a l'initiative joue\n- la réponse (le pong)  où l'autre équipe prends l'initiative\nEst ce que, selon toi, ce système permet de faire des \"attaques d'opportunités\" (ou équivalent) ?\nJ'ai l'impression qu'il manque un truc pour le faire.",
+        "user": "U0A48EDPD",
+        "ts": "1557468687.006300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c0s8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0DTHMU81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " dans ton système d'initiative ping-pong. Tu as deux phases:\n- l'action (le ping) où l'équipe qui a l'initiative joue\n- la réponse (le pong)  où l'autre équipe prends l'initiative\nEst ce que, selon toi, ce système permet de faire des \"attaques d'opportunités\" (ou équivalent) ?\nJ'ai l'impression qu'il manque un truc pour le faire."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "710c7dfc-4455-4e1a-aeb4-23e485bfeab5",
+        "type": "message",
+        "text": "Je vois plusieurs possibilités :\n1. pas d'attaque d'opportunité\n2. opportunités donne un bonus sur des actions lors du pong\n3. ajout d'un système permettant de s'intercaler n'importe quand",
+        "user": "U0A48EDPD",
+        "ts": "1557468806.009600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JY33u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vois plusieurs possibilités :\n1. pas d'attaque d'opportunité\n2. opportunités donne un bonus sur des actions lors du pong\n3. ajout d'un système permettant de s'intercaler n'importe quand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1557468937.000000"
+        }
+    },
+    {
+        "client_msg_id": "adcf5234-bb5a-43fc-851a-8b9d542545c5",
+        "type": "message",
+        "text": "Naïvement, je partais sur l'option 3. Mais en fait, c'est chiant car ça rajoute de la complexité superflue",
+        "user": "U0A48EDPD",
+        "ts": "1557468875.011600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bOxG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Naïvement, je partais sur l'option 3. Mais en fait, c'est chiant car ça rajoute de la complexité superflue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6ba176f7-3b90-4870-9c4d-e55ebcffe892",
+        "type": "message",
+        "text": "On me pose pas la question mais : comment tu gererais un contresort?",
+        "user": "U0AA0KVLH",
+        "ts": "1557468975.013000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kby+c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On me pose pas la question mais : comment tu gererais un contresort?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b5b54e6b-a6a9-4643-9e6a-825166ec4257",
+        "type": "message",
+        "text": "Une question dans une canal est adressé à toute le monde ^^",
+        "user": "U0A48EDPD",
+        "ts": "1557469450.014200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WMhzw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une question dans une canal est adressé à toute le monde ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ddd100d9-b3c8-41de-a186-fe674c3ade59",
+        "type": "message",
+        "text": "Le contresort, comme pour \"préparer son action\" ; j'ai le même problème qu'avec l'attaque d'opportunité ^^",
+        "user": "U0A48EDPD",
+        "ts": "1557469526.015300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sa8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le contresort, comme pour \"préparer son action\" ; j'ai le même problème qu'avec l'attaque d'opportunité ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9e32c753-136a-4ed4-8a2d-c735d44072e3",
+        "type": "message",
+        "text": "Comment mettre en place un événement permettant de déclencher une action, hors du flot normal de l'initaitive",
+        "user": "U0A48EDPD",
+        "ts": "1557469567.016100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RiFrM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Comment mettre en place un événement permettant de déclencher une action, hors du flot normal de l'initaitive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "66170a32-3202-43dc-93fe-909407d6f0e6",
+        "type": "message",
+        "text": "un seul contresort, c'est gérable, mais quand tu en a plusieurs à gérer en même temps, ça devient le bazar.",
+        "user": "U0A48EDPD",
+        "ts": "1557469606.016800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qy9x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "un seul contresort, c'est gérable, mais quand tu en a plusieurs à gérer en même temps, ça devient le bazar."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "75f96a48-7070-4799-8383-e3a71f6242f8",
+        "type": "message",
+        "text": "Tu as un systeme de réaction? Si oui ca tombe dedans",
+        "user": "U0DTHMU81",
+        "ts": "1557470537.018000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DTKz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu as un systeme de réaction? Si oui ca tombe dedans"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9467036e-615d-4bbf-ad80-dfebdb12db2b",
+        "type": "message",
+        "text": "C'est l'objet de ma question en fait...",
+        "user": "U0A48EDPD",
+        "ts": "1557470551.018300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SI\/M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est l'objet de ma question en fait..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1557470558.000000"
+        }
+    },
+    {
+        "client_msg_id": "904b45ba-ada2-44b3-9adc-7be51ce562cc",
+        "type": "message",
+        "text": "Est-ce que le système de réaction, ça ne fait pas doublon\/usine à gaz par rapport au ping-poing",
+        "user": "U0A48EDPD",
+        "ts": "1557470595.020100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Gq=+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est-ce que le système de réaction, ça ne fait pas doublon\/usine à gaz par rapport au ping-poing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cf7a92bd-4548-47f4-bd96-0592ff04b584",
+        "type": "message",
+        "text": "Question @nav: Est-ce que les contresort ça existe toujours à Magic ? Si oui, comment c'est géré ?",
+        "user": "U0A48EDPD",
+        "ts": "1557470756.021300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8nYm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Question @nav: Est-ce que les contresort ça existe toujours à Magic ? Si oui, comment c'est géré ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "35a84270-22fa-4692-844c-a6172ff01b28",
+        "type": "message",
+        "text": "Réaction et préparer son action ne sont pas la meme chose. Le premier agit après la résolution d'une action l'autre avant.",
+        "user": "U0DTHMU81",
+        "ts": "1557470852.022300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P8jK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Réaction et préparer son action ne sont pas la meme chose. Le premier agit après la résolution d'une action l'autre avant."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ee1a63b0-a6ae-47d9-8584-6651ffeddd59",
+        "type": "message",
+        "text": "Oui ca existe. C'est géré comme tout éphémère.",
+        "user": "U0DTHMU81",
+        "ts": "1557470880.023100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C++M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui ca existe. C'est géré comme tout éphémère."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "56fbd210-6e3b-457f-8c11-f00deb3e98fa",
+        "type": "message",
+        "text": "C'est même toujours un mécanisme fondamental",
+        "user": "U0AA0KVLH",
+        "ts": "1557470935.024100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O7qd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est même toujours un mécanisme fondamental"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DTHMU81",
+                    "U0A48EDPD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42e8dd39-77dc-480e-a69d-75516cad3a71",
+        "type": "message",
+        "text": "Pour ton problème. Il faut séparer les 2.",
+        "user": "U0DTHMU81",
+        "ts": "1557470951.024900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4T7hM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour ton problème. Il faut séparer les 2."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "96853817-a795-41f2-86c5-015ccb976581",
+        "type": "message",
+        "text": "Ils ont juste nerfé le coût du contresort de base",
+        "user": "U0AA0KVLH",
+        "ts": "1557470955.025100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2h2X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ils ont juste nerfé le coût du contresort de base"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "43621ca0-bcad-40be-afd3-6f2040d88bb7",
+        "type": "message",
+        "text": "Préparer son action : idem que de base. Le joueur mise X cartes actions et donne le déclencheur. Tant que le déclencheur ne s'est pas produit il ne peut pas jouer ou perds sa préparation. Lorsque le déclencheur se produit, le joueur joue et fait les actions préparées.",
+        "user": "U0DTHMU81",
+        "ts": "1557471129.029900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D15aC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Préparer son action : idem que de base. Le joueur mise X cartes actions et donne le déclencheur. Tant que le déclencheur ne s'est pas produit il ne peut pas jouer ou perds sa préparation. Lorsque le déclencheur se produit, le joueur joue et fait les actions préparées."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DTHMU81",
+            "ts": "1557471619.000000"
+        }
+    },
+    {
+        "client_msg_id": "47f8f9bd-481b-428c-a337-a80097261823",
+        "type": "message",
+        "text": "Cela peut intervenir durant l'action d'un autre.",
+        "user": "U0DTHMU81",
+        "ts": "1557471150.030800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=No",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cela peut intervenir durant l'action d'un autre."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5b3bcf2f-266d-460a-ad69-e331b8cf2ef6",
+        "type": "message",
+        "text": "Pas de nouveau système, juste un interrupt puissant mais coûteux.",
+        "user": "U0DTHMU81",
+        "ts": "1557471183.031700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wq\/+R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas de nouveau système, juste un interrupt puissant mais coûteux."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f577400c-7dd6-476c-929e-68a65244ce54",
+        "type": "message",
+        "text": "Réaction : Plus touchy. A cause notamment des actions faisant plusieurs choses, comme se déplacer (bouger de X cases)",
+        "user": "U0DTHMU81",
+        "ts": "1557471582.039700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k9a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Réaction : Plus touchy. A cause notamment des actions faisant plusieurs choses, comme se déplacer (bouger de X cases)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "ad7062c8-a058-4918-8df3-76071643c97e",
+        "type": "message",
+        "text": "il semble qu'alphstar ait été trouvé <https:\/\/www.reddit.com\/r\/starcraft\/comments\/cgvu6r\/i_played_against_alphastardeepmind\/>",
+        "user": "U0M8SF5CG",
+        "ts": "1563986633.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c+HV9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "il semble qu'alphstar ait été trouvé "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/starcraft\/comments\/cgvu6r\/i_played_against_alphastardeepmind\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "r\/starcraft - I played against AlphaStar\/Deepmind",
+                "title_link": "https:\/\/www.reddit.com\/r\/starcraft\/comments\/cgvu6r\/i_played_against_alphastardeepmind\/",
+                "text": "302 votes and 134 comments so far on Reddit",
+                "fallback": "reddit: r\/starcraft - I played against AlphaStar\/Deepmind",
+                "thumb_url": "https:\/\/external-preview.redd.it\/8fo9_cTtejflbhQ8r8HcyiSDq7J_6v-aRCf2HdUcPiI.jpg?auto=webp&s=37230c5025cf53d8946fd7ceb28ffeb35b235526",
+                "from_url": "https:\/\/www.reddit.com\/r\/starcraft\/comments\/cgvu6r\/i_played_against_alphastardeepmind\/",
+                "thumb_width": 493,
+                "thumb_height": 67,
+                "service_icon": "https:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/starcraft\/comments\/cgvu6r\/i_played_against_alphastardeepmind\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57b5912f-f21c-4efd-a02d-6641ae55c4cb",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1564035319.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zufdw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

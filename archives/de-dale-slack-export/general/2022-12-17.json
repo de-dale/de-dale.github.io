@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "a59395ee-6037-4ad1-bcd2-b023ac176097",
+        "type": "message",
+        "text": "Il cherche à copier le concept de nos superheros? <https:\/\/static1.ozap.com\/articles\/1\/50\/77\/41\/@\/4529516-jacques-chirac-en-supermenteur-opengraph_1200-1.jpg>",
+        "user": "U0M8SF5CG",
+        "ts": "1671296085.649329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rjz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il cherche à copier le concept de nos superheros? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/static1.ozap.com\/articles\/1\/50\/77\/41\/@\/4529516-jacques-chirac-en-supermenteur-opengraph_1200-1.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/static1.ozap.com\/articles\/1\/50\/77\/41\/@\/4529516-jacques-chirac-en-supermenteur-opengraph_1200-1.jpg",
+                "image_url": "https:\/\/static1.ozap.com\/articles\/1\/50\/77\/41\/@\/4529516-jacques-chirac-en-supermenteur-opengraph_1200-1.jpg",
+                "image_width": 1200,
+                "image_height": 630,
+                "image_bytes": 49833,
+                "id": 1,
+                "original_url": "https:\/\/static1.ozap.com\/articles\/1\/50\/77\/41\/@\/4529516-jacques-chirac-en-supermenteur-opengraph_1200-1.jpg",
+                "fallback": "1200x630px image"
+            }
+        ]
+    }
+]

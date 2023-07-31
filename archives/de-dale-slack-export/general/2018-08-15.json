@@ -1,0 +1,86 @@
+[
+    {
+        "type": "message",
+        "text": "Classique.",
+        "files": [
+            {
+                "id": "FC8UN2WAG",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "user": "U0DSEQH9S",
+        "display_as_bot": false,
+        "ts": "1534354577.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Am5R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Classique."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0d796e6-6a9b-4576-9a75-a3463ce0bb5f",
+        "type": "message",
+        "text": "Pas mal :face_with_rolling_eyes:",
+        "user": "U0A48EDPD",
+        "ts": "1534358767.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fVnw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas mal "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_rolling_eyes",
+                                "unicode": "1f644"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "dusty_stick",
+                "users": [
+                    "U0DSEQH9S",
+                    "U5ETCTF7V"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

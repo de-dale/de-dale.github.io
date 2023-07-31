@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "a1012e5b-1fe7-4c35-b0cd-c09299f3a6c1",
+        "type": "message",
+        "text": "Yep ^^ J'en parle, parce que j'ai vu l'épisode du JdG :stuck_out_tongue:",
+        "user": "U0A48EDPD",
+        "ts": "1654585436.599139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cfo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep ^^ J'en parle, parce que j'ai vu l'épisode du JdG "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f90f1883-a01c-461c-8a89-6e052dda88e1",
+        "type": "message",
+        "text": "C'est marrant mais ya des trucs bizarres (déjà il oublie de préciser que c'est un classement pour les Royaumes Oubliées)",
+        "user": "U0AA0KVLH",
+        "ts": "1654614124.803929",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Ze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est marrant mais ya des trucs bizarres (déjà il oublie de préciser que c'est un classement pour les Royaumes Oubliées)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

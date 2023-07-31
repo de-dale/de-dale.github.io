@@ -1,0 +1,1377 @@
+[
+    {
+        "client_msg_id": "cd62cd96-5d65-4ff9-bfb4-47bd49502a3f",
+        "type": "message",
+        "text": "Tiens je pensais avoir répondu",
+        "user": "U0AA0KVLH",
+        "ts": "1547194079.034500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kw1=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tiens je pensais avoir répondu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4b363e00-d705-49a6-b337-48ecb9a5803f",
+        "type": "message",
+        "text": "bizare",
+        "user": "U0AA0KVLH",
+        "ts": "1547194082.034700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yolt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bizare"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8f88cc36-580a-46ea-9f4d-56fac9932b9d",
+        "type": "message",
+        "text": "Je disais que je pense qu'un aventurier qui est capable d'abattre un dragon doit pouvoir savoir grimper sans magie",
+        "user": "U0AA0KVLH",
+        "ts": "1547194102.035200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lXqXU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je disais que je pense qu'un aventurier qui est capable d'abattre un dragon doit pouvoir savoir grimper sans magie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "expressionless",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52f8da3a-ddb0-4c0b-b91d-bf39cefdcd0f",
+        "type": "message",
+        "text": "En l'espèce ca me parait difficile",
+        "user": "U0AA0KVLH",
+        "ts": "1547194113.035500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C0WY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En l'espèce ca me parait difficile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2e3d6969-9146-439b-aa45-ec72eef80392",
+        "type": "message",
+        "text": "Il me semble qu'il faudrait dire que le grimpeur peut sacrifier autant de case de déplacement (6 max je crois) pour obtenir à chaque fois un dé. Donc pour une case de grimpette, il a 6D6 mais ne monte que d'une case : il est prudent et avance lentement, si il veut être plus rapide, il prend plus de risque. Rien n'empêche le MJ de fixer la difficiulté de la grimpette en demander un certain nombre de réussite.",
+        "user": "U0AA0KVLH",
+        "ts": "1547194213.037500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DOY8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il me semble qu'il faudrait dire que le grimpeur peut sacrifier autant de case de déplacement (6 max je crois) pour obtenir à chaque fois un dé. Donc pour une case de grimpette, il a 6D6 mais ne monte que d'une case : il est prudent et avance lentement, si il veut être plus rapide, il prend plus de risque. Rien n'empêche le MJ de fixer la difficiulté de la grimpette en demander un certain nombre de réussite."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "reply_count": 26,
+        "reply_users_count": 3,
+        "latest_reply": "1547227273.042800",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0AA0KVLH",
+            "U0DTHMU81"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1547223991.037600"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1547224083.037800"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1547224524.038100"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1547224530.038300"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1547224533.038500"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1547224692.038700"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1547224954.038900"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1547224961.039100"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1547225231.039300"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1547225341.039500"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1547225422.039700"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1547225753.039900"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547226014.040100"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547226046.040300"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547226097.040500"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547226115.040700"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547226129.040900"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547226226.041200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547226251.041400"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547226275.041600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547226357.041800"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547226406.042000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547226472.042200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547226552.042400"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1547226595.042600"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1547227273.042800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1547228414.000791"
+    },
+    {
+        "client_msg_id": "a3513ee0-9933-4e5a-8e08-7fffc8812cc0",
+        "type": "message",
+        "text": "&gt; Il dépense 1 case de déplacement, et lance 1d6. En cas de réussite, son déplacement se passe correctement. En cas d'échec, il peut recommencer.\nEn quoi est ce que ça diffère de ça? Outre le fait qu'il sacrifie tout son déplacement d'un coup?",
+        "user": "U0A48EDPD",
+        "ts": "1547223991.037600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mYy",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il dépense 1 case de déplacement, et lance 1d6. En cas de réussite, son déplacement se passe correctement. En cas d'échec, il peut recommencer."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En quoi est ce que ça diffère de ça? Outre le fait qu'il sacrifie tout son déplacement d'un coup?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "7fd496ab-c884-44f0-9297-e8d2eeab3465",
+        "type": "message",
+        "text": "Après, j'aime bien dans ton idée de donner la possibilité au joueur de choisir son bonus. \nSurtout que ça permet de scaler la capacité pour le d20 aussi. ",
+        "user": "U0A48EDPD",
+        "ts": "1547224083.037800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kpu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Après, j'aime bien dans ton idée de donner la possibilité au joueur de choisir son bonus. \nSurtout que ça permet de scaler la capacité pour le d20 aussi."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "3145a754-41ce-4f72-aa18-5ee21ff0a5a9",
+        "type": "message",
+        "text": "Dans ce que j'ai compris de ton système c'est : je sacrifie une case, je lance 1 dé. Echec, je recommence. Là je peut sacrifie toute de suite 3 pour me dire : je perds trois cases mais je suis sûr de passer",
+        "user": "U0AA0KVLH",
+        "ts": "1547224524.038100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5E3o=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dans ce que j'ai compris de ton système c'est : je sacrifie une case, je lance 1 dé. Echec, je recommence. Là je peut sacrifie toute de suite 3 pour me dire : je perds trois cases mais je suis sûr de passer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "455bde59-81e2-4485-ab8a-593705c1ac61",
+        "type": "message",
+        "text": "Parce que je lance 3 dés",
+        "user": "U0AA0KVLH",
+        "ts": "1547224530.038300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sOxy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Parce que je lance 3 dés"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "17a9d18b-4f81-4a67-ade2-94d03a794815",
+        "type": "message",
+        "text": "Si c'était ta question",
+        "user": "U0AA0KVLH",
+        "ts": "1547224533.038500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cn5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si c'était ta question"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "26261945-bbdd-4b0f-8635-5ee357eebd12",
+        "type": "message",
+        "text": "Certes, mais je ne vois pas là différence :expressionless:",
+        "user": "U0A48EDPD",
+        "ts": "1547224692.038700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vI5k\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Certes, mais je ne vois pas là différence "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "expressionless",
+                                "unicode": "1f611"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "52833da8-253e-43ec-be02-c02c47cf1cf8",
+        "type": "message",
+        "text": "entre lancé trois fois 1D6 ou une fois 3D6 ?",
+        "user": "U0AA0KVLH",
+        "ts": "1547224954.038900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zp75i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "entre lancé trois fois 1D6 ou une fois 3D6 ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "6b02056c-6359-43d9-8213-2e1c3474747d",
+        "type": "message",
+        "text": "les probas sont-elles les mêmes ?",
+        "user": "U0AA0KVLH",
+        "ts": "1547224961.039100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BN5\/x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "les probas sont-elles les mêmes ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "de78b30f-41f5-4912-9d6c-d633d93ec30a",
+        "type": "message",
+        "text": "Pour faire 1 succès? Je pense que ou. C'est même avantageux de faire 3x1d6, car tu peux t'arrêter plus tôt. ",
+        "user": "U0A48EDPD",
+        "ts": "1547225231.039300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IYL=J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour faire 1 succès? Je pense que ou. C'est même avantageux de faire 3x1d6, car tu peux t'arrêter plus tôt."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "6e309685-d251-4c46-af5e-5736233bbae4",
+        "type": "message",
+        "text": "Par contre, là où ça peut jouer, c'est pour le d20. 3d20 vs 1d20+4, quel est le plus avantageux?",
+        "user": "U0A48EDPD",
+        "ts": "1547225341.039500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2gfx+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Par contre, là où ça peut jouer, c'est pour le d20. 3d20 vs 1d20+4, quel est le plus avantageux?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "5150c71a-91f3-4d69-b057-c0abd7aff758",
+        "type": "message",
+        "text": "(Partant du principe que chaque case, c'est soit 1d20, soit un +2 (Le +2 venant si on sacrifie plusieurs cases d'un coup, d'où mon linge pour ta proposition))",
+        "user": "U0A48EDPD",
+        "ts": "1547225422.039700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aNmF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Partant du principe que chaque case, c'est soit 1d20, soit un +2 (Le +2 venant si on sacrifie plusieurs cases d'un coup, d'où mon linge pour ta proposition))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "cdb058b0-8376-4698-bba5-13b2b5a59ec9",
+        "type": "message",
+        "text": "Après, pour moi, escalader quelque chose, ça rentre dans le cas d'un test étendu. Cest quelque chose que tu ne peux pas faire en une seule action. Et même un aventurier qui terrasse un dragon peut ne pas réussir à escalader les rochers à fontainebleau.",
+        "user": "U0A48EDPD",
+        "ts": "1547225753.039900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uWQt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Après, pour moi, escalader quelque chose, ça rentre dans le cas d'un test étendu. Cest quelque chose que tu ne peux pas faire en une seule action. Et même un aventurier qui terrasse un dragon peut ne pas réussir à escalader les rochers à fontainebleau."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "ff0eab45-2f40-4dad-8423-5ead4d325f00",
+        "type": "message",
+        "text": "entre 3d20 et 1d20+4 la question c'est le DD",
+        "user": "U0DTHMU81",
+        "ts": "1547226014.040100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2M6ej",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "entre 3d20 et 1d20+4 la question c'est le DD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "b490a8bc-ce86-450c-a504-a09ca0808c3b",
+        "type": "message",
+        "text": "ou plutot les proba initiales de réussite",
+        "user": "U0DTHMU81",
+        "ts": "1547226046.040300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1YDIv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ou plutot les proba initiales de réussite"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "d60d12cb-48bc-4aca-b2d4-db58df0821f6",
+        "type": "message",
+        "text": "si sur 1d20 tu as 50% de réussite, sur 2 tu auras 75% et sur 3 87.5%",
+        "user": "U0DTHMU81",
+        "ts": "1547226097.040500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "273",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si sur 1d20 tu as 50% de réussite, sur 2 tu auras 75% et sur 3 87.5%"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "669d34e2-fb48-4022-a537-0ca3e52eae88",
+        "type": "message",
+        "text": "soit l'équivalent d'un +5 puis d'un +3 environ",
+        "user": "U0DTHMU81",
+        "ts": "1547226115.040700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O2hjH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "soit l'équivalent d'un +5 puis d'un +3 environ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "5a5ab569-c502-4d44-a51e-eb0e419c4cfe",
+        "type": "message",
+        "text": "(+1 valant +5% flat)",
+        "user": "U0DTHMU81",
+        "ts": "1547226129.040900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BTkY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(+1 valant +5% flat)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DTHMU81",
+            "ts": "1547226136.000000"
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "36742b3c-541d-4cc2-be06-bc2d46b8e8e0",
+        "type": "message",
+        "text": "par contre si tu as 10% de réussite, 2d20 seront bien moins intéressants",
+        "user": "U0DTHMU81",
+        "ts": "1547226226.041200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mG+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "par contre si tu as 10% de réussite, 2d20 seront bien moins intéressants"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "5b1c9401-51fa-42e1-8a24-1c78a68b345b",
+        "type": "message",
+        "text": "en fait, la valeur max de +1d20 c'est l'équivalent d'un +5 quand tu es à 50%",
+        "user": "U0DTHMU81",
+        "ts": "1547226251.041400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dUn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en fait, la valeur max de +1d20 c'est l'équivalent d'un +5 quand tu es à 50%"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "cecf597a-9c5d-47dc-b31c-1a9cf23a34b2",
+        "type": "message",
+        "text": "plus tu t'éloignes des 50% plus c'est faible",
+        "user": "U0DTHMU81",
+        "ts": "1547226275.041600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WqZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plus tu t'éloignes des 50% plus c'est faible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "32404e21-3bd5-40ee-a389-f808daf3bf35",
+        "type": "message",
+        "text": "Si tes joueurs ont plutot du 75% d'échec ou de réussite, les +X seront plus fort en général",
+        "user": "U0DTHMU81",
+        "ts": "1547226357.041800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RbrPl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si tes joueurs ont plutot du 75% d'échec ou de réussite, les +X seront plus fort en général"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "3e35edbe-aeaa-4bc5-a14f-d14e009cc114",
+        "type": "message",
+        "text": "et stacker trop de dés est peu utile (effet multiplicatif) alors que bcp de +X est fort (effet additif)",
+        "user": "U0DTHMU81",
+        "ts": "1547226406.042000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Lk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et stacker trop de dés est peu utile (effet multiplicatif) alors que bcp de +X est fort (effet additif)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "06e9360a-c0df-4d99-8dd8-d77e4f8c8fc5",
+        "type": "message",
+        "text": "pour en revenir à la question du déplacement : s'il n'y a pas de risque, il n'y a pas besoin de lancer de dé en fait",
+        "user": "U0DTHMU81",
+        "ts": "1547226472.042200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pth",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pour en revenir à la question du déplacement : s'il n'y a pas de risque, il n'y a pas besoin de lancer de dé en fait"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "9e4d9ede-798a-4f60-b2b6-7060d6fd63b4",
+        "type": "message",
+        "text": "et si le but c'est d'attendre que le PJ fasse 0 réussite sur 6 dés, bof....",
+        "user": "U0DTHMU81",
+        "ts": "1547226552.042400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0n6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et si le but c'est d'attendre que le PJ fasse 0 réussite sur 6 dés, bof...."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "c4885395-d2af-4570-bb57-8438c755239d",
+        "type": "message",
+        "text": "Le système est bien en temps contraint (perdre du temps pour augmenter ses chances) et devient plus profond si 1 échec fait reculer",
+        "user": "U0DTHMU81",
+        "ts": "1547226595.042600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3CMZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le système est bien en temps contraint (perdre du temps pour augmenter ses chances) et devient plus profond si 1 échec fait reculer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "7dd30370-b1f1-4b3f-83c3-40c3cc0e941b",
+        "type": "message",
+        "text": "Pour revenir sur le D6, le truc avec le système là, c'est qu'avec une réussite, tu peux tout grimper. Il est aussi facile de grimper les rochers de fontainebleau qu'une tour de verre vu qu'il suffit dans tous les cas de faire une seule réussite.",
+        "user": "U0AA0KVLH",
+        "ts": "1547227273.042800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "725f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour revenir sur le D6, le truc avec le système là, c'est qu'avec une réussite, tu peux tout grimper. Il est aussi facile de grimper les rochers de fontainebleau qu'une tour de verre vu qu'il suffit dans tous les cas de faire une seule réussite."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1547194213.037500",
+        "parent_user_id": "U0AA0KVLH"
+    }
+]

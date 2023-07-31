@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "f2ae342a-0a95-48ba-8d25-b131a9002cdf",
+        "type": "message",
+        "text": "plop ^^ per'sonne de malade ca va ?",
+        "user": "U0A9S1HCJ",
+        "ts": "1584194064.035800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PV5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop ^^ per'sonne de malade ca va ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

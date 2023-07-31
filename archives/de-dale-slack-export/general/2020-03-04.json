@@ -1,0 +1,651 @@
+[
+    {
+        "client_msg_id": "fa6cbd85-2afc-423a-9d60-f46700244773",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1583323932.015900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U+dT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "18bc0b60-f602-48b0-8900-a1532e307a04",
+        "type": "message",
+        "text": "Salut",
+        "user": "U0M8SF5CG",
+        "ts": "1583326317.016100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M7B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a9fdba0e-af81-4ff0-b44c-aebd0f27fb4c",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1583328805.016500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fOR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ffe6ca65-7df3-48b8-9f62-762daf49e402",
+        "type": "message",
+        "text": "Sinon j'ai dit que j'avais un nouveau portable ?",
+        "user": "U0AA0KVLH",
+        "ts": "1583328816.016800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z3j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sinon j'ai dit que j'avais un nouveau portable ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "59cf3a73-ce0b-4aaa-bf44-d241d945d64b",
+        "type": "message",
+        "text": "Non en francais",
+        "user": "U0AA0KVLH",
+        "ts": "1583328830.016900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fTH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Non en francais"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1583228720.014800",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "3581f933-14c8-44c4-a435-e01ae7ce58f1",
+        "type": "message",
+        "text": "Et c'est un crowndfounding pas une préco",
+        "user": "U0AA0KVLH",
+        "ts": "1583328877.017100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7XDt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et c'est un crowndfounding pas une préco"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1583228720.014800",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "48d92786-f18b-435f-a7f0-2572058da3d5",
+        "type": "message",
+        "text": "Plup",
+        "user": "U0A48EDPD",
+        "ts": "1583332391.017300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zXC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "987f1076-f2eb-464b-8520-1cced5bc5173",
+        "type": "message",
+        "text": "\"Oui, du coup, il y a des travaux sur la voie. On se détourne, et on arrivera avec un retard de 40 minutes\"",
+        "user": "U0A48EDPD",
+        "ts": "1583332391.017400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U9p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Oui, du coup, il y a des travaux sur la voie. On se détourne, et on arrivera avec un retard de 40 minutes\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4deda2cf-831d-418a-a64c-de2378faf81a",
+        "type": "message",
+        "text": "C'est un peu des nazes à la SNCF... \nJe prends mon train ce matin, et genre 5minutes après le départ...",
+        "user": "U0A48EDPD",
+        "ts": "1583332396.017500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vSV8i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est un peu des nazes à la SNCF... \nJe prends mon train ce matin, et genre 5minutes après le départ..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b8971dad-12cc-4f1d-9f2b-af77d16a8576",
+        "type": "message",
+        "text": "Genre: ils ne le savaient pas avant ?",
+        "user": "U0A48EDPD",
+        "ts": "1583332396.017600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "74tER",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Genre: ils ne le savaient pas avant ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "96ff3325-8e5e-4e1e-89b5-cd655470e542",
+        "type": "message",
+        "text": "...",
+        "user": "U0A48EDPD",
+        "ts": "1583332424.017900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ttmQs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "481fec1e-e6ff-4e00-b029-1683d8fd748a",
+        "type": "message",
+        "text": "Mes slacks de vendredi qui arrivent maintenant :confused:",
+        "user": "U0A48EDPD",
+        "ts": "1583332437.018300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GqRC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mes slacks de vendredi qui arrivent maintenant "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b1fa723f-fc5f-4f5d-8889-c044814cd3ee",
+        "type": "message",
+        "text": "Ah...",
+        "user": "U0AA0KVLH",
+        "ts": "1583347149.018500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=x49",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8fef96e7-b5dd-4cab-8874-acbf29a008ab",
+        "type": "message",
+        "text": "pour ça qu'on a des news en décalé ^^",
+        "user": "U0AA0KVLH",
+        "ts": "1583347156.018800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X6KS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pour ça qu'on a des news en décalé ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6de6f13b-236a-4a87-9874-bc1e1c28eaf1",
+        "type": "message",
+        "text": "Bcp de boulot aujourd'hui",
+        "user": "U0AA0KVLH",
+        "ts": "1583347161.019100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "90QE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bcp de boulot aujourd'hui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "La gare est un peu inondée.",
+        "files": [
+            {
+                "id": "FULVDPWTT",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "user": "U0A48EDPD",
+        "display_as_bot": false,
+        "ts": "1583393259.019200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wVAl7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La gare est un peu inondée."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7e304e61-dee8-4f56-90e8-e6e05406e2d9"
+    },
+    {
+        "client_msg_id": "12e33448-0f07-4281-ab62-dc55101c69b3",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0A48EDPD",
+        "ts": "1583393887.019600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tnn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

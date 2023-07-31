@@ -1,0 +1,127 @@
+[
+    {
+        "type": "message",
+        "text": "Avis sur ce white paper ?",
+        "files": [
+            {
+                "id": "FBGS825T2",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "user": "U0DSEQH9S",
+        "display_as_bot": false,
+        "ts": "1530544670.000280",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZbyVc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0DSEQH9S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " uploaded a file: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/de-dale.slack.com\/files\/U0DSEQH9S\/FBGS825T2\/wp_craft_web.pdf",
+                                "text": "WP_CRAFT_web.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and commented: Avis sur ce white paper ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df851a96-2551-42d8-b29e-70d08f273852",
+        "type": "message",
+        "text": "Qu’une page de garde ne fait pas tout :stuck_out_tongue:",
+        "user": "U0A48EDPD",
+        "ts": "1530556377.000371",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HNapr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Qu’une page de garde ne fait pas tout "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ccf0d859-170b-4bba-9ba4-0985b4836ea7",
+        "type": "message",
+        "text": "Après ; je l’ai parcouru en daigonale ; il n’y a que la partie SCRUM qui m’intéresse en ce moment",
+        "user": "U0A48EDPD",
+        "ts": "1530556609.000054",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "il3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Après ; je l’ai parcouru en daigonale ; il n’y a que la partie SCRUM qui m’intéresse en ce moment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

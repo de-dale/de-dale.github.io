@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "cbaa2f85-ebb2-4917-a359-c2aad7c72d40",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=RRu-Pr3L0ho>",
+        "user": "U0DSEQH9S",
+        "ts": "1530248820.000043",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gam",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=RRu-Pr3L0ho"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Scrum Life #35 - Impossible de remettre en question Scrum : \"Bien sûr qu'on est Agile !\"",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=RRu-Pr3L0ho",
+                "author_name": "JP Lambert",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCMCnZGIOeLVO65-LBxkkHyQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/RRu-Pr3L0ho\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Scrum Life #35 - Impossible de remettre en question Scrum : \"Bien sûr qu'on est Agile !\"",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/RRu-Pr3L0ho?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=RRu-Pr3L0ho",
+                "service_icon": "https:\/\/cfr.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=RRu-Pr3L0ho"
+            }
+        ]
+    }
+]

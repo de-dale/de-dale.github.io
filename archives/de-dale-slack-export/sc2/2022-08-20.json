@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "016ffbbf-fba0-4fbf-9bb0-6d001baf3b05",
+        "type": "message",
+        "text": "Un mod sympa : <https:\/\/www.sc2mapster.com\/projects\/starcraft-mass-recall>",
+        "user": "U0M8SF5CG",
+        "ts": "1660988416.631959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t6xu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un mod sympa : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sc2mapster.com\/projects\/starcraft-mass-recall"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.sc2mapster.com\/projects\/starcraft-mass-recall",
+                "thumb_url": "https:\/\/media.forgecdn.net\/avatars\/thumbnails\/80\/869\/120\/120\/636178324538244311.png",
+                "thumb_width": 120,
+                "thumb_height": 103,
+                "service_icon": "https:\/\/media.forgecdn.net\/avatars\/97\/682\/636293447593708306.png",
+                "id": 1,
+                "original_url": "https:\/\/www.sc2mapster.com\/projects\/starcraft-mass-recall",
+                "fallback": "SC2Mapster: Starcraft: Mass Recall",
+                "text": "Starcraft: Mass Recall",
+                "title": "Starcraft: Mass Recall",
+                "title_link": "https:\/\/www.sc2mapster.com\/projects\/starcraft-mass-recall",
+                "service_name": "SC2Mapster"
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U0A48EDPD> created <https:\/\/trello.com\/c\/EPjSB5GW|Test>",
+        "ts": "1502092754.861008",
+        "bot_id": "B489J8DB4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "npH3g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " created "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/c\/EPjSB5GW",
+                                "text": "Test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "attachments": [
+            {
+                "author_name": "Card",
+                "callback_id": "callback-idCard:59881dd2e22b5d6401fece6c-ts:1502092754472",
+                "fallback": "Test (<https:\/\/trello.com\/c\/EPjSB5GW>)",
+                "text": "In list *Idées en vrac* on *<https:\/\/trello.com\/b\/df5mWvjz|Sphérier>*\n",
+                "title": "Test",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/EPjSB5GW",
+                "author_icon": "https:\/\/slack-chat.trello.services\/img\/card-gray-900.png",
+                "color": "0079BF",
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "card-actions",
+                        "text": "Quick Actions",
+                        "type": "select",
+                        "data_source": "static",
+                        "options": [
+                            {
+                                "text": "Join",
+                                "value": "{\"idCard\":\"59881dd2e22b5d6401fece6c\",\"action\":\"join\",\"reqBoardMembership\":true}"
+                            },
+                            {
+                                "text": "Subscribe",
+                                "value": "{\"idCard\":\"59881dd2e22b5d6401fece6c\",\"action\":\"subscribe\",\"reqBoardMembership\":true}"
+                            },
+                            {
+                                "text": "Set Due Date",
+                                "value": "{\"idCard\":\"59881dd2e22b5d6401fece6c\",\"action\":\"due\",\"reqBoardMembership\":true}"
+                            },
+                            {
+                                "text": "Move (Top)",
+                                "value": "{\"pos\":\"top\",\"idCard\":\"59881dd2e22b5d6401fece6c\",\"action\":\"move\",\"idBoard\":\"59379a9f9e21145b1904c8b1\",\"reqBoardMembership\":true}"
+                            },
+                            {
+                                "text": "Move (Bottom)",
+                                "value": "{\"pos\":\"bottom\",\"idCard\":\"59881dd2e22b5d6401fece6c\",\"action\":\"move\",\"idBoard\":\"59379a9f9e21145b1904c8b1\",\"reqBoardMembership\":true}"
+                            },
+                            {
+                                "text": "Labels",
+                                "value": "{\"idCard\":\"59881dd2e22b5d6401fece6c\",\"action\":\"labels\",\"reqBoardMembership\":true}"
+                            },
+                            {
+                                "text": "Attach Conversation",
+                                "value": "{\"idCard\":\"59881dd2e22b5d6401fece6c\",\"action\":\"link\",\"reqBoardMembership\":true}"
+                            }
+                        ]
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

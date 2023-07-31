@@ -1,0 +1,134 @@
+[
+    {
+        "client_msg_id": "5b77e891-ab1b-4170-96cc-11bb3b4afd5e",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1573806679.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d2c23cf2-f87d-462a-8e3b-211754809087",
+        "type": "message",
+        "text": "<https:\/\/www.nytimes.com\/2019\/11\/13\/books\/dungeons-dragons.html?fbclid=IwAR1keh3Iiw7bxs1KrJl7tvD5xbYFew9SgNVafZxE_oxOmSvlqujt9qcgO-M>",
+        "user": "U0AA0KVLH",
+        "ts": "1573806680.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mYv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nytimes.com\/2019\/11\/13\/books\/dungeons-dragons.html?fbclid=IwAR1keh3Iiw7bxs1KrJl7tvD5xbYFew9SgNVafZxE_oxOmSvlqujt9qcgO-M"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The New York Times",
+                "service_url": "https:\/\/www.nytimes.com",
+                "title": "In a Chaotic World, Dungeons &amp; Dragons Is Resurgent",
+                "title_link": "https:\/\/www.nytimes.com\/2019\/11\/13\/books\/dungeons-dragons.html?fbclid=IwAR1keh3Iiw7bxs1KrJl7tvD5xbYFew9SgNVafZxE_oxOmSvlqujt9qcgO-M",
+                "author_name": "By Ethan Gilsdorf",
+                "thumb_url": "https:\/\/static01.nyt.com\/images\/2019\/11\/15\/books\/11Dungeons-sub\/11Dungeons-sub-mediumThreeByTwo440-v2.jpg",
+                "thumb_width": 440,
+                "thumb_height": 293,
+                "text": "The role-playing game has made a surprising return to mainstream culture.",
+                "fallback": "The New York Times In a Chaotic World, Dungeons & Dragons Is Resurgent",
+                "from_url": "https:\/\/www.nytimes.com\/2019\/11\/13\/books\/dungeons-dragons.html?fbclid=IwAR1keh3Iiw7bxs1KrJl7tvD5xbYFew9SgNVafZxE_oxOmSvlqujt9qcgO-M",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/nytimes.png",
+                "id": 1,
+                "original_url": "https:\/\/www.nytimes.com\/2019\/11\/13\/books\/dungeons-dragons.html?fbclid=IwAR1keh3Iiw7bxs1KrJl7tvD5xbYFew9SgNVafZxE_oxOmSvlqujt9qcgO-M"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d3b267d-88c9-4b77-a8d0-4d2214b69e6e",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1573810410.000700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nV=s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,160 @@
+[
+    {
+        "type": "message",
+        "text": "Ping <@U0DTHMU81> ",
+        "files": [
+            {
+                "id": "F0RGVFPJ5",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U0A48EDPD",
+        "display_as_bot": false,
+        "ts": "1548179395.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PxgM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ping "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0DTHMU81"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "968663cc-20c5-414c-af16-3da94a2e829f",
+        "type": "message",
+        "text": "Tu me diras si c'est bien ça que tu voulais.  ",
+        "user": "U0A48EDPD",
+        "ts": "1548184483.000700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JCtFM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu me diras si c'est bien ça que tu voulais."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DTHMU81"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59e456a7-66bd-4a4d-ba33-4576706fdbae",
+        "type": "message",
+        "text": "Par hasard, je ne sais plus si on l'avait retrouvé mais tu avais gardé la feuille de relation PNJ ?",
+        "user": "U0AA0KVLH",
+        "ts": "1548191914.002200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SLc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Par hasard, je ne sais plus si on l'avait retrouvé mais tu avais gardé la feuille de relation PNJ ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8a276ba4-a106-452f-8889-c1dd6279c91b",
+        "type": "message",
+        "text": " Arf. Ça, ça doit être sur un disque dur.\nJe regarde.",
+        "user": "U0A48EDPD",
+        "ts": "1548192968.003300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ypcK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Arf. Ça, ça doit être sur un disque dur.\nJe regarde."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

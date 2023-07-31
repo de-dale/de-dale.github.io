@@ -1,0 +1,156 @@
+[
+    {
+        "client_msg_id": "c80e0c4a-b3dd-4e46-8c08-55bad59d8cf3",
+        "type": "message",
+        "text": "<http:\/\/meetu.ps\/e\/Grnxs\/71rZx\/d>",
+        "user": "U0A48EDPD",
+        "ts": "1551110413.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hQZ5V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/meetu.ps\/e\/Grnxs\/71rZx\/d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "La prio, quelle galère !",
+                "title_link": "http:\/\/meetu.ps\/e\/Grnxs\/71rZx\/d",
+                "text": "Mon, Apr 1, 2019, 7:00 PM: Cette fois c'est mon amie Moïra Degroote qui vient animer notre Meetup avec sujet polémique. La Prio est une véritable clé de voute de l’entreprise : lien horizontal (entre",
+                "fallback": "Meetup: La prio, quelle galère !",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/9\/6\/0\/0\/600_478898400.jpeg",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "INSPEARIT 21 Rue de la Banque Paris",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Mon, Apr 1, 2019, 7:00 PM",
+                        "short": true
+                    }
+                ],
+                "from_url": "http:\/\/meetu.ps\/e\/Grnxs\/71rZx\/d",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 278205,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/en-US\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "http:\/\/meetu.ps\/e\/Grnxs\/71rZx\/d"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8cf05677-d7aa-486a-bcea-1d7ff0744a6e",
+        "type": "message",
+        "text": "Je peux pas y aller mais ça à l'air chouette",
+        "user": "U0A48EDPD",
+        "ts": "1551110448.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C9WB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je peux pas y aller mais ça à l'air chouette"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e94ab811-c982-44e3-85cc-3c230dad9562",
+        "type": "message",
+        "text": ":+1::+1::+1:",
+        "user": "U0DSEQH9S",
+        "ts": "1551110587.001500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BF21",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

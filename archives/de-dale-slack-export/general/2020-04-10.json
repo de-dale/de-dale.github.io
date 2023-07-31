@@ -1,0 +1,1130 @@
+[
+    {
+        "client_msg_id": "eb686bcc-6b5e-4120-8141-0b62d10e7821",
+        "type": "message",
+        "text": "Et en français aussi.",
+        "user": "U0A48EDPD",
+        "ts": "1586504571.068700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jrRp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et en français aussi."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585918243.040400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "c624f8d7-5149-4a9e-a53e-ca0834dfcd46",
+        "type": "message",
+        "text": "plop",
+        "user": "U0M8SF5CG",
+        "ts": "1586504739.069000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wcwa5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6ff517ac-6d6f-420b-b9df-970d2eca25bf",
+        "type": "message",
+        "text": "Y'a des trucs que je trouve intéressant :\n- la création de personnage avec des mots-clés, des comportements et des répliques\n- l'utilisation de points de Narration pour faire des actions++\n- utilisation des comportements et des répliques pour gagner des points de Narration\n- détail de la \"Narration partagée\" : ou façon de jouer que j'ai encore jamais pratiqué",
+        "user": "U0A48EDPD",
+        "ts": "1586504742.069100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NJX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y'a des trucs que je trouve intéressant :\n- la création de personnage avec des mots-clés, des comportements et des répliques\n- l'utilisation de points de Narration pour faire des actions++\n- utilisation des comportements et des répliques pour gagner des points de Narration\n- détail de la \"Narration partagée\" : ou façon de jouer que j'ai encore jamais pratiqué"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1586506273.000000"
+        },
+        "thread_ts": "1585918243.040400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "53915480-d0dc-48e0-a3e5-3c1c0f4b4d1f",
+        "type": "message",
+        "text": "Question méta : quelle sont les \"formations de combat\" que vous connaîtriez et les positions où rôles des participants ? \nExemple :\n- Arm\/Anvil\/Hammer\n- Tank\/Healer\/DPS\/Glass cannon\n- Bruiser\/Healer\/Skirmisher\/Zoner\/Sniper\/Blocker\/Buffer\/Sapper",
+        "user": "U0A48EDPD",
+        "ts": "1586511036.074200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PyWz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Question méta : quelle sont les \"formations de combat\" que vous connaîtriez et les positions où rôles des participants ? \nExemple :\n- Arm\/Anvil\/Hammer\n- Tank\/Healer\/DPS\/Glass cannon\n- Bruiser\/Healer\/Skirmisher\/Zoner\/Sniper\/Blocker\/Buffer\/Sapper"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1586511200.000000"
+        },
+        "thread_ts": "1586511036.074200",
+        "reply_count": 15,
+        "reply_users_count": 2,
+        "latest_reply": "1586675538.098600",
+        "reply_users": [
+            "U0DTHMU81",
+            "U0A48EDPD"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586620965.093800"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586621608.094200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586621766.094400"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586622178.094600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586622334.094800"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1586631299.095500"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586674965.096600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586675032.096800"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1586675265.097300"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1586675280.097500"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586675302.097700"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1586675302.097900"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586675378.098200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586675493.098400"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586675538.098600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1586675538.098600"
+    },
+    {
+        "client_msg_id": "0bc4b1a2-cbb4-450e-880d-497b1d6b603a",
+        "type": "message",
+        "text": "Exemples plus fluffy:\n- Pêcheur\/Lancier\/Veilleur\/Contrôleur\n- Guerrier\/Mage\/Voleur\/Prêtre",
+        "user": "U0A48EDPD",
+        "ts": "1586511111.076100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vppzH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exemples plus fluffy:\n- Pêcheur\/Lancier\/Veilleur\/Contrôleur\n- Guerrier\/Mage\/Voleur\/Prêtre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586511111.076100",
+        "reply_count": 20,
+        "reply_users_count": 3,
+        "latest_reply": "1586694437.103200",
+        "reply_users": [
+            "U0DTHMU81",
+            "U0A48EDPD",
+            "USLACKBOT"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586620692.093600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586621124.094000"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1586631744.095700"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1586631788.095900"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1586631864.096100"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586674879.096400"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1586675231.097000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586675681.098800"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586675695.099000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586675720.099200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586675787.099400"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586675937.099600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586676121.099800"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586676361.100000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586676538.100300"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586676878.100500"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586677880.100700"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586678845.100900"
+            },
+            {
+                "user": "USLACKBOT",
+                "ts": "1586678846.101100"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1586694437.103200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1586694437.103200"
+    },
+    {
+        "client_msg_id": "8e099a47-f5a3-4f3b-a8f5-b9d36088dda2",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1586517743.076800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5dH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b2e33335-8cbd-4785-b057-f26371d46f7c",
+        "type": "message",
+        "text": "J'y connais pas grand chose, je peux juste me référer à des rôles de MMO",
+        "user": "U0AA0KVLH",
+        "ts": "1586517771.077200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jL=1a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'y connais pas grand chose, je peux juste me référer à des rôles de MMO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "35189dc4-3310-4bb0-9371-1b4a2750affc",
+        "type": "message",
+        "text": "Tank, Offtank\/Bruiser, DPS flat, DPS DOT, Healer, Support",
+        "user": "U0AA0KVLH",
+        "ts": "1586517841.078300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tib=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tank, Offtank\/Bruiser, DPS flat, DPS DOT, Healer, Support"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "49429720-58d7-464a-97a3-c88f015fc953",
+        "type": "message",
+        "text": "Merci, :slightly_smiling_face:\nC'est quoi \"Offtank\" ? Tank offensif ? \nC'est quoi un DPS flat et un DPS DOT ? C'est constant vs Nova ?",
+        "user": "U0A48EDPD",
+        "ts": "1586523654.082300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U2F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci, "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nC'est quoi \"Offtank\" ? Tank offensif ? \nC'est quoi un DPS flat et un DPS DOT ? C'est constant vs Nova ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "278802d4-a3ee-48fb-93ae-65639eb69508",
+        "type": "message",
+        "text": "Dans les Moba l'Offtank, c'est un combatant de cors à corps solide mais dont le role principal n'est pas d'être le tank, c'est d'être un DPS. Dans un MMO, l'Offtank est le tank secondaire : si le tank principal tombe, il le remplace, si il y a plusieurs ennemis à gérer et qu'on a besoin d'un second tank, c'est son rôle.",
+        "user": "U0AA0KVLH",
+        "ts": "1586528308.084500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=+Lw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dans les Moba l'Offtank, c'est un combatant de cors à corps solide mais dont le role principal n'est pas d'être le tank, c'est d'être un DPS. Dans un MMO, l'Offtank est le tank secondaire : si le tank principal tombe, il le remplace, si il y a plusieurs ennemis à gérer et qu'on a besoin d'un second tank, c'est son rôle."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "43c0e919-85f9-4540-a3fd-94db4f0b0507",
+        "type": "message",
+        "text": "le Tank Offensif, c'est plus le Bruiser",
+        "user": "U0AA0KVLH",
+        "ts": "1586528317.084700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SvClM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le Tank Offensif, c'est plus le Bruiser"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9a12b6e2-c137-452d-9832-d2b6d86e5fdb",
+        "type": "message",
+        "text": "Flat et DOT c'est une distinction entre les modes de dps. le flat (ou un autre nom selon les jeux) inflige des dégats bruts immédiatements, ces pouvoirs font X dégâts directement. Les DOT (dégâts sur le temps en anglais) inflige des \"maléfices\" qui font des tics de dégâts sur la durée.",
+        "user": "U0AA0KVLH",
+        "ts": "1586528385.086000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b7r64",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Flat et DOT c'est une distinction entre les modes de dps. le flat (ou un autre nom selon les jeux) inflige des dégats bruts immédiatements, ces pouvoirs font X dégâts directement. Les DOT (dégâts sur le temps en anglais) inflige des \"maléfices\" qui font des tics de dégâts sur la durée."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "857ad6d8-c0a3-4743-b632-9ccbe866b825",
+        "type": "message",
+        "text": "Tiens d'ailleurs si tu veux une formation de combat à la LoL : Mage, Bruiser, Jungler, Carry AD et Support",
+        "user": "U0AA0KVLH",
+        "ts": "1586528734.086600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p4lR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tiens d'ailleurs si tu veux une formation de combat à la LoL : Mage, Bruiser, Jungler, Carry AD et Support"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586528734.086600",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1586620151.093100",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0AA0KVLH",
+            "U0DTHMU81"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1586537892.086800"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1586544395.087700"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586619657.092500"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586619829.092700"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586619908.092900"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586620151.093100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1586620151.093100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc22e1de-9f22-4f41-b54d-1988e1f38b04",
+        "type": "message",
+        "text": "ça veut dire quoi Carry AD ?",
+        "user": "U0A48EDPD",
+        "ts": "1586537892.086800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=jv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ça veut dire quoi Carry AD ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586528734.086600",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "39e4db83-8145-4eb9-9ba2-26f5792d24b7",
+        "type": "message",
+        "text": "Support ; ça consiste en quoi généralement ? Buffer ?",
+        "user": "U0A48EDPD",
+        "ts": "1586537949.087400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BfPH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Support ; ça consiste en quoi généralement ? Buffer ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9fb67bcd-0477-4294-b4a2-86bfde93101f",
+        "type": "message",
+        "text": "ou autre ?",
+        "user": "U0A48EDPD",
+        "ts": "1586537952.087600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Omu97",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ou autre ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bff79a9d-8dd7-471b-a866-47a60f149dae",
+        "type": "message",
+        "text": "C'est une sorte de Glass canon. C'est un personnage qui fait énormément de dégâts mais est très peu résistant. La différence c'est qu'il le fait via ses auto attaques à distance. ses pouvoir servent donc à améliorer cet spécificité (améliraotion vitesse d'attaque, dégâts, critique) et un peu de quoi fixer la cible (ralentissement, esquive) mais son pire ennemi sont les assassins ennemis, il a donc besoin du support pour se défendre",
+        "user": "U0AA0KVLH",
+        "ts": "1586544395.087700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R0CNj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est une sorte de Glass canon. C'est un personnage qui fait énormément de dégâts mais est très peu résistant. La différence c'est qu'il le fait via ses auto attaques à distance. ses pouvoir servent donc à améliorer cet spécificité (améliraotion vitesse d'attaque, dégâts, critique) et un peu de quoi fixer la cible (ralentissement, esquive) mais son pire ennemi sont les assassins ennemis, il a donc besoin du support pour se défendre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586528734.086600",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "099f08fd-003e-45d7-bbcc-52fdf5d32f47",
+        "type": "message",
+        "text": "Dans les MObA, c'est autre",
+        "user": "U0AA0KVLH",
+        "ts": "1586544407.088000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "igNvk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dans les MObA, c'est autre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ffd69b3e-3042-4a2b-b07b-2b2092992c68",
+        "type": "message",
+        "text": "Selon le support : du heal, du buff, mais le principal point fort du support c'est de protéger le carry AD",
+        "user": "U0AA0KVLH",
+        "ts": "1586544433.088700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Um+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Selon le support : du heal, du buff, mais le principal point fort du support c'est de protéger le carry AD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "aa70386f-4de2-4b7d-9db4-a42e32fd9ca4",
+        "type": "message",
+        "text": "Donc ralentir l'arriver ennemi, bouclier sur le carry AD, repousser l'ennemi, le ralentir, s'interposer, sortir le carry ad du CaC",
+        "user": "U0AA0KVLH",
+        "ts": "1586544478.089600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DCSoq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Donc ralentir l'arriver ennemi, bouclier sur le carry AD, repousser l'ennemi, le ralentir, s'interposer, sortir le carry ad du CaC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "742d6e7f-99c4-487f-acab-d42e63d23269",
+        "type": "message",
+        "text": "l'un des points forts du support dans le moba, c'est sa capaciité à etre efficace sans stuff",
+        "user": "U0AA0KVLH",
+        "ts": "1586544525.090100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3g9l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "l'un des points forts du support dans le moba, c'est sa capaciité à etre efficace sans stuff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586544525.090100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586620466.093400",
+        "reply_users": [
+            "U0DTHMU81"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586620466.093400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1cfd4283-0132-4646-8b60-6f838eba6d11",
+        "type": "message",
+        "text": "Ses capas sont utiles sans avoir le baton de l'archimage +789 de Gandalf ou la Super Gaitlyn NéoMarines 8000",
+        "user": "U0AA0KVLH",
+        "ts": "1586544569.091000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GJh\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ses capas sont utiles sans avoir le baton de l'archimage +789 de Gandalf ou la Super Gaitlyn NéoMarines 8000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "09cbf252-47b7-4419-92c8-bbd1dfaef881",
+        "type": "message",
+        "text": "mais c'est férié Lundi ! Je viens de le découvrir",
+        "user": "U0AA0KVLH",
+        "ts": "1586545653.091400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DzNx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais c'est férié Lundi ! Je viens de le découvrir"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "type": "message",
+        "text": "<http:\/\/www.heavyscotland.com\/>",
+        "user": "U0DSEQH9S",
+        "ts": "1488464088.000002",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x8Dd8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.heavyscotland.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Heavy Scotland",
+                "title_link": "http:\/\/www.heavyscotland.com\/",
+                "text": "Scotland's Metal Festival - 1&amp;2 April 2017",
+                "fallback": "Heavy Scotland",
+                "from_url": "http:\/\/www.heavyscotland.com\/",
+                "thumb_url": "https:\/\/s0.wp.com\/i\/blank.jpg",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "http:\/\/www.heavyscotland.com\/wp-content\/uploads\/2016\/08\/favicon-2.ico",
+                "service_name": "heavyscotland.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "En fait y a des trucs sympas à edinburgh :smile:",
+        "user": "U0DSEQH9S",
+        "ts": "1488464095.000004",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sg5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En fait y a des trucs sympas à edinburgh "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

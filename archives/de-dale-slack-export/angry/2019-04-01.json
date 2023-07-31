@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "7b4f15a3-329a-4f2b-ac01-c05cb81e13d6",
+        "type": "message",
+        "text": "<https:\/\/theangrygm.com\/accounting-for-magical-items\/>",
+        "user": "U0A48EDPD",
+        "ts": "1554114206.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r6uH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/theangrygm.com\/accounting-for-magical-items\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The Angry GM",
+                "title": "Accounting for Magical Items",
+                "title_link": "https:\/\/theangrygm.com\/accounting-for-magical-items\/",
+                "text": "Hacking a complex subsystem into a game requires you to work within the limits of the system. Unfortunately, the system doesn’t always make it easy to find those limits. For example, let&amp;#821…",
+                "fallback": "The Angry GM: Accounting for Magical Items",
+                "thumb_url": "https:\/\/theangrygm.com\/wp-content\/uploads\/2019\/03\/XGE-Items-by-Rarity.png",
+                "ts": 1554112857,
+                "from_url": "https:\/\/theangrygm.com\/accounting-for-magical-items\/",
+                "thumb_width": 818,
+                "thumb_height": 222,
+                "service_icon": "https:\/\/theangrygm.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/theangrygm.com\/accounting-for-magical-items\/"
+            }
+        ]
+    }
+]

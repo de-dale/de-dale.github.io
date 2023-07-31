@@ -1,0 +1,709 @@
+[
+    {
+        "client_msg_id": "ec8ef093-3522-401b-9775-53b42e0a4a68",
+        "type": "message",
+        "text": "Question <@U0M8SF5CG> \nEn ce moment, j'essaie le rush lurker. J'ai trouvé un build qui part en pool first. \nComment tu t'y prends toi? Pool first ou hatch first?",
+        "user": "U0A48EDPD",
+        "ts": "1559987247.002300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9WxVK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Question "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0M8SF5CG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nEn ce moment, j'essaie le rush lurker. J'ai trouvé un build qui part en pool first. \nComment tu t'y prends toi? Pool first ou hatch first?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "be1407c6-46d1-423e-bfb8-d88b3f9948d3",
+        "type": "message",
+        "text": "Autre question. Je ne vois personne faire du 14-hatch. C'est si nul que ça?",
+        "user": "U0A48EDPD",
+        "ts": "1559987298.003500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A+3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Autre question. Je ne vois personne faire du 14-hatch. C'est si nul que ça?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "960fdd14-10d0-4565-a2cf-822c18826454",
+        "type": "message",
+        "text": "Je ne pense pas que ça vaille le coup de faire pool avant hatch pour un truc T2. Faire la hatch avant est probablement plus rapide au final.",
+        "user": "U0M8SF5CG",
+        "ts": "1559991794.004700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xYkFO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je ne pense pas que ça vaille le coup de faire pool avant hatch pour un truc T2. Faire la hatch avant est probablement plus rapide au final."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b64733e8-5bc8-49af-a914-7a2c9d0fc9ae",
+        "type": "message",
+        "text": "Le standard est 16 hatch surtout pour une question de gestion des larves, avec un 14 hatch tu reste un moment avec 3 larves ce qui bloque la prod d'autre larves",
+        "user": "U0M8SF5CG",
+        "ts": "1559991874.006000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0TW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le standard est 16 hatch surtout pour une question de gestion des larves, avec un 14 hatch tu reste un moment avec 3 larves ce qui bloque la prod d'autre larves"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c5cd2167-d26c-4097-b312-d4fda36a6901",
+        "type": "message",
+        "text": "Avec le pool first, tu fais quand même un fast T2. J'essaierai en hatch first ^^",
+        "user": "U0A48EDPD",
+        "ts": "1559994112.007400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Xgs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Avec le pool first, tu fais quand même un fast T2. J'essaierai en hatch first ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7a251b69-4ceb-4ab6-bae0-7dc47c415629",
+        "type": "message",
+        "text": "Et du coup, les gens préfèrent ne pas être larva-blocked que d'avoir une hatch en fast?\nAu max, tu  \"perds\" 2 larves. 1 si tu te débrouille bien. J'arrive pas à voir à quel point le larva-blocked est autant pénalisant.",
+        "user": "U0A48EDPD",
+        "ts": "1559994408.013000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R3ox",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et du coup, les gens préfèrent ne pas être larva-blocked que d'avoir une hatch en fast?\nAu max, tu  \"perds\" 2 larves. 1 si tu te débrouille bien. J'arrive pas à voir à quel point le larva-blocked est autant pénalisant."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9d98ec2e-7505-4671-a2b8-4e0b472be029",
+        "type": "message",
+        "text": "Mais le fait est: personne ne fait du 14-hatch",
+        "user": "U0A48EDPD",
+        "ts": "1559994439.013700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jWYkM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mais le fait est: personne ne fait du 14-hatch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559994439.013700",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1560000796.017200",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0M8SF5CG"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1559995122.014200"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1559995207.014500"
+            },
+            {
+                "user": "U0M8SF5CG",
+                "ts": "1559997279.014800"
+            },
+            {
+                "user": "U0M8SF5CG",
+                "ts": "1559997297.015000"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1560000678.017000"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1560000796.017200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1560000796.017200"
+    },
+    {
+        "client_msg_id": "69c2a986-5a02-4a25-acd1-5ec16c33d6d9",
+        "type": "message",
+        "text": "Ya des effets de mode aussi des fois",
+        "user": "U0DTHMU81",
+        "ts": "1559994483.014100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TECqg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ya des effets de mode aussi des fois"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b8665aba-1f16-4bbb-bb37-d420a62e2061",
+        "type": "message",
+        "text": "<https:\/\/m.youtube.com\/watch?v=yIngI17rJTo>",
+        "user": "U0A48EDPD",
+        "ts": "1559995122.014200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DS3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/m.youtube.com\/watch?v=yIngI17rJTo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Starcraft 2: ZvP 14 pool 16 hatch - Cheese?",
+                "title_link": "https:\/\/m.youtube.com\/watch?v=yIngI17rJTo",
+                "author_name": "EurekaSEVENsc2",
+                "author_link": "https:\/\/www.youtube.com\/user\/EurekaSEVENsc2",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/yIngI17rJTo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Starcraft 2: ZvP 14 pool 16 hatch - Cheese?",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/yIngI17rJTo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/m.youtube.com\/watch?v=yIngI17rJTo",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/m.youtube.com\/watch?v=yIngI17rJTo"
+            }
+        ],
+        "thread_ts": "1559994439.013700",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "73bd5d79-c7d9-4ccf-8a05-aead9b694594",
+        "type": "message",
+        "text": "<https:\/\/m.youtube.com\/watch?v=zfzwTFn4o78>",
+        "user": "U0A48EDPD",
+        "ts": "1559995207.014500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "52D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/m.youtube.com\/watch?v=zfzwTFn4o78"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Folge 10 - 14 hatch 14 gas 14 pool  1v1 Starcraft 2: Legacy of the Void (German \/ Deutsch)  Sc2",
+                "title_link": "https:\/\/m.youtube.com\/watch?v=zfzwTFn4o78",
+                "author_name": "Muttibaerenbande",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC_z6C1LNjx9exXsJ3uhBZQQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/zfzwTFn4o78\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Folge 10 - 14 hatch 14 gas 14 pool  1v1 Starcraft 2: Legacy of the Void (German \/ Deutsch)  Sc2",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/zfzwTFn4o78?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/m.youtube.com\/watch?v=zfzwTFn4o78",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/m.youtube.com\/watch?v=zfzwTFn4o78"
+            }
+        ],
+        "thread_ts": "1559994439.013700",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "19888643-9be0-4ddb-b7a8-b44d478ffe0c",
+        "type": "message",
+        "text": "le premier cas c'est pas du tout à jour, le 2eme c'est bien all in",
+        "user": "U0M8SF5CG",
+        "ts": "1559997279.014800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8wvt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le premier cas c'est pas du tout à jour, le 2eme c'est bien all in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559994439.013700",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "251fc08c-721b-449c-a8d5-c09830f22db1",
+        "type": "message",
+        "text": "mais pas bête, l'adveraire ne s'y attend pas en voyant la hatch",
+        "user": "U0M8SF5CG",
+        "ts": "1559997297.015000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yCgW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais pas bête, l'adveraire ne s'y attend pas en voyant la hatch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559994439.013700",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "fc3e0183-04ac-4074-be98-b9cab59612cf",
+        "type": "message",
+        "text": "avec 1-2 drones de retard ça fait du retard de récolte et ça s'accumule.",
+        "user": "U0M8SF5CG",
+        "ts": "1559998038.016200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sdU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "avec 1-2 drones de retard ça fait du retard de récolte et ça s'accumule."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cd7fc7cf-f336-4c76-9569-b96e23bb7742",
+        "type": "message",
+        "text": "il y avait des calculateur de bo dans le temps mais ça à plus l'air d'être en ligne",
+        "user": "U0M8SF5CG",
+        "ts": "1559998075.016900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TCFH3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "il y avait des calculateur de bo dans le temps mais ça à plus l'air d'être en ligne"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c2228dbc-6f8c-4de2-81dc-a34b1489edaf",
+        "type": "message",
+        "text": "Yep c'est du HotS le 1er.",
+        "user": "U0A48EDPD",
+        "ts": "1560000678.017000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GSv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep c'est du HotS le 1er."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559994439.013700",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "119bd906-73b9-4a96-b023-3a5e13fa3ae0",
+        "type": "message",
+        "text": "J'aime bien le 2ieme. En terme de timing, il semble proche des builds pool first de la crèmerie",
+        "user": "U0A48EDPD",
+        "ts": "1560000796.017200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=rJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'aime bien le 2ieme. En terme de timing, il semble proche des builds pool first de la crèmerie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1559994439.013700",
+        "parent_user_id": "U0A48EDPD"
+    }
+]

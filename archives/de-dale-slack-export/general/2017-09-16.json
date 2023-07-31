@@ -1,0 +1,47 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505551846.000072",
+        "user": "U71L5MP60",
+        "text": "<@U71L5MP60> has joined the channel",
+        "inviter": "U0A48EDPD"
+    },
+    {
+        "type": "message",
+        "text": "C'est quoi Hadès ?",
+        "user": "U0AA0KVLH",
+        "ts": "1505600433.000002",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HW+vb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est quoi Hadès ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

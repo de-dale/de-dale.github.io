@@ -1,0 +1,171 @@
+[
+    {
+        "client_msg_id": "21f0b215-66a9-4b56-9f99-a835553b4996",
+        "type": "message",
+        "text": "Salut",
+        "user": "U0AA0KVLH",
+        "ts": "1607069100.082500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f8Ag6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9acd87fa-21f4-4104-872d-83e1749b83a1",
+        "type": "message",
+        "text": "plop",
+        "user": "U0M8SF5CG",
+        "ts": "1607070917.082700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Ehns",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "64a3c4d8-bba4-4560-983b-225ba678b3e1",
+        "type": "message",
+        "text": "Hello",
+        "user": "U0A48EDPD",
+        "ts": "1607082803.083100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IQr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6eeee164-34da-4d87-a513-eb6bef0098a0",
+        "type": "message",
+        "text": "<https:\/\/www.jeuxvideo.com\/news\/1335342\/the-witcher-enhanced-edition-offert-sur-gog-galaxy.htm>",
+        "user": "U0AA0KVLH",
+        "ts": "1607100387.083300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jBWmz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.jeuxvideo.com\/news\/1335342\/the-witcher-enhanced-edition-offert-sur-gog-galaxy.htm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Jeuxvideo.com",
+                "title": "The Witcher: Enhanced Edition offert sur GOG Galaxy",
+                "title_link": "https:\/\/www.jeuxvideo.com\/news\/1335342\/the-witcher-enhanced-edition-offert-sur-gog-galaxy.htm",
+                "text": "Le premier épisode des aventures du sorceleur en jeu vidéo est de nouveau disponible gratuitement sur GOG, mais sur GOG Galaxy cette fois. En attendant Cyberpunk 2077, CD Projekt a de nouveau mis en ligne gratuitement The Witcher: Enhanced Edition. Si le jeu avait déjà été offert gratuitement l'été...",
+                "fallback": "Jeuxvideo.com: The Witcher: Enhanced Edition offert sur GOG Galaxy",
+                "image_url": "https:\/\/image.jeuxvideo.com\/medias-md\/160709\/1607094967-5271-card.jpg",
+                "from_url": "https:\/\/www.jeuxvideo.com\/news\/1335342\/the-witcher-enhanced-edition-offert-sur-gog-galaxy.htm",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 122934,
+                "service_icon": "https:\/\/www.jeuxvideo.com\/apple-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.jeuxvideo.com\/news\/1335342\/the-witcher-enhanced-edition-offert-sur-gog-galaxy.htm"
+            }
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "type": "message",
+        "text": "J'ai déjà envoyé ce lien ? <https:\/\/www.benlinders.com\/tools\/agile-self-assessments\/>",
+        "user": "U0A48EDPD",
+        "ts": "1508248142.000481",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RPr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai déjà envoyé ce lien ? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.benlinders.com\/tools\/agile-self-assessments\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Ben Linders",
+                "title": "Agile Self-assessments - Ben Linders",
+                "title_link": "https:\/\/www.benlinders.com\/tools\/agile-self-assessments\/",
+                "text": "Agile is a journey where you learn and improve continuously. Agile Self-assessments help teams to see where they are and take next steps to increase agility",
+                "fallback": "Ben Linders: Agile Self-assessments - Ben Linders",
+                "thumb_url": "https:\/\/www.benlinders.com\/wp-content\/uploads\/Agile-self-assessments-square.jpg",
+                "from_url": "https:\/\/www.benlinders.com\/tools\/agile-self-assessments\/",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.benlinders.com\/wp-content\/uploads\/favicon64.ico",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

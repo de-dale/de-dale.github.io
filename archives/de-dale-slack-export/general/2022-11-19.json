@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "b7e37b37-b951-4275-843d-18c22e52e1af",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/SchwalmPascal\/status\/1593894720777887747>",
+        "user": "U0AA0KVLH",
+        "ts": "1668907954.616529",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cbx+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/SchwalmPascal\/status\/1593894720777887747"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/SchwalmPascal\/status\/1593894720777887747",
+                "ts": 1668849089,
+                "image_url": "https:\/\/pbs.twimg.com\/media\/Fh6VKzwXoAE_y2o.jpg",
+                "image_width": 762,
+                "image_height": 945,
+                "image_bytes": 104792,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/SchwalmPascal\/status\/1593894720777887747",
+                "fallback": "<https:\/\/twitter.com\/SchwalmPascal|@SchwalmPascal>: La prononciation exacte du nom 𝘊𝘵𝘩𝘶𝘭𝘩𝘶. \n\nDans plusieurs lettres, Lovecraft donne des interprétations différentes, mais la plus canonique est celle de 1934.",
+                "text": "La prononciation exacte du nom 𝘊𝘵𝘩𝘶𝘭𝘩𝘶. \n\nDans plusieurs lettres, Lovecraft donne des interprétations différentes, mais la plus canonique est celle de 1934.",
+                "author_name": "𝑳𝑶𝑽𝑬𝑪𝑹𝑨𝑭𝑻 - 𝑳𝒊𝒇𝒆 & 𝑷𝒊𝒄𝒕𝒖𝒓𝒆𝒔",
+                "author_link": "https:\/\/twitter.com\/SchwalmPascal\/status\/1593894720777887747",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1381306063983628295\/KncSzWJV_normal.jpg",
+                "author_subname": "@SchwalmPascal",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

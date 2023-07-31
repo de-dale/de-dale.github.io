@@ -1,0 +1,117 @@
+site_name: De-Dale
+site_url: https://de-dale.github.io
+site_description: >
+  Méandres de l'imaginaire
+repo_url: https://github.com/de-dale/de-dale.github.io
+edit_uri: edit/main/docs/
+
+nav:
+  - De-Dale:
+      - index.md
+  - Blog:
+      - blog/index.md
+  - Ressources & Outils:
+    - tools/index.md
+    - Cartes:
+      - Playground: https://de-dale.github.io/cards
+      - tools/cards/shelves.md
+  - Projets:
+      - projects/index.md
+      - Sphérier: https://de-dale.github.io/spherier
+  - Communauté:
+      - community/index.md
+
+theme:
+  name: material
+  custom_dir: theme
+  language: fr
+  logo: assets/images/icon-128x128.png
+  favicon: assets/images/favicon.png
+  features:
+    - content.action.edit
+    - content.code.annotate
+    - navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - search.suggest
+    - search.highlight
+  palette:
+    primary: brown
+    accent: amber
+  icon: # Recherche : https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search
+    tag:
+      community: fontawesome/solid/people-group
+      projets: material/view-dashboard
+      outils: material/tools
+      rpg: fontawesome/solid/dice-d20
+plugins:
+  - blog:
+      blog_toc: true
+      post_excerpt_separator: '<!-- more -->'
+  - search
+  - tags:
+      tags_file: tags.md
+# Extra
+extra_css:
+  - assets/css/extra.css
+extra:
+  reveal:
+    path: reveal.js/dist
+    transition: slide
+    theme:
+      name: white.css
+      path: theme
+    plugin:
+      path: reveal.js/plugin
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/de-dale
+      name: de-dale on GitHub
+  tags:
+    community: community
+    projets: projets
+    outils: outils
+    rpg: rpg
+# Extensions
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+

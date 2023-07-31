@@ -1,0 +1,226 @@
+[
+    {
+        "client_msg_id": "cb32ce5a-a2a7-46da-b7fb-8090466a3daa",
+        "type": "message",
+        "text": "oki d'oki :slightly_smiling_face:\nTu as pu le lire du coup ? Tu es des bons retours ?",
+        "user": "U0A48EDPD",
+        "ts": "1539244036.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SYzT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oki d'oki "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTu as pu le lire du coup ? Tu es des bons retours ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "131577af-6619-44e0-9bb4-ae10dcbd0e49",
+        "type": "message",
+        "text": "lol : <https:\/\/agilequittersmanifesto.org\/>",
+        "user": "U0A48EDPD",
+        "ts": "1539251440.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z1\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/agilequittersmanifesto.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Agile Quitters Manifesto",
+                "title_link": "https:\/\/agilequittersmanifesto.org\/",
+                "text": "Manifesto for the too tired combatants of real agile",
+                "fallback": "Agile Quitters Manifesto",
+                "from_url": "https:\/\/agilequittersmanifesto.org\/",
+                "service_name": "agilequittersmanifesto.org",
+                "id": 1,
+                "original_url": "https:\/\/agilequittersmanifesto.org\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e8668748-7ff1-460c-bc52-7c680dbf7920",
+        "type": "message",
+        "text": "Je l'ai lu oui, il est intéressant.",
+        "user": "U0DSEQH9S",
+        "ts": "1539251676.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bnjq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je l'ai lu oui, il est intéressant."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "67b3145d-e264-48ff-b2c6-1ae394f3086b",
+        "type": "message",
+        "text": "Pas simple à mettre en place par contre, ça demande beaucoup de facilitation, et ça fait très mal au facilitateur du sprint.",
+        "user": "U0DSEQH9S",
+        "ts": "1539251699.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bXr8=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas simple à mettre en place par contre, ça demande beaucoup de facilitation, et ça fait très mal au facilitateur du sprint."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0e7c8873-9c48-4f1e-a6cd-e64dd8fcce6a",
+        "type": "message",
+        "text": "(beaucouuuup de taff pour lui)",
+        "user": "U0DSEQH9S",
+        "ts": "1539251709.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Q84",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(beaucouuuup de taff pour lui)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

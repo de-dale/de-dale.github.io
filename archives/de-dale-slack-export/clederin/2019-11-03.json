@@ -1,0 +1,73 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_add",
+        "text": "added an integration to this channel: <https:\/\/de-dale.slack.com\/services\/BQ5UYLTBQ|De-Dale>",
+        "user": "U0A48EDPD",
+        "bot_id": "BQ5UYLTBQ",
+        "bot_link": "<https:\/\/de-dale.slack.com\/services\/BQ5UYLTBQ|De-Dale>",
+        "ts": "1572813227.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Hello, World!",
+        "ts": "1572814647.000200",
+        "bot_id": "BQ5UYLTBQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AM06",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, World!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "I am a test message <http:\/\/slack.com>",
+        "ts": "1572816845.000300",
+        "username": "De-Dale",
+        "bot_id": "B747T10SF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f3B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am a test message "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/slack.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_remove",
+        "text": "removed an integration from this channel: <https:\/\/de-dale.slack.com\/services\/BQ5UYLTBQ|De-Dale>",
+        "user": "U0A48EDPD",
+        "bot_id": "BQ5UYLTBQ",
+        "bot_link": "<https:\/\/de-dale.slack.com\/services\/BQ5UYLTBQ|De-Dale>",
+        "ts": "1572818305.000400"
+    }
+]

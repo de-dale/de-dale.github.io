@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "5a687053-e922-45c2-ba23-2ef4454483e6",
+        "type": "message",
+        "text": "<http:\/\/www.black-book-editions.fr\/forums.php?topic_id=16442&amp;nbp=8&amp;nop=0>",
+        "user": "U0AA0KVLH",
+        "ts": "1611340137.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W1nOc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.black-book-editions.fr\/forums.php?topic_id=16442&nbp=8&nop=0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Black Book Editions",
+                "title": "[Campagne COF dans les Terres d'Osgild]   Les sables éternels de Tanith • Chroniques Oubliées • Forums",
+                "title_link": "http:\/\/www.black-book-editions.fr\/forums.php?topic_id=16442&nbp=8&nop=0",
+                "text": "Forums de Black Book Editions",
+                "fallback": "Black Book Editions: [Campagne COF dans les Terres d'Osgild]   Les sables éternels de Tanith • Chroniques Oubliées • Forums",
+                "image_url": "https:\/\/www.black-book-editions.fr\/img\/logo_bbe_casus.png",
+                "from_url": "http:\/\/www.black-book-editions.fr\/forums.php?topic_id=16442&nbp=8&nop=0",
+                "image_width": 450,
+                "image_height": 80,
+                "image_bytes": 29529,
+                "service_icon": "http:\/\/www.black-book-editions.fr\/img\/favicon_x72.png",
+                "id": 1,
+                "original_url": "http:\/\/www.black-book-editions.fr\/forums.php?topic_id=16442&amp;nbp=8&amp;nop=0"
+            }
+        ]
+    }
+]

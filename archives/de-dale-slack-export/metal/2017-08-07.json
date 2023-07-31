@@ -1,0 +1,241 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=lk2-bgwA0Ro>\nJ'aime bien celle là",
+        "user": "U0DTHMU81",
+        "ts": "1502115839.043983",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "piOp3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=lk2-bgwA0Ro"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJ'aime bien celle là"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "ARCH ENEMY - The World Is Yours (OFFICIAL VIDEO)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=lk2-bgwA0Ro",
+                "author_name": "Century Media Records",
+                "author_link": "https:\/\/www.youtube.com\/user\/CenturyMedia",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/lk2-bgwA0Ro\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: ARCH ENEMY - The World Is Yours (OFFICIAL VIDEO)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/lk2-bgwA0Ro?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=lk2-bgwA0Ro",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ué, j'aime bien celle là",
+        "user": "U0DTHMU81",
+        "ts": "1502115941.104278",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5q4\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ué, j'aime bien celle là"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1501832955.912176",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "type": "message",
+        "text": "Un autre truc qui envoie du lourd : <https:\/\/www.youtube.com\/watch?v=0VxbJb_Gs8w>",
+        "user": "U0DSEQH9S",
+        "ts": "1502138537.543818",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=qB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un autre truc qui envoie du lourd : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=0VxbJb_Gs8w"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Ihsahn - \"Mass Darkness\" Lyric Video from new album Arktis\"",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=0VxbJb_Gs8w",
+                "author_name": "Decibel Magazine",
+                "author_link": "https:\/\/www.youtube.com\/user\/DecibelMagazine",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/0VxbJb_Gs8w\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Ihsahn - \"Mass Darkness\" Lyric Video from new album Arktis\"",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/0VxbJb_Gs8w?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=0VxbJb_Gs8w",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Et ça tu vas kiffer je pense <@U0DTHMU81> : <https:\/\/www.youtube.com\/watch?v=VTT6picaCoQ>",
+        "user": "U0DSEQH9S",
+        "ts": "1502138792.670418",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QITQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et ça tu vas kiffer je pense "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0DTHMU81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=VTT6picaCoQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "LACUNA COIL - Trip The Darkness (OFFICIAL VIDEO)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=VTT6picaCoQ",
+                "author_name": "Century Media Records",
+                "author_link": "https:\/\/www.youtube.com\/user\/CenturyMedia",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/VTT6picaCoQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: LACUNA COIL - Trip The Darkness (OFFICIAL VIDEO)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/VTT6picaCoQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=VTT6picaCoQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    }
+]

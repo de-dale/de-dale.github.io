@@ -1,0 +1,168 @@
+[
+    {
+        "client_msg_id": "6382a61c-8989-440b-ad0c-56ca40678171",
+        "type": "message",
+        "text": "Joyeux Noël également",
+        "user": "U0AA0KVLH",
+        "ts": "1609078552.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Z6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Joyeux Noël également"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2f564d9d-9c58-44a8-bf83-0b6a85801dcb",
+        "type": "message",
+        "text": "<https:\/\/www.black-book-editions.fr\/produit.php?id=7870>",
+        "user": "U0AA0KVLH",
+        "ts": "1609087822.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iHr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.black-book-editions.fr\/produit.php?id=7870"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Black Book Editions",
+                "title": "Pathfinder 2 - Livre de base",
+                "title_link": "https:\/\/www.black-book-editions.fr\/produit.php?id=7870",
+                "text": "Pathfinder 2 - Livre de base...",
+                "fallback": "Black Book Editions: Pathfinder 2 - Livre de base",
+                "image_url": "https:\/\/www.black-book-editions.fr\/img_produit\/5\/XL\/10935.jpg",
+                "from_url": "https:\/\/www.black-book-editions.fr\/produit.php?id=7870",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 197961,
+                "service_icon": "http:\/\/www.black-book-editions.fr\/img\/favicon_x72.png",
+                "id": 1,
+                "original_url": "https:\/\/www.black-book-editions.fr\/produit.php?id=7870"
+            }
+        ],
+        "thread_ts": "1609087822.000200",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1610835790.002400",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0AA0KVLH",
+            "U5ETCTF7V"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1609427314.000700"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1610025142.003500"
+            },
+            {
+                "user": "U5ETCTF7V",
+                "ts": "1610835790.002400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1610835790.002400"
+    },
+    {
+        "client_msg_id": "f17ae468-c4ea-4a80-9b53-c48c9d5b7a89",
+        "type": "message",
+        "text": "PDF gratuit",
+        "user": "U0AA0KVLH",
+        "ts": "1609087831.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nrss",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PDF gratuit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

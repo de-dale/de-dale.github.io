@@ -1,0 +1,188 @@
+[
+    {
+        "client_msg_id": "5f868aa8-ac14-4c0d-9d50-fa47169738ce",
+        "type": "message",
+        "text": "c'est une bonne exception",
+        "user": "U0AA0KVLH",
+        "ts": "1644308581.944029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ug33B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est une bonne exception"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4eed3b10-eff2-4198-ac34-7c19a0f8b9a8",
+        "type": "message",
+        "text": "mais il faut rajouter une exception à l'exception",
+        "user": "U0A48EDPD",
+        "ts": "1644312834.304509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mJN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais il faut rajouter une exception à l'exception"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9769936d-6845-46d8-b7cb-fc3451c09491",
+        "type": "message",
+        "text": "si la terre plate est portée par 4 éléphants, ç passe",
+        "user": "U0A48EDPD",
+        "ts": "1644312847.275229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NKh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si la terre plate est portée par 4 éléphants, ç passe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U0AA0KVLH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e56974f-0628-4324-ba9a-c3c4760a5d08",
+        "type": "message",
+        "text": "alors que des gens font tant d’effort pour prouver le monde est rond <https:\/\/www.youtube.com\/watch?v=Kr_5V3vt_Pg>",
+        "user": "U0M8SF5CG",
+        "ts": "1644326112.703719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BTQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alors que des gens font tant d’effort pour prouver le monde est rond "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=Kr_5V3vt_Pg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Kr_5V3vt_Pg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Kr_5V3vt_Pg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Kr_5V3vt_Pg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=Kr_5V3vt_Pg",
+                "fallback": "YouTube Video: Going to OUTER SPACE in Breath of the Wild!",
+                "title": "Going to OUTER SPACE in Breath of the Wild!",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Kr_5V3vt_Pg",
+                "author_name": "ThornyFox",
+                "author_link": "https:\/\/www.youtube.com\/c\/ThornyFox",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    }
+]

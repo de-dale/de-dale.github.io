@@ -1,0 +1,288 @@
+[
+    {
+        "client_msg_id": "eb646e34-267f-4029-84ac-2add651ad248",
+        "type": "message",
+        "text": "je viens de voir qu'il y a un démo de deepmind sur sc2 en direct <https:\/\/www.twitch.tv\/starcraft>",
+        "user": "U0M8SF5CG",
+        "ts": "1548355160.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oRrC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je viens de voir qu'il y a un démo de deepmind sur sc2 en direct "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.twitch.tv\/starcraft"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Twitch",
+                "title": "StarCraft - Twitch",
+                "title_link": "https:\/\/www.twitch.tv\/starcraft",
+                "text": "DeepMind StarCraft II Demonstration",
+                "fallback": "Twitch: StarCraft - Twitch",
+                "thumb_url": "https:\/\/static-cdn.jtvnw.net\/jtv_user_pictures\/0c9813cae3797d96-profile_image-300x300.png",
+                "from_url": "https:\/\/www.twitch.tv\/starcraft",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "service_icon": "https:\/\/static.twitchcdn.net\/assets\/favicon-75270f9df2b07174c23c.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.twitch.tv\/starcraft"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2ae04c13-8c4e-4db0-a8d2-fec41df982d2",
+        "type": "message",
+        "text": "il y a aura probablement une vidéo rediff",
+        "user": "U0M8SF5CG",
+        "ts": "1548355195.001600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RalVr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "il y a aura probablement une vidéo rediff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1411753e-322e-49f6-8695-a4f5d2fdb075",
+        "type": "message",
+        "text": "C'est quand? Ce soir?",
+        "user": "U0A48EDPD",
+        "ts": "1548355864.002200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hQpg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est quand? Ce soir?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "42bc8c7d-b255-4ada-b097-b5a21afcf49f",
+        "type": "message",
+        "text": " Deepmind, c'est bien leur moteur IA, qui apprend ?",
+        "user": "U0A48EDPD",
+        "ts": "1548355907.003500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4nuk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Deepmind, c'est bien leur moteur IA, qui apprend ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4d60f46d-d2ea-4821-a335-86115ab1a0c5",
+        "type": "message",
+        "text": "c'est en court je viens de tomber dessus",
+        "user": "U0M8SF5CG",
+        "ts": "1548355991.003900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KpoCY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est en court je viens de tomber dessus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a82d1fe1-e24c-4f4c-bbc6-8dca4c4d8854",
+        "type": "message",
+        "text": "l'ia qui a battu les meilleur joueur de go adapté à sc2",
+        "user": "U0M8SF5CG",
+        "ts": "1548356027.004400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Ml",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "l'ia qui a battu les meilleur joueur de go adapté à sc2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8cc55d14-4257-4721-b682-f76db056d6ac",
+        "type": "message",
+        "text": "apparemment ce n'est entrainé que pour le PvP pour l'instant",
+        "user": "U0M8SF5CG",
+        "ts": "1548356332.004900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C1So",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "apparemment ce n'est entrainé que pour le PvP pour l'instant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

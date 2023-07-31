@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "text": "<http:\/\/9gag.com\/gag\/aAdVWbp>",
+        "user": "U0A48EDPD",
+        "ts": "1486711332.000002",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vrq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/9gag.com\/gag\/aAdVWbp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "9GAG",
+                "title": "Heavy Metal Exhaust",
+                "title_link": "http:\/\/9gag.com\/gag\/aAdVWbp",
+                "text": "Click to see the pic and write a comment...",
+                "fallback": "9GAG: Heavy Metal Exhaust",
+                "image_url": "https:\/\/images-cdn.9gag.com\/photo\/aAdVWbp_700b.jpg",
+                "from_url": "http:\/\/9gag.com\/gag\/aAdVWbp",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 21438,
+                "service_icon": "http:\/\/assets-9gag-fun.9cache.com\/s\/fab0aa49\/6a627cb287cbf2ccd11a19a7fc6752eded59986a\/static\/dist\/core\/img\/favicon_v2.png",
+                "id": 1
+            }
+        ]
+    }
+]

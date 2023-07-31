@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "c0a446eb-2c63-40d8-ad65-0a5af93884df",
+        "type": "message",
+        "text": "Frost giant a obtenu un gros investissement <http:\/\/www.frostgiant.com\/press-releases\/> et leur jeu ne sera pas \"une guerre épique entre les derniers hamsters de la Terre et une force d'invasion d'aspirateurs extraterrestres géants.\"",
+        "user": "U0M8SF5CG",
+        "ts": "1643199842.151409",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kjp04",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Frost giant a obtenu un gros investissement "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.frostgiant.com\/press-releases\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et leur jeu ne sera pas \"une guerre épique entre les derniers hamsters de la Terre et une force d'invasion d'aspirateurs extraterrestres géants.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "http:\/\/www.frostgiant.com\/press-releases\/",
+                "image_url": "https:\/\/www.frostgiant.com\/wp-content\/uploads\/2021\/03\/VerticalLogo-350.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 45928,
+                "service_icon": "https:\/\/www.frostgiant.com\/wp-content\/uploads\/2020\/10\/cropped-FGYeti512-2-180x180.png",
+                "id": 1,
+                "original_url": "http:\/\/www.frostgiant.com\/press-releases\/",
+                "fallback": "Frost Giant Studios",
+                "text": "Frost Giant Studios is a game development studio located in Orange County, California, on a mission to bring real-time strategy (RTS) games to a broader audience.",
+                "title": "Frost Giant Studios",
+                "title_link": "http:\/\/www.frostgiant.com\/press-releases\/",
+                "service_name": "frostgiant.com"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

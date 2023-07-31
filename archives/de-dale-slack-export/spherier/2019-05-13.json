@@ -1,0 +1,131 @@
+[
+    {
+        "client_msg_id": "c8b56eaa-de8c-4329-8abe-f0cff993f9f0",
+        "type": "message",
+        "text": "Passes d'initiative :\n- A pioche, A passe, fin. \n- *A pioche, A passe, B passe, fin.*\n- A pioche, A passe, B joue, A passe, fin. (Cas impossible)\n- *A pioche, (A passe, B joue,)^n A passe, B passe fin.*\n- A pioche, A joue, B passe, fin.\n- *A pioche, A joue, B passe, A passe, fin*\n- *A pioche, (A joue, B passe,)^n A passe, fin.*\n- A pioche, A joue, B joue, fin.\n- A pioche, A joue, B joue, A passe, fin. (Couvert par autre cas)\n- *A pioche, A joue, B joue, A passe, B passe, fin.*\n- A pioche, A joue, B joue, A joue, B passe, fin. (Couvert par autre cas) \n- *A pioche, (A joue, B joue,)^n A passe, B passe, fin.*\n- A pioche, (A joue, B joue,)* A joue, B passe, A passe fin.",
+        "user": "U0A48EDPD",
+        "ts": "1557763341.004700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YEMC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Passes d'initiative :\n- A pioche, A passe, fin. \n- "
+                            },
+                            {
+                                "type": "text",
+                                "text": "A pioche, A passe, B passe, fin.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- A pioche, A passe, B joue, A passe, fin. (Cas impossible)\n- "
+                            },
+                            {
+                                "type": "text",
+                                "text": "A pioche, (A passe, B joue,)^n A passe, B passe fin.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- A pioche, A joue, B passe, fin.\n- "
+                            },
+                            {
+                                "type": "text",
+                                "text": "A pioche, A joue, B passe, A passe, fin",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- "
+                            },
+                            {
+                                "type": "text",
+                                "text": "A pioche, (A joue, B passe,)^n A passe, fin.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- A pioche, A joue, B joue, fin.\n- A pioche, A joue, B joue, A passe, fin. (Couvert par autre cas)\n- "
+                            },
+                            {
+                                "type": "text",
+                                "text": "A pioche, A joue, B joue, A passe, B passe, fin.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- A pioche, A joue, B joue, A joue, B passe, fin. (Couvert par autre cas) \n- "
+                            },
+                            {
+                                "type": "text",
+                                "text": "A pioche, (A joue, B joue,)^n A passe, B passe, fin.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- A pioche, (A joue, B joue,)* A joue, B passe, A passe fin."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1557814450.000000"
+        },
+        "thread_ts": "1557763341.004700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1557920151.017900",
+        "reply_users": [
+            "U0DTHMU81",
+            "U0A48EDPD"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1557907171.001500"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1557920151.017900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1557920151.017900"
+    }
+]

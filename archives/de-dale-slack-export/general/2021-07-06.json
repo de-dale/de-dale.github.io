@@ -1,0 +1,360 @@
+[
+    {
+        "client_msg_id": "0a306c09-1916-4eb0-954c-a559fc14cd24",
+        "type": "message",
+        "text": "D'expérience, j'ai presque toujours fait une ou plusieurs  sessions préliminaires, même sur les One-Shots, et très souvent en asynchrone (en direct avec chacun des joueurs, via Slack, Whatsapp, des mails ou des posts de forum)\n\nAujourd'hui, mes sessions préliminaires ont deux objectifs :\n• présenter le cadre de l'aventure\n• Créer les personnages avec les joueurs\nDemain, je voudrais systématiquement faire une session préliminaire, qui me permettrait de :\n• expliciter les attentes des joueurs sur l'aventure sur plein d'axes :\n    ◦ Type d'univers : Fantasy \/ Steampunk \/ Futuriste \/ Néo-moderne\n    ◦ Dimension épique \/ modeste\n    ◦ Ton léger \/ sérieux\n    ◦ Obstacles auxquels ils préfèrent se confronter (Combat \/ Enigmes \/ Exploration \/ Rencontre sociale)\n    ◦ etc.\n• expliciter les limites des sujets que l'on va aborder (horreur, gore, sexe)\n• construire les personnages ; \n    ◦ techniquement (stats, dons, possessions, etc.)\n    ◦ moralement : j'avais bien aimé la construction de BG avec le système Héros forge (choisir 1 carte de situation parmi 3, et recommencer 3 fois)\n• Introduire le cadre de l'aventure, le synopsis, et planter le décor pour préparer la première session\n• Déterminer la fréquence de jeu générale, la durée générale des session, et comment on s'organise pour se retrouver",
+        "user": "U0A48EDPD",
+        "ts": "1625557658.019200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k1rx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "D'expérience, j'ai presque toujours fait une ou plusieurs  sessions préliminaires, même sur les One-Shots, et très souvent en asynchrone (en direct avec chacun des joueurs, via Slack, Whatsapp, des mails ou des posts de forum)\n\nAujourd'hui, mes sessions préliminaires ont deux objectifs :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "présenter le cadre de l'aventure"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Créer les personnages avec les joueurs"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nDemain, je voudrais systématiquement faire une session préliminaire, qui me permettrait de :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "expliciter les attentes des joueurs sur l'aventure sur plein d'axes :"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Type d'univers : Fantasy \/ Steampunk \/ Futuriste \/ Néo-moderne"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Dimension épique \/ modeste"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ton léger \/ sérieux"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Obstacles auxquels ils préfèrent se confronter (Combat \/ Enigmes \/ Exploration \/ Rencontre sociale)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "etc."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "expliciter les limites des sujets que l'on va aborder (horreur, gore, sexe)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "construire les personnages ; "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "techniquement (stats, dons, possessions, etc.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "moralement : j'avais bien aimé la construction de BG avec le système Héros forge (choisir 1 carte de situation parmi 3, et recommencer 3 fois)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Introduire le cadre de l'aventure, le synopsis, et planter le décor pour préparer la première session"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Déterminer la fréquence de jeu générale, la durée générale des session, et comment on s'organise pour se retrouver"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1625557820.000000"
+        },
+        "thread_ts": "1625492784.018100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "c94861c4-f1bb-4702-8691-de4d62bfca90",
+        "type": "message",
+        "text": "Dans ma conception des choses, les sessions préliminaires par mail, discussion privée, ce ne sont pas des sessions 0. Ce ne sont juste pas des sessions. Bien entendu que lors d'une campagne, j'échange préalablement avec les joueurs pour parler de leur BG, des modifs à apporter, des choses possibles. Mais ca n'est pas une session à mon sens. Des échanges nécessaires certes mais il n'y a pas de réunion, pas d'organisation pour réunir les gens comme dans une session.\nCe que tu fais dans ces échanges reste applicable à une session 0celà dit.",
+        "user": "U0AA0KVLH",
+        "ts": "1625559662.019700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TO4F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dans ma conception des choses, les sessions préliminaires par mail, discussion privée, ce ne sont pas des sessions 0. Ce ne sont juste pas des sessions. Bien entendu que lors d'une campagne, j'échange préalablement avec les joueurs pour parler de leur BG, des modifs à apporter, des choses possibles. Mais ca n'est pas une session à mon sens. Des échanges nécessaires certes mais il n'y a pas de réunion, pas d'organisation pour réunir les gens comme dans une session.\nCe que tu fais dans ces échanges reste applicable à une session 0celà dit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1625492784.018100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "da6d4c78-78d8-451b-bfd7-b48ae4720011",
+        "type": "message",
+        "text": "Enfin, si tu aimes les générateurs de BG : <https:\/\/www.fatumcards.com\/>",
+        "user": "U0AA0KVLH",
+        "ts": "1625559674.019900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ld8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Enfin, si tu aimes les générateurs de BG : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.fatumcards.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Fatum Cards",
+                "title": "Home | Fatum Cards",
+                "title_link": "https:\/\/www.fatumcards.com\/",
+                "text": "FATUM is a powerful tool designed to create full-flegded stories for your 5th Edition d&amp;d or any other fantasy role playing game characters. Illustrated with exclusive artwork and carefully designed as tarot cards.",
+                "fallback": "Fatum Cards: Home | Fatum Cards",
+                "from_url": "https:\/\/www.fatumcards.com\/",
+                "service_icon": "https:\/\/static.wixstatic.com\/media\/c98e2d_63b43ba601a345b2ae6da91ad36d7cfc%7Emv2.jpg\/v1\/fill\/w_16%2Ch_16%2Clg_1%2Cusm_0.66_1.00_0.01\/c98e2d_63b43ba601a345b2ae6da91ad36d7cfc%7Emv2.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.fatumcards.com\/"
+            }
+        ],
+        "thread_ts": "1625492784.018100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "50dbdb6b-68ba-45ca-83b9-9621fb3a7abd",
+        "type": "message",
+        "text": "en jolie ^^",
+        "user": "U0AA0KVLH",
+        "ts": "1625559680.020200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GV++",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en jolie ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1625492784.018100",
+        "parent_user_id": "U0AA0KVLH"
+    }
+]

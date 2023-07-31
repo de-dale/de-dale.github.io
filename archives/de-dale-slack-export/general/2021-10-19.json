@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "7af6711b-53a1-474a-8178-aab77e91427d",
+        "type": "message",
+        "text": "<https:\/\/www.allocine.fr\/diaporamas\/cinema\/diaporama-18703378\/>",
+        "user": "U0AA0KVLH",
+        "ts": "1634641040.006400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bLtlw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.allocine.fr\/diaporamas\/cinema\/diaporama-18703378\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "AlloCiné",
+                "title": "Star Wars : les pires films inspirés par la saga",
+                "title_link": "https:\/\/www.allocine.fr\/diaporamas\/cinema\/diaporama-18703378\/",
+                "text": "Star Wars a été un énorme succès en 1977, lançant immédiatement une vague de copies plus ou moins réussies imaginées par des producteurs cherchant l'argent facile. Petit tour d'horizon des pires d'ent...",
+                "fallback": "AlloCiné: Star Wars : les pires films inspirés par la saga",
+                "image_url": "https:\/\/fr.web.img6.acsta.net\/newsv7\/21\/10\/11\/15\/40\/0864071.jpg",
+                "from_url": "https:\/\/www.allocine.fr\/diaporamas\/cinema\/diaporama-18703378\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 502008,
+                "service_icon": "https:\/\/assets.allocine.fr\/apple-touch-icon\/allocine.png",
+                "id": 1,
+                "original_url": "https:\/\/www.allocine.fr\/diaporamas\/cinema\/diaporama-18703378\/"
+            }
+        ]
+    }
+]

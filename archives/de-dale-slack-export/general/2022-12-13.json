@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "af8ea543-403d-465f-8656-b280c8037e10",
+        "type": "message",
+        "text": "<https:\/\/9gag.com\/gag\/abvM7Wr>",
+        "user": "U0AA0KVLH",
+        "ts": "1670927739.253349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4PYq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/9gag.com\/gag\/abvM7Wr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/9gag.com\/gag\/abvM7Wr",
+                "image_url": "https:\/\/images-cdn.9gag.com\/photo\/abvM7Wr_700b.jpg",
+                "image_width": 44,
+                "image_height": 250,
+                "image_bytes": 614174,
+                "service_icon": "https:\/\/9gag.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/9gag.com\/gag\/abvM7Wr",
+                "fallback": "9GAG: Now waste your time - Awesome",
+                "text": "2,550 points • 353 comments",
+                "title": "Now waste your time - Awesome",
+                "title_link": "https:\/\/9gag.com\/gag\/abvM7Wr",
+                "service_name": "9GAG"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09a9a469-3e5e-4e7e-ba3b-58293c9ac3ae",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/auxarmes_etc\/status\/1602390662296502289>\nJ'avais pas vu les choses sous cette angle mais c'est rigolo",
+        "user": "U0AA0KVLH",
+        "ts": "1670956031.467759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4zLaR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/auxarmes_etc\/status\/1602390662296502289"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nJ'avais pas vu les choses sous cette angle mais c'est rigolo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/auxarmes_etc\/status\/1602390662296502289",
+                "ts": 1670874679,
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1602390602141794304\/pu\/img\/8UKUWkIJG4-FqTO-.jpg",
+                "thumb_width": 1080,
+                "thumb_height": 596,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1602390602141794304\/pu\/img\/8UKUWkIJG4-FqTO-.jpg\" width=\"1080\" height=\"596\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1602390602141794304\/pu\/vid\/1080x596\/9KYuFAYHLW-YH71s.mp4?tag=12\"><\/video>",
+                "video_html_width": 1080,
+                "video_html_height": 596,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/auxarmes_etc\/status\/1602390662296502289",
+                "fallback": "<https:\/\/twitter.com\/auxarmes_etc|@auxarmes_etc>: Chaque fois je vois ce genre de tweets je peux pas m’empêcher de repenser à cette masterclass d’Olivier Roy :sob: <https:\/\/twitter.com\/eciotti\/status\/1601515347529859074>",
+                "text": "Chaque fois je vois ce genre de tweets je peux pas m’empêcher de repenser à cette masterclass d’Olivier Roy :sob: <https:\/\/twitter.com\/eciotti\/status\/1601515347529859074>",
+                "author_name": "Yoan Gwilman",
+                "author_link": "https:\/\/twitter.com\/auxarmes_etc\/status\/1602390662296502289",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1602498788907778048\/9YYKaVPW_normal.jpg",
+                "author_subname": "@auxarmes_etc",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "from_url": "https:\/\/twitter.com\/ECiotti\/status\/1601515347529859074",
+                "ts": 1670665988,
+                "image_url": "https:\/\/pbs.twimg.com\/media\/Fjm5uB8XgAE0oas.jpg",
+                "image_width": 768,
+                "image_height": 1024,
+                "image_bytes": 179281,
+                "indent": true,
+                "color": "32BBF3",
+                "id": 2,
+                "fallback": "<https:\/\/twitter.com\/ECiotti|@ECiotti>: Magnifique crèche dans le hall du Département des Alpes-Maritimes, pour faire vivre nos traditions. \n\nSoyons fiers de nos racines !",
+                "text": "Magnifique crèche dans le hall du Département des Alpes-Maritimes, pour faire vivre nos traditions. \n\nSoyons fiers de nos racines !",
+                "author_name": "Eric Ciotti",
+                "author_link": "https:\/\/twitter.com\/ECiotti\/status\/1601515347529859074",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1531668119692918785\/FVk5HP5Z_normal.jpg",
+                "author_subname": "@ECiotti",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

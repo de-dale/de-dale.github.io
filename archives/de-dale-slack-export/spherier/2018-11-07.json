@@ -1,0 +1,2341 @@
+[
+    {
+        "client_msg_id": "c3a402fe-4d37-4b25-b7b9-76105bd0ca06",
+        "type": "message",
+        "text": "*Carrure*\n\n**Description:**\nLa Carrure représente les prouesses physiques dont votre personnage est capable, et son endurance. Un personnage avec une grande carrure est capable de déployer une grande énergie et de réaliser des prouesses impossibles, ou encore d'encaisser des chocs inhumains et d'ingérer de substances mortelles.\n\n**Mots-clés**\nForce, Vigueur, Endurance, Puissance, Résistance\n\n**Gameplay:**\n- Berserk: frappe peu, mais frappe fort\n- Gardien (Replaceur): repositionne ses ennemis, les met au sol et les empêche de se déplacer, afin de les enchaîner par la suite\n- Gardien (Bouclier) : protege ses alliés et empêche les adversaires de s'en approcher\n- Immortel: encaisse tout les dégâts,  affaiblissements, poisons",
+        "user": "U0A48EDPD",
+        "ts": "1541577909.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N8y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Carrure",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n**Description:**\nLa Carrure représente les prouesses physiques dont votre personnage est capable, et son endurance. Un personnage avec une grande carrure est capable de déployer une grande énergie et de réaliser des prouesses impossibles, ou encore d'encaisser des chocs inhumains et d'ingérer de substances mortelles.\n\n**Mots-clés**\nForce, Vigueur, Endurance, Puissance, Résistance\n\n**Gameplay:**\n- Berserk: frappe peu, mais frappe fort\n- Gardien (Replaceur): repositionne ses ennemis, les met au sol et les empêche de se déplacer, afin de les enchaîner par la suite\n- Gardien (Bouclier) : protege ses alliés et empêche les adversaires de s'en approcher\n- Immortel: encaisse tout les dégâts,  affaiblissements, poisons"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1541343170.002500",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "109e5da6-c9a2-4764-ba39-334f4afa705d",
+        "type": "message",
+        "text": "*Réactivité*\n\n*Descriptif*\nLa Réactivité reflète la vitesse d'action et le temps d'exécution d'un personnage. Elle détermine également ses réflexes, c'est à dire, sa capacité à répondre à des événements se déroulant autour de lui. Elle permet enfin de reporter ce \"dernier moment\", nécessaire pour effectuer des virages serrés, encore plus tard. \n\n*Mots-clés*\nRéflexes, Vitesse, Contres, Riposte, Accélération\n\n*Gameplay:*\n- Contres: Parade, Esquives, Riposte et Contre-attaque\n- Rapide: diminue son temps d'exécution de différentes actions\n- Pilote drone: prend le contrôle de robots et les dirige par la pensée.",
+        "user": "U0A48EDPD",
+        "ts": "1541578940.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b36G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Réactivité",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Descriptif",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLa Réactivité reflète la vitesse d'action et le temps d'exécution d'un personnage. Elle détermine également ses réflexes, c'est à dire, sa capacité à répondre à des événements se déroulant autour de lui. Elle permet enfin de reporter ce \"dernier moment\", nécessaire pour effectuer des virages serrés, encore plus tard. \n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Mots-clés",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nRéflexes, Vitesse, Contres, Riposte, Accélération\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Gameplay:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Contres: Parade, Esquives, Riposte et Contre-attaque\n- Rapide: diminue son temps d'exécution de différentes actions\n- Pilote drone: prend le contrôle de robots et les dirige par la pensée."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1541343170.002500",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "6db9b46b-d22f-4feb-8859-305e7a711ba6",
+        "type": "message",
+        "text": "*Agilité*\n\n*Descriptif*\nL'agilité traduit la capacité du personnage à maîtriser son corps, et le contrôler comme bon lui semble. Elle se manifeste par la réalisation de mouvements fluides, des enchaînements d'actions complexes, et une efficacité accrue de toute action physique. Elle traduit auusi la precision des mouvements précautionneux, comme se déplacer dans son environnement sans le perturber, déplacer délicatement de petits objets, ou rester parfaitement immobile. \n\n*Mots-clés*\nCoordination, Souplesse, Équilibre, Vitesse, Harmonie, Délicatesse\n\n*Gameplay*\n- Danseur: Très mobile, il a besoin de bouger pour attaquer. Il est très bon pour affaiblir de nombreux ennemis\n- Ambidextre : une arme dans chaque main, il multiplie les enchaînements sur un unique adversaires.\n- Spadassin: Une arme, un adversaire,  excellent en duel, il enchaîne sa cible et esquive proprement\n- Ombre: Vif, surprenant, inattendu, patient, il excelle pour se dissimuler de don adversaire, et lui porter un coup en traître avant de retourner se cacher",
+        "user": "U0A48EDPD",
+        "ts": "1541579580.000300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DJj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agilité",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Descriptif",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nL'agilité traduit la capacité du personnage à maîtriser son corps, et le contrôler comme bon lui semble. Elle se manifeste par la réalisation de mouvements fluides, des enchaînements d'actions complexes, et une efficacité accrue de toute action physique. Elle traduit auusi la precision des mouvements précautionneux, comme se déplacer dans son environnement sans le perturber, déplacer délicatement de petits objets, ou rester parfaitement immobile. \n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Mots-clés",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCoordination, Souplesse, Équilibre, Vitesse, Harmonie, Délicatesse\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Gameplay",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n- Danseur: Très mobile, il a besoin de bouger pour attaquer. Il est très bon pour affaiblir de nombreux ennemis\n- Ambidextre : une arme dans chaque main, il multiplie les enchaînements sur un unique adversaires.\n- Spadassin: Une arme, un adversaire,  excellent en duel, il enchaîne sa cible et esquive proprement\n- Ombre: Vif, surprenant, inattendu, patient, il excelle pour se dissimuler de don adversaire, et lui porter un coup en traître avant de retourner se cacher"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1541343170.002500",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FDYMK28UF",
+                "created": 1541581787,
+                "timestamp": 1541581787,
+                "name": "Attributs.md",
+                "title": "Attributs",
+                "mimetype": "text\/plain",
+                "filetype": "markdown",
+                "pretty_type": "Markdown (raw)",
+                "user": "U0A48EDPD",
+                "user_team": "T0A48J0MV",
+                "editable": true,
+                "size": 531,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-FDYMK28UF\/Attributs.md?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-FDYMK28UF\/download\/Attributs.md?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "permalink": "https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/FDYMK28UF\/Attributs.md",
+                "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-FDYMK28UF-b6a0b81c4d",
+                "edit_link": "https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/FDYMK28UF\/Attributs.md\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0A48EDPD",
+        "display_as_bot": false,
+        "ts": "1541584008.000100"
+    },
+    {
+        "client_msg_id": "134c45d6-73cc-4ddd-9500-8d19b2122c6a",
+        "type": "message",
+        "text": "Est-ce que ça te va, <@U0AA0KVLH> ?",
+        "user": "U0A48EDPD",
+        "ts": "1541584035.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KeYS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est-ce que ça te va, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AA0KVLH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539770112.000100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "fb718a9d-94e5-4861-b7b8-e5ef307cd55f",
+        "type": "message",
+        "text": "Pour le moment, je ne comprends quel est le fichier à lire, les textes que je trouve n'ont pas de logique",
+        "user": "U0AA0KVLH",
+        "ts": "1541584189.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "99TYB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour le moment, je ne comprends quel est le fichier à lire, les textes que je trouve n'ont pas de logique"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539770112.000100",
+        "parent_user_id": "U0AA0KVLH",
+        "reactions": [
+            {
+                "name": "question",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ebb1c28-1b1f-4f10-bcb8-27b906a315d5",
+        "type": "message",
+        "text": "Pas compris ta remarque.\nMa question était plutôt : est-ce que mon laïus du dessu répond à ta question, ou alimente ta réflexion ?",
+        "user": "U0A48EDPD",
+        "ts": "1541584591.000900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2sM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas compris ta remarque.\nMa question était plutôt : est-ce que mon laïus du dessu répond à ta question, ou alimente ta réflexion ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1541584644.000000"
+        },
+        "thread_ts": "1539770112.000100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "52762f7c-c8d3-4b47-9e50-5da5619cad5c",
+        "type": "message",
+        "text": "OUi pardon, j'étais sur téléphone au tribunal, j'ai pas vu que c'était uen conversation différente.",
+        "user": "U0AA0KVLH",
+        "ts": "1541588635.001400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KuA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OUi pardon, j'étais sur téléphone au tribunal, j'ai pas vu que c'était uen conversation différente."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539770112.000100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "57492bfb-4d94-4476-8692-f215273e4288",
+        "type": "message",
+        "text": "Je n'ai pas très bien compris ton explication",
+        "user": "U0AA0KVLH",
+        "ts": "1541588641.001600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kKN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je n'ai pas très bien compris ton explication"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539770112.000100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "87ef0a3d-6d5a-4b4f-9b25-ef9c445d81b5",
+        "type": "message",
+        "text": "QU'est ce qui permet de dire : je sais conduire un avion ou une voiture ?",
+        "user": "U0AA0KVLH",
+        "ts": "1541588659.001800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4cKC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "QU'est ce qui permet de dire : je sais conduire un avion ou une voiture ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539770112.000100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "2393212a-67c1-45d1-990f-d5ad35042bbe",
+        "type": "message",
+        "text": "Parce que là ce que je comprends c'est : Je sais conduire une voiture donc je peux utiliser pilotage dessus mais je ne sais pas conduire un avion donc je ne peux pas utiliser pilotage dessus.",
+        "user": "U0AA0KVLH",
+        "ts": "1541588711.002000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h2Bl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Parce que là ce que je comprends c'est : Je sais conduire une voiture donc je peux utiliser pilotage dessus mais je ne sais pas conduire un avion donc je ne peux pas utiliser pilotage dessus."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539770112.000100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "e139cb62-bc66-40ad-8505-a4381dadfd39",
+        "type": "message",
+        "text": "Pour répondre à la question sur les phases de jeu : qu'est ce qui distingue le hors-combat du RP exactement ? Qu'est ce que tu mets dans le Hors-combat.\nEn effet j'ai croisé bcp de jeu où y a une distinction PvP\/PvE car il est difficile d'équilibrer des compétences pour deux modes différents. Je rapproche cela de la distinction Combat\/Pas combat où la même logique s'applique. La distinction entre les deux me parait donc pertinente. Toutefois j'y vois deux problèmes : cela fait deux corpus de règles différents qui parfois se téléscopent (un talent hors-combat pourrait trouver à s'appliquer dans un combat) et qu'il faut apprendre en plus des règles de combat. Deuxième grande problématique que je vois c'est que ca doit aussi avoir ses propres \"points de créations\". Le cas dans DD par exemple, c'est que ya plein de talent RP ou hors-combat marrant mais qui sont sacrifiés parce que tu va d'abord investir tes \"points de créations\" dans les talents utiles en combat. Typiquement tu va sans hésiter sacrifier la compétence artisanat(danse) pour acrobaties. Les ressources étant limitées, un joueur va d'abord investir dans le dur qui lui permet de combattre que de faire des éléments hors-combats. La distinction entre les deux catégories justifieraient du coup que ce ne soit pas les mêmes points qu'on investissent dedans.",
+        "user": "U0AA0KVLH",
+        "ts": "1541589097.008000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hHYd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour répondre à la question sur les phases de jeu : qu'est ce qui distingue le hors-combat du RP exactement ? Qu'est ce que tu mets dans le Hors-combat.\nEn effet j'ai croisé bcp de jeu où y a une distinction PvP\/PvE car il est difficile d'équilibrer des compétences pour deux modes différents. Je rapproche cela de la distinction Combat\/Pas combat où la même logique s'applique. La distinction entre les deux me parait donc pertinente. Toutefois j'y vois deux problèmes : cela fait deux corpus de règles différents qui parfois se téléscopent (un talent hors-combat pourrait trouver à s'appliquer dans un combat) et qu'il faut apprendre en plus des règles de combat. Deuxième grande problématique que je vois c'est que ca doit aussi avoir ses propres \"points de créations\". Le cas dans DD par exemple, c'est que ya plein de talent RP ou hors-combat marrant mais qui sont sacrifiés parce que tu va d'abord investir tes \"points de créations\" dans les talents utiles en combat. Typiquement tu va sans hésiter sacrifier la compétence artisanat(danse) pour acrobaties. Les ressources étant limitées, un joueur va d'abord investir dans le dur qui lui permet de combattre que de faire des éléments hors-combats. La distinction entre les deux catégories justifieraient du coup que ce ne soit pas les mêmes points qu'on investissent dedans."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5eda34ab-8c10-45a6-9234-7802f5034a3e",
+        "type": "message",
+        "text": "C'est ça.",
+        "user": "U0A48EDPD",
+        "ts": "1541594345.008100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0DKN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est ça."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539770112.000100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "43d66816-ab3b-4655-86de-133ebc74cb4b",
+        "type": "message",
+        "text": "Ce qui permet de dire \"je sais piloter une voiture\", c'est qu'à un moment, dans la construction de mon personnage, j'ai pris le Talent\/Capacité\/Don \"Savoir piloter une voiture\"",
+        "user": "U0A48EDPD",
+        "ts": "1541594401.008300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GW2r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ce qui permet de dire \"je sais piloter une voiture\", c'est qu'à un moment, dans la construction de mon personnage, j'ai pris le Talent\/Capacité\/Don \"Savoir piloter une voiture\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539770112.000100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "4c8aee13-76bf-4252-956d-d012a1eb0962",
+        "type": "message",
+        "text": "Hors combat : tout ce qui n'est pas combat.\n-&gt; *Ni du RP* du coup (oui, je sais c'est pas clair car le RP n'est pas du combat). Dans cette phase, c'est tout ce qui est Artisanat, Interlude, Exploration, Investigation",
+        "user": "U0A48EDPD",
+        "ts": "1541594690.010700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FBh1d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hors combat : tout ce qui n'est pas combat.\n-> "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Ni du RP",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " du coup (oui, je sais c'est pas clair car le RP n'est pas du combat). Dans cette phase, c'est tout ce qui est Artisanat, Interlude, Exploration, Investigation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5130425e-671c-46c3-9de2-706157733ee3",
+        "type": "message",
+        "text": "Combat : tout ce qui entre en compte dans un combat. Dans D&amp;D, un combat commence après la détermination de l'initiative (modulo la surprise, ou parfois, l'init est pas encore lancée).",
+        "user": "U0A48EDPD",
+        "ts": "1541594781.011900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xbfk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Combat : tout ce qui entre en compte dans un combat. Dans D&D, un combat commence après la détermination de l'initiative (modulo la surprise, ou parfois, l'init est pas encore lancée)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1541594788.000000"
+        }
+    },
+    {
+        "client_msg_id": "398e1fdb-5f74-4eeb-a609-87289e8ffbd8",
+        "type": "message",
+        "text": "En tout cas, tu mets en avant les mêmes problèmes que ce que je rencontre :\n- deux corpus de règles différents *versus* Une seul corpus\n- deux ressources différentes *versus* une seule ressource, mais qui sera probablement entièrement dépensée pour le combat.",
+        "user": "U0A48EDPD",
+        "ts": "1541594928.012500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+QQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En tout cas, tu mets en avant les mêmes problèmes que ce que je rencontre :\n- deux corpus de règles différents "
+                            },
+                            {
+                                "type": "text",
+                                "text": "versus",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Une seul corpus\n- deux ressources différentes "
+                            },
+                            {
+                                "type": "text",
+                                "text": "versus",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " une seule ressource, mais qui sera probablement entièrement dépensée pour le combat."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1541595099.000000"
+        }
+    },
+    {
+        "client_msg_id": "9debe622-a1e1-4263-b67b-98ee581a9206",
+        "type": "message",
+        "text": "Après ; on peut garder le même corpus de règles, et avoir deux ressources (xp) différentes, et typer les Capacités différemment (Combat \/ Hors-Combat)",
+        "user": "U0A48EDPD",
+        "ts": "1541595162.013800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ECONy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Après ; on peut garder le même corpus de règles, et avoir deux ressources (xp) différentes, et typer les Capacités différemment (Combat \/ Hors-Combat)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "eec14e00-4eae-4117-9745-dc07b68200cd",
+        "type": "message",
+        "text": "Une capacité peut avoir un effet différemment en fonction de ce qu'elle est utilisée en combat ou pas. Ca permet de réduire la problématique des points de création. Par exemple : j'achète le talent Maître de guerre, en comabt j'ai +X au combat et hors combat, j'ai des talents pour enseigner l'escrime ou reconnaitre la velur d'une arme.",
+        "user": "U0AA0KVLH",
+        "ts": "1541596153.015300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jz97z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une capacité peut avoir un effet différemment en fonction de ce qu'elle est utilisée en combat ou pas. Ca permet de réduire la problématique des points de création. Par exemple : j'achète le talent Maître de guerre, en comabt j'ai +X au combat et hors combat, j'ai des talents pour enseigner l'escrime ou reconnaitre la velur d'une arme."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "-1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2080816-bd0f-48d4-8441-8745ad276846",
+        "type": "message",
+        "text": "En revanche, il y a un problème avec la dissociation du hors combat et du RP. Autant une phase d'infiltration, d'éclaireur pour repérer des ennemis, ok mais le RP va rapidement s'imposer dans de l'investigation, des interludes. Si je fais un hors combat pour gagner de l'argent en faisant de la musique, ya du RP qui peut rapidement arriver. D'ailleurs le RP en dehors des discussions se basent souvent sur un talent.",
+        "user": "U0AA0KVLH",
+        "ts": "1541596259.017600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lkOv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En revanche, il y a un problème avec la dissociation du hors combat et du RP. Autant une phase d'infiltration, d'éclaireur pour repérer des ennemis, ok mais le RP va rapidement s'imposer dans de l'investigation, des interludes. Si je fais un hors combat pour gagner de l'argent en faisant de la musique, ya du RP qui peut rapidement arriver. D'ailleurs le RP en dehors des discussions se basent souvent sur un talent."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "96f927cf-1647-445b-8bf2-a3399dc2d76f",
+        "type": "message",
+        "text": "Bah justement ; je souahiter séparer les capacités combat des capacités hors combat, pour clarifier ce que peut faire\/ne peut pas faire un personnage.",
+        "user": "U0A48EDPD",
+        "ts": "1541596261.017800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YVPk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bah justement ; je souahiter séparer les capacités combat des capacités hors combat, pour clarifier ce que peut faire\/ne peut pas faire un personnage."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1541596304.000000"
+        }
+    },
+    {
+        "client_msg_id": "725dd63e-1320-4748-9bd6-1368672390f6",
+        "type": "message",
+        "text": "Ca parait ouvrir la porte à ouvrir un tas de savoir qqchose infini",
+        "user": "U0AA0KVLH",
+        "ts": "1541596293.018000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T\/t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca parait ouvrir la porte à ouvrir un tas de savoir qqchose infini"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539770112.000100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "d5c72bea-c268-459c-ba08-3671f8ef5e24",
+        "type": "message",
+        "text": "Savoir conduire un camion est-ce différent ? un croiseur spatial, un chasseur spatial ? un hélicoptère de combat ? un charr d'assaut ? une moto ? Ca fait déjà bcp de savoir différent à obtenir",
+        "user": "U0AA0KVLH",
+        "ts": "1541596344.018400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "em3N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Savoir conduire un camion est-ce différent ? un croiseur spatial, un chasseur spatial ? un hélicoptère de combat ? un charr d'assaut ? une moto ? Ca fait déjà bcp de savoir différent à obtenir"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539770112.000100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "166773a1-b761-4447-8b8a-724682dca05a",
+        "type": "message",
+        "text": "C'est quoi pour toi le RP ?",
+        "user": "U0A48EDPD",
+        "ts": "1541596382.019000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YXBv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est quoi pour toi le RP ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "08ca4ac7-e285-42e9-97fc-e5feb0ed6178",
+        "type": "message",
+        "text": "faire l'inverse me parait plus simple : J'ai pilotage donc je sais à peu près tout piloter mais j'ai la sous-spécialité \"voiture\" donc là j'ai un bonus à mon pilotage pour les voitures.",
+        "user": "U0AA0KVLH",
+        "ts": "1541596408.019100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gv=Hu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "faire l'inverse me parait plus simple : J'ai pilotage donc je sais à peu près tout piloter mais j'ai la sous-spécialité \"voiture\" donc là j'ai un bonus à mon pilotage pour les voitures."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539770112.000100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "39e8ac96-07e5-43df-a3a6-34a7f1b7a170",
+        "type": "message",
+        "text": "la vie",
+        "user": "U0AA0KVLH",
+        "ts": "1541596424.019400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jgNCB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la vie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "question",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "banana-rocks",
+                "users": [
+                    "U0AA0KVLH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01a39171-aa19-466d-8a52-fe520fcda671",
+        "type": "message",
+        "text": "le principal intérêt du jeu de rôle ^^",
+        "user": "U0AA0KVLH",
+        "ts": "1541596433.019700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kMBY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le principal intérêt du jeu de rôle ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cef9af6e-dca1-4236-8b28-ce68c3c1dca7",
+        "type": "message",
+        "text": "Oui c'est très subjectif",
+        "user": "U0AA0KVLH",
+        "ts": "1541596437.019900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mWQi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui c'est très subjectif"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0AA0KVLH",
+            "ts": "1541596441.000000"
+        }
+    },
+    {
+        "client_msg_id": "2d1e9b5a-1139-4908-80a4-bb6adbffa92e",
+        "type": "message",
+        "text": "ok, mais ça se traduit comment, quand on joue ?",
+        "user": "U0A48EDPD",
+        "ts": "1541596460.020500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A2mrb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, mais ça se traduit comment, quand on joue ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5520db3f-980a-4d07-b584-b22c5db79acc",
+        "type": "message",
+        "text": "c'est difficile, c'est principalement les phases ou tu incarnes ton personnage",
+        "user": "U0AA0KVLH",
+        "ts": "1541596489.021000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Xw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est difficile, c'est principalement les phases ou tu incarnes ton personnage"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "45ec2f24-2ab7-464c-af9a-05cd581110d7",
+        "type": "message",
+        "text": "avec sa pensée, ses objectifs et ses motivations",
+        "user": "U0AA0KVLH",
+        "ts": "1541596505.021300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "euXVn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "avec sa pensée, ses objectifs et ses motivations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "44381370-7efc-46ba-b349-db8df6daf41c",
+        "type": "message",
+        "text": "Question (tendencieuse) ; est-ce que tu as besoin de lancer un dé pour ça ?",
+        "user": "U0A48EDPD",
+        "ts": "1541596552.021800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yay",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Question (tendencieuse) ; est-ce que tu as besoin de lancer un dé pour ça ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "40c3cb36-32a4-4580-8e12-06b65aa2c94c",
+        "type": "message",
+        "text": "Non mais tu as souvent besoin d'avoir une base de coméptence",
+        "user": "U0AA0KVLH",
+        "ts": "1541596580.022200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CGSS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Non mais tu as souvent besoin d'avoir une base de coméptence"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d6bb9536-5ac7-4455-9627-73e1c960f456",
+        "type": "message",
+        "text": "pourquoi ?",
+        "user": "U0A48EDPD",
+        "ts": "1541596585.022400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ln6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pourquoi ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "865e42e8-407f-46bc-a592-033a5e4158de",
+        "type": "message",
+        "text": "(c'est des question auxquelles j'ai pas de bonne réponse non plus :stuck_out_tongue: )",
+        "user": "U0A48EDPD",
+        "ts": "1541596625.023000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9yCp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(c'est des question auxquelles j'ai pas de bonne réponse non plus "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "447a6fb4-4a15-419f-9df9-c67f9e4d5f42",
+        "type": "message",
+        "text": "Ca dépend bcp du sujet, si le RP parle du ressenti ou du passer d'un personnage, pas besoin",
+        "user": "U0AA0KVLH",
+        "ts": "1541596688.023600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ocfh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca dépend bcp du sujet, si le RP parle du ressenti ou du passer d'un personnage, pas besoin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "acb3bd2f-3000-427f-a27b-0a594502613d",
+        "type": "message",
+        "text": "mais si il veut disons draguer la fille du duc grâce à ces talents de musiciens, il doit souvent se reposer sur un talent dans sa feuille de perso",
+        "user": "U0AA0KVLH",
+        "ts": "1541596722.024400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4EIG+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais si il veut disons draguer la fille du duc grâce à ces talents de musiciens, il doit souvent se reposer sur un talent dans sa feuille de perso"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "80abd26e-9718-4640-9b2f-5af5c7fba311",
+        "type": "message",
+        "text": "et du coup, il devrai lancer un dé ?",
+        "user": "U0A48EDPD",
+        "ts": "1541596790.024700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hz8Ph",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et du coup, il devrai lancer un dé ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5e92fda2-8577-4ea5-910c-798afafdfcde",
+        "type": "message",
+        "text": "Si oui, dans ce cas, que se passe-t-il si :\n- La fille du duc n'est pas réceptive aux musiciens ? Même s'il fait une très belle prestation, il n'atteindra pas son objectif\n- Qu'il se plante, et que ça le rend mignon aux yeux de la fille du duc ? En ce cas, est-ce que le lancer de dé est nécessaire ?",
+        "user": "U0A48EDPD",
+        "ts": "1541596883.026500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C8rQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si oui, dans ce cas, que se passe-t-il si :\n- La fille du duc n'est pas réceptive aux musiciens ? Même s'il fait une très belle prestation, il n'atteindra pas son objectif\n- Qu'il se plante, et que ça le rend mignon aux yeux de la fille du duc ? En ce cas, est-ce que le lancer de dé est nécessaire ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7dceb634-4bbe-4351-bd32-006f1ec7c36d",
+        "type": "message",
+        "text": "le MJ décide",
+        "user": "U0AA0KVLH",
+        "ts": "1541596911.026700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "712L2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le MJ décide"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a4026ed3-48a8-47e8-bd8e-00963e4c0fd2",
+        "type": "message",
+        "text": "Si c'était moi : Je ferais lancer le dé car il y a un talent qui est utilisé et donc cela démontre l'intérêt de son utilisation mais je ne ferais que peu impacter le résultat sur l'attitude de la fille",
+        "user": "U0AA0KVLH",
+        "ts": "1541596997.027800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yVN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si c'était moi : Je ferais lancer le dé car il y a un talent qui est utilisé et donc cela démontre l'intérêt de son utilisation mais je ne ferais que peu impacter le résultat sur l'attitude de la fille"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4cc040a2-4469-4549-b57b-4ba08cd7d02c",
+        "type": "message",
+        "text": "J'entends. Mais je ne suis pas fan :expressionless:",
+        "user": "U0A48EDPD",
+        "ts": "1541597738.028400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/m5Rv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'entends. Mais je ne suis pas fan "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "expressionless",
+                                "unicode": "1f611"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6d3be818-31c3-4a8a-8bbe-b52712018641",
+        "type": "message",
+        "text": "Dans ce que j'essaie de faire pour le sphérier:\n- pas de compétence inutiles. Tu ne peut pas prendre de compétence sans capacité derrière\n- chaque capacité possède un unique scope d'application (combat\/hors-combat)\n- dans les phases rp, il ne doit y avoir aucun lancer de dé  ",
+        "user": "U0A48EDPD",
+        "ts": "1541597900.032200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "exjb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dans ce que j'essaie de faire pour le sphérier:\n- pas de compétence inutiles. Tu ne peut pas prendre de compétence sans capacité derrière\n- chaque capacité possède un unique scope d'application (combat\/hors-combat)\n- dans les phases rp, il ne doit y avoir aucun lancer de dé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4e90890c-86a3-4c2a-aa46-f375628a0665",
+        "type": "message",
+        "text": "Ce que j'aime pas dans les compétences D&amp;D, c'est qu'elles ont tous des capacités cachées. ",
+        "user": "U0A48EDPD",
+        "ts": "1541597966.033400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HoQR1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ce que j'aime pas dans les compétences D&D, c'est qu'elles ont tous des capacités cachées."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "06542266-6550-461d-bbc1-f6c50199ef33",
+        "type": "message",
+        "text": "Et que tu ne connais pas leur scope d'application ",
+        "user": "U0A48EDPD",
+        "ts": "1541598003.034300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sQd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et que tu ne connais pas leur scope d'application"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "30483aed-e3b6-44a2-8aa2-4dd58d5ee3e6",
+        "type": "message",
+        "text": "ce qui me gène plus c'est qu'elles sont d'une utilité complétement disproportionné",
+        "user": "U0AA0KVLH",
+        "ts": "1541598128.034700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Bk\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ce qui me gène plus c'est qu'elles sont d'une utilité complétement disproportionné"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8e3cb709-d5c8-41aa-9584-289f281d7c96",
+        "type": "message",
+        "text": "(exemple : acrobatie versus profession (conducteur de chariot))",
+        "user": "U0AA0KVLH",
+        "ts": "1541598193.035300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tjvWa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(exemple : acrobatie versus profession (conducteur de chariot))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0AA0KVLH",
+            "ts": "1541598196.000000"
+        }
+    },
+    {
+        "client_msg_id": "b8331b24-3003-4d00-be69-629a18072336",
+        "type": "message",
+        "text": "C'est un très bon exemple :\n- combien d'actions tu peux faire avec acrobatie ? Beaucoup plus que profession\n- quelle typologie d'action tu peux faire avec acrobatie ? Essentiellement des actions de combat, là où profession c'est du hors-combat ",
+        "user": "U0A48EDPD",
+        "ts": "1541603546.038700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+kdO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est un très bon exemple :\n- combien d'actions tu peux faire avec acrobatie ? Beaucoup plus que profession\n- quelle typologie d'action tu peux faire avec acrobatie ? Essentiellement des actions de combat, là où profession c'est du hors-combat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "379f7fba-0f17-4ebe-9997-07f24565c1f9",
+        "type": "message",
+        "text": "Et d'où mon idée de dire que les compétences sont issues des capacités ",
+        "user": "U0A48EDPD",
+        "ts": "1541603586.039900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3n8p5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et d'où mon idée de dire que les compétences sont issues des capacités"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0fb4f079-d14c-41ea-8be9-c507ef8b9cbd",
+        "type": "message",
+        "text": "Je métrais un petit bémol, ce n'est pas que acrobatie ne sert qu'essentiellement en combat, c'est je pense surtout que c'est l'une des rares compétences utile en combat donc on ne voit qu'elle mais sinon en soit, c'est une compétence tout aussi utile que les autres en hors combat.",
+        "user": "U0AA0KVLH",
+        "ts": "1541603640.041000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f9Y9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je métrais un petit bémol, ce n'est pas que acrobatie ne sert qu'essentiellement en combat, c'est je pense surtout que c'est l'une des rares compétences utile en combat donc on ne voit qu'elle mais sinon en soit, c'est une compétence tout aussi utile que les autres en hors combat."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b8718b90-34fb-422d-ab6a-bb7a8c43d19d",
+        "type": "message",
+        "text": "(c'est peut être du pinaillage)",
+        "user": "U0AA0KVLH",
+        "ts": "1541603648.041300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SQe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(c'est peut être du pinaillage)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "92056c05-7d2d-4101-bbf8-ba94787d9531",
+        "type": "message",
+        "text": "Je vais honteusement pomper tes réponses pour définir proprement les phases de jeu :wink: ",
+        "user": "U0A48EDPD",
+        "ts": "1541609451.042900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wj2NW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vais honteusement pomper tes réponses pour définir proprement les phases de jeu "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "eba5a781-bd45-433b-9f62-bc3f46e5dc4f",
+        "type": "message",
+        "text": "Je ne vois pas ce que mes réflexions ont définis mais tu as ma bénédiction pour ce honteux plagiat",
+        "user": "U0AA0KVLH",
+        "ts": "1541610670.043500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uQL2n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je ne vois pas ce que mes réflexions ont définis mais tu as ma bénédiction pour ce honteux plagiat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0AA0KVLH",
+            "ts": "1541611072.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cee6433d-c2b7-4b54-9a80-a1dde540779c",
+        "type": "message",
+        "text": "En fait, t'as une autre compétence qu'on utile au combat... le BBA.",
+        "user": "U0A48EDPD",
+        "ts": "1541611033.043600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0WV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En fait, t'as une autre compétence qu'on utile au combat... le BBA."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "21e0225f-e9df-4db6-a0d9-4ab100226651",
+        "type": "message",
+        "text": "Seulement, c'est moins utile hors-combat",
+        "user": "U0A48EDPD",
+        "ts": "1541611068.044300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZEWQ+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seulement, c'est moins utile hors-combat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

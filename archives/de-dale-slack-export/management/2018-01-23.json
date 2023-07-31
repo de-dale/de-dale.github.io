@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/rework.withgoogle.com\/>",
+        "user": "U0DSEQH9S",
+        "ts": "1516778799.000184",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qZ=G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/rework.withgoogle.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "re:Work",
+                "title_link": "https:\/\/rework.withgoogle.com\/",
+                "text": "Let's Make Work Better. Research, ideas, and practices from Google and others, to put people first.",
+                "fallback": "re:Work",
+                "image_url": "https:\/\/rework.withgoogle.com\/static\/06002c36\/public\/images\/social-share-image.png",
+                "from_url": "https:\/\/rework.withgoogle.com\/",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 157182,
+                "service_icon": "https:\/\/rework.withgoogle.com\/static\/06002c36\/public\/images\/favicon.ico",
+                "service_name": "rework.withgoogle.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Google donne gratuitement ses pratiques de management :open_mouth:",
+        "user": "U0DSEQH9S",
+        "ts": "1516778807.000176",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FzxZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Google donne gratuitement ses pratiques de management "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "open_mouth",
+                                "unicode": "1f62e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

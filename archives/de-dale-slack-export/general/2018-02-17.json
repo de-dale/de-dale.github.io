@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "text": "Les beetles ce sont des développeurs en fait :stuck_out_tongue:",
+        "user": "U0A48EDPD",
+        "ts": "1518856925.000084",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2OWT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les beetles ce sont des développeurs en fait "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/9gag.com\/gag\/a9pYRKK>",
+        "user": "U0A48EDPD",
+        "ts": "1518856925.000135",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=gnWR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/9gag.com\/gag\/a9pYRKK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "9GAG",
+                "title": "Hey jude 101",
+                "title_link": "https:\/\/9gag.com\/gag\/a9pYRKK",
+                "text": "More memes, funny videos and pics at 9GAG",
+                "fallback": "9GAG: Hey jude 101",
+                "image_url": "https:\/\/images-cdn.9gag.com\/images\/thumbnail-facebook\/41851052_1518748453.1881_hUga4U_n.jpg",
+                "from_url": "https:\/\/9gag.com\/gag\/a9pYRKK",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 50140,
+                "service_icon": "https:\/\/assets-9gag-fun.9cache.com\/s\/fab0aa49\/f6e2bed48fc9954caf0b16f2c58ec2b7892d3a4e\/static\/dist\/core\/img\/favicon.ico",
+                "id": 1
+            }
+        ]
+    }
+]

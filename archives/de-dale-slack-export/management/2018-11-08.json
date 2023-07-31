@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "7b40b6c0-a606-4023-9710-c8e89853c8a6",
+        "type": "message",
+        "text": "@ben ; tu aurais des input pour faire faire un post-mortem ? On me demande d'en faire une...",
+        "user": "U0A48EDPD",
+        "ts": "1541669313.000700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OMbq\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@ben ; tu aurais des input pour faire faire un post-mortem ? On me demande d'en faire une..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8ba36e0a-392b-430f-8292-b8eb3e36d328",
+        "type": "message",
+        "text": "Ca ressemble beauoup à une Rétrospective, mais je vais intervenir sur un sujet tendu, et j'ai besoin de billes pour trouver un bon format",
+        "user": "U0A48EDPD",
+        "ts": "1541669351.001500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8rd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca ressemble beauoup à une Rétrospective, mais je vais intervenir sur un sujet tendu, et j'ai besoin de billes pour trouver un bon format"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

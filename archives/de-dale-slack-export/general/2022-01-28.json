@@ -1,0 +1,121 @@
+[
+    {
+        "client_msg_id": "58c50f8e-bac2-45eb-b87a-15e440a46e45",
+        "type": "message",
+        "text": "Oubliez pas qu'on est vendredi, et que ce soir, c'est le week-end :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1643358221.977349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jaX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oubliez pas qu'on est vendredi, et que ce soir, c'est le week-end "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ffd493df-aa95-45d0-badd-74694a32cbe8",
+        "type": "message",
+        "text": "J'ai pensé à la même chose !",
+        "user": "U0AA0KVLH",
+        "ts": "1643358581.477189",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gkxjj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai pensé à la même chose !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a6671748-a221-4aa0-9359-d9c9d9f42eaa",
+        "type": "message",
+        "text": "ca mérite bien une petite chanson",
+        "user": "U0AA0KVLH",
+        "ts": "1643358593.702229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DWVzz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ca mérite bien une petite chanson"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "type": "message",
+        "text": "<@U0A48EDPD|faby> shared a file: <https:\/\/de-dale.slack.com\/files\/sharah\/F5PTAM69H\/constellations_gd.png|constellations GD.png>",
+        "files": [
+            {
+                "id": "F5PTAM69H",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U0A48EDPD",
+        "display_as_bot": false,
+        "ts": "1496837973.761434",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yB9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " shared a file: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/de-dale.slack.com\/files\/sharah\/F5PTAM69H\/constellations_gd.png",
+                                "text": "constellations GD.png",
+                                "unsafe": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0A48EDPD",
+        "ts": "1496838197.814840",
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[June 7th, 2017 2:21 PM] sharah: check les dévotions de GD : <https:\/\/grimcalc.com\/Mastery\/Battlemage>",
+                "ts": "1496838077.731288",
+                "author_subname": "sharah",
+                "channel_id": "C0A48J0TH",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "text": "check les dévotions de GD : <https:\/\/grimcalc.com\/Mastery\/Battlemage>",
+                "author_link": "https:\/\/de-dale.slack.com\/team\/sharah",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0016-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/de-dale.slack.com\/archives\/C0A48J0TH\/p1496838077731288?thread_ts=1496777518516902&cid=C0A48J0TH",
+                "is_share": true,
+                "footer": "From a thread in #general"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U0A48EDPD> created <https:\/\/trello.com\/c\/SUXnxsOU|Carte | Resource | La cartes n'est pas une ressource, mais peut en fournir 1-n en fonction des cellules choisies>",
+        "ts": "1496838258.829455",
+        "bot_id": "B489J8DB4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A9g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " created "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/c\/SUXnxsOU",
+                                "text": "Carte | Resource | La cartes n'est pas une ressource, mais peut en fournir 1-n en fonction des cellules choisies"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "attachments": [
+            {
+                "author_name": "Card",
+                "callback_id": "callback-idCard:5937f072ef18262b7a1161f7-ts:1496838275785",
+                "fallback": "Carte | Resource | La cartes n'est pas une ressource, mais peut en fournir 1-n en fonction des cellules choisies (<https:\/\/trello.com\/c\/SUXnxsOU>)",
+                "text": "In list *Init* on *<https:\/\/trello.com\/b\/df5mWvjz|Sphérier>*\n:paperclip: 2  ",
+                "title": "Carte | Resource | La cartes n'est pas une ressource, mais peut en fournir 1-n en fonction des cellules choisies",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/SUXnxsOU",
+                "author_icon": "https:\/\/slack-chat.trello.services\/img\/card-gray-900.png",
+                "color": "0079BF",
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "join",
+                        "text": "Join",
+                        "type": "button",
+                        "value": "{\"idCard\":\"5937f072ef18262b7a1161f7\",\"reqBoardMembership\":true}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "subscribe",
+                        "text": "Subscribe",
+                        "type": "button",
+                        "value": "{\"idCard\":\"5937f072ef18262b7a1161f7\"}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "due",
+                        "text": "Due Date",
+                        "type": "button",
+                        "value": "{\"idCard\":\"5937f072ef18262b7a1161f7\",\"reqBoardMembership\":true}",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "labels",
+                        "text": "Labels",
+                        "type": "button",
+                        "value": "{\"idCard\":\"5937f072ef18262b7a1161f7\",\"reqBoardMembership\":true}",
+                        "style": ""
+                    },
+                    {
+                        "id": "5",
+                        "name": "link",
+                        "text": "Attach Conversation",
+                        "type": "button",
+                        "value": "{\"idCard\":\"5937f072ef18262b7a1161f7\",\"reqBoardMembership\":true}",
+                        "style": ""
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/de-dale.slack.com\/archives\/C0A48J0TH\/p1496777518516902?thread_ts=1496777518.516902&amp;cid=C0A48J0TH>",
+        "user": "U0A48EDPD",
+        "ts": "1496872847.347843",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=enr\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/de-dale.slack.com\/archives\/C0A48J0TH\/p1496777518516902?thread_ts=1496777518.516902&amp;cid=C0A48J0TH",
+                                "text": "https:\/\/de-dale.slack.com\/archives\/C0A48J0TH\/p1496777518516902?thread_ts=1496777518.516902&cid=C0A48J0TH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/de-dale.slack.com\/archives\/C0A48J0TH\/p1496777518516902?thread_ts=1496777518.516902&amp;cid=C0A48J0TH",
+                "fallback": "[June 6th, 2017 12:31 PM] faby: <@U0DTHMU81> Teaser de la représentation dont je te parlais l’autre jour",
+                "ts": "1496777518.516902",
+                "author_subname": "faby",
+                "channel_id": "C0A48J0TH",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "text": "<@U0DTHMU81> Teaser de la représentation dont je te parlais l’autre jour",
+                "author_link": "https:\/\/de-dale.slack.com\/team\/faby",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Thread in #general"
+            }
+        ]
+    }
+]

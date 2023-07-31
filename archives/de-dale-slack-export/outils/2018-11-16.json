@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "aedfe87a-d926-44bf-b851-cd3cb175ef57",
+        "type": "message",
+        "text": "<https:\/\/slackmojis.com\/>",
+        "user": "U0A48EDPD",
+        "ts": "1542372413.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fc3z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/slackmojis.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": " Slackmojis - The Best Custom Slack Emojis ",
+                "title_link": "https:\/\/slackmojis.com\/",
+                "text": "A directory of the best custom emojis for your Slack chat. Download them all! Works in Discord too.",
+                "fallback": " Slackmojis - The Best Custom Slack Emojis ",
+                "from_url": "https:\/\/slackmojis.com\/",
+                "service_icon": "https:\/\/slackmojis.com\/favicon.ico",
+                "service_name": "slackmojis.com",
+                "id": 1,
+                "original_url": "https:\/\/slackmojis.com\/"
+            }
+        ]
+    }
+]

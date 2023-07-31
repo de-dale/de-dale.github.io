@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "8052cd08-872d-4632-8924-d8c2ad57ec4a",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=HLOLLAUOkX8&amp;ab_channel=APEpicMusic>\nmusic d'ambiance pour combat",
+        "user": "U0AA0KVLH",
+        "ts": "1657898314.265869",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4aC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=HLOLLAUOkX8&ab_channel=APEpicMusic"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nmusic d'ambiance pour combat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=HLOLLAUOkX8&amp;ab_channel=APEpicMusic",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/HLOLLAUOkX8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/HLOLLAUOkX8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Nine Tailed Fox ♫ Emotional Dramatic Orchestral Music Mix ♫ Sad Music ♫ Best Of Epic Music\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=HLOLLAUOkX8&amp;ab_channel=APEpicMusic",
+                "fallback": "YouTube Video: Nine Tailed Fox ♫ Emotional Dramatic Orchestral Music Mix ♫ Sad Music ♫ Best Of Epic Music",
+                "title": "Nine Tailed Fox ♫ Emotional Dramatic Orchestral Music Mix ♫ Sad Music ♫ Best Of Epic Music",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=HLOLLAUOkX8&amp;ab_channel=APEpicMusic",
+                "author_name": "AP Epic Music",
+                "author_link": "https:\/\/www.youtube.com\/c\/APEpicMusic",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

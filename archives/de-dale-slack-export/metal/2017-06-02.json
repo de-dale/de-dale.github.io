@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/9gag.com\/gag\/ajXpAqG>",
+        "user": "U0A48EDPD",
+        "ts": "1496390861.809099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/4kjP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/9gag.com\/gag\/ajXpAqG"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "9GAG",
+                "title": "Chicken screams are so addictive",
+                "title_link": "https:\/\/9gag.com\/gag\/ajXpAqG",
+                "text": "Click to see the pic and write a comment...",
+                "fallback": "9GAG: Chicken screams are so addictive",
+                "image_url": "https:\/\/images-cdn.9gag.com\/photo\/ajXpAqG_700b.jpg",
+                "from_url": "https:\/\/9gag.com\/gag\/ajXpAqG",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 30528,
+                "service_icon": "https:\/\/assets-9gag-fun.9cache.com\/s\/fab0aa49\/938874a5f54b8fd43b7419fcbac9f38c066e0776\/static\/dist\/core\/img\/favicon_v2.png",
+                "id": 1
+            }
+        ]
+    }
+]

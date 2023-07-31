@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "2112028c-b06f-41aa-b8b1-4bcd5b6ef679",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/moyetes\/status\/1362924085404180484>",
+        "user": "U0M8SF5CG",
+        "ts": "1613816904.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BRCVT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/moyetes\/status\/1362924085404180484"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/moyetes|@moyetes>: <https:\/\/twitter.com\/Slasher|@Slasher> I can take the risk so people see it, it's hilarious <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1362924017183830016\/pu\/img\/6ogMLbTv_Gu9CSRA.jpg>",
+                "ts": 1613781398,
+                "author_name": "Moy",
+                "author_link": "https:\/\/twitter.com\/moyetes\/status\/1362924085404180484",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/735185265342459904\/2yAl4XXN_normal.jpg",
+                "author_subname": "@moyetes",
+                "text": "<https:\/\/twitter.com\/Slasher|@Slasher> I can take the risk so people see it, it's hilarious",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/moyetes\/status\/1362924085404180484",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1362924017183830016\/pu\/img\/6ogMLbTv_Gu9CSRA.jpg",
+                "thumb_width": 1014,
+                "thumb_height": 480,
+                "video_html_width": 1014,
+                "video_html_height": 480,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1362924017183830016\/pu\/img\/6ogMLbTv_Gu9CSRA.jpg\" width=\"1014\" height=\"480\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1362924017183830016\/pu\/vid\/1014x480\/ksQTioPGu6apmUbM.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/moyetes\/status\/1362924085404180484",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

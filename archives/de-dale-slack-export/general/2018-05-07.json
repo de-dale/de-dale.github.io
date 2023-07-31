@@ -1,0 +1,131 @@
+[
+    {
+        "type": "message",
+        "text": "Je découvre : Munchin Dungeon&amp; Dragon",
+        "user": "U0A48EDPD",
+        "ts": "1525680753.000167",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wclW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je découvre : Munchin Dungeon& Dragon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.black-book-editions.fr\/produit.php?id=3922>",
+        "user": "U0A48EDPD",
+        "ts": "1525680753.000350",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ytuI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.black-book-editions.fr\/produit.php?id=3922"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Black Book Editions",
+                "title": "Munchkin Pathfinder • Guest Artist Edition VO",
+                "title_link": "https:\/\/www.black-book-editions.fr\/produit.php?id=3922",
+                "text": "Munchkin Pathfinder • Guest Artist Edition VO...",
+                "fallback": "Black Book Editions: Munchkin Pathfinder • Guest Artist Edition VO",
+                "image_url": "https:\/\/www.black-book-editions.fr\/img_produit\/9\/XL\/4979.jpg",
+                "from_url": "https:\/\/www.black-book-editions.fr\/produit.php?id=3922",
+                "image_width": 240,
+                "image_height": 250,
+                "image_bytes": 107717,
+                "service_icon": "http:\/\/www.black-book-editions.fr\/img\/favicon_x72.png",
+                "id": 1,
+                "original_url": "https:\/\/www.black-book-editions.fr\/produit.php?id=3922"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba110aab-4002-4165-b5fe-d9c89bd6ce3f",
+        "type": "message",
+        "text": "Ahah, vive les produits dérivés, bientôt le soda Pathfinder et le thé Seigneur des runes !",
+        "user": "U0AA0KVLH",
+        "ts": "1525683789.000032",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4H\/s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahah, vive les produits dérivés, bientôt le soda Pathfinder et le thé Seigneur des runes !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "2790c207-b017-4f7f-ae24-eb86e9af2b9f",
+        "type": "message",
+        "text": "<https:\/\/gitpitch.com\/>",
+        "user": "U0A48EDPD",
+        "ts": "1535616824.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sQ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gitpitch.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "GitPitch - The Markdown Presentation Service on Git.",
+                "title_link": "https:\/\/gitpitch.com\/",
+                "text": "The Markdown Presentation Service for Everyone on GitHub, GitLab, and Bitbucket.",
+                "fallback": "GitPitch - The Markdown Presentation Service on Git.",
+                "from_url": "https:\/\/gitpitch.com\/",
+                "service_icon": "https:\/\/gitpitch.com\/favicon.ico",
+                "service_name": "gitpitch.com",
+                "id": 1,
+                "original_url": "https:\/\/gitpitch.com\/"
+            }
+        ]
+    }
+]

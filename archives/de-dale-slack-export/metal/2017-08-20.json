@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "text": "Pour la transition <https:\/\/www.youtube.com\/watch?v=dU2Pbm9wtnw>",
+        "user": "U0M8SF5CG",
+        "ts": "1503234578.000016",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m+I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour la transition "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=dU2Pbm9wtnw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "MASHUP - Beat It, Trooper! [Iron Maiden vs. Michael Jackson]",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=dU2Pbm9wtnw",
+                "author_name": "Nightmare Lyra",
+                "author_link": "https:\/\/www.youtube.com\/user\/TheDeadPlayers",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/dU2Pbm9wtnw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: MASHUP - Beat It, Trooper! [Iron Maiden vs. Michael Jackson]",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/dU2Pbm9wtnw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=dU2Pbm9wtnw",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    }
+]

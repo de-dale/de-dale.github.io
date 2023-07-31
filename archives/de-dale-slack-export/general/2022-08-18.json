@@ -1,0 +1,106 @@
+[
+    {
+        "client_msg_id": "f950549b-e8ea-45b9-a6aa-13b0150521a6",
+        "type": "message",
+        "text": "Enfin la finn des vacances : je vais pouvoir me reposer :stuck_out_tongue:",
+        "user": "U0A48EDPD",
+        "ts": "1660806712.303609",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BOjz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Enfin la finn des vacances : je vais pouvoir me reposer "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1660806712.303609",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1660814815.681299",
+        "reply_users": [
+            "U0LSAUM71"
+        ],
+        "replies": [
+            {
+                "user": "U0LSAUM71",
+                "ts": "1660814815.681299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1660814815.681299"
+    },
+    {
+        "client_msg_id": "9fc9ca84-1fe2-4486-a03d-f982eba29d1a",
+        "type": "message",
+        "text": "Si ce n'était pas \"vacant\" est ce que c'était vraiment des vacances ?!? :wink:",
+        "user": "U0LSAUM71",
+        "ts": "1660814815.681299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xiW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si ce n'était pas \"vacant\" est ce que c'était vraiment des vacances ?!? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g2b84b81b4b4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a2b84b81b4b496230f6dbd1e4d9768fe.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "momo",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "momo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1660806712.303609",
+        "parent_user_id": "U0A48EDPD"
+    }
+]

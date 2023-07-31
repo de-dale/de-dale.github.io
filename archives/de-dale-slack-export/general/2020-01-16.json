@@ -1,0 +1,365 @@
+[
+    {
+        "client_msg_id": "2fcbab14-26b9-4b19-a0be-bf930605a57f",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1579175215.011600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ebvL3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1ff50d5e-d6f7-4f20-81f9-a812c425ed86",
+        "type": "message",
+        "text": "J'adore cette citation",
+        "user": "U0AA0KVLH",
+        "ts": "1579175223.011900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Moow",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'adore cette citation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bf1eace5-76e1-4348-9f9c-b75752dc9678",
+        "type": "message",
+        "text": "<https:\/\/www.courrierinternational.com\/article\/opinion-en-tant-que-britannique-jadore-autant-que-je-deteste-le-systeme-francais>",
+        "user": "U0AA0KVLH",
+        "ts": "1579175224.012100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qvUi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.courrierinternational.com\/article\/opinion-en-tant-que-britannique-jadore-autant-que-je-deteste-le-systeme-francais"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Courrier international",
+                "title": "Opinion. “En tant que Britannique, j’adore autant que je déteste le système français”",
+                "title_link": "https:\/\/www.courrierinternational.com\/article\/opinion-en-tant-que-britannique-jadore-autant-que-je-deteste-le-systeme-francais",
+                "text": "Dans le débat sur la réforme des retraites, certains appellent à réduire le rôle de l’État, souligne le correspondant en France du Financial Times. D’autres voient en Emmanuel Macron la réincarnation de Margaret Thatcher. Mais cette dichotomie est peut-être fausse : il existe une",
+                "fallback": "Courrier international: Opinion. “En tant que Britannique, j’adore autant que je déteste le système français”",
+                "image_url": "https:\/\/www.courrierinternational.com\/sites\/ci_master\/files\/styles\/image_940\/public\/illustrations\/thumbnails\/080_hl_mmenard_961530.jpg?itok=jGf4msY-",
+                "ts": 1578990259,
+                "from_url": "https:\/\/www.courrierinternational.com\/article\/opinion-en-tant-que-britannique-jadore-autant-que-je-deteste-le-systeme-francais",
+                "image_width": 374,
+                "image_height": 250,
+                "image_bytes": 156164,
+                "service_icon": "https:\/\/www.courrierinternational.com\/sites\/ci_master\/themes\/ci\/images\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.courrierinternational.com\/article\/opinion-en-tant-que-britannique-jadore-autant-que-je-deteste-le-systeme-francais"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63b4299b-5572-4d9e-8087-56f62fde19e2",
+        "type": "message",
+        "text": "_La France est un paradis peuplé de gens convaincus d’être en enfer. Sylvain Tesson_",
+        "user": "U0AA0KVLH",
+        "ts": "1579175238.012400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DxYgu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La France est un paradis peuplé de gens convaincus d’être en enfer. Sylvain Tesson",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "614ee14e-43b8-47dc-9c0d-469aa940b151",
+        "type": "message",
+        "text": "salut",
+        "user": "U0M8SF5CG",
+        "ts": "1579192051.014000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1T=Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "salut"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "188e676a-d678-4135-ba61-03b2fe1eff1d",
+        "type": "message",
+        "text": "pas accès à l'article du coup ça manque de contexte pour comprendre",
+        "user": "U0M8SF5CG",
+        "ts": "1579192053.014200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pXa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pas accès à l'article du coup ça manque de contexte pour comprendre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "eb5ac993-4538-43b9-9dc8-8aa6efa9e67e",
+        "type": "message",
+        "text": "Ca parle de ce qu'aime un anglais dans le système français : payer des impots pour profiter d'un système de santé excellent, et de ce qu'il aime pas : payer la retraite de gens qui partent bien plus tot que tous les autres. Et surtout de la perception des français de la chose.",
+        "user": "U0AA0KVLH",
+        "ts": "1579193359.015400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Eb6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca parle de ce qu'aime un anglais dans le système français : payer des impots pour profiter d'un système de santé excellent, et de ce qu'il aime pas : payer la retraite de gens qui partent bien plus tot que tous les autres. Et surtout de la perception des français de la chose."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "04dff3e3-5d40-4823-a3ee-ea2cc1d4ee64",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1579243799.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nWx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3ea41899-4952-47b2-b169-52faa3b50ea1",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1579247523.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6wy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

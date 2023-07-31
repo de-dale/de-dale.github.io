@@ -1,0 +1,62 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498304592.396271",
+        "user": "U5ETCTF7V",
+        "text": "<@U5ETCTF7V> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498304593.396278",
+        "user": "U0DSEQH9S",
+        "text": "<@U0DSEQH9S> has joined the channel",
+        "inviter": "U5ETCTF7V"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498304593.396281",
+        "user": "U0A48EDPD",
+        "text": "<@U0A48EDPD> has joined the channel",
+        "inviter": "U5ETCTF7V"
+    },
+    {
+        "type": "message",
+        "text": "Coucou, je me permets de solliciter votre expertise pour le management de notre équipe à la fac qui est catastrophique. ",
+        "user": "U5ETCTF7V",
+        "ts": "1498304632.398019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qO6qz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coucou, je me permets de solliciter votre expertise pour le management de notre équipe à la fac qui est catastrophique."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gc97cf1e535a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3c97cf1e535a7dc75d5b1cbaeb11e89e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Seb",
+            "real_name": "Seb Lebossu",
+            "display_name": "seblebossu",
+            "team": "T0A48J0MV",
+            "name": "seblebossu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

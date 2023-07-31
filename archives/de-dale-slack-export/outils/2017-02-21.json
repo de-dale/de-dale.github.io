@@ -1,0 +1,73 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0A48EDPD",
+        "ts": "1487673601.000002",
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[February 21st, 2017 11:38 AM] maggeus: J'ai trouvé un site génial faby : <http:\/\/www.seventhsanctum.com\/generate.php?Genname=lcnamer>",
+                "ts": "1487673494.000005",
+                "author_subname": "maggeus",
+                "channel_id": "C0A48J0TH",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "J'ai trouvé un site génial faby : <http:\/\/www.seventhsanctum.com\/generate.php?Genname=lcnamer>",
+                "author_name": "Benjamin Feireisen",
+                "author_link": "https:\/\/de-dale.slack.com\/team\/maggeus",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0004-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/de-dale.slack.com\/archives\/general\/p1487673494000005",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U0A48EDPD> pinned a message to this channel.",
+        "user": "U0A48EDPD",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[February 21st, 2017 11:38 AM] maggeus: J'ai trouvé un site génial faby : <http:\/\/www.seventhsanctum.com\/generate.php?Genname=lcnamer>",
+                "ts": "1487673494.000005",
+                "author_subname": "maggeus",
+                "channel_id": "C0A48J0TH",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "J'ai trouvé un site génial faby : <http:\/\/www.seventhsanctum.com\/generate.php?Genname=lcnamer>",
+                "author_name": "Benjamin Feireisen",
+                "author_link": "https:\/\/de-dale.slack.com\/team\/maggeus",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0004-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "is_share": true,
+                "footer": "Posted in #general",
+                "from_hidden_wksp": false,
+                "private_channel_prompt": false
+            }
+        ],
+        "ts": "1487673608.000003"
+    }
+]

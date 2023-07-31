@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "59fbb209-774f-48f2-a04b-5855971202bf",
+        "type": "message",
+        "text": "<https:\/\/clips.twitch.tv\/PoorBoringBobaSSSsss> sur le stream sc2 officiel",
+        "user": "U0M8SF5CG",
+        "ts": "1571594522.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xof",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/clips.twitch.tv\/PoorBoringBobaSSSsss"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sur le stream sc2 officiel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Twitch",
+                "title": "Free Hong Kong OSU stands with democracy  - Clip of StarCraft - Twitch Clips",
+                "title_link": "https:\/\/clips.twitch.tv\/PoorBoringBobaSSSsss",
+                "text": "Clip of StarCraft Playing StarCraft II - Clipped by cdirtbiker",
+                "fallback": "Twitch: Free Hong Kong OSU stands with democracy  - Clip of StarCraft - Twitch Clips",
+                "thumb_url": "https:\/\/clips-media-assets2.twitch.tv\/AT-cm|554471819-social-preview.jpg",
+                "from_url": "https:\/\/clips.twitch.tv\/PoorBoringBobaSSSsss",
+                "thumb_width": 1280,
+                "thumb_height": 720,
+                "service_icon": "https:\/\/static.twitchcdn.net\/assets\/favicon-32-d6025c14e900565d6177.png",
+                "id": 1,
+                "original_url": "https:\/\/clips.twitch.tv\/PoorBoringBobaSSSsss"
+            }
+        ]
+    }
+]

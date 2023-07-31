@@ -1,0 +1,45 @@
+[
+    {
+        "client_msg_id": "4f2d6ed7-35f3-4825-9e36-4b748b7496fa",
+        "type": "message",
+        "text": "Je vous souhaite un joyeux Noël, j'espère en famille malgré les difficultés ! J'espère que vous allez tous bien :hugging_face:",
+        "user": "U0DSEQH9S",
+        "ts": "1608899991.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "61PM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vous souhaite un joyeux Noël, j'espère en famille malgré les difficultés ! J'espère que vous allez tous bien "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hugging_face",
+                                "unicode": "1f917"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

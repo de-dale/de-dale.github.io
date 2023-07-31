@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "dc347beb-e2fa-48aa-af3d-63bf7a2f3168",
+        "type": "message",
+        "text": "<https:\/\/9gag.com\/gag\/amBZZnd>",
+        "user": "U0AA0KVLH",
+        "ts": "1560788661.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K8pCR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/9gag.com\/gag\/amBZZnd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "9GAG",
+                "title": "She is not wrong.",
+                "title_link": "https:\/\/9gag.com\/gag\/amBZZnd",
+                "text": "More memes, funny videos and pics on 9GAG",
+                "fallback": "9GAG: She is not wrong.",
+                "image_url": "https:\/\/images-cdn.9gag.com\/photo\/amBZZnd_700b.jpg",
+                "from_url": "https:\/\/9gag.com\/gag\/amBZZnd",
+                "image_width": 201,
+                "image_height": 250,
+                "image_bytes": 64689,
+                "service_icon": "https:\/\/assets-9gag-fun.9cache.com\/s\/fab0aa49\/649fa5f1aafee5428fe101debc9bfc5107a6fe49\/static\/dist\/core\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/9gag.com\/gag\/amBZZnd"
+            }
+        ]
+    }
+]

@@ -1,0 +1,500 @@
+[
+    {
+        "client_msg_id": "074e3669-433b-4b7f-9210-7956c719fa0c",
+        "type": "message",
+        "text": "c'est un mot français scope ?",
+        "user": "U0AA0KVLH",
+        "ts": "1578388039.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tIDP6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est un mot français scope ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "343c595d-3209-4440-9ab0-0e692c07150c",
+        "type": "message",
+        "text": "Oui",
+        "user": "U0DTHMU81",
+        "ts": "1578389090.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yBtF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c59639d5-c7f4-4c53-b2cd-ebcb5b7d4dc1",
+        "type": "message",
+        "text": "Microscope par exempel",
+        "user": "U0DTHMU81",
+        "ts": "1578389112.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A4pT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Microscope par exempel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "de81797a-6723-49af-b1a1-12242fd8a4ae",
+        "type": "message",
+        "text": "Pour le moment, la réponse que j'ai c'est \"aucun des deux\"",
+        "user": "U0A48EDPD",
+        "ts": "1578414025.001700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R1B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour le moment, la réponse que j'ai c'est \"aucun des deux\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9ed13d8e-c296-403e-9491-8f1f4dda048e",
+        "type": "message",
+        "text": "- restreindre à un seul scope, ça risque de multiplier les compétences, et de perdre les joueurs (même si ça peut être jouable, et plus simple dans la conception) \n- forcer les trois scopes, ça donne des trucs trop génériques, presque assimilable à des classes",
+        "user": "U0A48EDPD",
+        "ts": "1578414138.004400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CIz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "- restreindre à un seul scope, ça risque de multiplier les compétences, et de perdre les joueurs (même si ça peut être jouable, et plus simple dans la conception) \n- forcer les trois scopes, ça donne des trucs trop génériques, presque assimilable à des classes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1578414256.000000"
+        }
+    },
+    {
+        "client_msg_id": "d7b780b8-0bcc-4429-b0d6-c59130b12a9e",
+        "type": "message",
+        "text": "J'ai l'impression qu'il faut voir au cas par cas, quitte à favoriser des synergies de compétences trans-scope\n(Genre BBA qui donne des bonus en estimation)",
+        "user": "U0A48EDPD",
+        "ts": "1578414202.006200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yuX=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai l'impression qu'il faut voir au cas par cas, quitte à favoriser des synergies de compétences trans-scope\n(Genre BBA qui donne des bonus en estimation)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a51b386a-3ec8-4927-857b-5f9b97ed8564",
+        "type": "message",
+        "text": "En fait. En écrivant ça, je me dit que 1Competence = 1 Scope et créer des synergies, c'est le plus simple. \nQuitte à fusionner des compétences par la suite pour les rendre multi scope.",
+        "user": "U0A48EDPD",
+        "ts": "1578414363.008900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bw7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En fait. En écrivant ça, je me dit que 1Competence = 1 Scope et créer des synergies, c'est le plus simple. \nQuitte à fusionner des compétences par la suite pour les rendre multi scope."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "27df1a55-7143-4477-87cb-7a75edfafb1e",
+        "type": "message",
+        "text": "Déjà définit Compétences.",
+        "user": "U0DTHMU81",
+        "ts": "1578414783.009400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zR7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Déjà définit Compétences."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8ccbecf5-0204-4d21-ac33-dffc6846f822",
+        "type": "message",
+        "text": "Mais je suis d'accord sur le principe.",
+        "user": "U0DTHMU81",
+        "ts": "1578414897.009800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XFwG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mais je suis d'accord sur le principe."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7547c1d6-2fae-4501-8e17-1dfad26d5411",
+        "type": "message",
+        "text": "Compétences = \"Degré de maîtrise\" + \"Limite\" + \"Capacités\"",
+        "user": "U0A48EDPD",
+        "ts": "1578427091.011100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dCLH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Compétences = \"Degré de maîtrise\" + \"Limite\" + \"Capacités\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "be1c4901-9a7e-4e30-9c4c-acfb0b1531d0",
+        "type": "message",
+        "text": "1 Capacité possède un seul scope.",
+        "user": "U0A48EDPD",
+        "ts": "1578427120.011900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2zuF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1 Capacité possède un seul scope."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9ec132b2-e6f5-4a1f-b037-fc28c8ee4e42",
+        "type": "message",
+        "text": "La Compétence est associée à plusieurs Capacités, donc, potentiellement, plusieurs scopes",
+        "user": "U0A48EDPD",
+        "ts": "1578427158.013100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fEj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La Compétence est associée à plusieurs Capacités, donc, potentiellement, plusieurs scopes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0edd03b5-173e-4013-898f-51a4304ce3c2",
+        "type": "message",
+        "text": "Et si je segmente \"Degré de maîtrise\" ou \"Limite\" par scope : je préfère avoir plusieurs Compétences (1\/scope) avec des synergies",
+        "user": "U0A48EDPD",
+        "ts": "1578427267.015400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lIln",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et si je segmente \"Degré de maîtrise\" ou \"Limite\" par scope : je préfère avoir plusieurs Compétences (1\/scope) avec des synergies"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

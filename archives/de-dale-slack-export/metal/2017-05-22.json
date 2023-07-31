@@ -1,0 +1,108 @@
+[
+    {
+        "type": "message",
+        "text": "<@U0A48EDPD> : <https:\/\/youtu.be\/27dnddCq5gc>",
+        "user": "U0DSEQH9S",
+        "ts": "1495470985.438760",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d5h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/27dnddCq5gc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Satan explains HTML using DEATH METAL",
+                "title_link": "https:\/\/youtu.be\/27dnddCq5gc",
+                "author_name": "RiffShop",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCJJnX_k6hmPfuROE_Wb3-cQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/27dnddCq5gc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Satan explains HTML using DEATH METAL",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/27dnddCq5gc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/27dnddCq5gc",
+                "service_icon": "https:\/\/fst.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U0DTHMU81> aussi bien sûr",
+        "user": "U0DSEQH9S",
+        "ts": "1495471001.443930",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Atr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0DTHMU81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " aussi bien sûr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

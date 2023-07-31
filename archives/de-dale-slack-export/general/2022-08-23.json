@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "f03e4599-a09e-4e02-99c1-2fa6c3d6aa06",
+        "type": "message",
+        "text": "C'est surtout qu'on a enchainé avec la Normandie...",
+        "user": "U0A48EDPD",
+        "ts": "1661254474.273249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gQTn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est surtout qu'on a enchainé avec la Normandie..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

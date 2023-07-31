@@ -1,0 +1,133 @@
+[
+    {
+        "client_msg_id": "aaff0b89-039c-4a37-a0ea-680048c893ed",
+        "type": "message",
+        "text": "plop",
+        "user": "U0M8SF5CG",
+        "ts": "1573633621.003500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VpP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "32eacadd-6afb-4f05-ab17-e79ba77cff94",
+        "type": "message",
+        "text": "<https:\/\/www.lemonde.fr\/pixels\/article\/2019\/11\/12\/et-maintenant-quel-avenir-pour-l-e-sport-en-france_6018886_4408996.html>",
+        "user": "U0AA0KVLH",
+        "ts": "1573634037.003700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oVd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.lemonde.fr\/pixels\/article\/2019\/11\/12\/et-maintenant-quel-avenir-pour-l-e-sport-en-france_6018886_4408996.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Le Monde.fr",
+                "title": "Et maintenant, quel avenir pour l’e-sport en France ?",
+                "title_link": "https:\/\/www.lemonde.fr\/pixels\/article\/2019\/11\/12\/et-maintenant-quel-avenir-pour-l-e-sport-en-france_6018886_4408996.html",
+                "text": "L’AccorHotels Arena a accueilli le plus grand rendez-vous mondial annuel de la scène des compétitions de jeu vidéo. L’événement, qui a suscité un engouement médiatique inédit, pose la question du réservoir de croissance de l’e-sport.",
+                "fallback": "Le Monde.fr: Et maintenant, quel avenir pour l’e-sport en France ?",
+                "image_url": "https:\/\/img.lemde.fr\/2019\/11\/10\/470\/0\/4198\/2097\/1440\/720\/60\/0\/abdcd7e_5009575-01-06.jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/www.lemonde.fr\/pixels\/article\/2019\/11\/12\/et-maintenant-quel-avenir-pour-l-e-sport-en-france_6018886_4408996.html",
+                "image_bytes": 69233,
+                "service_icon": "https:\/\/www.lemonde.fr\/dist\/assets\/img\/logos\/pwa-180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.lemonde.fr\/pixels\/article\/2019\/11\/12\/et-maintenant-quel-avenir-pour-l-e-sport-en-france_6018886_4408996.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1131fe63-1d5e-43ac-9b10-57eae7ed73fa",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1573715886.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AwimW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

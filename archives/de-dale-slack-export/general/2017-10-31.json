@@ -1,0 +1,1015 @@
+[
+    {
+        "type": "message",
+        "text": "plop sinon",
+        "user": "U0A48EDPD",
+        "ts": "1509438864.000196",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jvce",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop sinon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "il parait qu'il n'y a pas de RER A",
+        "user": "U0A48EDPD",
+        "ts": "1509438870.000223",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ewGl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "il parait qu'il n'y a pas de RER A"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "(encore)",
+        "user": "U0A48EDPD",
+        "ts": "1509438874.000376",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pJpY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(encore)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.leparisien.fr\/info-paris-ile-de-france-oise\/transports\/le-rer-a-paralyse-par-une-coulee-de-boue-30-10-2017-7364124.php>",
+        "user": "U0A48EDPD",
+        "ts": "1509438895.000206",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uis",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.leparisien.fr\/info-paris-ile-de-france-oise\/transports\/le-rer-a-paralyse-par-une-coulee-de-boue-30-10-2017-7364124.php"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "leparisien.fr",
+                "title": "RER A  : le trafic n’a pas repris ce mardi matin",
+                "title_link": "http:\/\/www.leparisien.fr\/info-paris-ile-de-france-oise\/transports\/le-rer-a-paralyse-par-une-coulee-de-boue-30-10-2017-7364124.php",
+                "text": "Cinq lignes de métro sont renforcées et des bus de substitution déployés entre Auber et La Défense. Une fuite géante provoquant une coulée de boue a mis à l’arrêt cette portion du RER A lundi.",
+                "fallback": "leparisien.fr: RER A  : le trafic n’a pas repris ce mardi matin",
+                "image_url": "http:\/\/s1.lprs1.fr\/images\/2017\/10\/30\/7364160_68b45e9e-bd9e-11e7-9e49-e82e5b66ae05-1.jpg",
+                "image_width": 204,
+                "image_height": 250,
+                "ts": 1509392786,
+                "from_url": "http:\/\/www.leparisien.fr\/info-paris-ile-de-france-oise\/transports\/le-rer-a-paralyse-par-une-coulee-de-boue-30-10-2017-7364124.php",
+                "image_bytes": 77173,
+                "service_icon": "http:\/\/www.leparisien.fr\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1509443875.000214",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "78pK6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Oui c'était la merde dans le RER, il y en avait jsuqu'à Auber",
+        "user": "U0AA0KVLH",
+        "ts": "1509443938.000098",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CdJYD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui c'était la merde dans le RER, il y en avait jsuqu'à Auber"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Le problème c'est qu'il y en avait trois fois moins que la normale",
+        "user": "U0AA0KVLH",
+        "ts": "1509443952.000120",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/HbT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le problème c'est qu'il y en avait trois fois moins que la normale"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "un RER en 15 mins en heure de pointe",
+        "user": "U0AA0KVLH",
+        "ts": "1509443960.000104",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hkK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "un RER en 15 mins en heure de pointe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "(ce qui est étrange en y pensant : moins de trajet à faire pour les trains mais énormément moins de trains)",
+        "user": "U0AA0KVLH",
+        "ts": "1509443997.000110",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lPqAu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(ce qui est étrange en y pensant : moins de trajet à faire pour les trains mais énormément moins de trains)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "(alors que théoriquement : moins de trajet, plus facile d'avoir plus de train)",
+        "user": "U0AA0KVLH",
+        "ts": "1509444018.000104",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E9C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(alors que théoriquement : moins de trajet, plus facile d'avoir plus de train)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ca m'a fait raté le début de la réunion de ce matin",
+        "user": "U0AA0KVLH",
+        "ts": "1509444027.000037",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DAH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca m'a fait raté le début de la réunion de ce matin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "d'où mon temps à répondre.",
+        "user": "U0AA0KVLH",
+        "ts": "1509444033.000009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3u7Qe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "d'où mon temps à répondre."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Merci pour le lien, je vais lire ça",
+        "user": "U0AA0KVLH",
+        "ts": "1509444041.000079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cWh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour le lien, je vais lire ça"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Bon",
+        "user": "U0A48EDPD",
+        "ts": "1509455602.000058",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IciR5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ça y est",
+        "user": "U0A48EDPD",
+        "ts": "1509455606.000145",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lYrFX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ça y est"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "il me reste 3 semaines à faire chez Darty :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1509455616.000334",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wEhAU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "il me reste 3 semaines à faire chez Darty "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "On faite ça vendredi",
+        "user": "U0AA0KVLH",
+        "ts": "1509457153.000241",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kO6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On faite ça vendredi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "non ; on trouvera une autre date :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1509457234.000402",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Epr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "non ; on trouvera une autre date "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "avec plaisir",
+        "user": "U0AA0KVLH",
+        "ts": "1509457865.000140",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H=De",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "avec plaisir"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Un niveau d'humour bien noir ?",
+        "user": "U0AA0KVLH",
+        "ts": "1509465230.000729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "surR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un niveau d'humour bien noir ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/unodieuxconnard.com\/2017\/09\/12\/les-pedophiles-de-thiercelieux\/>",
+        "user": "U0AA0KVLH",
+        "ts": "1509465231.000687",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mgyuX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/unodieuxconnard.com\/2017\/09\/12\/les-pedophiles-de-thiercelieux\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Le blog d'un odieux connard",
+                "service_url": "http:\/\/unodieuxconnard.com",
+                "title": "Les pédophiles de Thiercelieux",
+                "title_link": "https:\/\/unodieuxconnard.com\/2017\/09\/12\/les-pedophiles-de-thiercelieux\/",
+                "author_name": "Un odieux connard",
+                "author_link": "https:\/\/unodieuxconnard.com\/author\/stukka\/",
+                "thumb_url": "https:\/\/odieuxconnard.files.wordpress.com\/2017\/09\/pub.png?fit=200%2C150",
+                "thumb_width": 200,
+                "thumb_height": 133,
+                "text": "Vous en avez assez de jouer aux Loups-Garous de Thiercelieux ? Vous trouvez injuste que le personnage de la Petite Fille soit toujours si important durant les parties ? Enfin, vous souhaitez un jeu &agrave; la fois f&eacute;ministe et ludique pour enseigner aux enfants &agrave; ne pas grimper dans le Trafic du premier margoulin venu ainsi que les dures r&eacute;alit&eacute;s de la vie d&rsquo;une petite fille ?\n\nAvec les p&eacute;dophiles de Thiercelieux, c&rsquo;est enfin possible !\n\nCon&ccedil;u avec le formidable et talentueux Poulop aux crayons, voici donc la variante qui saura enfin apporter un vent de fra&icirc;cheur et de bon go&ucirc;t dans vos soir&eacute;es.\n\nLa bo&icirc;te est garantie sans pluie de cendres ou explosion, ce qui est signe de qualit&eacute; et de go&ucirc;t.\n\n\n&Eacute;videmment, pour celles et ceux qui ignoreraient les r&egrave;gles du plus c&eacute;l&egrave;bre des jeu des colonies de vacances et des soir&eacute;es arros&eacute;es, faisons un petit rappel.\n\nLes r&egrave;gles&nbsp;\n&ndash; Le joueur qui a la plus grosse camionnette est d&eacute;sign&eacute; ma&icirc;tre d&rsquo;&eacute;cole. Celui-ci s&rsquo;assure du bon d&eacute;roulement de la partie.\n&ndash; Le ma&icirc;tre d&rsquo;&eacute;cole distribue les cartes. Chaque joueur en prend connaissance secr&egrave;tement. Sinon, le ma&icirc;tre d&rsquo;&eacute;cole distribue aussi les mandales (sauf si vous jouez avec l&rsquo;extension &laquo;&nbsp;Inspection acad&eacute;mique&laquo;&nbsp;)\n&ndash; Les joueurs sont divis&eacute;s en deux camps : les petites filles et les p&eacute;dophiles. Le but des petites filles est de d&eacute;noncer tous les p&eacute;dophiles. Le but des p&eacute;dophiles est de.. bon, &eacute;coutez, hein, voil&agrave;.\n&ndash; Certaines petites filles disposent de capacit&eacute;s sp&eacute;ciales, indiqu&eacute;es sur les cartes distribu&eacute;es en d&eacute;but de partie.\n\n\n\nUn tour de jeu se d&eacute;roule de la mani&egrave;re suivante :\n\n\n\n1) La journ&eacute;e d&rsquo;&eacute;cole s&rsquo;ach&egrave;ve.&nbsp;\nDurant cette p&eacute;riode apr&egrave;s les cours, tout le monde ferme les yeux.\n&ndash; Le ma&icirc;tre d&rsquo;&eacute;cole appelle alors les p&eacute;dophiles et les invite &agrave; ouvrir les yeux pour d&eacute;signer discr&egrave;tement une cible. Puis ils ferment les yeux.\n&ndash; Les petites filles qui ont des capacit&eacute;s sp&eacute;ciales sont appel&eacute;es tour &agrave; tour et peuvent ouvrir les yeux, et signaler discr&egrave;tement si elles utilisent leur capacit&eacute; sp&eacute;ciale.\n2) La journ&eacute;e d&rsquo;&eacute;cole commence\n&ndash; Le ma&icirc;tre d&rsquo;&eacute;cole invite tous les joueurs &agrave; ouvrir les yeux, et signale que ce matin, il y a une absente en cours : elle a probablement &eacute;t&eacute; enlev&eacute;e par les p&eacute;dophiles ! Le joueur de ce personnage est d&eacute;sormais hors-jeu et ne peut plus agir. Les joueurs restants sont invit&eacute;s &agrave; d&eacute;battre de ce qu&rsquo;ils pensent, bluffer, insulter des mamans ou user de tout autre stratag&egrave;me un peu pute pour essayer de deviner l&rsquo;identit&eacute; des autres joueurs.\n&ndash; Un vote a lieu pour d&eacute;signer qui les &eacute;l&egrave;ves soup&ccedil;onnent d&rsquo;&ecirc;tre un p&eacute;dophile. La personne d&eacute;sign&eacute;e par le plus de voix est d&eacute;sormais hors-jeu (elle est en r&eacute;alit&eacute; battue &agrave; mort par des petites filles hyperactives puis pendue avec une corde &agrave; sauter sous le pr&eacute;au).\n\nDe l&agrave;, la journ&eacute;e d&rsquo;&eacute;cole s&rsquo;ach&egrave;ve, et on recommence un tour jusqu&rsquo;&agrave; ce que tous les p&eacute;dophiles ou toutes les petites filles soient &eacute;limin&eacute;s.\n\n&Agrave; noter qu&rsquo;en d&eacute;but de partie, les petites filles votent pour une d&eacute;l&eacute;gu&eacute;e, qui en cas d&rsquo;&eacute;galit&eacute; dans les votes, l&rsquo;emporte. Si ce personnage est &eacute;limin&eacute;, il choisit qui devient la nouvelle d&eacute;l&eacute;gu&eacute;e pour reprendre la dure t&acirc;che de fayoter aupr&egrave;s du prof.\n\n\nLes cartes\nLa carte la plus r&eacute;pandue du jeu. &Eacute;videmment, cette carte fait l&rsquo;apologie des arch&eacute;types de genre et est donc probablement nazie.\n\nLa carte de d&eacute;l&eacute;gu&eacute;e permet de remporter un vote en cas d&rsquo;&eacute;galit&eacute;. Ce qui est finalement vachement mieux que les pouvoirs de d&eacute;l&eacute;gu&eacute;s dans les vraies &eacute;coles.\n\n\nDe toute mani&egrave;re, de nos jours, si un enfant est kidnapp&eacute; et qu&rsquo;il a un t&eacute;l&eacute;phone portable, nous savons tous que la premi&egrave;re chose qu&rsquo;il fera, c&rsquo;est prendre un selfie.\n&Eacute;videmment, les parents de la grande fille nieront et vous assureront qu&rsquo;elle est en r&eacute;alit&eacute; hyperactive, hyper&eacute;motive, dyslexique, dyscalculique, bipolaire et bien &eacute;videmment, autiste asperger.\n\n\nCette carte n&rsquo;est pas cr&eacute;dible pour un sou : tout le monde sait que Thiercelieux est en zone de gendarmerie.\nCette carte n&rsquo;est pas cr&eacute;dible : tout le monde sait que Thiercelieux est en zone gendarmerie.\n&laquo;&nbsp;Elle en faisait au moins le double. Attendez, non, merde, c&rsquo;est pas ce que je voulais dire.&nbsp;&raquo;\n\nEt pour varier les plaisirs, des extensions sont d&eacute;j&agrave; programm&eacute;es, ainsi que bien s&ucirc;r, des propositions de r&egrave;gles diff&eacute;rentes pour vous amuser toujours plus dans le bon go&ucirc;t et la bonne humeur !\nLes variantes\nLa classique :\nTous les joueurs sont des petites filles (avec ou sans pouvoirs sp&eacute;cifiques), &agrave; l&rsquo;exception des p&eacute;dophiles. En fonction du nombre de joueurs, consid&eacute;rez qu&rsquo;il faut environ un p&eacute;dophile pour trois petites filles.\n\nLe cat&eacute;chisme :\nTous les joueurs sont des p&eacute;dophiles, sauf un qui joue une petite fille. Le but du jeu est d&rsquo;arriver enfin &agrave; coucher avec la bonne cible sans se faire excommunier pour avoir forniqu&eacute; avec un autre membre du clerg&eacute; par erreur.\n\nL&rsquo;am&eacute;ricaine :\nTous les joueurs jouent le policier, sauf un qui n&rsquo;a pas de carte. La partie s&rsquo;arr&ecirc;te quand les policiers trouvent celui qui n&rsquo;a pas de papiers, ou quand ils se sont tous abattus entre eux dans la confusion.\n\nLa communiste :\nTous les enfants sont morts de faim, et il n&rsquo;y a pas assez de cartes &agrave; distribuer. Arr&ecirc;tez de jouer et retournez au travail atteindre vos quotas, camarades.\n&nbsp;\nLes extensions &agrave; venir\nInspection Acad&eacute;mique :&nbsp;de nouvelles cartes (l&rsquo;inspecteur, le p&eacute;dagogue, le syndicaliste&hellip;), pour ralentir vos parties voire perturber les p&eacute;dophiles en d&eacute;clenchant des gr&egrave;ves inopin&eacute;es !\nSortie scolaire :&nbsp;d&eacute;couvrez des variantes amusantes pour rendre vos parties plus faciles (nouvelle carte : &laquo;&nbsp;Sortie en Ardennes belges&laquo;&nbsp;) ou plus difficiles (nouvelle carte : &laquo;&nbsp;Sortie &agrave; Fleury-M&eacute;rogis&laquo;&nbsp;) !\nSeine Saint-Denis :&nbsp;cutters, kalachnikovs et cocktails molotovs : d&eacute;couvrez la nouvelle variante o&ugrave; cette fois-ci, le ma&icirc;tre d&rsquo;&eacute;cole prie pour que les p&eacute;dophiles viennent le sauver !\nVoil&agrave; ! Vous n&rsquo;avez plus de raison de vous priver de fort belles parties &agrave; rire avec vos amis avant que la police ne d&eacute;fonce la porte suite &agrave; une plainte des voisins ayant entendu d&rsquo;&eacute;tranges bribes de conversations. N&rsquo;oubliez pas d&rsquo;emmener le jeu en garde &agrave; vue pour vous amuser avec vos camarades de cellule !\nToute la famille s&rsquo;amuse avec les p&eacute;dophiles de Thiercelieux ; faites tourner !",
+                "fallback": "Le blog d'un odieux connard Link: Les pédophiles de&nbsp;Thiercelieux",
+                "from_url": "https:\/\/unodieuxconnard.com\/2017\/09\/12\/les-pedophiles-de-thiercelieux\/",
+                "service_icon": "https:\/\/secure.gravatar.com\/blavatar\/aa79509f196eae35b97bed0901612520?s=114",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Propre",
+        "user": "U0A48EDPD",
+        "ts": "1509465933.000385",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=4i=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Propre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "à offirer à des gamins de huit anss :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1509465942.000275",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F54",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "à offirer à des gamins de huit anss "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Je le met de côté pour valentin ?",
+        "user": "U0AA0KVLH",
+        "ts": "1509466360.000585",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MT2D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je le met de côté pour valentin ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Carrément",
+        "user": "U0A48EDPD",
+        "ts": "1509466482.000706",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P9U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Carrément"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": ":slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1509466484.000761",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F6Wjv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

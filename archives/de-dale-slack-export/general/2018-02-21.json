@@ -1,0 +1,111 @@
+[
+    {
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1519201215.000299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zVX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "bot_id": "B0DGMTBFT",
+        "type": "message",
+        "text": "",
+        "user": "U0AA0KVLH",
+        "ts": "1519229324.000303",
+        "team": "T0A48J0MV",
+        "bot_profile": {
+            "id": "B0DGMTBFT",
+            "app_id": "A0F827J2C",
+            "name": "giphy",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "deleted": false,
+            "updated": 1446211592,
+            "team_id": "T0A48J0MV"
+        },
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/sasha-katz-3o7aCRZYNerX4ovPwI",
+                "image_url": "https:\/\/media3.giphy.com\/media\/3o7aCRZYNerX4ovPwI\/giphy-downsized.gif",
+                "image_width": 175,
+                "image_height": 250,
+                "image_bytes": 1984386,
+                "is_animated": true,
+                "title": "wind",
+                "footer": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/sashakatz\/|Sasha Katz>",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/sasha-katz-3o7aCRZYNerX4ovPwI"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Plop",
+        "user": "U0DSEQH9S",
+        "ts": "1519235259.000636",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WrFk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

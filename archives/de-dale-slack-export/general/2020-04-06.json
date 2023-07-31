@@ -1,0 +1,530 @@
+[
+    {
+        "client_msg_id": "a4742d15-a407-456a-94c1-113d9afce689",
+        "type": "message",
+        "text": "plop",
+        "user": "U0M8SF5CG",
+        "ts": "1586166503.054600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M49=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "527d5dec-d465-453c-880c-b435a7039939",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0A48EDPD",
+        "ts": "1586172670.054800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JJmZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6bf31446-bf4f-415b-8c31-ada8f529b518",
+        "type": "message",
+        "text": "<@U0A9S1HCJ> oui",
+        "user": "U0A48EDPD",
+        "ts": "1586172677.055100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w16nE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A9S1HCJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " oui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c4e88853-66c1-42bf-a487-a840c34af117",
+        "type": "message",
+        "text": "Ping <@U0A9S1HCJ>",
+        "user": "U0A48EDPD",
+        "ts": "1586172776.056100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e6JM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ping "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0A9S1HCJ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586090063.052000",
+        "parent_user_id": "U0DTHMU81"
+    },
+    {
+        "client_msg_id": "60342bfd-3718-4464-9f59-f9346700aee0",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1586188643.056400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V6j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3113de7c-ebfa-4572-89b4-a6bff286ea29",
+        "type": "message",
+        "text": "Le lien de faby c'est le manuel des règles",
+        "user": "U0AA0KVLH",
+        "ts": "1586188690.056900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o2JS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le lien de faby c'est le manuel des règles"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "aa032902-d50f-4615-bd86-9fa0afabbc80",
+        "type": "message",
+        "text": "donc oui ya tout",
+        "user": "U0AA0KVLH",
+        "ts": "1586188697.057100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Y9Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "donc oui ya tout"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "560830d3-2314-4c55-8a93-6d89de0b81ce",
+        "type": "message",
+        "text": "Je crois qu'en 1 semaine, j'ai renvoyé 3 fois le même lien vers le Google drive :wink:",
+        "user": "U0A48EDPD",
+        "ts": "1586205617.058500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MNMdS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je crois qu'en 1 semaine, j'ai renvoyé 3 fois le même lien vers le Google drive "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "02edee1e-fcd5-4ca7-b2ee-7c59712cb584",
+        "type": "message",
+        "text": "(Ou vers des dossiers différents)",
+        "user": "U0A48EDPD",
+        "ts": "1586205641.059200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HCJm0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Ou vers des dossiers différents)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ef8d0fbe-96e1-4ad5-98fd-f9c558505d19",
+        "type": "message",
+        "text": "Pas si bien la vidéo. Ils veulent surtout vendre de la préco...",
+        "user": "U0A48EDPD",
+        "ts": "1586205748.059300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zBPjt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas si bien la vidéo. Ils veulent surtout vendre de la préco..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585864858.037300",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "7e6615e7-6fae-41cf-8c30-548fb7728ea3",
+        "type": "message",
+        "text": "Ce que je retiens :\n- Suppression de plein de bonus volants pour distribuer des jetons \"Atout\", a dépenser pour faire de nouvelles actions ou \"Emp\" (dixit sharah) des actions existantes. 4 aux début d'une rencontre, Max 7, et tu en gagnes dès que tu arrives à t'avantager\n- Suppression des \"passes d'initiatives\" et retour à un système connu de D&amp;D : Chaque joueur possède 3d6 d'initiative. On tire au début du combat. Pour compenser le mécanismes, chaque dé d'initiative en plus (capa de classe) donne une action \"mineures\" en plus. Chaque joueur possède, et 1 action majeure (attaque, lancer un sort) et 1 action mineure (déplacement, viser, parer). Avec les actions mineures, on peut \"Emp\" des actions majeures ou faire des trucs pour créer un avantage. Mais on peut aussi les garder sous le coude pour se défendre ou réagir hors de son tour (voir les Réactions du sphèrier, les PR du Projet Renaissance, et les actions rapides de PF). Et on peut utiliser 4 mineures pour faire 1 majeure de plus dans son tour.",
+        "user": "U0A48EDPD",
+        "ts": "1586206615.059500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rUMK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ce que je retiens :\n- Suppression de plein de bonus volants pour distribuer des jetons \"Atout\", a dépenser pour faire de nouvelles actions ou \"Emp\" (dixit sharah) des actions existantes. 4 aux début d'une rencontre, Max 7, et tu en gagnes dès que tu arrives à t'avantager\n- Suppression des \"passes d'initiatives\" et retour à un système connu de D&D : Chaque joueur possède 3d6 d'initiative. On tire au début du combat. Pour compenser le mécanismes, chaque dé d'initiative en plus (capa de classe) donne une action \"mineures\" en plus. Chaque joueur possède, et 1 action majeure (attaque, lancer un sort) et 1 action mineure (déplacement, viser, parer). Avec les actions mineures, on peut \"Emp\" des actions majeures ou faire des trucs pour créer un avantage. Mais on peut aussi les garder sous le coude pour se défendre ou réagir hors de son tour (voir les Réactions du sphèrier, les PR du Projet Renaissance, et les actions rapides de PF). Et on peut utiliser 4 mineures pour faire 1 majeure de plus dans son tour."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1586206672.000000"
+        },
+        "thread_ts": "1585864858.037300",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "4a202e06-338a-480b-8435-a2f481adc64b",
+        "type": "message",
+        "text": "au moins tu as appris des trucs",
+        "user": "U0AA0KVLH",
+        "ts": "1586221607.059800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DKk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "au moins tu as appris des trucs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585864858.037300",
+        "parent_user_id": "U0AA0KVLH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89e15863-eab2-4a5e-85aa-9a86eb791a26",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0A48EDPD",
+        "ts": "1586240506.060200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IVp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

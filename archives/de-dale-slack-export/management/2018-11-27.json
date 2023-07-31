@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "5ac5bbc9-70c2-4621-a08a-689fad2f4553",
+        "type": "message",
+        "text": "<https:\/\/medium.com\/@trafflin\/agile-recruitment-episode-4-83efdb48d283>",
+        "user": "U0A48EDPD",
+        "ts": "1543350516.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5JChK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/@trafflin\/agile-recruitment-episode-4-83efdb48d283"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Agile Recruitment — Episode 4 – Thomas RAFFLIN – Medium",
+                "title_link": "https:\/\/medium.com\/@trafflin\/agile-recruitment-episode-4-83efdb48d283",
+                "text": "Episode 4 — Working with Scrum: the Scrum Recruitment Events &amp; Artifacts",
+                "fallback": "Medium: Agile Recruitment — Episode 4 – Thomas RAFFLIN – Medium",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*3MyoiylUUO4yGNXfoGD_QQ.gif",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "4 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1541413663,
+                "from_url": "https:\/\/medium.com\/@trafflin\/agile-recruitment-episode-4-83efdb48d283",
+                "image_width": 804,
+                "image_height": 250,
+                "image_bytes": 112060,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*8I-HPL0bfoIzGied-dzOvA.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/@trafflin\/agile-recruitment-episode-4-83efdb48d283"
+            }
+        ]
+    }
+]

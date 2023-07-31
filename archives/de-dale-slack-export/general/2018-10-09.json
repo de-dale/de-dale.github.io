@@ -1,0 +1,140 @@
+[
+    {
+        "client_msg_id": "99a2a6d6-30ad-423f-95c2-f8176677e568",
+        "type": "message",
+        "text": "Je ne sais plus si j'ai parlé de Typora ici (<http:\/\/typora.io>)",
+        "user": "U0A48EDPD",
+        "ts": "1539070278.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U\/OQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je ne sais plus si j'ai parlé de Typora ici ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/typora.io"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "A new way to read &amp; write Markdown",
+                "title_link": "http:\/\/typora.io\/",
+                "text": "Typora is a cross-platform minimal markdown editor, providing seamless experience for both markdown readers and writers.",
+                "fallback": "A new way to read &amp; write Markdown",
+                "thumb_url": "http:\/\/typora.io\/img\/twitter-sum.png",
+                "from_url": "http:\/\/typora.io\/",
+                "thumb_width": 240,
+                "thumb_height": 240,
+                "service_icon": "https:\/\/typora.io\/img\/favicon-16.png",
+                "service_name": "typora.io",
+                "id": 1,
+                "original_url": "http:\/\/typora.io"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "360da249-239a-4dac-8ea7-bb6232a0f19d",
+        "type": "message",
+        "text": "C'est un éditeur de texte très léger mais très cool",
+        "user": "U0A48EDPD",
+        "ts": "1539070305.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6EmHJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est un éditeur de texte très léger mais très cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7ba5ffc8-048c-446f-9b9a-a1c68d010925",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1539071822.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VvI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

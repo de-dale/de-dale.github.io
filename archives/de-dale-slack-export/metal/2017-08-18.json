@@ -1,0 +1,59 @@
+[
+    {
+        "type": "message",
+        "text": "C’est pas du métal, mais fuk <https:\/\/9gag.com\/gag\/aGedme0>",
+        "user": "U0A48EDPD",
+        "ts": "1503076524.000009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ESrt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est pas du métal, mais fuk "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/9gag.com\/gag\/aGedme0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "9GAG",
+                "title": "Nobody can hate this!",
+                "title_link": "https:\/\/9gag.com\/gag\/aGedme0",
+                "text": "Click to watch the video and the fun convo of the 9GAG community",
+                "fallback": "9GAG: Nobody can hate this!",
+                "image_url": "https:\/\/images-cdn.9gag.com\/photo\/aGedme0_700b.jpg",
+                "from_url": "https:\/\/9gag.com\/gag\/aGedme0",
+                "image_width": 320,
+                "image_height": 240,
+                "image_bytes": 8454,
+                "service_icon": "https:\/\/assets-9gag-fun.9cache.com\/s\/fab0aa49\/e56e7ed2fbbafbaf41940e98160ac3c9f4333766\/static\/dist\/core\/img\/favicon_v2.png",
+                "id": 1
+            }
+        ]
+    }
+]

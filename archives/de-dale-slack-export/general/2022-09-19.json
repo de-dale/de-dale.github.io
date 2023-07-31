@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "ed91c9eb-7cac-4386-98c4-724f8937ae93",
+        "type": "message",
+        "text": "Enorme ! ça vient d'où ?",
+        "user": "U0A48EDPD",
+        "ts": "1663594836.946689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DdkZI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Enorme ! ça vient d'où ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1663347955.313439",
+        "parent_user_id": "U0AA0KVLH"
+    }
+]

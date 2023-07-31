@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "893b29c2-f697-47da-bd0d-4b10f79779c0",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/Antho_Repartie\/status\/1594638016378769409>\nTout s'explique.... TOUT",
+        "user": "U0AA0KVLH",
+        "ts": "1669054651.199039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bepd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/Antho_Repartie\/status\/1594638016378769409"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTout s'explique.... TOUT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/Antho_Repartie\/status\/1594638016378769409",
+                "ts": 1669026304,
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FiFJKm0XgAAsUZA.jpg",
+                "image_width": 588,
+                "image_height": 331,
+                "image_bytes": 27300,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/Antho_Repartie\/status\/1594638016378769409",
+                "fallback": "<https:\/\/twitter.com\/Antho_Repartie|@Antho_Repartie>: Pour fêter l’opération réussie de la fistule anale de Louis XIV, Lully composa un chant qui deviendra l'actuel God Save the King. Commentaire de la marquise de Créquy :\n\n- Que l’hymne des Anglais naquit d’un anus, voilà qui ne cesse de me faire rire sans toutefois me surprendre.",
+                "text": "Pour fêter l’opération réussie de la fistule anale de Louis XIV, Lully composa un chant qui deviendra l'actuel God Save the King. Commentaire de la marquise de Créquy :\n\n- Que l’hymne des Anglais naquit d’un anus, voilà qui ne cesse de me faire rire sans toutefois me surprendre.",
+                "author_name": "Anthologie de la répartie",
+                "author_link": "https:\/\/twitter.com\/Antho_Repartie\/status\/1594638016378769409",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1324840925613481984\/xfL2EwWX_normal.jpg",
+                "author_subname": "@Antho_Repartie",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

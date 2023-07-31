@@ -1,0 +1,122 @@
+[
+    {
+        "type": "message",
+        "text": "<@U0A48EDPD|faby> uploaded a file: <https:\/\/de-dale.slack.com\/files\/faby\/F2TD89B7W\/caract__res.xlsx|Caractères.xlsx>",
+        "files": [
+            {
+                "id": "F2TD89B7W",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "user": "U0A48EDPD",
+        "display_as_bot": false,
+        "ts": "1477326453.000002",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ztB=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " uploaded a file: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/de-dale.slack.com\/files\/faby\/F2TD89B7W\/caract__res.xlsx",
+                                "text": "Caractères.xlsx",
+                                "unsafe": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "certes, mais pas fini",
+        "user": "U0A48EDPD",
+        "ts": "1477375410.000002",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bHuG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "certes, mais pas fini"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Y'a encore des gens sur ce chan ? :stuck_out_tongue:",
+        "user": "U0A48EDPD",
+        "ts": "1477375421.000003",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0jPfe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y'a encore des gens sur ce chan ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "556d8fe4-fc2d-43a4-b3f0-99b465b66329",
+        "type": "message",
+        "text": "Les Trois Ploppletaires",
+        "user": "U0A48EDPD",
+        "ts": "1611393963.007700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nRdC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les Trois Ploppletaires"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,1892 @@
+[
+    {
+        "client_msg_id": "1b414e60-be4f-41e5-b739-8dc5d027ff3e",
+        "type": "message",
+        "text": "Suggestion :\n&gt; *Deck d'actions*\n&gt; Les `Actions` des acteurs d'un combat sont représentées par des cartes nominatives. On mélange toutes les cartes et on les tire une par une. \n&gt;\n&gt; Lorsqu'une carte est révélée, son possesseur peut la dépenser pour effectuer une Action, ou la garder pour effectuer une Action plus coûteuse plus tard dans le tour.\n&gt;\n&gt; Une fois le Deck vidé, c'est la fin du tour. On récupère toutes les cartes, même celles qui n'ont pas été jouées, et on les mélange.\n&gt; \n&gt; *Actions sur plusieurs tours :* Sais pas :expressionless:\n&gt; *Acteur ayant toutes ses cartes en main :* Sais pas :expressionless:",
+        "user": "U0A48EDPD",
+        "ts": "1543392674.006300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f9TxC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Suggestion :"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Deck d'actions",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLes "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Actions",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " des acteurs d'un combat sont représentées par des cartes nominatives. On mélange toutes les cartes et on les tire une par une. \n\nLorsqu'une carte est révélée, son possesseur peut la dépenser pour effectuer une Action, ou la garder pour effectuer une Action plus coûteuse plus tard dans le tour.\n\nUne fois le Deck vidé, c'est la fin du tour. On récupère toutes les cartes, même celles qui n'ont pas été jouées, et on les mélange.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Actions sur plusieurs tours :",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sais pas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "expressionless",
+                                "unicode": "1f611"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Acteur ayant toutes ses cartes en main :",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sais pas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "expressionless",
+                                "unicode": "1f611"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1543392709.000000"
+        }
+    },
+    {
+        "client_msg_id": "f5b162db-9301-4e23-b9f9-5dad23880d46",
+        "type": "message",
+        "text": "Un avis ou des remarques sur cette proposition pour tirer l'initiative?",
+        "user": "U0A48EDPD",
+        "ts": "1543392761.008200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HRJT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un avis ou des remarques sur cette proposition pour tirer l'initiative?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8a9a4ce9-c85e-4302-a0b8-88a58eabf314",
+        "type": "message",
+        "text": "Pas compris le mécanisme du deck d'action. C'est un truc à la Magic? Tu peux faire que les actions en main ?",
+        "user": "U0AA0KVLH",
+        "ts": "1543393603.009600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9CEK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas compris le mécanisme du deck d'action. C'est un truc à la Magic? Tu peux faire que les actions en main ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c653b7e6-42b9-4e91-9c18-bad51ecf2cc6",
+        "type": "message",
+        "text": "non : les Actions sont des points que tu peux dépenser pour faire des trucs",
+        "user": "U0A48EDPD",
+        "ts": "1543393712.010100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PPML",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "non : les Actions sont des points que tu peux dépenser pour faire des trucs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4b65966e-e9fe-47b5-b0d8-f9948e5a73c1",
+        "type": "message",
+        "text": "de base ; tu as 2 Actions",
+        "user": "U0A48EDPD",
+        "ts": "1543393731.010500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pgk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "de base ; tu as 2 Actions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "07759e37-c0aa-4e3f-95c6-31bf59e82968",
+        "type": "message",
+        "text": "Et \"Attaquer\" coute deux actions",
+        "user": "U0A48EDPD",
+        "ts": "1543393752.011000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZtF+t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et \"Attaquer\" coute deux actions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a9051148-75f9-4053-9855-35f60ec5690f",
+        "type": "message",
+        "text": "(et tu as plusieurs actions qui coutent 1A°)",
+        "user": "U0A48EDPD",
+        "ts": "1543393779.011500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A4te",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(et tu as plusieurs actions qui coutent 1A°)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bfe478cc-1120-4dd6-b827-1c6a38030a4f",
+        "type": "message",
+        "text": "Du coup ; l'idée c'est de stacker\/dépsenser tes actions dès que tu les as en main",
+        "user": "U0A48EDPD",
+        "ts": "1543393811.012000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+KbP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Du coup ; l'idée c'est de stacker\/dépsenser tes actions dès que tu les as en main"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6a9c911e-2469-46a8-bcf7-6fe88945beef",
+        "type": "message",
+        "text": "Mais si tu n'as pas l'action attaquer en main ?",
+        "user": "U0AA0KVLH",
+        "ts": "1543393844.012600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mmT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mais si tu n'as pas l'action attaquer en main ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "268a648d-f649-4b3d-92d4-67131979ee2c",
+        "type": "message",
+        "text": "Ou alors tu as tout ton deck en main dès le début ?",
+        "user": "U0AA0KVLH",
+        "ts": "1543393862.013200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eGKNw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ou alors tu as tout ton deck en main dès le début ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a84cc694-0c62-46a7-a3f5-af6b19f299d1",
+        "type": "message",
+        "text": "Tu as toujours l'actions Attaquer de disponible",
+        "user": "U0A48EDPD",
+        "ts": "1543393904.013600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2slNF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu as toujours l'actions Attaquer de disponible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3f6f118b-0a79-4124-994f-d35e96aa0185",
+        "type": "message",
+        "text": "mais elle te coûte deux \"Actions\"",
+        "user": "U0A48EDPD",
+        "ts": "1543393912.013900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y0h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais elle te coûte deux \"Actions\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ed5085c6-09ec-46f5-9e6d-0a4188317177",
+        "type": "message",
+        "text": "que tu n'as pas en main",
+        "user": "U0A48EDPD",
+        "ts": "1543393919.014100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mfj\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "que tu n'as pas en main"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "93efd9c2-02fc-4342-b046-b09eaa90f8db",
+        "type": "message",
+        "text": "(\"Actions\" ou \"Point d'action\" est générique, et te permet de faire des actions dans tout ce que tu sais faire)",
+        "user": "U0A48EDPD",
+        "ts": "1543393967.015000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=I3O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(\"Actions\" ou \"Point d'action\" est générique, et te permet de faire des actions dans tout ce que tu sais faire)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3411d2ac-d71a-4c09-9e54-20f6e7d156fd",
+        "type": "message",
+        "text": "Un exemple d'action que tu n'as pas toujours de disponible ?",
+        "user": "U0AA0KVLH",
+        "ts": "1543394014.015800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "94f9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un exemple d'action que tu n'as pas toujours de disponible ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "71bbfe2e-676e-4342-b2c0-e0cf5f825977",
+        "type": "message",
+        "text": "\"Lancer un sort\"",
+        "user": "U0A48EDPD",
+        "ts": "1543394032.016200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q\/nOR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Lancer un sort\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9bc93f4d-f58b-4072-82dd-e92d751da07e",
+        "type": "message",
+        "text": "Genre ; y'a que les mages qui peuvent le faire",
+        "user": "U0A48EDPD",
+        "ts": "1543394041.016700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dtP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Genre ; y'a que les mages qui peuvent le faire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "349b23c7-54ca-488d-a1c5-d24abc9bd5d9",
+        "type": "message",
+        "text": "-&gt; Faut monter le build pour avoir l'action de disponible",
+        "user": "U0A48EDPD",
+        "ts": "1543394054.017100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AwA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "-> Faut monter le build pour avoir l'action de disponible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0e4258ea-4428-484b-9b0f-3f9c88dc5631",
+        "type": "message",
+        "text": "après \"Lancer un sort\" te coute \"deux Actions\" pour pouvoir le faire en combat",
+        "user": "U0A48EDPD",
+        "ts": "1543394074.018000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cwor",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "après \"Lancer un sort\" te coute \"deux Actions\" pour pouvoir le faire en combat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1543394080.000000"
+        }
+    },
+    {
+        "client_msg_id": "b32c3539-2aaf-4ee3-8e46-6623cd2d6524",
+        "type": "message",
+        "text": "Donc si je veux lancer un sort et que j'ai pas tirer la carte ?",
+        "user": "U0AA0KVLH",
+        "ts": "1543394076.018200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L09u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Donc si je veux lancer un sort et que j'ai pas tirer la carte ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dbcfe6c3-90da-4d2f-a049-9b8a913c71a5",
+        "type": "message",
+        "text": "Tu ne peux pas ne pas tirer la carte",
+        "user": "U0A48EDPD",
+        "ts": "1543394090.018900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YPu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu ne peux pas ne pas tirer la carte"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "86290e5f-d553-460e-b73c-f4747445e93a",
+        "type": "message",
+        "text": "Tu l'as dans tes actions de dispo",
+        "user": "U0A48EDPD",
+        "ts": "1543394096.019300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3xR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu l'as dans tes actions de dispo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1543394100.000000"
+        }
+    },
+    {
+        "client_msg_id": "15e7edc8-d968-4f5e-b1d1-49a8f7da5e4e",
+        "type": "message",
+        "text": "Juste qu'il te faut des points dactions pour l'activer",
+        "user": "U0A48EDPD",
+        "ts": "1543394107.020000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j1o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Juste qu'il te faut des points dactions pour l'activer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "25e3a053-02b5-4c3f-a7df-7c3d46efc717",
+        "type": "message",
+        "text": "et les points d'actions, tu les picohe dans le deck d'action commun",
+        "user": "U0A48EDPD",
+        "ts": "1543394117.020600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "owUw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et les points d'actions, tu les picohe dans le deck d'action commun"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2ae0f844-d95f-4066-8b7f-f8c757f8a091",
+        "type": "message",
+        "text": "les points dactions sont nomminatifs",
+        "user": "U0A48EDPD",
+        "ts": "1543394142.021700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nYY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "les points dactions sont nomminatifs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1e1843ae-3c93-4e8a-8650-4c156c89528d",
+        "type": "message",
+        "text": "Ok alors dans ta description du deck la précision \"on mélange le deck\" me paraît superflue : a la fin de son tour, on reprend toutes ses cartes",
+        "user": "U0AA0KVLH",
+        "ts": "1543394153.022100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nIzBl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok alors dans ta description du deck la précision \"on mélange le deck\" me paraît superflue : a la fin de son tour, on reprend toutes ses cartes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "aa72294d-eca9-47a1-9e5f-ea81427b83fa",
+        "type": "message",
+        "text": "Ou au début du tour suivant",
+        "user": "U0AA0KVLH",
+        "ts": "1543394174.022700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PcF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ou au début du tour suivant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7e2a67a4-d9a8-4f45-8954-3099131d6bfb",
+        "type": "message",
+        "text": "on reprend toutes les cartes de tous les joueurs et on les mélange ensemble",
+        "user": "U0A48EDPD",
+        "ts": "1543394194.023700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tE=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on reprend toutes les cartes de tous les joueurs et on les mélange ensemble"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b0e18639-6512-44ed-a0d8-ad8f72928b46",
+        "type": "message",
+        "text": "Mais dire mélanger ça me fait penser direct à un jeu de deck building",
+        "user": "U0AA0KVLH",
+        "ts": "1543394197.024000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ufGP1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mais dire mélanger ça me fait penser direct à un jeu de deck building"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5fc63d85-189b-46a7-a910-b9a422cffdda",
+        "type": "message",
+        "text": "-&gt; pas nécessiare : ok  :+1:",
+        "user": "U0A48EDPD",
+        "ts": "1543394202.024100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+d3i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "-> pas nécessiare : ok  "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a2e1f5c8-82ff-40c6-899b-7e0c026e3500",
+        "type": "message",
+        "text": "oki d'oki",
+        "user": "U0A48EDPD",
+        "ts": "1543394222.024300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eJE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oki d'oki"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "aa52619f-b3c5-4bb4-86df-9b8de75c6523",
+        "type": "message",
+        "text": "Hein ? Les cartes de tout les joueurs?",
+        "user": "U0AA0KVLH",
+        "ts": "1543394250.024800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FJt0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hein ? Les cartes de tout les joueurs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "926caf71-52b1-4500-9aca-e2aeeeb61457",
+        "type": "message",
+        "text": "Genre on mélange nos cartes ensemble ?",
+        "user": "U0AA0KVLH",
+        "ts": "1543394261.025300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "njx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Genre on mélange nos cartes ensemble ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c7779a0b-1090-4475-971e-ed8987d9fafc",
+        "type": "message",
+        "text": "oui",
+        "user": "U0A48EDPD",
+        "ts": "1543394264.025400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TECG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4a658fd0-b024-417a-8734-490fdbac7cdc",
+        "type": "message",
+        "text": "comment tu détermine qui joue ne prmier sinon ?",
+        "user": "U0A48EDPD",
+        "ts": "1543394273.025800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+qTfO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "comment tu détermine qui joue ne prmier sinon ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bfa99c37-4aff-445f-a330-9abc2c0aef76",
+        "type": "message",
+        "text": "Genre si j'ai l'action lancer un sort  dans mes cartes, un autre peut la récupérer ?",
+        "user": "U0AA0KVLH",
+        "ts": "1543394307.026700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "md9MY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Genre si j'ai l'action lancer un sort  dans mes cartes, un autre peut la récupérer ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bf7faaf9-8db7-4a0b-bd63-c4c0527bf0d8",
+        "type": "message",
+        "text": "non",
+        "user": "U0A48EDPD",
+        "ts": "1543394390.026900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rJl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "non"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f5931937-c9e9-409b-b899-6c5f9053bd5f",
+        "type": "message",
+        "text": "Je ne suis pas clair sur les Actions :",
+        "user": "U0A48EDPD",
+        "ts": "1543394421.027800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jNcp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je ne suis pas clair sur les Actions :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c2af4cdd-f048-4cbf-85d6-77511c03b484",
+        "type": "message",
+        "text": "Tu as :\n- ton Sphérier, avec tes Facettes, qui te débloquent les actions que tu peux faire\n- Tes `Actions` ou Point dactions, permettant d'activer les actions que tu peux faire (du Sphérier du personnage)\n    - Tes `Actions` (ou Point d'action) sont des cartes nomminatives\n    - Tous les joueurs mélangent tous leurs \"Points d'action\" ensemble\n    - On pioche les cartes \"point d'aciton\" une par une ; c'est marqué dessu à qui ça appartient\n    - un joueur qui a un point d'aciton peut le dépenser ou le stacker\n    - un joueur peut dépenser un ou plusieur point d\"action pour entreprendre un action de disponible dans son sphérier\n    - quand le Deck de point d'action (représentant le tour) est vide, on mélange les points d'actions de tous les joueurs ; ça lance le nouveau tour",
+        "user": "U0A48EDPD",
+        "ts": "1543394663.031500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KjinQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu as :\n- ton Sphérier, avec tes Facettes, qui te débloquent les actions que tu peux faire\n- Tes "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Actions",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ou Point dactions, permettant d'activer les actions que tu peux faire (du Sphérier du personnage)\n    - Tes "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Actions",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (ou Point d'action) sont des cartes nomminatives\n    - Tous les joueurs mélangent tous leurs \"Points d'action\" ensemble\n    - On pioche les cartes \"point d'aciton\" une par une ; c'est marqué dessu à qui ça appartient\n    - un joueur qui a un point d'aciton peut le dépenser ou le stacker\n    - un joueur peut dépenser un ou plusieur point d\"action pour entreprendre un action de disponible dans son sphérier\n    - quand le Deck de point d'action (représentant le tour) est vide, on mélange les points d'actions de tous les joueurs ; ça lance le nouveau tour"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1543394711.000000"
+        },
+        "thread_ts": "1543394663.031500",
+        "reply_count": 32,
+        "reply_users_count": 2,
+        "latest_reply": "1546250412.008500",
+        "reply_users": [
+            "U0DTHMU81",
+            "U0A48EDPD"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546181892.000300"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546181940.000500"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546182001.000700"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546182064.000900"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546182117.001100"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546244121.000700"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546246392.000900"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546247364.001100"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546247430.001300"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546247499.001500"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546247820.001700"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546247901.001900"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546248415.002400"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546248922.004600"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546248943.004800"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546248951.005000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546248978.005200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546249028.005400"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546249080.005600"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546249103.005800"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546249150.006000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546249825.006500"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1546249872.006700"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546249879.006900"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546249888.007100"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546250027.007300"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546250143.007500"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546250156.007700"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546250227.007900"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546250233.008100"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546250270.008300"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1546250412.008500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1546250412.008500"
+    },
+    {
+        "client_msg_id": "416d8226-7b64-4698-a7f0-b2e576e29d68",
+        "type": "message",
+        "text": "Les tirets deux et trois ont le même nom, ça prête à confusion",
+        "user": "U0AA0KVLH",
+        "ts": "1543394908.032300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lLtNg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les tirets deux et trois ont le même nom, ça prête à confusion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55c6e827-c121-4e67-95a3-074d30f98681",
+        "type": "message",
+        "text": "Du coup je ne sais pas dans les développements duquel tu parles les actions ou les cartes",
+        "user": "U0AA0KVLH",
+        "ts": "1543395356.033500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vbZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Du coup je ne sais pas dans les développements duquel tu parles les actions ou les cartes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "134b39e9-5076-4e4f-9af8-0442019eaf4f",
+        "type": "message",
+        "text": "ok -&gt; Je clarifierai plus tard",
+        "user": "U0A48EDPD",
+        "ts": "1543396166.033900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Xm6e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok -> Je clarifierai plus tard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cc54943b-0992-4b9e-995b-2f191ef2f12b",
+        "type": "message",
+        "text": "Ça nous fait un sujet de discussion pour ce soir ^^",
+        "user": "U0AA0KVLH",
+        "ts": "1543397625.034500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KZ+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ça nous fait un sujet de discussion pour ce soir ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

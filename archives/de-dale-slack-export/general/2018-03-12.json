@@ -1,0 +1,431 @@
+[
+    {
+        "client_msg_id": "8904f65b-1f28-4fda-a3ab-3d1fc6713837",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0A48EDPD",
+        "ts": "1520840832.000277",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gPB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cbe3a6c8-ffa0-4ef1-b94f-e7b4ed901d34",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1520841683.000162",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LkX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U63CG7FCZ>",
+        "user": "U0AA0KVLH",
+        "ts": "1520848340.000025",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zkjz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U63CG7FCZ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.lemonde.fr\/pixels\/article\/2018\/03\/09\/polemique-au-sujet-du-financement-public-d-un-tournoi-de-jeu-video-organise-par-webedia_5268138_4408996.html>",
+        "user": "U0AA0KVLH",
+        "ts": "1520848341.000110",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M+g1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.lemonde.fr\/pixels\/article\/2018\/03\/09\/polemique-au-sujet-du-financement-public-d-un-tournoi-de-jeu-video-organise-par-webedia_5268138_4408996.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Le Monde.fr",
+                "title": "Polémique au sujet du financement public d’un tournoi de jeu vidéo organisé par Webedia",
+                "title_link": "http:\/\/www.lemonde.fr\/pixels\/article\/2018\/03\/09\/polemique-au-sujet-du-financement-public-d-un-tournoi-de-jeu-video-organise-par-webedia_5268138_4408996.html",
+                "text": "L’Ile-de-France possède désormais son « championnat e-sport » consacré à « FIFA 18 », dont la finale se tiendra en novembre. Problème : cet événement organisé par le grand groupe des médias Webedia a intégralement été financé par les pouvoirs publics.",
+                "fallback": "Le Monde.fr: Polémique au sujet du financement public d’un tournoi de jeu vidéo organisé par Webedia",
+                "image_url": "http:\/\/img.lemde.fr\/2016\/10\/30\/0\/0\/2953\/1474\/644\/322\/60\/0\/9258804_20626-2pov2j.dd7t0ara4i.jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "http:\/\/www.lemonde.fr\/pixels\/article\/2018\/03\/09\/polemique-au-sujet-du-financement-public-d-un-tournoi-de-jeu-video-organise-par-webedia_5268138_4408996.html",
+                "image_bytes": 52383,
+                "service_icon": "http:\/\/s1.lemde.fr\/medias\/web\/1.2.705\/ico\/apple\/icon-72.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "oui on est au courant de cette polémique",
+        "user": "U63CG7FCZ",
+        "ts": "1520848640.000134",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HitgY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui on est au courant de cette polémique"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g637f49bb175",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d637f49bb1756e01df7ed795e693ac56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Julien",
+            "real_name": "Julien LOPEZ",
+            "display_name": "ashyrra",
+            "team": "T0A48J0MV",
+            "name": "ashyrra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "mais la photo est top",
+        "user": "U63CG7FCZ",
+        "ts": "1520848660.000556",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NyMvo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais la photo est top"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g637f49bb175",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d637f49bb1756e01df7ed795e693ac56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Julien",
+            "real_name": "Julien LOPEZ",
+            "display_name": "ashyrra",
+            "team": "T0A48J0MV",
+            "name": "ashyrra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "c'est assez hallucinant les proportions que ça prend alors qu'en réalité le projet a été travaillé pendant plusieurs années et que ce n'est pas le premier projet qui est financé par plusieurs collectivités locales",
+        "user": "U63CG7FCZ",
+        "ts": "1520848828.000362",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b5jbU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est assez hallucinant les proportions que ça prend alors qu'en réalité le projet a été travaillé pendant plusieurs années et que ce n'est pas le premier projet qui est financé par plusieurs collectivités locales"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g637f49bb175",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d637f49bb1756e01df7ed795e693ac56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Julien",
+            "real_name": "Julien LOPEZ",
+            "display_name": "ashyrra",
+            "team": "T0A48J0MV",
+            "name": "ashyrra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "personne ne connait la réalité, c'est l'article de libération qui fait foi",
+        "user": "U0M8SF5CG",
+        "ts": "1520854646.000349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WRw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "personne ne connait la réalité, c'est l'article de libération qui fait foi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "et le titre de l'article de libé aurait pu être \"corruption de la région ile de france par wébédia\" au vu de son contenu",
+        "user": "U0M8SF5CG",
+        "ts": "1520854876.000331",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AYWl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et le titre de l'article de libé aurait pu être \"corruption de la région ile de france par wébédia\" au vu de son contenu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Je savais bien qu'ashyrra était un escroc",
+        "user": "U0AA0KVLH",
+        "ts": "1520854922.000192",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hjpE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je savais bien qu'ashyrra était un escroc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0AA0KVLH",
+            "ts": "1520854936.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "ahah",
+        "user": "U63CG7FCZ",
+        "ts": "1520859402.000373",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fbbhc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ahah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g637f49bb175",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d637f49bb1756e01df7ed795e693ac56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Julien",
+            "real_name": "Julien LOPEZ",
+            "display_name": "ashyrra",
+            "team": "T0A48J0MV",
+            "name": "ashyrra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

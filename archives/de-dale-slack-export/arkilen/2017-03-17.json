@@ -1,0 +1,679 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1489746121.408419",
+        "user": "U0AA0KVLH",
+        "text": "<@U0AA0KVLH> has joined the channel",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1489746122.408550",
+        "user": "U0A48EDPD",
+        "text": "<@U0A48EDPD> has joined the channel",
+        "inviter": "U0AA0KVLH"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1489746122.408609",
+        "user": "U0DSEQH9S",
+        "text": "<@U0DSEQH9S> has joined the channel",
+        "inviter": "U0AA0KVLH"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1489746122.408637",
+        "user": "U0DTHMU81",
+        "text": "<@U0DTHMU81> has joined the channel",
+        "inviter": "U0AA0KVLH"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1489746122.408645",
+        "user": "U0B0S4YFP",
+        "text": "<@U0B0S4YFP> has joined the channel",
+        "inviter": "U0AA0KVLH"
+    },
+    {
+        "type": "message",
+        "text": "Et la lumière fut",
+        "user": "U0AA0KVLH",
+        "ts": "1489746152.416370",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jUc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et la lumière fut"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "L'extrait de journal que vous avez découvert pour que tous le monde puisse le lire",
+        "user": "U0AA0KVLH",
+        "ts": "1489746533.514320",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "By9s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L'extrait de journal que vous avez découvert pour que tous le monde puisse le lire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Top ! :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1489746560.521148",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2\/V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Top ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U0AA0KVLH|naveed> uploaded a file: <https:\/\/de-dale.slack.com\/files\/naveed\/F4LGJPPC7\/extrait_de_journal.doc|Extrait de journal.doc>",
+        "files": [
+            {
+                "id": "F4LGJPPC7",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "user": "U0AA0KVLH",
+        "display_as_bot": false,
+        "ts": "1489748005.883140",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mc+k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0AA0KVLH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " uploaded a file: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/de-dale.slack.com\/files\/naveed\/F4LGJPPC7\/extrait_de_journal.doc",
+                                "text": "Extrait de journal.doc",
+                                "unsafe": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U0DTHMU81> pinned ’s File  to this channel.",
+        "user": "U0DTHMU81",
+        "item_type": "F",
+        "item": {
+            "id": "F4LGJPPC7",
+            "created": 1489748004,
+            "timestamp": 1489748004,
+            "user": "U0AA0KVLH",
+            "is_hidden_by_limit": 1
+        },
+        "ts": "1489749330.204801"
+    },
+    {
+        "type": "message",
+        "text": "<@U0A48EDPD|faby> shared a file: <https:\/\/de-dale.slack.com\/files\/faby\/F4ERQN70A\/contexte_du_scenario__.txt|Contexte du scénario :>",
+        "files": [
+            {
+                "id": "F4ERQN70A",
+                "created": 1488902726,
+                "timestamp": 1488902726,
+                "name": "One-shot_-_2017-03-16_-_Synopsis.txt",
+                "title": "One-shot - 2017-03-16 - Synopsis",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U0A48EDPD",
+                "user_team": "T0A48J0MV",
+                "editable": true,
+                "size": 3479,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F4ERQN70A\/One-shot_-_2017-03-16_-_Synopsis.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F4ERQN70A\/download\/One-shot_-_2017-03-16_-_Synopsis.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "permalink": "https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/F4ERQN70A\/One-shot_-_2017-03-16_-_Synopsis.txt",
+                "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F4ERQN70A-4057627591",
+                "edit_link": "https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/F4ERQN70A\/One-shot_-_2017-03-16_-_Synopsis.txt\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0A48EDPD",
+        "display_as_bot": false,
+        "ts": "1489754604.436113",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CkS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " shared a file: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/de-dale.slack.com\/files\/faby\/F4ERQN70A\/contexte_du_scenario__.txt",
+                                "text": "Contexte du scénario :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1489754646.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "La grande question est : que sera le thème du prochain one-shot ?",
+        "user": "U0AA0KVLH",
+        "ts": "1489755135.581689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "psho",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La grande question est : que sera le thème du prochain one-shot ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "mets ptet un CR de la partie, où du moins les grandes lignes (kitsunes\/traître\/le mal dormant que les bons samaritains veulent réveiller)",
+        "user": "U0DTHMU81",
+        "ts": "1489760476.557511",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jYZ+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mets ptet un CR de la partie, où du moins les grandes lignes (kitsunes\/traître\/le mal dormant que les bons samaritains veulent réveiller)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U0DTHMU81> pinned ’s Plain Text <https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/F4ERQN70A\/One-shot_-_2017-03-16_-_Synopsis.txt|One-shot - 2017-03-16 - Synopsis> to this channel.",
+        "user": "U0DTHMU81",
+        "item_type": "F",
+        "item": {
+            "id": "F4ERQN70A",
+            "created": 1488902726,
+            "timestamp": 1488902726,
+            "name": "One-shot_-_2017-03-16_-_Synopsis.txt",
+            "title": "One-shot - 2017-03-16 - Synopsis",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U0A48EDPD",
+            "user_team": "T0A48J0MV",
+            "editable": true,
+            "size": 3479,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F4ERQN70A\/One-shot_-_2017-03-16_-_Synopsis.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F4ERQN70A\/download\/One-shot_-_2017-03-16_-_Synopsis.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+            "permalink": "https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/F4ERQN70A\/One-shot_-_2017-03-16_-_Synopsis.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F4ERQN70A-4057627591",
+            "edit_link": "https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/F4ERQN70A\/One-shot_-_2017-03-16_-_Synopsis.txt\/edit",
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+        },
+        "ts": "1489760524.579385"
+    },
+    {
+        "type": "message",
+        "text": "Pour toi, ca servirait à quoi un CR ?",
+        "user": "U0AA0KVLH",
+        "ts": "1489762549.509201",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nwJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour toi, ca servirait à quoi un CR ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Pouvoir s'en servir comme retour d'expérience.",
+        "user": "U0DSEQH9S",
+        "ts": "1489764225.307627",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ieEI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pouvoir s'en servir comme retour d'expérience."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Process d'amélioration continue.",
+        "user": "U0DSEQH9S",
+        "ts": "1489764230.309791",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dRL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Process d'amélioration continue."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "(Ouais je parle comme un putain de chef de projet tavu :stuck_out_tongue: )",
+        "user": "U0DSEQH9S",
+        "ts": "1489764240.314394",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5I9j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Ouais je parle comme un putain de chef de projet tavu "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Et dire ce qui a bien marché -&gt; à réutiliser, et ce qui a moins marché -&gt; à modifier.",
+        "user": "U0DSEQH9S",
+        "ts": "1489764271.329217",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W1Rky",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et dire ce qui a bien marché -> à réutiliser, et ce qui a moins marché -> à modifier."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "perdu",
+        "user": "U0DTHMU81",
+        "ts": "1489767735.949392",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9ff",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "perdu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "-1",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "juste pasque dans 2 semaines on aura oublié 50% de ce qui s'est passé",
+        "user": "U0DTHMU81",
+        "ts": "1489767761.960955",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/fQQy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "juste pasque dans 2 semaines on aura oublié 50% de ce qui s'est passé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,153 @@
+[
+    {
+        "type": "message",
+        "text": "Tu connais ce doc ?",
+        "user": "U0A48EDPD",
+        "ts": "1513079770.000120",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9mho",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu connais ce doc ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U0A48EDPD> uploaded a file: <https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/F8DBQ5G3E\/product_academy_xebia.pdf|product_academy_xebia.pdf>",
+        "files": [
+            {
+                "id": "F8DBQ5G3E",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "user": "U0A48EDPD",
+        "display_as_bot": false,
+        "ts": "1513079784.000187",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i6j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " uploaded a file: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/F8DBQ5G3E\/product_academy_xebia.pdf",
+                                "text": "product_academy_xebia.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Non mais maintenant j'adore. Y a le même en scrum master semblerait",
+        "user": "U0DSEQH9S",
+        "ts": "1513101044.000183",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dpd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Non mais maintenant j'adore. Y a le même en scrum master semblerait"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Xebia est vraiment une boite cool. Ça me fait plaisir qu'ils commencent à être connus ! En espérant que ça dure.",
+        "user": "U0DSEQH9S",
+        "ts": "1513109954.000284",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FQnE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Xebia est vraiment une boite cool. Ça me fait plaisir qu'ils commencent à être connus ! En espérant que ça dure."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

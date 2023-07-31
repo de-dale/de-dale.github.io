@@ -1,0 +1,255 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1449578402.000002",
+        "user": "U0AA0KVLH",
+        "text": "<@U0AA0KVLH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1449578403.000004",
+        "user": "U0A48EDPD",
+        "text": "<@U0A48EDPD> has joined the channel",
+        "inviter": "U0AA0KVLH"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1449578403.000005",
+        "user": "U0DSEQH9S",
+        "text": "<@U0DSEQH9S> has joined the channel",
+        "inviter": "U0AA0KVLH"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1449578403.000006",
+        "user": "U0DTHMU81",
+        "text": "<@U0DTHMU81> has joined the channel",
+        "inviter": "U0AA0KVLH"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1449578403.000007",
+        "user": "U0B0S4YFP",
+        "text": "<@U0B0S4YFP> has joined the channel",
+        "inviter": "U0AA0KVLH"
+    },
+    {
+        "type": "message",
+        "text": "faby [1:51 PM] \nMes dieux. Armes qui te fait plaisir\n\n​[1:52] \nPV : 3\/4 du max des dv",
+        "user": "U0AA0KVLH",
+        "ts": "1449578451.000008",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2qV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "faby [1:51 PM] \nMes dieux. Armes qui te fait plaisir\n\n[1:52] \nPV : 3\/4 du max des dv"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "faby [11:40 AM] \navec ceci :\n\n​[11:40] \n10,  10, 10, 11, 11, 11\n\n​[11:40] \net : +4, +4, +2, +2, +0, -2\n\n​[11:40] \nà répartir comme bon vous semble",
+        "user": "U0AA0KVLH",
+        "ts": "1449578469.000009",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aEIDD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "faby [11:40 AM] \navec ceci :\n\n[11:40] \n10,  10, 10, 11, 11, 11\n\n[11:40] \net : +4, +4, +2, +2, +0, -2\n\n[11:40] \nà répartir comme bon vous semble"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Livres : Core \/ APG \/ UM \/ UC",
+        "user": "U0DTHMU81",
+        "ts": "1449578759.000010",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c1X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Livres : Core \/ APG \/ UM \/ UC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0G5E2EDA",
+                "created": 1449589317,
+                "timestamp": 1449589317,
+                "name": "Perso_prevu_Quentin.txt",
+                "title": "Perso prévu Quentin",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U0DTHMU81",
+                "user_team": "T0A48J0MV",
+                "editable": true,
+                "size": 177,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0G5E2EDA\/perso_prevu_quentin.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0G5E2EDA\/download\/perso_prevu_quentin.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "permalink": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0G5E2EDA\/perso_prevu_quentin.txt",
+                "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F0G5E2EDA-9c2bc27f56",
+                "edit_link": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0G5E2EDA\/perso_prevu_quentin.txt\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U0DTHMU81",
+        "display_as_bot": false,
+        "ts": "1449589317.000011"
+    },
+    {
+        "type": "message",
+        "text": "En gros, ce qu'il me faut  c'est ça :\n```Apparence\n&gt; Description générale\n&gt; Caractéristiques remarquables\nCaractère\n&gt; Personnalité générale\n&gt; Manies\n&gt; Faiblesses \/ trucs qui l'énerve",
+        "user": "U0AA0KVLH",
+        "ts": "1449589744.000012",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5g4C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En gros, ce qu'il me faut  c'est ça :\n```Apparence"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Description générale\nCaractéristiques remarquables"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Caractère"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Personnalité générale\nManies\nFaiblesses \/ trucs qui l'énerve"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

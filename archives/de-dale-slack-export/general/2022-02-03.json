@@ -1,0 +1,133 @@
+[
+    {
+        "client_msg_id": "0f37d5f2-af72-4c31-b725-a452f46830bc",
+        "type": "message",
+        "text": "Ola, Ola, Gentes Dames et Beau Damoiseaux !",
+        "user": "U0AA0KVLH",
+        "ts": "1643903871.298709",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AS5t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ola, Ola, Gentes Dames et Beau Damoiseaux !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ddd80849-6d00-452f-8e6d-c1a0cc05839c",
+        "type": "message",
+        "text": "<https:\/\/homm3boardgame.com\/>",
+        "user": "U0AA0KVLH",
+        "ts": "1643903872.421699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ohm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/homm3boardgame.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/homm3boardgame.com\/",
+                "image_url": "https:\/\/homm3boardgame.com\/wp-content\/uploads\/2021\/10\/social_cover.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 136211,
+                "service_icon": "https:\/\/homm3boardgame.com\/wp-content\/uploads\/2021\/10\/fav.png",
+                "id": 1,
+                "original_url": "https:\/\/homm3boardgame.com\/",
+                "fallback": "Heroes of Might &amp; Magic III: The Board Game",
+                "text": "We are going back to Erathia - are you coming? Subscribe for exclusive previews and Kickstarter launch notification of HOMM3 The Board Game!",
+                "title": "Heroes of Might &amp; Magic III: The Board Game",
+                "title_link": "https:\/\/homm3boardgame.com\/",
+                "service_name": "homm3boardgame.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4386a12b-6338-4577-913a-6e7643657124",
+        "type": "message",
+        "text": "Parce que .... pourquoi pas !",
+        "user": "U0AA0KVLH",
+        "ts": "1643903882.087679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SA++",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Parce que .... pourquoi pas !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

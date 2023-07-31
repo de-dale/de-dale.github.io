@@ -1,0 +1,886 @@
+[
+    {
+        "type": "message",
+        "text": "<@U0DTHMU81> shared a file: <https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F8S03Q5QS\/discussion_heal|discussion heal>",
+        "files": [
+            {
+                "id": "F04BT6CAV39",
+                "created": 1515761622,
+                "timestamp": 1515761846,
+                "name": "discussion_heal",
+                "title": "discussion heal",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U0DTHMU81",
+                "user_team": "T0A48J0MV",
+                "editable": true,
+                "size": 16858,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F04BT6CAV39\/discussion_heal?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F04BT6CAV39\/download\/discussion_heal?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "permalink": "https:\/\/de-dale.slack.com\/files\/T0A48J0MV\/F04BT6CAV39",
+                "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F04BT6CAV39-e1679a64f4",
+                "preview": "<p>sharah [1:57 PM]<br>question ouverte : Auriez-vous des idées pour que les pj aient de capacités d'auto-heal permettant de supprimer le côté healbot ?<br><br><br>[1:58]<br>Les items de soin à dispo (baguette \/ potion \/ bandage \/ etc..) sont-ils suffisants pour cela (ex une campagne standard sans canalisation\/healbot\/etc...) ?<br><br>[2:02]<br>dans les capas d'auto-heal, ça peut être par exemple de la régen de pv (X\/round), de la génération de pv temporaires, etc...<br><br>[2:02]<br>(pas besoin de donner un détail par classe, juste des mécaniques si ça vous inspire)<br><br><br>ashyrra [2:03 PM]<br>joined pf-variante by invitation from sharah, along with sy4.<br><br><br>naveed [2:17 PM]<br>Les items de soins sont intéressants mais leur problème c'est que ce sont souvent des heals petits niveaux. Du coup, c'est probablement suffisant en Epic6 mais sinon insuffisant. Ca a aussi un coup non négligeable en ressources. C'est difficile de dire sur une campagne complète de voir, et ca dépend aussi beaucoup de la campagne. Est-ce que les personnages ont le temps de faire des pauses ou non, est-ce qu'ils sont sous pression, pressé par le temps, est-ce qu'il est facile de se procurer les items, etc...<br><br><br>[2:18]<br>Dans les capas d'auto-heal imaginable<br><br>[2:19]<br>Gagner des points de vie quand on lance un sort<br><br>[2:19]<br>Les points de vie gagnés dépendant du niveau du sort\/mana dépensé. (edited)<br><br>[2:20]<br>Des capacités de transfert de PV<br><br>[2:20]<br>Des points de vie gagnés quand une créature vivante trépasse (fonction des DV de la créature) (edited)<br><br>[2:22]<br>des \"totems\" de heal : invocation qui rend X\/pv tour à tout personnage allié dans la zone<br><br>sharah [2:28 PM]<br>je note je note<br><br><br>[2:29]<br>effectivement, c'est à destination de l'EPIC6 (lvl 6 max) (edited)<br><br>naveed [2:30 PM]<br>Un de mes sorts de soins préférés (que j'avais inventé) était un sort de soin plus fort que le soin de même niveau mais qui ne faisait effet qu'au bout d'un certain temps.<br><br>[2:30]<br>Tu pouvais donc lancer le soin par anticipation<br><br>[2:31]<br>Sinon pour en revenir à des idées de soins persos : la médit du monk : rends des pvs avec un max en fonction de ton niveau je crois<br><br>faby [2:42 PM]<br>C'est pour quel usage ? Hors\/Pendant combat ?<br><br>sharah [2:43 PM]<br>les 2<br><br>faby [2:45 PM]<br>J'ai entendu parler d'un truc (je crois que c'est dans SR5) : tous les PJ ont la capacité d'e s'auto-heal avec un cooldown progressif : 1 minute, 10 minutes, 10 heures<br><br>[2:46]<br>(en gros, si on prend la capa du moine ; on peut l'utiliser \"à volonté\", mais entre les deux première usages, on a 1 munite de cooldwn, entre les usages 2 et 3, on a 10 mins, etc)<br><br>[2:46]<br>(ça s'adapte facilement :p)<br><br>sharah [2:46 PM]<br>(mais c'est lourd à suivre)<br><br>faby [2:47 PM]<br>autant que les autres capa à consomation journalière<br><br>sharah [2:48 PM]<br>yep. Mais si je peux limiter, j'aime autant;<br><br>[2:48]<br>je note quand même<br><br>faby [2:48 PM]<br>après ; je ne sais plus si c'est le cooldown, ou le \"temps d'activation\" de la capa<br><br>[2:49]<br>(genre la première fois, ça demande une action simple, la deuxième fois une pause de 1 minute, etc...)<br><br>[2:50]<br>Autre idée ; une capa avec DD qui croît à chaque réussite, et qui revient à zéro après une nuit de repos<br><br>[2:52]<br>Autre idée ; avoir plusieurs jauges de PV, qui représentent la gravité des blessures, et une rapidité différente de heal<br>-&gt; dégats étourdissants, (les premiers à partir, mais qui sont soignés en 1h de repos)<br>-&gt; blessures légères (les seconds à partir, mais qui sont soignés en une nuit de repos)<br>-&gt; blessures graves (les troisièmes à partir, mais qui sont soignés en plusieurs jours)<br><br>sharah [3:35 PM]<br>pas d'autres idées ?<br>1 reply 1 day ago View thread<br>naveed [3:36 PM]<br>Si mais j'ai du boulot<br><br>sharah [3:38 PM]<br>détail<br><br>naveed [3:51 PM]<br>non là je suis noyé<br><br><br><br>sharah [3:58 PM]<br>je vois que la participation de certains se limite à des élements constructifs, genre des émoticones<br><br>naveed [4:03 PM]<br>Tu veux des idées de capa de heal ou plutot des mécanismes pour rendre des capas de heal répétables afin de compensable afin de suprimer la nécessite d'un prêtre ? (edited)<br><br>sharah [4:04 PM]<br>all<br><br>[4:04]<br>je prends tout<br><br>[4:04]<br>je ne l'ai pas précisé, mais c'est un brainstorming<br><br><br><br>[4:08]<br>de ce que je vois :<\/p><ul><li>Regen passive (ex : troll)<\/li><li>Génération de pv temporaire via l'utilisation de capacité<\/li><li>Diminution des dmgs subis =&gt; moins de heal nécessaire (RD fixe ou aléatoire =&gt; JS Ref pour diminuer les dmgs de X en fonction du résultat atteint)<\/li><li>Vol de vie<\/li><li>Auto-heal limité (ex : impo des mains)<\/li><li>Repos entre 2 combats (short rest de DD4\/5 et SF)<\/li><\/ul><p><br>[4:08]<\/p><ul><li>Evitement des dmgs (X% de miss)<\/li><\/ul><p><br>[4:09]<br>(je ne rajoute celles que vous avez dit comme le transfert de PV) (edited)<br><br>[4:11]<br>-invincibilité ou RD importante temporaire\/réflexe (-50% de dmgs vs 1 att par exemple)<br><br>[4:12]<br>je bosse sur la variante en arrière plan et j'ai vraiment envie de me débarrasser de ce besoin ressenti d'avoir un healbot dans les équipes<br><br>[4:13]<br>ça permet aussi de dégager le besoin des équipes d'être au moins X pour avoir un truc à peu près équilibré et ça permet de jouer à moins en ajustant les rencontres<br><br>faby [4:55 PM]<br>Auto-rez ; comme la capa du Chieftain Tauren dans Warcraft 3<br><br>sharah [5:09 PM]<br>ça c'est une idée intéressante<br><br>[5:10]<br>àla murky dans HOTS<br><br>sharah [5:16 PM]<br>peu de pv, en carton, mais revis full life une fois mort<br><br>[5:20]<br>mais en mécanique de base c'est chaud quand mêem<br><br>faby [5:54 PM]<br>bah après ; il faut un cooldown, ou un nombre limité<br><br>[5:54]<br>mais ça peut permettre des élans lyriques :stuck_out_tongue:<br><br>[5:54]<br>\"je me sacrifie pour la cause\"<br><br>[5:54]<br>'lol'<br><br>sharah [6:08 PM]<br>ou - de pv à chaque rez jusqu'au prochain repos<br><br>[6:08]<br>ou que le rez prenne 1 min par exemple<br><br><br>----- Yesterday January 11th, 2018 -----<br>ashyrra [11:18 AM]<br>Y a une règle dans Pillard of Eternity que je trouve pas mal:<br>les HP sont divisés en 2 blocs: 1 bloc HP et 1 bloc \"endurance\"<br>Tu as autant de HP que d'endurance.<br><br>A chaque combat, tu pers des HP. A la fin du combat, tu vas automatiquement régen tous tes HP mais tu perds un certain nombre de points d'endurance.<br><br>Au prochain combat, tes HP étant équivalents à ton endurance, tu auras moins de HP max.<br><br>Quand tu te reposes, tu récupères toute ton endurance.<br><br>[11:19]<br>Exemple: 1 personne a 100 points d'endurance.<br><br>Au premier combat, il perd 50 HP.<br>A l'issue du combat, son endurance est plafonnée à 80 points.<br><br>Au second combat, il démarrera donc avec 80 HP au lieu de 100 HP.<br>A l'issue du second combat, il perdra à nouveau un certain nombre de points d'endurance.<br><br>sharah [11:21 AM]<br>hum<br><br>[11:21]<br>c'est une ressource supplémentaire à suivre<br><br>ashyrra [11:21 AM]<br>Points positifs:<br>Full HP entre chaque combat<br><br>Points négatifs:<br>Pas hyper RP<br>Calcul d'endurance compliqué<br><br>[11:21]<br>oui<br><br>sharah [11:21 AM]<br>le full hp entre les combat, c'est pas difficile à faire<br><br>[11:21]<br>regen 1\/round et c'est bon<br><br>[11:21]<br>pause pour régen et c'est bon<br><br>[11:22]<br>mais je note<br><br>ashyrra [11:22 AM]<br>Après l'endurance ça permet d'augmenter la difficulté dans un donjon<br><br>[11:23]<br>Exemple: tu rentres dans le dj, tu vas faire des petits combats qui vont réduire ta barre d'endurance \/ du coup tu vas soit devoir te reposer (et peut être perdre la chance de trouver\/capturer le boss) soit tu vas devoir affronter le boss en étant abîmer<br><br>[11:23]<br>Aucun moyen de régen l'endurance sans repos<br><br>sharah [11:23 AM]<br>ça c'est le système de base de DD avec des capa activables X\/j<br><br>[11:23]<br>c'est déjà un jeu de gestion de ressources<br><br>[11:23]<br>pv \/ sorts \/ capas \/ items \/ etc...<br><br>ashyrra [11:23 AM]<br>yes<br><br>sharah [11:25 AM]<br>pour info, j'ai déjà ajouté une ressource dans ma variante<br><br>[11:25]<br>tu génères de l'énergie (Prana) chaque tour de combat où tu fais un truc utile<br><br>[11:25]<br>le Prana peut être utilisé pour recharger tes capas\/sorts\/pv\/item (edited)<br><br>[11:26]<br>et il est conservé entre les combats<br><br>[11:26]<br>et reset quand tu dors<br><br>[11:27]<br>ça évite les pom-pom girls, ça permet de se heal ou réutiliser des capas quand besoin et ça ouvre la possibilité de création d'items dont les pouvoirs demandent d'utiliser du Prana<br><br>ashyrra [11:28 AM]<br>C'est quoi un truc utile ?<br><br>sharah [11:28 AM]<br>(btw, j'ai viré les big 6 : pas d'arme +X, pas de +X stat, cape de résist, etc... C'est intégré aux stats des joueurs, cf PF unchained)<br><br>ashyrra [11:28 AM]<br>un spell, une attaque qui touche ?<br><br>sharah [11:29 AM]<br>taper, lancer un sort, aider un autre joueur, faire tomber un ennemi, se positionner en défense totale pour bloquer une charge, etc...<br><br>[11:29]<br>participer au combat<br><br>[11:30]<br>pas juste sortir les ponpons (sauf si c'est pour destabiliser l'ennemi ou que tu es un barde)<br><br>[11:30]<br>en gros, chaque tour de combat les pj gagnent du prana, sauf s'ils légument dans un coin<br><br>[11:31]<br>ça a eu l'air de prendre sur le début de campagne que j'ai fait jouer<br><br>[11:32]<br>(campagne sans heal, à part l'enso qui pouvait heal 1d6 pv 1\/pj\/jour)<br><br>[11:34]<br>(mais il y avait 1 palos donc impo, un moine donc soin avec le ki)<br><br>[11:34]<br>btw, je vais vraiment déconstruire les classes ce coup-ci<br><br>[11:34]<br>pour retravailler la progression pour l'adapter à l'E6<br><br>[11:35]<br>en normal, les capas arrivent doucement car il y a 20 lvls à remplir<br><br><br>[11:35]<br>en E6, il n'y a pas le temps<br><br><br>sharah [12:11 PM]<br>@naveed: Je trouve le système des une fois par combat plus simple et nerveux. Le mieux c'est encore les coldowns mais c'est une donnée à gérer. J'aime bien sinon l'idée que chaque personne à un soin mais qu'il peut en changer entre les combats pour avoir un effet différent.<br><br><br>naveed [12:11 PM]<br>Merci<br><br><br>[12:14]<br>Après pour les sortes de soin, suffit de regarder les jeux vidéo et ya des tonnes idées par exemple : soin qui donne du Prana en plus, soin qui soigne en fonction de ton Prana, soin pour chaque attaque effectué, régénération sacrifiable pour un soin instant plus élevé, soin à chaque attaque ennemi raté, soin long à incanter mais puissant, soin fort sur soit et faible sur les alliés proches et l'inverse dans certaines conditions.<br><br>sharah [12:14 PM]<br>yep<br><br><br>[12:15]<br>mais ça reste une mécanique identique : utiliser une ressource pour rendre des PV<br><br>[12:15]<br>pour les différents types de soin<br><br>[12:15]<br>la regen sacrifiable est intéressante<br><br>naveed [12:18 PM]<br>Tu voulais des exemples de soin alors j'en cité aussi.<br><br>sharah [12:19 PM]<br>un soin long à incanter, c'est bien, mais quid du hors combat ? Ca n'a pas d'impact du coup. Ou alors c'est un heal hors combat (1min ou + d'incant) et ça revient à faire un auto-heal à la fin de chaque combat quand les pj ont le temps<br><br><br>[12:21]<br>(je ne critique pas les idées, j'essaye de pousser les machines)<br><br>naveed [12:21 PM]<br>Le seul mécanisme que j'ai vu dans un jeu vidéo qui change un peu c'est l'avatar céleste : tu charges l'avatar céleste en soignant ou en frappant et quand tu l'as chargé ça change l'effet de tes autres capas : un buff dégât deviens un buff heal, un contrôle devient un anti contrôle, etc.<br><br><br>[12:22]<br>Tout dépend du système de rechargement des soins.<br><br>sharah [12:23 PM]<br>ça c'est intéressant. Pas forcément pour le heal, mais pour des capas annexes<br><br>[12:23]<br>ah c'est justement ça qui m'intéresse<br><br>[12:23]<br>le système de recharge<br><br>naveed [12:42 PM]<br>Ba finalement ya deux grands systèmes : le rechargement (round, combat, repos, jour) et l'énergie (Mana, Prana). Faut voir après quelle limite tu veux.<br><br><br>naveed [12:47 PM]<br>Sinon un mécanisme de soin que j'ai trouvé intéressant c'est un \"mantra\" : tu casts le mantra avant le combat et il te donne 3 charges. Les deux premières charges sont des soins normaux et se rechargent. En revanche si tu dois utiliser le dernier, tu as un soin fort mais tu n'as plus aucun soin pendant un moment car recast le mantra est très long<br><br><br>faby [1:00 PM]<br>ça m'évoque l'idée du combo<br><br><br>[1:00]<br>c'est à dire consommer une action prendant n tours consécutifs<br><br><br>[1:01]<br>à cahque tour, l'effet est plus puissant qu'au tour d'avant<br><br><br>[1:01]<br>(mais ça sort peut-être du cadre auto-soin)<br><br>[1:01]<br>(mais j'écrais ça comme je le pense, et ça me donner des idées aussi ; merci nav :slightly_smiling_face: )<br><br>naveed [1:04 PM]<br>Pas de soucis, je vais vous faire la liste des soins de GW2 si ça vous donne des idées ^^<br><br><br><br>sharah [1:07 PM]<br>les \"soins\" qui générent des pv tempos sont intéressant aussi<br><br>[1:07]<br>ça a une durée limité et ça ne se cumule pas<br><br>[1:07]<br>aide à volonté &lt; soins légers à volonté<br><br>naveed [2:11 PM]<br>Exemple de capa défensive : Bloque une attaque tous les X, peut être sacrifié pour que tout les alliés bloquent la prochaine attaque<br><br>[2:11]<br>Regen PV, Peut être sacrifié pour soigné instant tous les alliés<br><br>[2:12]<br>Soins en cone<br><br>[2:14]<br>Soins canalisés, durant toute la canalisation, bloque les attaques<br><br>[2:14]<br>Regen, peut être sacrifié pour enlever un état préjudiciable<br><br>[2:15]<br>Attire tous les états préjudiciables des alliés sur soi et en gagne l'immunité mais pour une courte période<br><br>[2:16]<br>Téléportation sur allié blessé et place une zone de guérison à ces pieds<br><br><br>[2:18]<br>Vous bloquez les attaques puis vous êtes soignés en fonction du nombre d'attaque encaissé<br><br><br>[2:19]<br>Réduit les dégâts subis, peu être sacrifié pour être invulnérable pendant un court instant<br><br><br>[2:20]<br>Si vous êtes KO, vous reprenez conscience pendant X secondes, vous retombez au bout d'un certain temps à moins que vous participiez à terasser un ennemi pendant cette durée<br><br>[2:21]<br>Vous invoquez trois dagues flottantes, chaque tour une dague se lance sur un ennemi et fait un effet de vol de vie<br><br><br>[2:22]<br>Vous êtes soignés pour chaque état préjudiciaible qui vous affecte, variante : vous supprimez ces états et êtes soignés en fonction.<br><br>[2:23]<br>Pose une tablette de soin, par une action tous les joueurs sont soignés dans la zone de la tablette, par une autre action, il est possible de déplasser la tablette<br><br>[2:23]<br>La troisième attaque soigne<br><br><br>[2:24]<br>Vous canalisez un soin, plus les alliés sont proches, plus ils sont soignés<br><br>[2:25]<br>Le prochain sort que ovus lancez vous soigne en fonction du nombre d'ennemi affecté<br><br>[2:26]<br>Chaque tour pendant quelques tours, vous recevez des soins mineurs et levé un état préjudiciable<br><br><br>[2:27]<br>Bloque X attaque pendant Y tour, si à la fin de ces X tours, le bouclier n'est pas anéanti, il explose et inflige des dégats\/ variante il soigne<br><br><br>[2:28]<br>Soigne légèrement les alliés, si un allié est mis KO pendant un court délai, il reçoit un soin supplémentaire<br><\/p>",
+                "editor": "U0DTHMU81",
+                "last_editor": "U0DTHMU81",
+                "non_owner_editable": false,
+                "updated": 1515761846,
+                "migrated_id": "F8S03Q5QS",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0DTHMU81",
+        "display_as_bot": false,
+        "ts": "1515761859.000209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PQurb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0DTHMU81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " shared a file: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F8S03Q5QS\/discussion_heal",
+                                "text": "discussion heal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U0DTHMU81> commented on <@U0DTHMU81>’s file <https:\/\/de-dale.slack.com\/files\/T0A48J0MV\/F04BT6CAV39|https:\/\/de-dale.slack.com\/files\/T0A48J0MV\/F04BT6CAV39>: save de la discussion sur le heal",
+        "comment": {
+            "id": "Fc8SR94MAA",
+            "created": 1515761859,
+            "timestamp": 1515761859,
+            "user": "U0DTHMU81",
+            "is_intro": false,
+            "comment": "save de la discussion sur le heal"
+        },
+        "is_intro": false,
+        "file": {
+            "id": "F04BT6CAV39",
+            "created": 1515761622,
+            "timestamp": 1515761846,
+            "name": "discussion_heal",
+            "title": "discussion heal",
+            "mimetype": "application\/vnd.slack-docs",
+            "filetype": "docs",
+            "pretty_type": "Arugula",
+            "user": "U0DTHMU81",
+            "user_team": "T0A48J0MV",
+            "editable": true,
+            "size": 16858,
+            "mode": "docs",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F04BT6CAV39\/discussion_heal?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F04BT6CAV39\/download\/discussion_heal?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+            "permalink": "https:\/\/de-dale.slack.com\/files\/T0A48J0MV\/F04BT6CAV39",
+            "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F04BT6CAV39-e1679a64f4",
+            "preview": "<p>sharah [1:57 PM]<br>question ouverte : Auriez-vous des idées pour que les pj aient de capacités d'auto-heal permettant de supprimer le côté healbot ?<br><br><br>[1:58]<br>Les items de soin à dispo (baguette \/ potion \/ bandage \/ etc..) sont-ils suffisants pour cela (ex une campagne standard sans canalisation\/healbot\/etc...) ?<br><br>[2:02]<br>dans les capas d'auto-heal, ça peut être par exemple de la régen de pv (X\/round), de la génération de pv temporaires, etc...<br><br>[2:02]<br>(pas besoin de donner un détail par classe, juste des mécaniques si ça vous inspire)<br><br><br>ashyrra [2:03 PM]<br>joined pf-variante by invitation from sharah, along with sy4.<br><br><br>naveed [2:17 PM]<br>Les items de soins sont intéressants mais leur problème c'est que ce sont souvent des heals petits niveaux. Du coup, c'est probablement suffisant en Epic6 mais sinon insuffisant. Ca a aussi un coup non négligeable en ressources. C'est difficile de dire sur une campagne complète de voir, et ca dépend aussi beaucoup de la campagne. Est-ce que les personnages ont le temps de faire des pauses ou non, est-ce qu'ils sont sous pression, pressé par le temps, est-ce qu'il est facile de se procurer les items, etc...<br><br><br>[2:18]<br>Dans les capas d'auto-heal imaginable<br><br>[2:19]<br>Gagner des points de vie quand on lance un sort<br><br>[2:19]<br>Les points de vie gagnés dépendant du niveau du sort\/mana dépensé. (edited)<br><br>[2:20]<br>Des capacités de transfert de PV<br><br>[2:20]<br>Des points de vie gagnés quand une créature vivante trépasse (fonction des DV de la créature) (edited)<br><br>[2:22]<br>des \"totems\" de heal : invocation qui rend X\/pv tour à tout personnage allié dans la zone<br><br>sharah [2:28 PM]<br>je note je note<br><br><br>[2:29]<br>effectivement, c'est à destination de l'EPIC6 (lvl 6 max) (edited)<br><br>naveed [2:30 PM]<br>Un de mes sorts de soins préférés (que j'avais inventé) était un sort de soin plus fort que le soin de même niveau mais qui ne faisait effet qu'au bout d'un certain temps.<br><br>[2:30]<br>Tu pouvais donc lancer le soin par anticipation<br><br>[2:31]<br>Sinon pour en revenir à des idées de soins persos : la médit du monk : rends des pvs avec un max en fonction de ton niveau je crois<br><br>faby [2:42 PM]<br>C'est pour quel usage ? Hors\/Pendant combat ?<br><br>sharah [2:43 PM]<br>les 2<br><br>faby [2:45 PM]<br>J'ai entendu parler d'un truc (je crois que c'est dans SR5) : tous les PJ ont la capacité d'e s'auto-heal avec un cooldown progressif : 1 minute, 10 minutes, 10 heures<br><br>[2:46]<br>(en gros, si on prend la capa du moine ; on peut l'utiliser \"à volonté\", mais entre les deux première usages, on a 1 munite de cooldwn, entre les usages 2 et 3, on a 10 mins, etc)<br><br>[2:46]<br>(ça s'adapte facilement :p)<br><br>sharah [2:46 PM]<br>(mais c'est lourd à suivre)<br><br>faby [2:47 PM]<br>autant que les autres capa à consomation journalière<br><br>sharah [2:48 PM]<br>yep. Mais si je peux limiter, j'aime autant;<br><br>[2:48]<br>je note quand même<br><br>faby [2:48 PM]<br>après ; je ne sais plus si c'est le cooldown, ou le \"temps d'activation\" de la capa<br><br>[2:49]<br>(genre la première fois, ça demande une action simple, la deuxième fois une pause de 1 minute, etc...)<br><br>[2:50]<br>Autre idée ; une capa avec DD qui croît à chaque réussite, et qui revient à zéro après une nuit de repos<br><br>[2:52]<br>Autre idée ; avoir plusieurs jauges de PV, qui représentent la gravité des blessures, et une rapidité différente de heal<br>-&gt; dégats étourdissants, (les premiers à partir, mais qui sont soignés en 1h de repos)<br>-&gt; blessures légères (les seconds à partir, mais qui sont soignés en une nuit de repos)<br>-&gt; blessures graves (les troisièmes à partir, mais qui sont soignés en plusieurs jours)<br><br>sharah [3:35 PM]<br>pas d'autres idées ?<br>1 reply 1 day ago View thread<br>naveed [3:36 PM]<br>Si mais j'ai du boulot<br><br>sharah [3:38 PM]<br>détail<br><br>naveed [3:51 PM]<br>non là je suis noyé<br><br><br><br>sharah [3:58 PM]<br>je vois que la participation de certains se limite à des élements constructifs, genre des émoticones<br><br>naveed [4:03 PM]<br>Tu veux des idées de capa de heal ou plutot des mécanismes pour rendre des capas de heal répétables afin de compensable afin de suprimer la nécessite d'un prêtre ? (edited)<br><br>sharah [4:04 PM]<br>all<br><br>[4:04]<br>je prends tout<br><br>[4:04]<br>je ne l'ai pas précisé, mais c'est un brainstorming<br><br><br><br>[4:08]<br>de ce que je vois :<\/p><ul><li>Regen passive (ex : troll)<\/li><li>Génération de pv temporaire via l'utilisation de capacité<\/li><li>Diminution des dmgs subis =&gt; moins de heal nécessaire (RD fixe ou aléatoire =&gt; JS Ref pour diminuer les dmgs de X en fonction du résultat atteint)<\/li><li>Vol de vie<\/li><li>Auto-heal limité (ex : impo des mains)<\/li><li>Repos entre 2 combats (short rest de DD4\/5 et SF)<\/li><\/ul><p><br>[4:08]<\/p><ul><li>Evitement des dmgs (X% de miss)<\/li><\/ul><p><br>[4:09]<br>(je ne rajoute celles que vous avez dit comme le transfert de PV) (edited)<br><br>[4:11]<br>-invincibilité ou RD importante temporaire\/réflexe (-50% de dmgs vs 1 att par exemple)<br><br>[4:12]<br>je bosse sur la variante en arrière plan et j'ai vraiment envie de me débarrasser de ce besoin ressenti d'avoir un healbot dans les équipes<br><br>[4:13]<br>ça permet aussi de dégager le besoin des équipes d'être au moins X pour avoir un truc à peu près équilibré et ça permet de jouer à moins en ajustant les rencontres<br><br>faby [4:55 PM]<br>Auto-rez ; comme la capa du Chieftain Tauren dans Warcraft 3<br><br>sharah [5:09 PM]<br>ça c'est une idée intéressante<br><br>[5:10]<br>àla murky dans HOTS<br><br>sharah [5:16 PM]<br>peu de pv, en carton, mais revis full life une fois mort<br><br>[5:20]<br>mais en mécanique de base c'est chaud quand mêem<br><br>faby [5:54 PM]<br>bah après ; il faut un cooldown, ou un nombre limité<br><br>[5:54]<br>mais ça peut permettre des élans lyriques :stuck_out_tongue:<br><br>[5:54]<br>\"je me sacrifie pour la cause\"<br><br>[5:54]<br>'lol'<br><br>sharah [6:08 PM]<br>ou - de pv à chaque rez jusqu'au prochain repos<br><br>[6:08]<br>ou que le rez prenne 1 min par exemple<br><br><br>----- Yesterday January 11th, 2018 -----<br>ashyrra [11:18 AM]<br>Y a une règle dans Pillard of Eternity que je trouve pas mal:<br>les HP sont divisés en 2 blocs: 1 bloc HP et 1 bloc \"endurance\"<br>Tu as autant de HP que d'endurance.<br><br>A chaque combat, tu pers des HP. A la fin du combat, tu vas automatiquement régen tous tes HP mais tu perds un certain nombre de points d'endurance.<br><br>Au prochain combat, tes HP étant équivalents à ton endurance, tu auras moins de HP max.<br><br>Quand tu te reposes, tu récupères toute ton endurance.<br><br>[11:19]<br>Exemple: 1 personne a 100 points d'endurance.<br><br>Au premier combat, il perd 50 HP.<br>A l'issue du combat, son endurance est plafonnée à 80 points.<br><br>Au second combat, il démarrera donc avec 80 HP au lieu de 100 HP.<br>A l'issue du second combat, il perdra à nouveau un certain nombre de points d'endurance.<br><br>sharah [11:21 AM]<br>hum<br><br>[11:21]<br>c'est une ressource supplémentaire à suivre<br><br>ashyrra [11:21 AM]<br>Points positifs:<br>Full HP entre chaque combat<br><br>Points négatifs:<br>Pas hyper RP<br>Calcul d'endurance compliqué<br><br>[11:21]<br>oui<br><br>sharah [11:21 AM]<br>le full hp entre les combat, c'est pas difficile à faire<br><br>[11:21]<br>regen 1\/round et c'est bon<br><br>[11:21]<br>pause pour régen et c'est bon<br><br>[11:22]<br>mais je note<br><br>ashyrra [11:22 AM]<br>Après l'endurance ça permet d'augmenter la difficulté dans un donjon<br><br>[11:23]<br>Exemple: tu rentres dans le dj, tu vas faire des petits combats qui vont réduire ta barre d'endurance \/ du coup tu vas soit devoir te reposer (et peut être perdre la chance de trouver\/capturer le boss) soit tu vas devoir affronter le boss en étant abîmer<br><br>[11:23]<br>Aucun moyen de régen l'endurance sans repos<br><br>sharah [11:23 AM]<br>ça c'est le système de base de DD avec des capa activables X\/j<br><br>[11:23]<br>c'est déjà un jeu de gestion de ressources<br><br>[11:23]<br>pv \/ sorts \/ capas \/ items \/ etc...<br><br>ashyrra [11:23 AM]<br>yes<br><br>sharah [11:25 AM]<br>pour info, j'ai déjà ajouté une ressource dans ma variante<br><br>[11:25]<br>tu génères de l'énergie (Prana) chaque tour de combat où tu fais un truc utile<br><br>[11:25]<br>le Prana peut être utilisé pour recharger tes capas\/sorts\/pv\/item (edited)<br><br>[11:26]<br>et il est conservé entre les combats<br><br>[11:26]<br>et reset quand tu dors<br><br>[11:27]<br>ça évite les pom-pom girls, ça permet de se heal ou réutiliser des capas quand besoin et ça ouvre la possibilité de création d'items dont les pouvoirs demandent d'utiliser du Prana<br><br>ashyrra [11:28 AM]<br>C'est quoi un truc utile ?<br><br>sharah [11:28 AM]<br>(btw, j'ai viré les big 6 : pas d'arme +X, pas de +X stat, cape de résist, etc... C'est intégré aux stats des joueurs, cf PF unchained)<br><br>ashyrra [11:28 AM]<br>un spell, une attaque qui touche ?<br><br>sharah [11:29 AM]<br>taper, lancer un sort, aider un autre joueur, faire tomber un ennemi, se positionner en défense totale pour bloquer une charge, etc...<br><br>[11:29]<br>participer au combat<br><br>[11:30]<br>pas juste sortir les ponpons (sauf si c'est pour destabiliser l'ennemi ou que tu es un barde)<br><br>[11:30]<br>en gros, chaque tour de combat les pj gagnent du prana, sauf s'ils légument dans un coin<br><br>[11:31]<br>ça a eu l'air de prendre sur le début de campagne que j'ai fait jouer<br><br>[11:32]<br>(campagne sans heal, à part l'enso qui pouvait heal 1d6 pv 1\/pj\/jour)<br><br>[11:34]<br>(mais il y avait 1 palos donc impo, un moine donc soin avec le ki)<br><br>[11:34]<br>btw, je vais vraiment déconstruire les classes ce coup-ci<br><br>[11:34]<br>pour retravailler la progression pour l'adapter à l'E6<br><br>[11:35]<br>en normal, les capas arrivent doucement car il y a 20 lvls à remplir<br><br><br>[11:35]<br>en E6, il n'y a pas le temps<br><br><br>sharah [12:11 PM]<br>@naveed: Je trouve le système des une fois par combat plus simple et nerveux. Le mieux c'est encore les coldowns mais c'est une donnée à gérer. J'aime bien sinon l'idée que chaque personne à un soin mais qu'il peut en changer entre les combats pour avoir un effet différent.<br><br><br>naveed [12:11 PM]<br>Merci<br><br><br>[12:14]<br>Après pour les sortes de soin, suffit de regarder les jeux vidéo et ya des tonnes idées par exemple : soin qui donne du Prana en plus, soin qui soigne en fonction de ton Prana, soin pour chaque attaque effectué, régénération sacrifiable pour un soin instant plus élevé, soin à chaque attaque ennemi raté, soin long à incanter mais puissant, soin fort sur soit et faible sur les alliés proches et l'inverse dans certaines conditions.<br><br>sharah [12:14 PM]<br>yep<br><br><br>[12:15]<br>mais ça reste une mécanique identique : utiliser une ressource pour rendre des PV<br><br>[12:15]<br>pour les différents types de soin<br><br>[12:15]<br>la regen sacrifiable est intéressante<br><br>naveed [12:18 PM]<br>Tu voulais des exemples de soin alors j'en cité aussi.<br><br>sharah [12:19 PM]<br>un soin long à incanter, c'est bien, mais quid du hors combat ? Ca n'a pas d'impact du coup. Ou alors c'est un heal hors combat (1min ou + d'incant) et ça revient à faire un auto-heal à la fin de chaque combat quand les pj ont le temps<br><br><br>[12:21]<br>(je ne critique pas les idées, j'essaye de pousser les machines)<br><br>naveed [12:21 PM]<br>Le seul mécanisme que j'ai vu dans un jeu vidéo qui change un peu c'est l'avatar céleste : tu charges l'avatar céleste en soignant ou en frappant et quand tu l'as chargé ça change l'effet de tes autres capas : un buff dégât deviens un buff heal, un contrôle devient un anti contrôle, etc.<br><br><br>[12:22]<br>Tout dépend du système de rechargement des soins.<br><br>sharah [12:23 PM]<br>ça c'est intéressant. Pas forcément pour le heal, mais pour des capas annexes<br><br>[12:23]<br>ah c'est justement ça qui m'intéresse<br><br>[12:23]<br>le système de recharge<br><br>naveed [12:42 PM]<br>Ba finalement ya deux grands systèmes : le rechargement (round, combat, repos, jour) et l'énergie (Mana, Prana). Faut voir après quelle limite tu veux.<br><br><br>naveed [12:47 PM]<br>Sinon un mécanisme de soin que j'ai trouvé intéressant c'est un \"mantra\" : tu casts le mantra avant le combat et il te donne 3 charges. Les deux premières charges sont des soins normaux et se rechargent. En revanche si tu dois utiliser le dernier, tu as un soin fort mais tu n'as plus aucun soin pendant un moment car recast le mantra est très long<br><br><br>faby [1:00 PM]<br>ça m'évoque l'idée du combo<br><br><br>[1:00]<br>c'est à dire consommer une action prendant n tours consécutifs<br><br><br>[1:01]<br>à cahque tour, l'effet est plus puissant qu'au tour d'avant<br><br><br>[1:01]<br>(mais ça sort peut-être du cadre auto-soin)<br><br>[1:01]<br>(mais j'écrais ça comme je le pense, et ça me donner des idées aussi ; merci nav :slightly_smiling_face: )<br><br>naveed [1:04 PM]<br>Pas de soucis, je vais vous faire la liste des soins de GW2 si ça vous donne des idées ^^<br><br><br><br>sharah [1:07 PM]<br>les \"soins\" qui générent des pv tempos sont intéressant aussi<br><br>[1:07]<br>ça a une durée limité et ça ne se cumule pas<br><br>[1:07]<br>aide à volonté &lt; soins légers à volonté<br><br>naveed [2:11 PM]<br>Exemple de capa défensive : Bloque une attaque tous les X, peut être sacrifié pour que tout les alliés bloquent la prochaine attaque<br><br>[2:11]<br>Regen PV, Peut être sacrifié pour soigné instant tous les alliés<br><br>[2:12]<br>Soins en cone<br><br>[2:14]<br>Soins canalisés, durant toute la canalisation, bloque les attaques<br><br>[2:14]<br>Regen, peut être sacrifié pour enlever un état préjudiciable<br><br>[2:15]<br>Attire tous les états préjudiciables des alliés sur soi et en gagne l'immunité mais pour une courte période<br><br>[2:16]<br>Téléportation sur allié blessé et place une zone de guérison à ces pieds<br><br><br>[2:18]<br>Vous bloquez les attaques puis vous êtes soignés en fonction du nombre d'attaque encaissé<br><br><br>[2:19]<br>Réduit les dégâts subis, peu être sacrifié pour être invulnérable pendant un court instant<br><br><br>[2:20]<br>Si vous êtes KO, vous reprenez conscience pendant X secondes, vous retombez au bout d'un certain temps à moins que vous participiez à terasser un ennemi pendant cette durée<br><br>[2:21]<br>Vous invoquez trois dagues flottantes, chaque tour une dague se lance sur un ennemi et fait un effet de vol de vie<br><br><br>[2:22]<br>Vous êtes soignés pour chaque état préjudiciaible qui vous affecte, variante : vous supprimez ces états et êtes soignés en fonction.<br><br>[2:23]<br>Pose une tablette de soin, par une action tous les joueurs sont soignés dans la zone de la tablette, par une autre action, il est possible de déplasser la tablette<br><br>[2:23]<br>La troisième attaque soigne<br><br><br>[2:24]<br>Vous canalisez un soin, plus les alliés sont proches, plus ils sont soignés<br><br>[2:25]<br>Le prochain sort que ovus lancez vous soigne en fonction du nombre d'ennemi affecté<br><br>[2:26]<br>Chaque tour pendant quelques tours, vous recevez des soins mineurs et levé un état préjudiciable<br><br><br>[2:27]<br>Bloque X attaque pendant Y tour, si à la fin de ces X tours, le bouclier n'est pas anéanti, il explose et inflige des dégats\/ variante il soigne<br><br><br>[2:28]<br>Soigne légèrement les alliés, si un allié est mis KO pendant un court délai, il reçoit un soin supplémentaire<br><\/p>",
+            "editor": "U0DTHMU81",
+            "last_editor": "U0DTHMU81",
+            "non_owner_editable": false,
+            "updated": 1515761846,
+            "migrated_id": "F8S03Q5QS",
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+        },
+        "files": [
+            {
+                "id": "F04BT6CAV39",
+                "created": 1515761622,
+                "timestamp": 1515761846,
+                "name": "discussion_heal",
+                "title": "discussion heal",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U0DTHMU81",
+                "user_team": "T0A48J0MV",
+                "editable": true,
+                "size": 16858,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F04BT6CAV39\/discussion_heal?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F04BT6CAV39\/download\/discussion_heal?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "permalink": "https:\/\/de-dale.slack.com\/files\/T0A48J0MV\/F04BT6CAV39",
+                "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F04BT6CAV39-e1679a64f4",
+                "preview": "<p>sharah [1:57 PM]<br>question ouverte : Auriez-vous des idées pour que les pj aient de capacités d'auto-heal permettant de supprimer le côté healbot ?<br><br><br>[1:58]<br>Les items de soin à dispo (baguette \/ potion \/ bandage \/ etc..) sont-ils suffisants pour cela (ex une campagne standard sans canalisation\/healbot\/etc...) ?<br><br>[2:02]<br>dans les capas d'auto-heal, ça peut être par exemple de la régen de pv (X\/round), de la génération de pv temporaires, etc...<br><br>[2:02]<br>(pas besoin de donner un détail par classe, juste des mécaniques si ça vous inspire)<br><br><br>ashyrra [2:03 PM]<br>joined pf-variante by invitation from sharah, along with sy4.<br><br><br>naveed [2:17 PM]<br>Les items de soins sont intéressants mais leur problème c'est que ce sont souvent des heals petits niveaux. Du coup, c'est probablement suffisant en Epic6 mais sinon insuffisant. Ca a aussi un coup non négligeable en ressources. C'est difficile de dire sur une campagne complète de voir, et ca dépend aussi beaucoup de la campagne. Est-ce que les personnages ont le temps de faire des pauses ou non, est-ce qu'ils sont sous pression, pressé par le temps, est-ce qu'il est facile de se procurer les items, etc...<br><br><br>[2:18]<br>Dans les capas d'auto-heal imaginable<br><br>[2:19]<br>Gagner des points de vie quand on lance un sort<br><br>[2:19]<br>Les points de vie gagnés dépendant du niveau du sort\/mana dépensé. (edited)<br><br>[2:20]<br>Des capacités de transfert de PV<br><br>[2:20]<br>Des points de vie gagnés quand une créature vivante trépasse (fonction des DV de la créature) (edited)<br><br>[2:22]<br>des \"totems\" de heal : invocation qui rend X\/pv tour à tout personnage allié dans la zone<br><br>sharah [2:28 PM]<br>je note je note<br><br><br>[2:29]<br>effectivement, c'est à destination de l'EPIC6 (lvl 6 max) (edited)<br><br>naveed [2:30 PM]<br>Un de mes sorts de soins préférés (que j'avais inventé) était un sort de soin plus fort que le soin de même niveau mais qui ne faisait effet qu'au bout d'un certain temps.<br><br>[2:30]<br>Tu pouvais donc lancer le soin par anticipation<br><br>[2:31]<br>Sinon pour en revenir à des idées de soins persos : la médit du monk : rends des pvs avec un max en fonction de ton niveau je crois<br><br>faby [2:42 PM]<br>C'est pour quel usage ? Hors\/Pendant combat ?<br><br>sharah [2:43 PM]<br>les 2<br><br>faby [2:45 PM]<br>J'ai entendu parler d'un truc (je crois que c'est dans SR5) : tous les PJ ont la capacité d'e s'auto-heal avec un cooldown progressif : 1 minute, 10 minutes, 10 heures<br><br>[2:46]<br>(en gros, si on prend la capa du moine ; on peut l'utiliser \"à volonté\", mais entre les deux première usages, on a 1 munite de cooldwn, entre les usages 2 et 3, on a 10 mins, etc)<br><br>[2:46]<br>(ça s'adapte facilement :p)<br><br>sharah [2:46 PM]<br>(mais c'est lourd à suivre)<br><br>faby [2:47 PM]<br>autant que les autres capa à consomation journalière<br><br>sharah [2:48 PM]<br>yep. Mais si je peux limiter, j'aime autant;<br><br>[2:48]<br>je note quand même<br><br>faby [2:48 PM]<br>après ; je ne sais plus si c'est le cooldown, ou le \"temps d'activation\" de la capa<br><br>[2:49]<br>(genre la première fois, ça demande une action simple, la deuxième fois une pause de 1 minute, etc...)<br><br>[2:50]<br>Autre idée ; une capa avec DD qui croît à chaque réussite, et qui revient à zéro après une nuit de repos<br><br>[2:52]<br>Autre idée ; avoir plusieurs jauges de PV, qui représentent la gravité des blessures, et une rapidité différente de heal<br>-&gt; dégats étourdissants, (les premiers à partir, mais qui sont soignés en 1h de repos)<br>-&gt; blessures légères (les seconds à partir, mais qui sont soignés en une nuit de repos)<br>-&gt; blessures graves (les troisièmes à partir, mais qui sont soignés en plusieurs jours)<br><br>sharah [3:35 PM]<br>pas d'autres idées ?<br>1 reply 1 day ago View thread<br>naveed [3:36 PM]<br>Si mais j'ai du boulot<br><br>sharah [3:38 PM]<br>détail<br><br>naveed [3:51 PM]<br>non là je suis noyé<br><br><br><br>sharah [3:58 PM]<br>je vois que la participation de certains se limite à des élements constructifs, genre des émoticones<br><br>naveed [4:03 PM]<br>Tu veux des idées de capa de heal ou plutot des mécanismes pour rendre des capas de heal répétables afin de compensable afin de suprimer la nécessite d'un prêtre ? (edited)<br><br>sharah [4:04 PM]<br>all<br><br>[4:04]<br>je prends tout<br><br>[4:04]<br>je ne l'ai pas précisé, mais c'est un brainstorming<br><br><br><br>[4:08]<br>de ce que je vois :<\/p><ul><li>Regen passive (ex : troll)<\/li><li>Génération de pv temporaire via l'utilisation de capacité<\/li><li>Diminution des dmgs subis =&gt; moins de heal nécessaire (RD fixe ou aléatoire =&gt; JS Ref pour diminuer les dmgs de X en fonction du résultat atteint)<\/li><li>Vol de vie<\/li><li>Auto-heal limité (ex : impo des mains)<\/li><li>Repos entre 2 combats (short rest de DD4\/5 et SF)<\/li><\/ul><p><br>[4:08]<\/p><ul><li>Evitement des dmgs (X% de miss)<\/li><\/ul><p><br>[4:09]<br>(je ne rajoute celles que vous avez dit comme le transfert de PV) (edited)<br><br>[4:11]<br>-invincibilité ou RD importante temporaire\/réflexe (-50% de dmgs vs 1 att par exemple)<br><br>[4:12]<br>je bosse sur la variante en arrière plan et j'ai vraiment envie de me débarrasser de ce besoin ressenti d'avoir un healbot dans les équipes<br><br>[4:13]<br>ça permet aussi de dégager le besoin des équipes d'être au moins X pour avoir un truc à peu près équilibré et ça permet de jouer à moins en ajustant les rencontres<br><br>faby [4:55 PM]<br>Auto-rez ; comme la capa du Chieftain Tauren dans Warcraft 3<br><br>sharah [5:09 PM]<br>ça c'est une idée intéressante<br><br>[5:10]<br>àla murky dans HOTS<br><br>sharah [5:16 PM]<br>peu de pv, en carton, mais revis full life une fois mort<br><br>[5:20]<br>mais en mécanique de base c'est chaud quand mêem<br><br>faby [5:54 PM]<br>bah après ; il faut un cooldown, ou un nombre limité<br><br>[5:54]<br>mais ça peut permettre des élans lyriques :stuck_out_tongue:<br><br>[5:54]<br>\"je me sacrifie pour la cause\"<br><br>[5:54]<br>'lol'<br><br>sharah [6:08 PM]<br>ou - de pv à chaque rez jusqu'au prochain repos<br><br>[6:08]<br>ou que le rez prenne 1 min par exemple<br><br><br>----- Yesterday January 11th, 2018 -----<br>ashyrra [11:18 AM]<br>Y a une règle dans Pillard of Eternity que je trouve pas mal:<br>les HP sont divisés en 2 blocs: 1 bloc HP et 1 bloc \"endurance\"<br>Tu as autant de HP que d'endurance.<br><br>A chaque combat, tu pers des HP. A la fin du combat, tu vas automatiquement régen tous tes HP mais tu perds un certain nombre de points d'endurance.<br><br>Au prochain combat, tes HP étant équivalents à ton endurance, tu auras moins de HP max.<br><br>Quand tu te reposes, tu récupères toute ton endurance.<br><br>[11:19]<br>Exemple: 1 personne a 100 points d'endurance.<br><br>Au premier combat, il perd 50 HP.<br>A l'issue du combat, son endurance est plafonnée à 80 points.<br><br>Au second combat, il démarrera donc avec 80 HP au lieu de 100 HP.<br>A l'issue du second combat, il perdra à nouveau un certain nombre de points d'endurance.<br><br>sharah [11:21 AM]<br>hum<br><br>[11:21]<br>c'est une ressource supplémentaire à suivre<br><br>ashyrra [11:21 AM]<br>Points positifs:<br>Full HP entre chaque combat<br><br>Points négatifs:<br>Pas hyper RP<br>Calcul d'endurance compliqué<br><br>[11:21]<br>oui<br><br>sharah [11:21 AM]<br>le full hp entre les combat, c'est pas difficile à faire<br><br>[11:21]<br>regen 1\/round et c'est bon<br><br>[11:21]<br>pause pour régen et c'est bon<br><br>[11:22]<br>mais je note<br><br>ashyrra [11:22 AM]<br>Après l'endurance ça permet d'augmenter la difficulté dans un donjon<br><br>[11:23]<br>Exemple: tu rentres dans le dj, tu vas faire des petits combats qui vont réduire ta barre d'endurance \/ du coup tu vas soit devoir te reposer (et peut être perdre la chance de trouver\/capturer le boss) soit tu vas devoir affronter le boss en étant abîmer<br><br>[11:23]<br>Aucun moyen de régen l'endurance sans repos<br><br>sharah [11:23 AM]<br>ça c'est le système de base de DD avec des capa activables X\/j<br><br>[11:23]<br>c'est déjà un jeu de gestion de ressources<br><br>[11:23]<br>pv \/ sorts \/ capas \/ items \/ etc...<br><br>ashyrra [11:23 AM]<br>yes<br><br>sharah [11:25 AM]<br>pour info, j'ai déjà ajouté une ressource dans ma variante<br><br>[11:25]<br>tu génères de l'énergie (Prana) chaque tour de combat où tu fais un truc utile<br><br>[11:25]<br>le Prana peut être utilisé pour recharger tes capas\/sorts\/pv\/item (edited)<br><br>[11:26]<br>et il est conservé entre les combats<br><br>[11:26]<br>et reset quand tu dors<br><br>[11:27]<br>ça évite les pom-pom girls, ça permet de se heal ou réutiliser des capas quand besoin et ça ouvre la possibilité de création d'items dont les pouvoirs demandent d'utiliser du Prana<br><br>ashyrra [11:28 AM]<br>C'est quoi un truc utile ?<br><br>sharah [11:28 AM]<br>(btw, j'ai viré les big 6 : pas d'arme +X, pas de +X stat, cape de résist, etc... C'est intégré aux stats des joueurs, cf PF unchained)<br><br>ashyrra [11:28 AM]<br>un spell, une attaque qui touche ?<br><br>sharah [11:29 AM]<br>taper, lancer un sort, aider un autre joueur, faire tomber un ennemi, se positionner en défense totale pour bloquer une charge, etc...<br><br>[11:29]<br>participer au combat<br><br>[11:30]<br>pas juste sortir les ponpons (sauf si c'est pour destabiliser l'ennemi ou que tu es un barde)<br><br>[11:30]<br>en gros, chaque tour de combat les pj gagnent du prana, sauf s'ils légument dans un coin<br><br>[11:31]<br>ça a eu l'air de prendre sur le début de campagne que j'ai fait jouer<br><br>[11:32]<br>(campagne sans heal, à part l'enso qui pouvait heal 1d6 pv 1\/pj\/jour)<br><br>[11:34]<br>(mais il y avait 1 palos donc impo, un moine donc soin avec le ki)<br><br>[11:34]<br>btw, je vais vraiment déconstruire les classes ce coup-ci<br><br>[11:34]<br>pour retravailler la progression pour l'adapter à l'E6<br><br>[11:35]<br>en normal, les capas arrivent doucement car il y a 20 lvls à remplir<br><br><br>[11:35]<br>en E6, il n'y a pas le temps<br><br><br>sharah [12:11 PM]<br>@naveed: Je trouve le système des une fois par combat plus simple et nerveux. Le mieux c'est encore les coldowns mais c'est une donnée à gérer. J'aime bien sinon l'idée que chaque personne à un soin mais qu'il peut en changer entre les combats pour avoir un effet différent.<br><br><br>naveed [12:11 PM]<br>Merci<br><br><br>[12:14]<br>Après pour les sortes de soin, suffit de regarder les jeux vidéo et ya des tonnes idées par exemple : soin qui donne du Prana en plus, soin qui soigne en fonction de ton Prana, soin pour chaque attaque effectué, régénération sacrifiable pour un soin instant plus élevé, soin à chaque attaque ennemi raté, soin long à incanter mais puissant, soin fort sur soit et faible sur les alliés proches et l'inverse dans certaines conditions.<br><br>sharah [12:14 PM]<br>yep<br><br><br>[12:15]<br>mais ça reste une mécanique identique : utiliser une ressource pour rendre des PV<br><br>[12:15]<br>pour les différents types de soin<br><br>[12:15]<br>la regen sacrifiable est intéressante<br><br>naveed [12:18 PM]<br>Tu voulais des exemples de soin alors j'en cité aussi.<br><br>sharah [12:19 PM]<br>un soin long à incanter, c'est bien, mais quid du hors combat ? Ca n'a pas d'impact du coup. Ou alors c'est un heal hors combat (1min ou + d'incant) et ça revient à faire un auto-heal à la fin de chaque combat quand les pj ont le temps<br><br><br>[12:21]<br>(je ne critique pas les idées, j'essaye de pousser les machines)<br><br>naveed [12:21 PM]<br>Le seul mécanisme que j'ai vu dans un jeu vidéo qui change un peu c'est l'avatar céleste : tu charges l'avatar céleste en soignant ou en frappant et quand tu l'as chargé ça change l'effet de tes autres capas : un buff dégât deviens un buff heal, un contrôle devient un anti contrôle, etc.<br><br><br>[12:22]<br>Tout dépend du système de rechargement des soins.<br><br>sharah [12:23 PM]<br>ça c'est intéressant. Pas forcément pour le heal, mais pour des capas annexes<br><br>[12:23]<br>ah c'est justement ça qui m'intéresse<br><br>[12:23]<br>le système de recharge<br><br>naveed [12:42 PM]<br>Ba finalement ya deux grands systèmes : le rechargement (round, combat, repos, jour) et l'énergie (Mana, Prana). Faut voir après quelle limite tu veux.<br><br><br>naveed [12:47 PM]<br>Sinon un mécanisme de soin que j'ai trouvé intéressant c'est un \"mantra\" : tu casts le mantra avant le combat et il te donne 3 charges. Les deux premières charges sont des soins normaux et se rechargent. En revanche si tu dois utiliser le dernier, tu as un soin fort mais tu n'as plus aucun soin pendant un moment car recast le mantra est très long<br><br><br>faby [1:00 PM]<br>ça m'évoque l'idée du combo<br><br><br>[1:00]<br>c'est à dire consommer une action prendant n tours consécutifs<br><br><br>[1:01]<br>à cahque tour, l'effet est plus puissant qu'au tour d'avant<br><br><br>[1:01]<br>(mais ça sort peut-être du cadre auto-soin)<br><br>[1:01]<br>(mais j'écrais ça comme je le pense, et ça me donner des idées aussi ; merci nav :slightly_smiling_face: )<br><br>naveed [1:04 PM]<br>Pas de soucis, je vais vous faire la liste des soins de GW2 si ça vous donne des idées ^^<br><br><br><br>sharah [1:07 PM]<br>les \"soins\" qui générent des pv tempos sont intéressant aussi<br><br>[1:07]<br>ça a une durée limité et ça ne se cumule pas<br><br>[1:07]<br>aide à volonté &lt; soins légers à volonté<br><br>naveed [2:11 PM]<br>Exemple de capa défensive : Bloque une attaque tous les X, peut être sacrifié pour que tout les alliés bloquent la prochaine attaque<br><br>[2:11]<br>Regen PV, Peut être sacrifié pour soigné instant tous les alliés<br><br>[2:12]<br>Soins en cone<br><br>[2:14]<br>Soins canalisés, durant toute la canalisation, bloque les attaques<br><br>[2:14]<br>Regen, peut être sacrifié pour enlever un état préjudiciable<br><br>[2:15]<br>Attire tous les états préjudiciables des alliés sur soi et en gagne l'immunité mais pour une courte période<br><br>[2:16]<br>Téléportation sur allié blessé et place une zone de guérison à ces pieds<br><br><br>[2:18]<br>Vous bloquez les attaques puis vous êtes soignés en fonction du nombre d'attaque encaissé<br><br><br>[2:19]<br>Réduit les dégâts subis, peu être sacrifié pour être invulnérable pendant un court instant<br><br><br>[2:20]<br>Si vous êtes KO, vous reprenez conscience pendant X secondes, vous retombez au bout d'un certain temps à moins que vous participiez à terasser un ennemi pendant cette durée<br><br>[2:21]<br>Vous invoquez trois dagues flottantes, chaque tour une dague se lance sur un ennemi et fait un effet de vol de vie<br><br><br>[2:22]<br>Vous êtes soignés pour chaque état préjudiciaible qui vous affecte, variante : vous supprimez ces états et êtes soignés en fonction.<br><br>[2:23]<br>Pose une tablette de soin, par une action tous les joueurs sont soignés dans la zone de la tablette, par une autre action, il est possible de déplasser la tablette<br><br>[2:23]<br>La troisième attaque soigne<br><br><br>[2:24]<br>Vous canalisez un soin, plus les alliés sont proches, plus ils sont soignés<br><br>[2:25]<br>Le prochain sort que ovus lancez vous soigne en fonction du nombre d'ennemi affecté<br><br>[2:26]<br>Chaque tour pendant quelques tours, vous recevez des soins mineurs et levé un état préjudiciable<br><br><br>[2:27]<br>Bloque X attaque pendant Y tour, si à la fin de ces X tours, le bouclier n'est pas anéanti, il explose et inflige des dégats\/ variante il soigne<br><br><br>[2:28]<br>Soigne légèrement les alliés, si un allié est mis KO pendant un court délai, il reçoit un soin supplémentaire<br><\/p>",
+                "editor": "U0DTHMU81",
+                "last_editor": "U0DTHMU81",
+                "non_owner_editable": false,
+                "updated": 1515761846,
+                "migrated_id": "F8S03Q5QS",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "team": "T00",
+        "ts": "1515761859.000268",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<@U0DTHMU81> commented on <@U0DTHMU81>’s file <https:\/\/de-dale.slack.com\/files\/T0A48J0MV\/F04BT6CAV39|https:\/\/de-dale.slack.com\/files\/T0A48J0MV\/F04BT6CAV39>: save de la discussion sur le heal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U0DTHMU81> pinned ’s Arugula <https:\/\/de-dale.slack.com\/files\/T0A48J0MV\/F04BT6CAV39|discussion heal> to this channel.",
+        "user": "U0DTHMU81",
+        "item_type": "F",
+        "item": {
+            "id": "F04BT6CAV39",
+            "created": 1515761622,
+            "timestamp": 1515761846,
+            "name": "discussion_heal",
+            "title": "discussion heal",
+            "mimetype": "application\/vnd.slack-docs",
+            "filetype": "docs",
+            "pretty_type": "Arugula",
+            "user": "U0DTHMU81",
+            "user_team": "T0A48J0MV",
+            "editable": true,
+            "size": 16858,
+            "mode": "docs",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F04BT6CAV39\/discussion_heal?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F04BT6CAV39\/download\/discussion_heal?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+            "permalink": "https:\/\/de-dale.slack.com\/files\/T0A48J0MV\/F04BT6CAV39",
+            "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F04BT6CAV39-e1679a64f4",
+            "preview": "<p>sharah [1:57 PM]<br>question ouverte : Auriez-vous des idées pour que les pj aient de capacités d'auto-heal permettant de supprimer le côté healbot ?<br><br><br>[1:58]<br>Les items de soin à dispo (baguette \/ potion \/ bandage \/ etc..) sont-ils suffisants pour cela (ex une campagne standard sans canalisation\/healbot\/etc...) ?<br><br>[2:02]<br>dans les capas d'auto-heal, ça peut être par exemple de la régen de pv (X\/round), de la génération de pv temporaires, etc...<br><br>[2:02]<br>(pas besoin de donner un détail par classe, juste des mécaniques si ça vous inspire)<br><br><br>ashyrra [2:03 PM]<br>joined pf-variante by invitation from sharah, along with sy4.<br><br><br>naveed [2:17 PM]<br>Les items de soins sont intéressants mais leur problème c'est que ce sont souvent des heals petits niveaux. Du coup, c'est probablement suffisant en Epic6 mais sinon insuffisant. Ca a aussi un coup non négligeable en ressources. C'est difficile de dire sur une campagne complète de voir, et ca dépend aussi beaucoup de la campagne. Est-ce que les personnages ont le temps de faire des pauses ou non, est-ce qu'ils sont sous pression, pressé par le temps, est-ce qu'il est facile de se procurer les items, etc...<br><br><br>[2:18]<br>Dans les capas d'auto-heal imaginable<br><br>[2:19]<br>Gagner des points de vie quand on lance un sort<br><br>[2:19]<br>Les points de vie gagnés dépendant du niveau du sort\/mana dépensé. (edited)<br><br>[2:20]<br>Des capacités de transfert de PV<br><br>[2:20]<br>Des points de vie gagnés quand une créature vivante trépasse (fonction des DV de la créature) (edited)<br><br>[2:22]<br>des \"totems\" de heal : invocation qui rend X\/pv tour à tout personnage allié dans la zone<br><br>sharah [2:28 PM]<br>je note je note<br><br><br>[2:29]<br>effectivement, c'est à destination de l'EPIC6 (lvl 6 max) (edited)<br><br>naveed [2:30 PM]<br>Un de mes sorts de soins préférés (que j'avais inventé) était un sort de soin plus fort que le soin de même niveau mais qui ne faisait effet qu'au bout d'un certain temps.<br><br>[2:30]<br>Tu pouvais donc lancer le soin par anticipation<br><br>[2:31]<br>Sinon pour en revenir à des idées de soins persos : la médit du monk : rends des pvs avec un max en fonction de ton niveau je crois<br><br>faby [2:42 PM]<br>C'est pour quel usage ? Hors\/Pendant combat ?<br><br>sharah [2:43 PM]<br>les 2<br><br>faby [2:45 PM]<br>J'ai entendu parler d'un truc (je crois que c'est dans SR5) : tous les PJ ont la capacité d'e s'auto-heal avec un cooldown progressif : 1 minute, 10 minutes, 10 heures<br><br>[2:46]<br>(en gros, si on prend la capa du moine ; on peut l'utiliser \"à volonté\", mais entre les deux première usages, on a 1 munite de cooldwn, entre les usages 2 et 3, on a 10 mins, etc)<br><br>[2:46]<br>(ça s'adapte facilement :p)<br><br>sharah [2:46 PM]<br>(mais c'est lourd à suivre)<br><br>faby [2:47 PM]<br>autant que les autres capa à consomation journalière<br><br>sharah [2:48 PM]<br>yep. Mais si je peux limiter, j'aime autant;<br><br>[2:48]<br>je note quand même<br><br>faby [2:48 PM]<br>après ; je ne sais plus si c'est le cooldown, ou le \"temps d'activation\" de la capa<br><br>[2:49]<br>(genre la première fois, ça demande une action simple, la deuxième fois une pause de 1 minute, etc...)<br><br>[2:50]<br>Autre idée ; une capa avec DD qui croît à chaque réussite, et qui revient à zéro après une nuit de repos<br><br>[2:52]<br>Autre idée ; avoir plusieurs jauges de PV, qui représentent la gravité des blessures, et une rapidité différente de heal<br>-&gt; dégats étourdissants, (les premiers à partir, mais qui sont soignés en 1h de repos)<br>-&gt; blessures légères (les seconds à partir, mais qui sont soignés en une nuit de repos)<br>-&gt; blessures graves (les troisièmes à partir, mais qui sont soignés en plusieurs jours)<br><br>sharah [3:35 PM]<br>pas d'autres idées ?<br>1 reply 1 day ago View thread<br>naveed [3:36 PM]<br>Si mais j'ai du boulot<br><br>sharah [3:38 PM]<br>détail<br><br>naveed [3:51 PM]<br>non là je suis noyé<br><br><br><br>sharah [3:58 PM]<br>je vois que la participation de certains se limite à des élements constructifs, genre des émoticones<br><br>naveed [4:03 PM]<br>Tu veux des idées de capa de heal ou plutot des mécanismes pour rendre des capas de heal répétables afin de compensable afin de suprimer la nécessite d'un prêtre ? (edited)<br><br>sharah [4:04 PM]<br>all<br><br>[4:04]<br>je prends tout<br><br>[4:04]<br>je ne l'ai pas précisé, mais c'est un brainstorming<br><br><br><br>[4:08]<br>de ce que je vois :<\/p><ul><li>Regen passive (ex : troll)<\/li><li>Génération de pv temporaire via l'utilisation de capacité<\/li><li>Diminution des dmgs subis =&gt; moins de heal nécessaire (RD fixe ou aléatoire =&gt; JS Ref pour diminuer les dmgs de X en fonction du résultat atteint)<\/li><li>Vol de vie<\/li><li>Auto-heal limité (ex : impo des mains)<\/li><li>Repos entre 2 combats (short rest de DD4\/5 et SF)<\/li><\/ul><p><br>[4:08]<\/p><ul><li>Evitement des dmgs (X% de miss)<\/li><\/ul><p><br>[4:09]<br>(je ne rajoute celles que vous avez dit comme le transfert de PV) (edited)<br><br>[4:11]<br>-invincibilité ou RD importante temporaire\/réflexe (-50% de dmgs vs 1 att par exemple)<br><br>[4:12]<br>je bosse sur la variante en arrière plan et j'ai vraiment envie de me débarrasser de ce besoin ressenti d'avoir un healbot dans les équipes<br><br>[4:13]<br>ça permet aussi de dégager le besoin des équipes d'être au moins X pour avoir un truc à peu près équilibré et ça permet de jouer à moins en ajustant les rencontres<br><br>faby [4:55 PM]<br>Auto-rez ; comme la capa du Chieftain Tauren dans Warcraft 3<br><br>sharah [5:09 PM]<br>ça c'est une idée intéressante<br><br>[5:10]<br>àla murky dans HOTS<br><br>sharah [5:16 PM]<br>peu de pv, en carton, mais revis full life une fois mort<br><br>[5:20]<br>mais en mécanique de base c'est chaud quand mêem<br><br>faby [5:54 PM]<br>bah après ; il faut un cooldown, ou un nombre limité<br><br>[5:54]<br>mais ça peut permettre des élans lyriques :stuck_out_tongue:<br><br>[5:54]<br>\"je me sacrifie pour la cause\"<br><br>[5:54]<br>'lol'<br><br>sharah [6:08 PM]<br>ou - de pv à chaque rez jusqu'au prochain repos<br><br>[6:08]<br>ou que le rez prenne 1 min par exemple<br><br><br>----- Yesterday January 11th, 2018 -----<br>ashyrra [11:18 AM]<br>Y a une règle dans Pillard of Eternity que je trouve pas mal:<br>les HP sont divisés en 2 blocs: 1 bloc HP et 1 bloc \"endurance\"<br>Tu as autant de HP que d'endurance.<br><br>A chaque combat, tu pers des HP. A la fin du combat, tu vas automatiquement régen tous tes HP mais tu perds un certain nombre de points d'endurance.<br><br>Au prochain combat, tes HP étant équivalents à ton endurance, tu auras moins de HP max.<br><br>Quand tu te reposes, tu récupères toute ton endurance.<br><br>[11:19]<br>Exemple: 1 personne a 100 points d'endurance.<br><br>Au premier combat, il perd 50 HP.<br>A l'issue du combat, son endurance est plafonnée à 80 points.<br><br>Au second combat, il démarrera donc avec 80 HP au lieu de 100 HP.<br>A l'issue du second combat, il perdra à nouveau un certain nombre de points d'endurance.<br><br>sharah [11:21 AM]<br>hum<br><br>[11:21]<br>c'est une ressource supplémentaire à suivre<br><br>ashyrra [11:21 AM]<br>Points positifs:<br>Full HP entre chaque combat<br><br>Points négatifs:<br>Pas hyper RP<br>Calcul d'endurance compliqué<br><br>[11:21]<br>oui<br><br>sharah [11:21 AM]<br>le full hp entre les combat, c'est pas difficile à faire<br><br>[11:21]<br>regen 1\/round et c'est bon<br><br>[11:21]<br>pause pour régen et c'est bon<br><br>[11:22]<br>mais je note<br><br>ashyrra [11:22 AM]<br>Après l'endurance ça permet d'augmenter la difficulté dans un donjon<br><br>[11:23]<br>Exemple: tu rentres dans le dj, tu vas faire des petits combats qui vont réduire ta barre d'endurance \/ du coup tu vas soit devoir te reposer (et peut être perdre la chance de trouver\/capturer le boss) soit tu vas devoir affronter le boss en étant abîmer<br><br>[11:23]<br>Aucun moyen de régen l'endurance sans repos<br><br>sharah [11:23 AM]<br>ça c'est le système de base de DD avec des capa activables X\/j<br><br>[11:23]<br>c'est déjà un jeu de gestion de ressources<br><br>[11:23]<br>pv \/ sorts \/ capas \/ items \/ etc...<br><br>ashyrra [11:23 AM]<br>yes<br><br>sharah [11:25 AM]<br>pour info, j'ai déjà ajouté une ressource dans ma variante<br><br>[11:25]<br>tu génères de l'énergie (Prana) chaque tour de combat où tu fais un truc utile<br><br>[11:25]<br>le Prana peut être utilisé pour recharger tes capas\/sorts\/pv\/item (edited)<br><br>[11:26]<br>et il est conservé entre les combats<br><br>[11:26]<br>et reset quand tu dors<br><br>[11:27]<br>ça évite les pom-pom girls, ça permet de se heal ou réutiliser des capas quand besoin et ça ouvre la possibilité de création d'items dont les pouvoirs demandent d'utiliser du Prana<br><br>ashyrra [11:28 AM]<br>C'est quoi un truc utile ?<br><br>sharah [11:28 AM]<br>(btw, j'ai viré les big 6 : pas d'arme +X, pas de +X stat, cape de résist, etc... C'est intégré aux stats des joueurs, cf PF unchained)<br><br>ashyrra [11:28 AM]<br>un spell, une attaque qui touche ?<br><br>sharah [11:29 AM]<br>taper, lancer un sort, aider un autre joueur, faire tomber un ennemi, se positionner en défense totale pour bloquer une charge, etc...<br><br>[11:29]<br>participer au combat<br><br>[11:30]<br>pas juste sortir les ponpons (sauf si c'est pour destabiliser l'ennemi ou que tu es un barde)<br><br>[11:30]<br>en gros, chaque tour de combat les pj gagnent du prana, sauf s'ils légument dans un coin<br><br>[11:31]<br>ça a eu l'air de prendre sur le début de campagne que j'ai fait jouer<br><br>[11:32]<br>(campagne sans heal, à part l'enso qui pouvait heal 1d6 pv 1\/pj\/jour)<br><br>[11:34]<br>(mais il y avait 1 palos donc impo, un moine donc soin avec le ki)<br><br>[11:34]<br>btw, je vais vraiment déconstruire les classes ce coup-ci<br><br>[11:34]<br>pour retravailler la progression pour l'adapter à l'E6<br><br>[11:35]<br>en normal, les capas arrivent doucement car il y a 20 lvls à remplir<br><br><br>[11:35]<br>en E6, il n'y a pas le temps<br><br><br>sharah [12:11 PM]<br>@naveed: Je trouve le système des une fois par combat plus simple et nerveux. Le mieux c'est encore les coldowns mais c'est une donnée à gérer. J'aime bien sinon l'idée que chaque personne à un soin mais qu'il peut en changer entre les combats pour avoir un effet différent.<br><br><br>naveed [12:11 PM]<br>Merci<br><br><br>[12:14]<br>Après pour les sortes de soin, suffit de regarder les jeux vidéo et ya des tonnes idées par exemple : soin qui donne du Prana en plus, soin qui soigne en fonction de ton Prana, soin pour chaque attaque effectué, régénération sacrifiable pour un soin instant plus élevé, soin à chaque attaque ennemi raté, soin long à incanter mais puissant, soin fort sur soit et faible sur les alliés proches et l'inverse dans certaines conditions.<br><br>sharah [12:14 PM]<br>yep<br><br><br>[12:15]<br>mais ça reste une mécanique identique : utiliser une ressource pour rendre des PV<br><br>[12:15]<br>pour les différents types de soin<br><br>[12:15]<br>la regen sacrifiable est intéressante<br><br>naveed [12:18 PM]<br>Tu voulais des exemples de soin alors j'en cité aussi.<br><br>sharah [12:19 PM]<br>un soin long à incanter, c'est bien, mais quid du hors combat ? Ca n'a pas d'impact du coup. Ou alors c'est un heal hors combat (1min ou + d'incant) et ça revient à faire un auto-heal à la fin de chaque combat quand les pj ont le temps<br><br><br>[12:21]<br>(je ne critique pas les idées, j'essaye de pousser les machines)<br><br>naveed [12:21 PM]<br>Le seul mécanisme que j'ai vu dans un jeu vidéo qui change un peu c'est l'avatar céleste : tu charges l'avatar céleste en soignant ou en frappant et quand tu l'as chargé ça change l'effet de tes autres capas : un buff dégât deviens un buff heal, un contrôle devient un anti contrôle, etc.<br><br><br>[12:22]<br>Tout dépend du système de rechargement des soins.<br><br>sharah [12:23 PM]<br>ça c'est intéressant. Pas forcément pour le heal, mais pour des capas annexes<br><br>[12:23]<br>ah c'est justement ça qui m'intéresse<br><br>[12:23]<br>le système de recharge<br><br>naveed [12:42 PM]<br>Ba finalement ya deux grands systèmes : le rechargement (round, combat, repos, jour) et l'énergie (Mana, Prana). Faut voir après quelle limite tu veux.<br><br><br>naveed [12:47 PM]<br>Sinon un mécanisme de soin que j'ai trouvé intéressant c'est un \"mantra\" : tu casts le mantra avant le combat et il te donne 3 charges. Les deux premières charges sont des soins normaux et se rechargent. En revanche si tu dois utiliser le dernier, tu as un soin fort mais tu n'as plus aucun soin pendant un moment car recast le mantra est très long<br><br><br>faby [1:00 PM]<br>ça m'évoque l'idée du combo<br><br><br>[1:00]<br>c'est à dire consommer une action prendant n tours consécutifs<br><br><br>[1:01]<br>à cahque tour, l'effet est plus puissant qu'au tour d'avant<br><br><br>[1:01]<br>(mais ça sort peut-être du cadre auto-soin)<br><br>[1:01]<br>(mais j'écrais ça comme je le pense, et ça me donner des idées aussi ; merci nav :slightly_smiling_face: )<br><br>naveed [1:04 PM]<br>Pas de soucis, je vais vous faire la liste des soins de GW2 si ça vous donne des idées ^^<br><br><br><br>sharah [1:07 PM]<br>les \"soins\" qui générent des pv tempos sont intéressant aussi<br><br>[1:07]<br>ça a une durée limité et ça ne se cumule pas<br><br>[1:07]<br>aide à volonté &lt; soins légers à volonté<br><br>naveed [2:11 PM]<br>Exemple de capa défensive : Bloque une attaque tous les X, peut être sacrifié pour que tout les alliés bloquent la prochaine attaque<br><br>[2:11]<br>Regen PV, Peut être sacrifié pour soigné instant tous les alliés<br><br>[2:12]<br>Soins en cone<br><br>[2:14]<br>Soins canalisés, durant toute la canalisation, bloque les attaques<br><br>[2:14]<br>Regen, peut être sacrifié pour enlever un état préjudiciable<br><br>[2:15]<br>Attire tous les états préjudiciables des alliés sur soi et en gagne l'immunité mais pour une courte période<br><br>[2:16]<br>Téléportation sur allié blessé et place une zone de guérison à ces pieds<br><br><br>[2:18]<br>Vous bloquez les attaques puis vous êtes soignés en fonction du nombre d'attaque encaissé<br><br><br>[2:19]<br>Réduit les dégâts subis, peu être sacrifié pour être invulnérable pendant un court instant<br><br><br>[2:20]<br>Si vous êtes KO, vous reprenez conscience pendant X secondes, vous retombez au bout d'un certain temps à moins que vous participiez à terasser un ennemi pendant cette durée<br><br>[2:21]<br>Vous invoquez trois dagues flottantes, chaque tour une dague se lance sur un ennemi et fait un effet de vol de vie<br><br><br>[2:22]<br>Vous êtes soignés pour chaque état préjudiciaible qui vous affecte, variante : vous supprimez ces états et êtes soignés en fonction.<br><br>[2:23]<br>Pose une tablette de soin, par une action tous les joueurs sont soignés dans la zone de la tablette, par une autre action, il est possible de déplasser la tablette<br><br>[2:23]<br>La troisième attaque soigne<br><br><br>[2:24]<br>Vous canalisez un soin, plus les alliés sont proches, plus ils sont soignés<br><br>[2:25]<br>Le prochain sort que ovus lancez vous soigne en fonction du nombre d'ennemi affecté<br><br>[2:26]<br>Chaque tour pendant quelques tours, vous recevez des soins mineurs et levé un état préjudiciable<br><br><br>[2:27]<br>Bloque X attaque pendant Y tour, si à la fin de ces X tours, le bouclier n'est pas anéanti, il explose et inflige des dégats\/ variante il soigne<br><br><br>[2:28]<br>Soigne légèrement les alliés, si un allié est mis KO pendant un court délai, il reçoit un soin supplémentaire<br><\/p>",
+            "editor": "U0DTHMU81",
+            "last_editor": "U0DTHMU81",
+            "non_owner_editable": false,
+            "updated": 1515761846,
+            "migrated_id": "F8S03Q5QS",
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+        },
+        "ts": "1515761873.000072"
+    },
+    {
+        "type": "message",
+        "text": "Ah oui et j'ai pas fini la liste des soins de GW2",
+        "user": "U0AA0KVLH",
+        "ts": "1515762300.000023",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vkl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah oui et j'ai pas fini la liste des soins de GW2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Vous lancez le sort, il ne se passe rien pendant X tours, à la fin vous retrouvez les points de vie que vous aviez au lancement.",
+        "user": "U0AA0KVLH",
+        "ts": "1515762338.000036",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ztr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous lancez le sort, il ne se passe rien pendant X tours, à la fin vous retrouvez les points de vie que vous aviez au lancement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Vous êtes soignés en fonction du nombre d'invocation que ovus avez",
+        "user": "U0AA0KVLH",
+        "ts": "1515764174.000090",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Of2c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous êtes soignés en fonction du nombre d'invocation que ovus avez"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Mantra : vous avez trois charges, chacune soigne, tant que vous avez les trois, vous avez une regen passive",
+        "user": "U0AA0KVLH",
+        "ts": "1515764236.000194",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h1Vf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mantra : vous avez trois charges, chacune soigne, tant que vous avez les trois, vous avez une regen passive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Passif : vos attaques vol de la vie, actif : la prochaine attaque de tous les alliés sur la cible marquée ont vol de vie",
+        "user": "U0AA0KVLH",
+        "ts": "1515764314.000405",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mcMa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Passif : vos attaques vol de la vie, actif : la prochaine attaque de tous les alliés sur la cible marquée ont vol de vie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Invocation : chaque attaque de l'invocation vous soigne, peut être sacrifié pour gagner un soin plus important",
+        "user": "U0AA0KVLH",
+        "ts": "1515764363.000042",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gZ3=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Invocation : chaque attaque de l'invocation vous soigne, peut être sacrifié pour gagner un soin plus important"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Vous posez un puit de sable (trois max), tous les alliés dans la zone d'effet gagner des points de vie temporaires",
+        "user": "U0AA0KVLH",
+        "ts": "1515764430.000163",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JUu6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous posez un puit de sable (trois max), tous les alliés dans la zone d'effet gagner des points de vie temporaires"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Vous faites un déplacement en arrière qui ne provoque pas d'attaque d'opportunité, vous êtes soignés",
+        "user": "U0AA0KVLH",
+        "ts": "1515764684.000068",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ek2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous faites un déplacement en arrière qui ne provoque pas d'attaque d'opportunité, vous êtes soignés"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Vous êtes soignés en fonction du nombre d'ennemi que vous avez attaqué depuis X tours",
+        "user": "U0AA0KVLH",
+        "ts": "1515764728.000220",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o4w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous êtes soignés en fonction du nombre d'ennemi que vous avez attaqué depuis X tours"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Vous vous soignez vous et votre familier, vous gagnez une copie de tous les buffs de votre familier",
+        "user": "U0AA0KVLH",
+        "ts": "1515764798.000017",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fJ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous vous soignez vous et votre familier, vous gagnez une copie de tous les buffs de votre familier"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Le prochain allié qui marche dans la source de guérison la déclenche et soigne tous les alliés dans la zone",
+        "user": "U0AA0KVLH",
+        "ts": "1515764832.000284",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "clW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le prochain allié qui marche dans la source de guérison la déclenche et soigne tous les alliés dans la zone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Pendant X tours Les alliés qui frappent l'ennemi marqué au CaC sont soignés",
+        "user": "U0AA0KVLH",
+        "ts": "1515764954.000048",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Fu5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pendant X tours Les alliés qui frappent l'ennemi marqué au CaC sont soignés"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Les alliés sur la trajectoire du rayon sont soignés",
+        "user": "U0AA0KVLH",
+        "ts": "1515764965.000123",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V=mT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les alliés sur la trajectoire du rayon sont soignés"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Vous vous déplacez jusqu'à un point, à l'arrivé les alliés autour de vous sont soignés, bonus de osin si vous arrivez dans une zone de heal",
+        "user": "U0AA0KVLH",
+        "ts": "1515765005.000080",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JQc9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous vous déplacez jusqu'à un point, à l'arrivé les alliés autour de vous sont soignés, bonus de osin si vous arrivez dans une zone de heal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Vous gagnez de la vie à chaque fois que votre familier attaque",
+        "user": "U0AA0KVLH",
+        "ts": "1515765052.000180",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bc80h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous gagnez de la vie à chaque fois que votre familier attaque"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0AA0KVLH",
+            "ts": "1515765054.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Vous êtes soignés et recevez un buff aléatoire",
+        "user": "U0AA0KVLH",
+        "ts": "1515766738.000552",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xds",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous êtes soignés et recevez un buff aléatoire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Vous perdez tous vos buffs et êtes soignés d'un état préjudiciable par buff perdu et de pvs bonus",
+        "user": "U0AA0KVLH",
+        "ts": "1515766860.000635",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KJ80",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous perdez tous vos buffs et êtes soignés d'un état préjudiciable par buff perdu et de pvs bonus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Vous avez une regen passive que vous pouvez sacrifier pour vous équiper du Tome de la résolution qui dispose de 5 compétences de soins (soin fort porté réduite, enlève les états préjudiciables, Confère des buffs défensifs, soin de zone, amélioration des soins) mais 6 utilisations max avant de perdre le Tome",
+        "user": "U0AA0KVLH",
+        "ts": "1515773924.000197",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zG=y4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous avez une regen passive que vous pouvez sacrifier pour vous équiper du Tome de la résolution qui dispose de 5 compétences de soins (soin fort porté réduite, enlève les états préjudiciables, Confère des buffs défensifs, soin de zone, amélioration des soins) mais 6 utilisations max avant de perdre le Tome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

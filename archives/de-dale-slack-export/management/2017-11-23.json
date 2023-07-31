@@ -1,0 +1,77 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/blog.trello.com\/fr\/modele-de-tuckman>\n<https:\/\/blog.trello.com\/fr\/optimisation-des-processus>",
+        "user": "U0A48EDPD",
+        "ts": "1511428469.000105",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hB4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.trello.com\/fr\/modele-de-tuckman"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.trello.com\/fr\/optimisation-des-processus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Le modèle de Tuckman et les 4 étapes pour améliorer la productivité de vos équipes",
+                "title_link": "https:\/\/blog.trello.com\/fr\/modele-de-tuckman",
+                "text": "Voici comment appliquer le modèle de Tuckman théorisé par Bruce Tuckman pour la gestion d’équipes hautement productives et performantes.",
+                "fallback": "Le modèle de Tuckman et les 4 étapes pour améliorer la productivité de vos équipes",
+                "image_url": "https:\/\/lh5.googleusercontent.com\/D9sLLhe9RSx7ZmP-i_j9udEb4x_yccKhUueCp64H9r3jrsrIo2KwZYTSANURs3vAVcGfGAh1T9rvob6pLaLOGYkUjpa__Fb4VxNugXpEL115B29IKMzECOx89I_ifSvIpRcZhEKV#keepProtocol",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/blog.trello.com\/fr\/modele-de-tuckman",
+                "image_bytes": 103628,
+                "service_icon": "https:\/\/blog.trello.com\/hubfs\/Trello_July2016_Theme\/trello-mark-blue.png?t=1511394566231",
+                "service_name": "blog.trello.com",
+                "id": 1
+            },
+            {
+                "title": "6 facteurs d'optimisation de processus pour booster la productivité de vos équipes",
+                "title_link": "https:\/\/blog.trello.com\/fr\/optimisation-des-processus",
+                "text": "L'optimisation de processus est la solution idéale pour se dédier à la croissance de son entreprise en évitant de perdre du temps.",
+                "fallback": "6 facteurs d'optimisation de processus pour booster la productivité de vos équipes",
+                "image_url": "https:\/\/blog.trello.com\/hs-fs\/hubfs\/feature-7.png?t=1509731401966&width=648&name=feature-7.png#keepProtocol",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/blog.trello.com\/fr\/optimisation-des-processus",
+                "image_bytes": 66399,
+                "service_icon": "https:\/\/blog.trello.com\/hubfs\/Trello_July2016_Theme\/trello-mark-blue.png?t=1511394566231",
+                "service_name": "blog.trello.com",
+                "id": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,810 @@
+[
+    {
+        "client_msg_id": "5f2accc7-1706-4701-828b-6d7ceae49ff1",
+        "type": "message",
+        "text": "Tou à fait : il y a des trucs à creuser. Mais pas par cette vidéo :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1586248532.060400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3YYLG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tou à fait : il y a des trucs à creuser. Mais pas par cette vidéo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585864858.037300",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "6945a13e-7c85-48a1-8b6c-c411a0ffb803",
+        "type": "message",
+        "text": "<@U0DTHMU81> c'est toi qui m'avait perlé d'Aeons Ends ?\n<https:\/\/www.vindjeu.eu\/2019\/05\/19\/aeons-end\/>",
+        "user": "U0A48EDPD",
+        "ts": "1586250621.060900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RIG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0DTHMU81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " c'est toi qui m'avait perlé d'Aeons Ends ?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.vindjeu.eu\/2019\/05\/19\/aeons-end\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "  Aeon’s End - Vin d'jeu",
+                "title_link": "https:\/\/www.vindjeu.eu\/2019\/05\/19\/aeons-end\/",
+                "text": "Vindjeu",
+                "fallback": "  Aeon’s End - Vin d'jeu",
+                "from_url": "https:\/\/www.vindjeu.eu\/2019\/05\/19\/aeons-end\/",
+                "service_icon": "https:\/\/www.vindjeu.eu\/prd\/wp-content\/uploads\/2014\/10\/logo.png",
+                "service_name": "vindjeu.eu",
+                "id": 1,
+                "original_url": "https:\/\/www.vindjeu.eu\/2019\/05\/19\/aeons-end\/"
+            }
+        ],
+        "thread_ts": "1586250621.060900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586252652.061300",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0DTHMU81"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1586251142.061100"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586252652.061300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1586252652.061300"
+    },
+    {
+        "client_msg_id": "a0e475ff-8023-4b06-afab-9dcb7e51b941",
+        "type": "message",
+        "text": "Ou c'est @nav ?",
+        "user": "U0A48EDPD",
+        "ts": "1586251142.061100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tb=AK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ou c'est @nav ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586250621.060900",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "a2ad4fea-b052-47bb-aa2c-897b353b1581",
+        "type": "message",
+        "text": "Ca devait être moi. Mais c'est bon j'ai. Et j'ai bientôt la quasi intégralité.",
+        "user": "U0DTHMU81",
+        "ts": "1586252652.061300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pJZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca devait être moi. Mais c'est bon j'ai. Et j'ai bientôt la quasi intégralité."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586250621.060900",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "92cb54d4-3bde-440c-a91a-b689b5d5fe0c",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1586262381.061600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ywx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "67a0806b-f689-4738-8623-bc058a20366c",
+        "type": "message",
+        "text": "Scénario fini",
+        "user": "U0AA0KVLH",
+        "ts": "1586286377.061900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GLCe3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Scénario fini"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06317cd8-aacb-463c-8b96-1e8c90aef5ef",
+        "type": "message",
+        "text": "Maintenant faut que je trouve les joueurs",
+        "user": "U0AA0KVLH",
+        "ts": "1586286386.062100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j7ux",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maintenant faut que je trouve les joueurs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586286386.062100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586358305.066800",
+        "reply_users": [
+            "U0DTHMU81"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586358305.066800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "a16f6ac7-b59a-4c68-a881-c580ed06fbc6",
+        "type": "message",
+        "text": "+ dispos",
+        "user": "U0A48EDPD",
+        "ts": "1586287852.062500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5scn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+ dispos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "366ad6bb-c928-4dcb-be51-583fce8adeaf",
+        "type": "message",
+        "text": "il faut rajouter \"dispos\" à \"joueurs\", sinon, ça ne fonctionne pas :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1586287879.063100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GFFE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "il faut rajouter \"dispos\" à \"joueurs\", sinon, ça ne fonctionne pas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "43febac9-cd4c-493f-ae64-39d25bd915cb",
+        "type": "message",
+        "text": "un joueur non dispo, est-ce un joueur ? Parce que c'est qqun qui ne joue pas donc ce n'est pas vriament un joueur",
+        "user": "U0AA0KVLH",
+        "ts": "1586290187.063500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ggsbr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "un joueur non dispo, est-ce un joueur ? Parce que c'est qqun qui ne joue pas donc ce n'est pas vriament un joueur"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d460514e-b363-46c9-9b18-8b26a7bcccd0",
+        "type": "message",
+        "text": "Vous avez 2 heures",
+        "user": "U0AA0KVLH",
+        "ts": "1586290195.063700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BDSDW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous avez 2 heures"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f333e81a-b18a-4a56-b869-a67822d65087",
+        "type": "message",
+        "text": "oui",
+        "user": "U0A48EDPD",
+        "ts": "1586291758.064100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bq68",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f0100c1e-38e1-43b2-a4eb-38ba4a6540b1",
+        "type": "message",
+        "text": "25 minutes",
+        "user": "U0A48EDPD",
+        "ts": "1586291761.064300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "86m4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "25 minutes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1586291767.000000"
+        }
+    },
+    {
+        "client_msg_id": "163dc3bc-3b46-432d-bfc9-37a2985dbcd9",
+        "type": "message",
+        "text": "Bisous",
+        "user": "U0A48EDPD",
+        "ts": "1586291768.064700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hBv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bisous"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e0d8459a-c41d-49c7-9419-71f4bcd94173",
+        "type": "message",
+        "text": "Je te compte pas dans les joueurs dispos alors ?",
+        "user": "U0AA0KVLH",
+        "ts": "1586293422.064900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M8SQ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je te compte pas dans les joueurs dispos alors ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "29f4314c-d510-4f25-8893-765d744158e3",
+        "type": "message",
+        "text": "no, dispo tard, par intermittence, et irrégulièrement.",
+        "user": "U0A48EDPD",
+        "ts": "1586295349.065400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no, dispo tard, par intermittence, et irrégulièrement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c5acfe8c-ca3f-49cb-9012-d70621f12d83",
+        "type": "message",
+        "text": "Ca me dérange pas de faire ça le soir perso",
+        "user": "U0AA0KVLH",
+        "ts": "1586296477.065800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jbn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca me dérange pas de faire ça le soir perso"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "66199bfb-ca0a-4d2c-853a-5c75235632ab",
+        "type": "message",
+        "text": "Et tout le monde peut avoir besoin d'une pause",
+        "user": "U0AA0KVLH",
+        "ts": "1586296488.066100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GwjgN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et tout le monde peut avoir besoin d'une pause"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7c6e3382-11d9-4e57-9878-1200d1cf1275",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1586328029.066300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dhU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

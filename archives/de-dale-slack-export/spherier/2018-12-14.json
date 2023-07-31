@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "88ab2e4a-a736-4e9c-9d65-284bd2c5fa3d",
+        "type": "message",
+        "text": "Bon : je ne suis pas encore au point, mais ça commence à ressembler à quelque chose",
+        "user": "U0A48EDPD",
+        "ts": "1544791910.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HlIPG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon : je ne suis pas encore au point, mais ça commence à ressembler à quelque chose"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7940246f-f967-4008-90e4-f3ca4b08eb25",
+        "type": "message",
+        "text": "<https:\/\/www.notion.so\/spherier\/Le-Sph-rier-a0f77e7c403c4a7781205c3f976a6b7a>",
+        "user": "U0A48EDPD",
+        "ts": "1544791911.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zH+Sf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/spherier\/Le-Sph-rier-a0f77e7c403c4a7781205c3f976a6b7a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Sphérier on Notion",
+                "title": "Le Sphérier",
+                "title_link": "https:\/\/www.notion.so\/spherier\/Le-Sph-rier-a0f77e7c403c4a7781205c3f976a6b7a",
+                "text": "Le Sphérier est la compilation d'un ensembles de règles, les plus simples possibles, de manière à ce que leur texte explicatif tienne sur un support de la taille d'une carte à jouer.",
+                "fallback": "Sphérier on Notion: Le Sphérier",
+                "from_url": "https:\/\/www.notion.so\/spherier\/Le-Sph-rier-a0f77e7c403c4a7781205c3f976a6b7a",
+                "service_icon": "https:\/\/www.notion.so\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/spherier\/Le-Sph-rier-a0f77e7c403c4a7781205c3f976a6b7a"
+            }
+        ]
+    }
+]

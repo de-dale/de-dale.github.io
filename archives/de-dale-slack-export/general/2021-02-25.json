@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "bf90cef7-c82a-4888-84e9-9e157a5f43e5",
+        "type": "message",
+        "text": "Plopman : Begins",
+        "user": "U0AA0KVLH",
+        "ts": "1614243350.003600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TIox8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plopman : Begins"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0886d18a-25b7-465e-b14b-fdeb926a0988",
+        "type": "message",
+        "text": "<https:\/\/fr.ulule.com\/dnd-et-philosophie\/>",
+        "user": "U0AA0KVLH",
+        "ts": "1614243572.003800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lDlV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fr.ulule.com\/dnd-et-philosophie\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Ulule",
+                "title": "Dungeons &amp; Dragons et Philosophie",
+                "title_link": "https:\/\/fr.ulule.com\/dnd-et-philosophie\/",
+                "text": "Gagnez un avantage à tous vos tests de sagesse",
+                "fallback": "Ulule: Dungeons &amp; Dragons et Philosophie",
+                "image_url": "https:\/\/img.ulule.com\/display\/5fa53d989830ccf15c26ecf090fd1b24b537f5a0\/thumbnail\/600x315\/presales\/3\/3\/7\/122733\/accueil.NnURoIc6qJ9J.png",
+                "from_url": "https:\/\/fr.ulule.com\/dnd-et-philosophie\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 333393,
+                "service_icon": "https:\/\/s3-eu-west-1.amazonaws.com\/com.ulule.assets\/site\/build\/apple-touch-icon.4552687b655c.png",
+                "id": 1,
+                "original_url": "https:\/\/fr.ulule.com\/dnd-et-philosophie\/"
+            }
+        ]
+    }
+]

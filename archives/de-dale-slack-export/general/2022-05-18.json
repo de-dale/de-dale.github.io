@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "cd3d436a-f229-4217-be86-f5c28f668161",
+        "type": "message",
+        "text": "D'ailleur j'ai engagé mollet gauche et droit aussi récemment.",
+        "user": "U0M8SF5CG",
+        "ts": "1652903736.699139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fjbs2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "D'ailleur j'ai engagé mollet gauche et droit aussi récemment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U0LSAUM71"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

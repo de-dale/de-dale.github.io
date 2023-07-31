@@ -1,0 +1,4436 @@
+[
+    {
+        "type": "message",
+        "subtype": "group_join",
+        "ts": "1446720478.000002",
+        "user": "U0DTHMU81",
+        "text": "<@U0DTHMU81> has joined the group"
+    },
+    {
+        "type": "message",
+        "subtype": "group_join",
+        "ts": "1446720478.000003",
+        "user": "U0B0S4YFP",
+        "text": "<@U0B0S4YFP> has joined the group",
+        "inviter": "U0DTHMU81"
+    },
+    {
+        "type": "message",
+        "subtype": "group_purpose",
+        "ts": "1446720478.000004",
+        "user": "U0DTHMU81",
+        "text": "set the channel's purpose: Pour discuter de la variante du jeu PF que je suis en train de développer.",
+        "purpose": "Pour discuter de la variante du jeu PF que je suis en train de développer."
+    },
+    {
+        "type": "message",
+        "subtype": "group_name",
+        "ts": "1446732188.000006",
+        "user": "U0DTHMU81",
+        "text": "has renamed the channel from \"energie-vitale-pf\" to \"pf-variante\"",
+        "old_name": "energie-vitale-pf",
+        "name": "pf-variante"
+    },
+    {
+        "type": "message",
+        "subtype": "group_join",
+        "ts": "1446733300.000007",
+        "user": "U0A48EDPD",
+        "text": "<@U0A48EDPD> has joined the group",
+        "inviter": "U0DTHMU81"
+    },
+    {
+        "type": "message",
+        "subtype": "group_join",
+        "ts": "1446733300.000008",
+        "user": "U0DSEQH9S",
+        "text": "<@U0DSEQH9S> has joined the group",
+        "inviter": "U0DTHMU81"
+    },
+    {
+        "type": "message",
+        "subtype": "group_join",
+        "ts": "1446733300.000009",
+        "user": "U0AA0KVLH",
+        "text": "<@U0AA0KVLH> has joined the group",
+        "inviter": "U0DTHMU81"
+    },
+    {
+        "type": "message",
+        "text": ":+1:",
+        "user": "U0A48EDPD",
+        "ts": "1446733347.000010",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WpM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0AMSH2EB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U0A48EDPD",
+        "display_as_bot": false,
+        "ts": "1446733388.000011"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0AMSLFNH",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U0A48EDPD",
+        "display_as_bot": false,
+        "ts": "1446733400.000012"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0DTTPYBE",
+                "created": 1446733426,
+                "timestamp": 1446733426,
+                "name": "Variante_Pathfinder___Avant_Propos.txt",
+                "title": "Variante Pathfinder _ Avant Propos",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U0DTHMU81",
+                "user_team": "T0A48J0MV",
+                "editable": true,
+                "size": 3557,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0DTTPYBE\/variante_pathfinder___avant_propos.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0DTTPYBE\/download\/variante_pathfinder___avant_propos.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "permalink": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt",
+                "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F0DTTPYBE-d2e257d593",
+                "edit_link": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U0DTHMU81",
+        "display_as_bot": false,
+        "ts": "1446733427.000013"
+    },
+    {
+        "type": "message",
+        "text": "de rien <@U0DTHMU81>",
+        "user": "U0A48EDPD",
+        "ts": "1446733485.000015",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YfcJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "de rien "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0DTHMU81"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Je l'ai créé pour discuter de la variante que je suis en train de mettre en place.",
+        "user": "U0DTHMU81",
+        "ts": "1446733504.000016",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kA\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je l'ai créé pour discuter de la variante que je suis en train de mettre en place."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ah  ; je retire les docu d'ici alors",
+        "user": "U0A48EDPD",
+        "ts": "1446733526.000017",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NYd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah  ; je retire les docu d'ici alors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1446733532.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "ils trouveront leurs place ailleurs :simple_smile:",
+        "user": "U0A48EDPD",
+        "ts": "1446733539.000020",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FY5e0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ils trouveront leurs place ailleurs "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ok",
+        "user": "U0A48EDPD",
+        "ts": "1446733541.000021",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+ddw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "et le second, ce sont les premières ébauches de D&amp;D5",
+        "user": "U0A48EDPD",
+        "ts": "1446733561.000024",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0S\/L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et le second, ce sont les premières ébauches de D&D5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "pf-variante, c'est bien comme nom",
+        "user": "U0A48EDPD",
+        "ts": "1446733608.000026",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZaMo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pf-variante, c'est bien comme nom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1446733617.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "C'est surtout que je n'ai pas trouvé de nom pour la variante T_T",
+        "user": "U0DTHMU81",
+        "ts": "1446733650.000028",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lmgzj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est surtout que je n'ai pas trouvé de nom pour la variante T_T"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Mais t'es carrément au taquet",
+        "user": "U0DTHMU81",
+        "ts": "1446733680.000029",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qnb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mais t'es carrément au taquet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "T'as fait pop les 2 docs 10 sec après que j'ai créé le channel...",
+        "user": "U0DTHMU81",
+        "ts": "1446733696.000030",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EGFgu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "T'as fait pop les 2 docs 10 sec après que j'ai créé le channel..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "group_topic",
+        "ts": "1446733758.000031",
+        "user": "U0DTHMU81",
+        "text": "set the channel's topic: Pour parler de la variante de Pathfinder",
+        "topic": "Pour parler de la variante de Pathfinder"
+    },
+    {
+        "type": "message",
+        "text": "Ben en fait ; je les avais déjà mis à disposition dans un channel privé",
+        "user": "U0A48EDPD",
+        "ts": "1446733869.000032",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tmJFL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ben en fait ; je les avais déjà mis à disposition dans un channel privé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "du coup, j'ai fait que partager en plus dans le channel courant",
+        "user": "U0A48EDPD",
+        "ts": "1446733882.000033",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4yaa2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "du coup, j'ai fait que partager en plus dans le channel courant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "et voilà",
+        "user": "U0A48EDPD",
+        "ts": "1446733886.000034",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/fGTy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et voilà"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U0DTHMU81> commented on <@U0DTHMU81>’s file <https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt|https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt>: à la ?",
+        "comment": {
+            "id": "Fc0DU15DC6",
+            "created": 1446734586,
+            "timestamp": 1446734586,
+            "user": "U0DTHMU81",
+            "is_intro": false,
+            "comment": "à la ?"
+        },
+        "is_intro": false,
+        "file": {
+            "id": "F0DTTPYBE",
+            "created": 1446733426,
+            "timestamp": 1446733426,
+            "name": "Variante_Pathfinder___Avant_Propos.txt",
+            "title": "Variante Pathfinder _ Avant Propos",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U0DTHMU81",
+            "user_team": "T0A48J0MV",
+            "editable": true,
+            "size": 3557,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0DTTPYBE\/variante_pathfinder___avant_propos.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0DTTPYBE\/download\/variante_pathfinder___avant_propos.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+            "permalink": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F0DTTPYBE-d2e257d593",
+            "edit_link": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt\/edit",
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+        },
+        "files": [
+            {
+                "id": "F0DTTPYBE",
+                "created": 1446733426,
+                "timestamp": 1446733426,
+                "name": "Variante_Pathfinder___Avant_Propos.txt",
+                "title": "Variante Pathfinder _ Avant Propos",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U0DTHMU81",
+                "user_team": "T0A48J0MV",
+                "editable": true,
+                "size": 3557,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0DTTPYBE\/variante_pathfinder___avant_propos.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0DTTPYBE\/download\/variante_pathfinder___avant_propos.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "permalink": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt",
+                "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F0DTTPYBE-d2e257d593",
+                "edit_link": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "team": "T00",
+        "ts": "1446734586.000036",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<@U0DTHMU81> commented on <@U0DTHMU81>’s file <https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt|https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt>: à la ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U0DTHMU81> commented on <@U0DTHMU81>’s file <https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt|https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt>: Vite fait",
+        "comment": {
+            "id": "Fc0DTVGQHJ",
+            "created": 1446734764,
+            "timestamp": 1446734764,
+            "user": "U0DTHMU81",
+            "is_intro": false,
+            "comment": "Vite fait"
+        },
+        "is_intro": false,
+        "file": {
+            "id": "F0DTTPYBE",
+            "created": 1446733426,
+            "timestamp": 1446733426,
+            "name": "Variante_Pathfinder___Avant_Propos.txt",
+            "title": "Variante Pathfinder _ Avant Propos",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U0DTHMU81",
+            "user_team": "T0A48J0MV",
+            "editable": true,
+            "size": 3557,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0DTTPYBE\/variante_pathfinder___avant_propos.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0DTTPYBE\/download\/variante_pathfinder___avant_propos.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+            "permalink": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F0DTTPYBE-d2e257d593",
+            "edit_link": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt\/edit",
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+        },
+        "files": [
+            {
+                "id": "F0DTTPYBE",
+                "created": 1446733426,
+                "timestamp": 1446733426,
+                "name": "Variante_Pathfinder___Avant_Propos.txt",
+                "title": "Variante Pathfinder _ Avant Propos",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U0DTHMU81",
+                "user_team": "T0A48J0MV",
+                "editable": true,
+                "size": 3557,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0DTTPYBE\/variante_pathfinder___avant_propos.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0DTTPYBE\/download\/variante_pathfinder___avant_propos.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "permalink": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt",
+                "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F0DTTPYBE-d2e257d593",
+                "edit_link": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "team": "T00",
+        "ts": "1446734764.000040",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<@U0DTHMU81> commented on <@U0DTHMU81>’s file <https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt|https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt>: Vite fait"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U0DTHMU81> commented on <@U0DTHMU81>’s file <https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt|https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt>: C'est approchant, mais éloigné de ce que je veux faire. L'audace demande une certaine prise de risque et est une récompense rare. De plus les 2 systèmes ont le même défaut : Les joueurs commencent full au début du combat\/journée.\nC'est précisément ce que je veux éviter. Surtout l'Endurance où le but est de tout cramer toutes les 10 min (de mémoire) car ça se recharge tout seul. Le but est plutôt de forcer les joueurs à participer activement au combat et que cela leur permette de continuer d'utiliser leurs capacités.",
+        "comment": {
+            "id": "Fc0DTXMGSZ",
+            "created": 1446735000,
+            "timestamp": 1446735000,
+            "user": "U0DTHMU81",
+            "is_intro": false,
+            "comment": "C'est approchant, mais éloigné de ce que je veux faire. L'audace demande une certaine prise de risque et est une récompense rare. De plus les 2 systèmes ont le même défaut : Les joueurs commencent full au début du combat\/journée.\nC'est précisément ce que je veux éviter. Surtout l'Endurance où le but est de tout cramer toutes les 10 min (de mémoire) car ça se recharge tout seul. Le but est plutôt de forcer les joueurs à participer activement au combat et que cela leur permette de continuer d'utiliser leurs capacités."
+        },
+        "is_intro": false,
+        "file": {
+            "id": "F0DTTPYBE",
+            "created": 1446733426,
+            "timestamp": 1446733426,
+            "name": "Variante_Pathfinder___Avant_Propos.txt",
+            "title": "Variante Pathfinder _ Avant Propos",
+            "mimetype": "text\/plain",
+            "filetype": "text",
+            "pretty_type": "Plain Text",
+            "user": "U0DTHMU81",
+            "user_team": "T0A48J0MV",
+            "editable": true,
+            "size": 3557,
+            "mode": "snippet",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0DTTPYBE\/variante_pathfinder___avant_propos.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0DTTPYBE\/download\/variante_pathfinder___avant_propos.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+            "permalink": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt",
+            "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F0DTTPYBE-d2e257d593",
+            "edit_link": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt\/edit",
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+        },
+        "files": [
+            {
+                "id": "F0DTTPYBE",
+                "created": 1446733426,
+                "timestamp": 1446733426,
+                "name": "Variante_Pathfinder___Avant_Propos.txt",
+                "title": "Variante Pathfinder _ Avant Propos",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U0DTHMU81",
+                "user_team": "T0A48J0MV",
+                "editable": true,
+                "size": 3557,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0DTTPYBE\/variante_pathfinder___avant_propos.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0DTTPYBE\/download\/variante_pathfinder___avant_propos.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "permalink": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt",
+                "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F0DTTPYBE-d2e257d593",
+                "edit_link": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "team": "T00",
+        "ts": "1446735000.000041",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<@U0DTHMU81> commented on <@U0DTHMU81>’s file <https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt|https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DTTPYBE\/variante_pathfinder___avant_propos.txt>: C'est approchant, mais éloigné de ce que je veux faire. L'audace demande une certaine prise de risque et est une récompense rare. De plus les 2 systèmes ont le même défaut : Les joueurs commencent full au début du combat\/journée.\nC'est précisément ce que je veux éviter. Surtout l'Endurance où le but est de tout cramer toutes les 10 min (de mémoire) car ça se recharge tout seul. Le but est plutôt de forcer les joueurs à participer activement au combat et que cela leur permette de continuer d'utiliser leurs capacités."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0DU2DW1M",
+                "created": 1446735535,
+                "timestamp": 1446735535,
+                "name": "Idee_duree_combat_exploration.txt",
+                "title": "Idée durée combat\/exploration",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U0DTHMU81",
+                "user_team": "T0A48J0MV",
+                "editable": true,
+                "size": 2123,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0DU2DW1M\/idee_duree_combat_exploration.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F0DU2DW1M\/download\/idee_duree_combat_exploration.txt?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "permalink": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DU2DW1M\/idee_duree_combat_exploration.txt",
+                "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F0DU2DW1M-e4e2d7652d",
+                "edit_link": "https:\/\/de-dale.slack.com\/files\/U0DTHMU81\/F0DU2DW1M\/idee_duree_combat_exploration.txt\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U0DTHMU81",
+        "display_as_bot": false,
+        "ts": "1446735536.000042"
+    },
+    {
+        "type": "message",
+        "text": "Ok alors questions :",
+        "user": "U0AA0KVLH",
+        "ts": "1446736277.000044",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qsw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok alors questions :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Déjà le truc en anglais, pas lu, et j'ai pas de remarque sur la partie : le pourquoi du comment.",
+        "user": "U0AA0KVLH",
+        "ts": "1446736298.000045",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XgK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Déjà le truc en anglais, pas lu, et j'ai pas de remarque sur la partie : le pourquoi du comment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ensuite à quoi correspond le terme Prana ?",
+        "user": "U0AA0KVLH",
+        "ts": "1446736313.000046",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kND",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ensuite à quoi correspond le terme Prana ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "C'est une sorte d'Adrénaline en faite ?",
+        "user": "U0AA0KVLH",
+        "ts": "1446736331.000047",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qs2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est une sorte d'Adrénaline en faite ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Comment sont gérer les deux principaux lanceurs de sorts profanes ? Vu que les sorts semblent se recharger, la différence entre Magicien et Enso sur le nombre d'utilisation des sorts n'est plus d'actualité et l'Ensorceleur devient vraiment en retrait sur le Magicien",
+        "user": "U0AA0KVLH",
+        "ts": "1446736417.000048",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y\/T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Comment sont gérer les deux principaux lanceurs de sorts profanes ? Vu que les sorts semblent se recharger, la différence entre Magicien et Enso sur le nombre d'utilisation des sorts n'est plus d'actualité et l'Ensorceleur devient vraiment en retrait sur le Magicien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "En gros oui. Les joueurs en génèrent quand ils sont actifs en comabt (attaquer, se défendre, aider un autre, lancer un sort).",
+        "user": "U0DTHMU81",
+        "ts": "1446736435.000049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M0Qcv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En gros oui. Les joueurs en génèrent quand ils sont actifs en comabt (attaquer, se défendre, aider un autre, lancer un sort)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "qu'est ce qui ne génère pas d'adrénaline alors en combat ? Faire blablabla quand on est affecté par une confusion ? Des actions rapportent plus que d'autres ?",
+        "user": "U0AA0KVLH",
+        "ts": "1446736491.000050",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Jl2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "qu'est ce qui ne génère pas d'adrénaline alors en combat ? Faire blablabla quand on est affecté par une confusion ? Des actions rapportent plus que d'autres ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "J'ai fait des modifs sur les sorts en bonus qui restreignent plus le mage que l'enso. De plus, lancer des sorts rapporte pas mal de Prana (fonction du niveau du sort). L'Enso en lançant plus, il en génère plus.",
+        "user": "U0DTHMU81",
+        "ts": "1446736553.000051",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "26ki+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai fait des modifs sur les sorts en bonus qui restreignent plus le mage que l'enso. De plus, lancer des sorts rapporte pas mal de Prana (fonction du niveau du sort). L'Enso en lançant plus, il en génère plus."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Comment ça l'enso lance plus de sort ?",
+        "user": "U0AA0KVLH",
+        "ts": "1446736626.000052",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eea",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Comment ça l'enso lance plus de sort ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Faire la pom pom girl ou entreprendre des action inutiles n'en rapporte pas .\nGenre aider son guerrier pour filer +2 CA contre un truc qui ne peut pas le toucher n'est pas utile.",
+        "user": "U0DTHMU81",
+        "ts": "1446736664.000053",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PzzqZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Faire la pom pom girl ou entreprendre des action inutiles n'en rapporte pas .\nGenre aider son guerrier pour filer +2 CA contre un truc qui ne peut pas le toucher n'est pas utile."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "L'enso a plus de sorts par jour que le mage",
+        "user": "U0DTHMU81",
+        "ts": "1446736682.000054",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0A7PA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L'enso a plus de sorts par jour que le mage"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Un PJ gagne des Pranas lorsqu’il accomplit les actions suivantes :\n-\tToucher 1 cible avec une arme et lui infliger des dommages : 1 Prana\n-\tLancer un sort : 1 Prana par niveau du sort\nLes amulettes permettent d’apporter d’autres sources de génération de Prana.\n\nSi un PJ, n’a pas pu faire une des actions au cours de son tour, il génère 1 Prana à la fin celui-ci, s’il a participé activement au combat, ce qui signifie que l’action doit être utile à l’avancement du combat, par exemple :\n-\tAider un autre PJ (à l’attaque ou à la défense)\n-\tProtéger un PJ en s’interposant (même en se mettant en défense totale)\n-\tAttaquer une cible, mais la rater\n-\tLancer un sort sur la défensive, mais échouer au test de Concentration\nAinsi, protéger ou aider à défendre un PJ qui ne peut pas être touché (hors réussite critique) n’a aucun intérêt et ne générera pas de Prana. Par contre, s’interposer en défense totale entre le mage et un adversaire parce qu’une ligne de mire est dégagée a une implication dans le combat en réduisant le nombre de possibilité de l’ennemi et générera un Prana. Le but n’est pas de réduire le panel d’action des joueurs, surtout dans les premiers niveaux, mais de limiter les actions inutiles. Cela peut entraîner une prise de risque, si par exemple le mage va se placer de façon à permettre une prise en tenaille.\nUn Le MJ reste seul décisionnaire de l’attribution ou non d’un Prana.",
+        "user": "U0DTHMU81",
+        "ts": "1446736705.000055",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1GDjI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un PJ gagne des Pranas lorsqu’il accomplit les actions suivantes :\n-    Toucher 1 cible avec une arme et lui infliger des dommages : 1 Prana\n-    Lancer un sort : 1 Prana par niveau du sort\nLes amulettes permettent d’apporter d’autres sources de génération de Prana.\n\nSi un PJ, n’a pas pu faire une des actions au cours de son tour, il génère 1 Prana à la fin celui-ci, s’il a participé activement au combat, ce qui signifie que l’action doit être utile à l’avancement du combat, par exemple :\n-    Aider un autre PJ (à l’attaque ou à la défense)\n-    Protéger un PJ en s’interposant (même en se mettant en défense totale)\n-    Attaquer une cible, mais la rater\n-    Lancer un sort sur la défensive, mais échouer au test de Concentration\nAinsi, protéger ou aider à défendre un PJ qui ne peut pas être touché (hors réussite critique) n’a aucun intérêt et ne générera pas de Prana. Par contre, s’interposer en défense totale entre le mage et un adversaire parce qu’une ligne de mire est dégagée a une implication dans le combat en réduisant le nombre de possibilité de l’ennemi et générera un Prana. Le but n’est pas de réduire le panel d’action des joueurs, surtout dans les premiers niveaux, mais de limiter les actions inutiles. Cela peut entraîner une prise de risque, si par exemple le mage va se placer de façon à permettre une prise en tenaille.\nUn Le MJ reste seul décisionnaire de l’attribution ou non d’un Prana."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Sort en bonus ; \nLa façon dont les sorts en bonus fonctionnent change. A la place d’emplacements de sort supplémentaires, par une action libre, les PJ peuvent se rappeler des sorts qu’ils ont déjà lancés (pour les lanceurs de sorts préparés) ou récupérer des emplacements de sort utilisés (pour les lanceurs de sorts spontanés), comme lors de l’utilisation d’une Pierre de Thaumaturge minus le mot de commande.\nLes PJ peuvent recharger un nombre de niveaux de sort égal au bonus de la caractéristique utilisée pour lancer ces sorts. Pour les lanceurs de sorts préparés, ils doivent répartir les recharges entre les niveaux de sorts auxquels ils ont accès lorsqu’ils préparent leurs sorts.\nPar exemple : Nuage est un magicien universaliste de niveau 3 avec 16 INT. Il peut lancer 2 sorts de niveau 1 et 1 sort de niveau 2. Son bonus d’INT est +3, il peut donc recharger 3 niveaux de sorts, répartis au choix entre 3 sorts de niveau 1 (3*1) ou 1 sort de niveau 1 et 1 sort de niveau 2 (1*1+1*2). \nPendant sa préparation matinale, il choisit de préparer 1 sort de Graisse et 1 sort d’Armure de Mage sur ses emplacements de niveau 1 et 1 sort de Rayon Ardent sur son emplacement de niveau 2. Il décide de privilégier la quantité et donc de pouvoir recharger 3 sorts de niveau 1.\nSa grande sœur, Averse, ensorceleuse de niveau 4 avec 16 CHA pourra, elle, choisir les sorts qu’elle recharge en fonction de la situation, dans la limite de son bonus de CHA soit 3 niveaux de sort.",
+        "user": "U0DTHMU81",
+        "ts": "1446736763.000056",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oG4Mc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sort en bonus ; \nLa façon dont les sorts en bonus fonctionnent change. A la place d’emplacements de sort supplémentaires, par une action libre, les PJ peuvent se rappeler des sorts qu’ils ont déjà lancés (pour les lanceurs de sorts préparés) ou récupérer des emplacements de sort utilisés (pour les lanceurs de sorts spontanés), comme lors de l’utilisation d’une Pierre de Thaumaturge minus le mot de commande.\nLes PJ peuvent recharger un nombre de niveaux de sort égal au bonus de la caractéristique utilisée pour lancer ces sorts. Pour les lanceurs de sorts préparés, ils doivent répartir les recharges entre les niveaux de sorts auxquels ils ont accès lorsqu’ils préparent leurs sorts.\nPar exemple : Nuage est un magicien universaliste de niveau 3 avec 16 INT. Il peut lancer 2 sorts de niveau 1 et 1 sort de niveau 2. Son bonus d’INT est +3, il peut donc recharger 3 niveaux de sorts, répartis au choix entre 3 sorts de niveau 1 (3*1) ou 1 sort de niveau 1 et 1 sort de niveau 2 (1*1+1*2). \nPendant sa préparation matinale, il choisit de préparer 1 sort de Graisse et 1 sort d’Armure de Mage sur ses emplacements de niveau 1 et 1 sort de Rayon Ardent sur son emplacement de niveau 2. Il décide de privilégier la quantité et donc de pouvoir recharger 3 sorts de niveau 1.\nSa grande sœur, Averse, ensorceleuse de niveau 4 avec 16 CHA pourra, elle, choisir les sorts qu’elle recharge en fonction de la situation, dans la limite de son bonus de CHA soit 3 niveaux de sort."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ca perd énormément de potentiel sur les sorts à de plus haut niveau",
+        "user": "U0AA0KVLH",
+        "ts": "1446736872.000057",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jDAo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca perd énormément de potentiel sur les sorts à de plus haut niveau"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Pour le Prana, l'idée est d'en générer 1\/tour au moins en combat tant que le joueur se bat. Il peut en générer plus en fonction de ses actions (plusieurs attaques réussies ou lancer des sorts de haut niveau).",
+        "user": "U0DTHMU81",
+        "ts": "1446736878.000058",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P79",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour le Prana, l'idée est d'en générer 1\/tour au moins en combat tant que le joueur se bat. Il peut en générer plus en fonction de ses actions (plusieurs attaques réussies ou lancer des sorts de haut niveau)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Et puis laisse Nuage en dehors de ça !",
+        "user": "U0AA0KVLH",
+        "ts": "1446736880.000059",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vmleW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et puis laisse Nuage en dehors de ça !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Le mode va jusqu'au niveau 6, donc sorts lvl 3",
+        "user": "U0DTHMU81",
+        "ts": "1446736902.000060",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nRq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le mode va jusqu'au niveau 6, donc sorts lvl 3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "les sorts en bonus sont réinitialisés à chaque combat ?",
+        "user": "U0AA0KVLH",
+        "ts": "1446736905.000061",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2AXc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "les sorts en bonus sont réinitialisés à chaque combat ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Chaque jour",
+        "user": "U0DTHMU81",
+        "ts": "1446736922.000062",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p7V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chaque jour"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Je ne suis pas sûr alors de bien capter l'intérêt du système par rapport au nombre de sort par jour classique à part que le Mage devra \"gagner\" en étant actif ces sorts en bonus par jour. Il a à peu prêt le même potentiel magique.",
+        "user": "U0AA0KVLH",
+        "ts": "1446737061.000064",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n1Bvw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je ne suis pas sûr alors de bien capter l'intérêt du système par rapport au nombre de sort par jour classique à part que le Mage devra \"gagner\" en étant actif ces sorts en bonus par jour. Il a à peu prêt le même potentiel magique."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Des sorts en bonus ?",
+        "user": "U0DTHMU81",
+        "ts": "1446737094.000065",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2QTb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Des sorts en bonus ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Cette modification a plusieurs impacts :\n-\tLes PJ lancent plus de sorts à bas niveau, mais moins à haut niveau. \nNuage au niveau 1 pouvait lancer 4 sorts de niveau 1 (1 de base + 3 rechargés). Par contre, quand il sera niveau 5, il ne pourra par exemple lancer qu’un sort de niveau 3 supplémentaire, alors qu’en temps normal il aurait aussi eu un sort de niveau 1 et un sort de niveau 2 en bonus.\n-\tCela limite le nombre de sorts différents que peuvent lancer les lanceurs de sorts préparés. Le choix des sorts et de la spécialisation\/domaine devient d’autant plus critique, surtout à bas niveau. J’invite les MJ à modifier, au besoin et au cas par cas, les sorts de spécialisation\/domaine de niveau 1 à 3 auxquels les joueurs ont accès afin de leur proposer des options plus utiles lorsque sorts donnés initialement sont trop spécifiques.\nToujours un niveau 1, Nuage ne pouvait lancer qu’un seul sort et le recharger 3 fois, alors qu’en temps normal, il aurait pu lancer 2 sorts différents. Il pouvait donc lancer 2 fois plus de sorts, mais avec 2 fois moins de choix.\n-\tL’écart entre lanceurs de sorts spontanés et préparés se réduit un peu. L’avantage du nombre de sort par jour des spontanés est préservé à plus haut niveau et leur versatilité est renforcée.",
+        "user": "U0DTHMU81",
+        "ts": "1446737111.000066",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3LD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cette modification a plusieurs impacts :\n-    Les PJ lancent plus de sorts à bas niveau, mais moins à haut niveau. \nNuage au niveau 1 pouvait lancer 4 sorts de niveau 1 (1 de base + 3 rechargés). Par contre, quand il sera niveau 5, il ne pourra par exemple lancer qu’un sort de niveau 3 supplémentaire, alors qu’en temps normal il aurait aussi eu un sort de niveau 1 et un sort de niveau 2 en bonus.\n-    Cela limite le nombre de sorts différents que peuvent lancer les lanceurs de sorts préparés. Le choix des sorts et de la spécialisation\/domaine devient d’autant plus critique, surtout à bas niveau. J’invite les MJ à modifier, au besoin et au cas par cas, les sorts de spécialisation\/domaine de niveau 1 à 3 auxquels les joueurs ont accès afin de leur proposer des options plus utiles lorsque sorts donnés initialement sont trop spécifiques.\nToujours un niveau 1, Nuage ne pouvait lancer qu’un seul sort et le recharger 3 fois, alors qu’en temps normal, il aurait pu lancer 2 sorts différents. Il pouvait donc lancer 2 fois plus de sorts, mais avec 2 fois moins de choix.\n-    L’écart entre lanceurs de sorts spontanés et préparés se réduit un peu. L’avantage du nombre de sort par jour des spontanés est préservé à plus haut niveau et leur versatilité est renforcée."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "En gros : + de sorts par jour à bas niveau et moins à haut niveau \/ - de versatilité dans les sorts",
+        "user": "U0DTHMU81",
+        "ts": "1446737188.000067",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iUae",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En gros : + de sorts par jour à bas niveau et moins à haut niveau \/ - de versatilité dans les sorts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Tu veux passer tout à l'heure pour en discuter ? J'vais pas en cours ce soir, celui qui me permet de supporter ça n'y va pas",
+        "user": "U0DTHMU81",
+        "ts": "1446737261.000068",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uxf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu veux passer tout à l'heure pour en discuter ? J'vais pas en cours ce soir, celui qui me permet de supporter ça n'y va pas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Sauce tomate maison",
+        "user": "U0DTHMU81",
+        "ts": "1446737568.000069",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4pFhG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sauce tomate maison"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "au menu",
+        "user": "U0DTHMU81",
+        "ts": "1446737575.000070",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YkyC1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "au menu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "la sauce tomate tout seul c'est un peu triste",
+        "user": "U0AA0KVLH",
+        "ts": "1446737819.000071",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TUKz=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la sauce tomate tout seul c'est un peu triste"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "La sauce tomate c'est la vie. Tu peux faire une bolognaise avec. La classe.",
+        "user": "U0DSEQH9S",
+        "ts": "1446737934.000072",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "elnj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La sauce tomate c'est la vie. Tu peux faire une bolognaise avec. La classe."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "A la paille",
+        "user": "U0DTHMU81",
+        "ts": "1446738209.000073",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iYVVW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A la paille"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "J'ai des boulette de viande tien",
+        "user": "U0DTHMU81",
+        "ts": "1446738223.000074",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wRIgb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai des boulette de viande tien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "mais ça ne répond pas à la question",
+        "user": "U0DTHMU81",
+        "ts": "1446738229.000075",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zJ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais ça ne répond pas à la question"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "tu veux viendre aussi Ben ?",
+        "user": "U0DTHMU81",
+        "ts": "1446738237.000076",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q=R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu veux viendre aussi Ben ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Tu lui as fais peur :stuck_out_tongue:",
+        "user": "U0A48EDPD",
+        "ts": "1446738696.000077",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L8gP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu lui as fais peur "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Je vois ça",
+        "user": "U0DTHMU81",
+        "ts": "1446738736.000078",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "++J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vois ça"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Le nom de ton truc, ça vient de ton côté diabolique ?",
+        "user": "U0A48EDPD",
+        "ts": "1446738782.000079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QHW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le nom de ton truc, ça vient de ton côté diabolique ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "\"Le diable s'habille en Prana ?\"",
+        "user": "U0A48EDPD",
+        "ts": "1446738798.000080",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4lt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Le diable s'habille en Prana ?\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ok, je sors :disappointed:",
+        "user": "U0A48EDPD",
+        "ts": "1446738812.000081",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VXX+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, je sors "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Par contre ; fais ptet un post pour rassembler toutes les infos que tu as mises ; sinon, elles resteront dispathcées dans la conversation.",
+        "user": "U0A48EDPD",
+        "ts": "1446738853.000082",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "60eE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Par contre ; fais ptet un post pour rassembler toutes les infos que tu as mises ; sinon, elles resteront dispathcées dans la conversation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "OMG t'es en forme",
+        "user": "U0DTHMU81",
+        "ts": "1446738936.000083",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u+79",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OMG t'es en forme"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Tout sera rassemblé dans le doc final",
+        "user": "U0DTHMU81",
+        "ts": "1446738947.000084",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LxO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tout sera rassemblé dans le doc final"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ce sont des extraits que j'ai mis",
+        "user": "U0DTHMU81",
+        "ts": "1446738953.000085",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hhFe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ce sont des extraits que j'ai mis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Soit.",
+        "user": "U0A48EDPD",
+        "ts": "1446738958.000086",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zTm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Soit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "J'ai presque écrit toutes les règles là",
+        "user": "U0DTHMU81",
+        "ts": "1446738965.000087",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JUY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai presque écrit toutes les règles là"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Reste à relire, corriger, mettre un peu de formalisme",
+        "user": "U0DTHMU81",
+        "ts": "1446738979.000088",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JV4m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Reste à relire, corriger, mettre un peu de formalisme"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "et des fuckings exemples de set ou autre",
+        "user": "U0DTHMU81",
+        "ts": "1446738992.000089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZJ\/c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et des fuckings exemples de set ou autre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ce soir ? J'vais dormir ce soir.",
+        "user": "U0DSEQH9S",
+        "ts": "1446739195.000090",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0zo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ce soir ? J'vais dormir ce soir."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Faible",
+        "user": "U0A48EDPD",
+        "ts": "1446739202.000091",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tuxV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Faible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Tafiole",
+        "user": "U0DTHMU81",
+        "ts": "1446739209.000092",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "isEo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tafiole"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "squirrel",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "J'sais même pas à quelle heure je vais sortir du taff",
+        "user": "U0DSEQH9S",
+        "ts": "1446739209.000093",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X1zdJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'sais même pas à quelle heure je vais sortir du taff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "&gt;_&lt;",
+        "user": "U0DSEQH9S",
+        "ts": "1446739211.000094",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cK41Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ">_<"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "J'vais faire une darko j'pense.",
+        "user": "U0DSEQH9S",
+        "ts": "1446739232.000096",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BvU5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'vais faire une darko j'pense."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Et j'vous merde.",
+        "user": "U0DSEQH9S",
+        "ts": "1446739237.000098",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yib6Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et j'vous merde."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "hankey",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Faible",
+        "user": "U0A48EDPD",
+        "ts": "1446739240.000099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MnGYi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Faible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "'culé !",
+        "user": "U0DSEQH9S",
+        "ts": "1446739251.000101",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jV65",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "'culé !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eggplant",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Petite bite",
+        "user": "U0DTHMU81",
+        "ts": "1446739380.000103",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bjze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petite bite"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eggplant",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "poultry_leg",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Vachement constructif votre conversation",
+        "user": "U0AA0KVLH",
+        "ts": "1446739470.000106",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HeQy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vachement constructif votre conversation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "J'ai bien une réponse, mais elle est déplacée. :smile:",
+        "user": "U0DSEQH9S",
+        "ts": "1446739495.000107",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3C9J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai bien une réponse, mais elle est déplacée. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "avec tes insultes lvl 1, j'ai pas trop peur",
+        "user": "U0AA0KVLH",
+        "ts": "1446739547.000108",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Nm9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "avec tes insultes lvl 1, j'ai pas trop peur"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Fais gaffe, j'vais manger mes chiantos si tu continues !",
+        "user": "U0DSEQH9S",
+        "ts": "1446739564.000109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EX7Ub",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fais gaffe, j'vais manger mes chiantos si tu continues !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "cool",
+        "user": "U0AA0KVLH",
+        "ts": "1446739575.000110",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mepe8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "tu veux de la sauce tomate dessus ?",
+        "user": "U0AA0KVLH",
+        "ts": "1446739582.000111",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AwxN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu veux de la sauce tomate dessus ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "+15 en blague naniques.",
+        "user": "U0DSEQH9S",
+        "ts": "1446739585.000112",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d=h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+15 en blague naniques."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "-15+15 ca fait toujours 0",
+        "user": "U0AA0KVLH",
+        "ts": "1446739610.000113",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ek9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "-15+15 ca fait toujours 0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ça veut dire que j'ai plus de malus",
+        "user": "U0DSEQH9S",
+        "ts": "1446739621.000114",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DlQD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ça veut dire que j'ai plus de malus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "En effet, c'est déjà ça. Pourtant vu ta taille, j'aurais pensé que tu avais un bonus",
+        "user": "U0AA0KVLH",
+        "ts": "1446739643.000115",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jzbd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En effet, c'est déjà ça. Pourtant vu ta taille, j'aurais pensé que tu avais un bonus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "dusty_stick",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Au lieu de dire des conneries, tu veux passer ce soir du cou p?",
+        "user": "U0DTHMU81",
+        "ts": "1446743353.000117",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WTFC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Au lieu de dire des conneries, tu veux passer ce soir du cou p?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "oki d'oki",
+        "user": "U0AA0KVLH",
+        "ts": "1446743678.000118",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tpgME",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oki d'oki"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "je dois jsute être rentré à 21h",
+        "user": "U0AA0KVLH",
+        "ts": "1446743683.000119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LUSQc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je dois jsute être rentré à 21h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Tu manges avec nous ?",
+        "user": "U0DTHMU81",
+        "ts": "1446743693.000120",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IHy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu manges avec nous ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "(Aurélia et moi)",
+        "user": "U0DTHMU81",
+        "ts": "1446743699.000121",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9lB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Aurélia et moi)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "si tu m'invites ok",
+        "user": "U0AA0KVLH",
+        "ts": "1446743700.000122",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pqw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si tu m'invites ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Je t'invite mais c'est toi qui paye",
+        "user": "U0DTHMU81",
+        "ts": "1446743716.000123",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GzWoZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je t'invite mais c'est toi qui paye"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "quel est le prix alors ?",
+        "user": "U0AA0KVLH",
+        "ts": "1446743724.000124",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j4MV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "quel est le prix alors ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "*DE TON CORPS*",
+        "user": "U0DTHMU81",
+        "ts": "1446743726.000125",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cPm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DE TON CORPS",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Et je garderai ton âme pour en faire du ketchup",
+        "user": "U0DTHMU81",
+        "ts": "1446743750.000126",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pstk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et je garderai ton âme pour en faire du ketchup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Vendu ,",
+        "user": "U0DTHMU81",
+        "ts": "1446743764.000127",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wUP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vendu ,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U0DTHMU81",
+        "ts": "1446743765.000128",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xTRo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Hum",
+        "user": "U0AA0KVLH",
+        "ts": "1446743769.000129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pcA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hum"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "non",
+        "user": "U0AA0KVLH",
+        "ts": "1446743770.000130",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kzJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "non"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Roh",
+        "user": "U0DTHMU81",
+        "ts": "1446743774.000131",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YKn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Roh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "De la mayo alors?",
+        "user": "U0DTHMU81",
+        "ts": "1446743779.000132",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6p28",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De la mayo alors?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ON va faire les courses. Tu pense arriver vers quelle heure ?",
+        "user": "U0DTHMU81",
+        "ts": "1446743792.000133",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KWpxt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ON va faire les courses. Tu pense arriver vers quelle heure ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "19h30-20h",
+        "user": "U0AA0KVLH",
+        "ts": "1446743904.000134",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SFV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "19h30-20h"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "je dis quand je pars",
+        "user": "U0AA0KVLH",
+        "ts": "1446743907.000135",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0WH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je dis quand je pars"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "tu rajoutes une heure",
+        "user": "U0AA0KVLH",
+        "ts": "1446743910.000136",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v2IV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu rajoutes une heure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ok",
+        "user": "U0DTHMU81",
+        "ts": "1446743912.000137",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jZeL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Et tu dois être renté pour 21h ?",
+        "user": "U0DTHMU81",
+        "ts": "1446743923.000138",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QT3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et tu dois être renté pour 21h ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "allez 55 minutes, tu habites plus prêt de la gare",
+        "user": "U0AA0KVLH",
+        "ts": "1446743927.000139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nGs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "allez 55 minutes, tu habites plus prêt de la gare"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "C'est du passage éclair",
+        "user": "U0DTHMU81",
+        "ts": "1446743928.000140",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "34+4q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est du passage éclair"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ba je tiens à mon âme",
+        "user": "U0AA0KVLH",
+        "ts": "1446743937.000141",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oiahW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ba je tiens à mon âme"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "et à son corps aussi",
+        "user": "U0DSEQH9S",
+        "ts": "1446745043.000142",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0q3tY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et à son corps aussi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

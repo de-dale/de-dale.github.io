@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "e0eb4d83-f7f0-434f-ba7c-966a78969b60",
+        "type": "message",
+        "text": "plo p",
+        "user": "U0A9S1HCJ",
+        "ts": "1597503240.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A=Qw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plo p"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7d038e04-46e3-4f98-9476-3e6e233d3b86",
+        "type": "message",
+        "text": "Un rts en dev avec un concept sympa  <https:\/\/store.steampowered.com\/app\/977650\/DwarfHeim\/?l=french>",
+        "user": "U0M8SF5CG",
+        "ts": "1597514044.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=sf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un rts en dev avec un concept sympa  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/store.steampowered.com\/app\/977650\/DwarfHeim\/?l=french"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "DwarfHeim sur Steam",
+                "title_link": "https:\/\/store.steampowered.com\/app\/977650\/DwarfHeim\/?l=french",
+                "text": "DwarfHeim is the next generation of real-time strategy games. Featuring a thrilling asymmetric co-op game style that will appeal to fans of multiplayer games everywhere. Player roles are critical to the success of your clan, choosing the right class can be the difference between victory and defeat.",
+                "fallback": "DwarfHeim sur Steam",
+                "image_url": "https:\/\/steamcdn-a.akamaihd.net\/steam\/apps\/977650\/capsule_616x353.jpg?t=1597411951",
+                "from_url": "https:\/\/store.steampowered.com\/app\/977650\/DwarfHeim\/?l=french",
+                "image_width": 436,
+                "image_height": 250,
+                "image_bytes": 90589,
+                "service_name": "store.steampowered.com",
+                "id": 1,
+                "original_url": "https:\/\/store.steampowered.com\/app\/977650\/DwarfHeim\/?l=french"
+            }
+        ]
+    }
+]

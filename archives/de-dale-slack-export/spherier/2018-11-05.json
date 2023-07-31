@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "a4a97c6c-4a79-4322-bcb9-d3538722bd6e",
+        "type": "message",
+        "text": "La solution que je retiendrai pour un tel problème, serait de séparer :\n- les actions\n- les compétences\n\nPour moi, les compétences sont au service d'une action. C'est à dire que je peux \"Conduire une voiture\", et utiliser ma compétence \"Pilotage\", mais je ne peux pas \"Conduire un avion\".\nEn revanche, si j'apprends comment \"Conduire un avion\", je peux utiliser ma compétence \"Pilotage\", car l'expérience que j'ai avec la voiture me donne une bonne synergie avec ma capacité à piloter un avion.\n\n_Edit:_\nPour clarifier ; \"J'apprend comment ...\", signifie qu'à un moment, dans la création du personnage, je choisi la Capacité \"Savoir piloter une voiture\" (par exemple).\nTant que je n'ai pas pris la Capacité \"Savoir piloter un avion\", je ne sais pas piloter d'avion.",
+        "user": "U0A48EDPD",
+        "ts": "1541486784.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jHfiE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La solution que je retiendrai pour un tel problème, serait de séparer :\n- les actions\n- les compétences\n\nPour moi, les compétences sont au service d'une action. C'est à dire que je peux \"Conduire une voiture\", et utiliser ma compétence \"Pilotage\", mais je ne peux pas \"Conduire un avion\".\nEn revanche, si j'apprends comment \"Conduire un avion\", je peux utiliser ma compétence \"Pilotage\", car l'expérience que j'ai avec la voiture me donne une bonne synergie avec ma capacité à piloter un avion.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Edit:",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPour clarifier ; \"J'apprend comment ...\", signifie qu'à un moment, dans la création du personnage, je choisi la Capacité \"Savoir piloter une voiture\" (par exemple).\nTant que je n'ai pas pris la Capacité \"Savoir piloter un avion\", je ne sais pas piloter d'avion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1541594530.000000"
+        },
+        "thread_ts": "1539770112.000100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "4f1d87d2-3164-4b2e-991d-505efc496464",
+        "type": "message",
+        "text": "Après, c'est pas parfait non plus. Mais ça me semble un bon compromis. ",
+        "user": "U0A48EDPD",
+        "ts": "1541486795.000300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XU6KQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Après, c'est pas parfait non plus. Mais ça me semble un bon compromis."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1539770112.000100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "8960e882-7f40-4ef3-a6b1-3b82440c3a30",
+        "type": "message",
+        "text": "*Attribut*\n\nUn Attribut permet de caractériser un personnage, à partir du choix de ses Facettes. Les Attributs servent de thématique conductrice pour créer ou choisir des Capacités en lien avec un Gameplay particulier. \nL'Affinité  pour un Attribut détermine le Pallier auquel peut prétendre un personnage, lors du choix des nouvelles Sphères. L'Affinité augmente lors de l'achat des Facettes d'Affinité.\nL'Affinité pour un Attribut sert parfois, pour évaluer la puissance ou l'efficacité de certaines capacités.",
+        "user": "U0A48EDPD",
+        "ts": "1541491193.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N\/OX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Attribut",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nUn Attribut permet de caractériser un personnage, à partir du choix de ses Facettes. Les Attributs servent de thématique conductrice pour créer ou choisir des Capacités en lien avec un Gameplay particulier. \nL'Affinité  pour un Attribut détermine le Pallier auquel peut prétendre un personnage, lors du choix des nouvelles Sphères. L'Affinité augmente lors de l'achat des Facettes d'Affinité.\nL'Affinité pour un Attribut sert parfois, pour évaluer la puissance ou l'efficacité de certaines capacités."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1541343170.002500",
+        "parent_user_id": "U0A48EDPD"
+    }
+]

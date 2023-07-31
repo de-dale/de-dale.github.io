@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1442743829.424699",
+        "user": "U0B0S4YFP",
+        "text": "<@U0B0S4YFP> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "oui je sais je sais j'ai mis le temps mais j'y suis ^^",
+        "user": "U0B0S4YFP",
+        "ts": "1442744200.000002",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jZ+a2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui je sais je sais j'ai mis le temps mais j'y suis ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf37021efd42",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/cf37021efd42be207ddbb3fc0350f01d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "quezeha",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "quezeha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

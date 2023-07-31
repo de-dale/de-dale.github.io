@@ -1,0 +1,702 @@
+[
+    {
+        "client_msg_id": "bcfb31e1-4856-43dd-9672-6f10a321aa6c",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0A48EDPD",
+        "ts": "1552892500.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B872",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "23951310-0ef4-4b42-9463-81307258fbc1",
+        "type": "message",
+        "text": "Vivement le week-end ",
+        "user": "U0A48EDPD",
+        "ts": "1552892510.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7YQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vivement le week-end"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "24df0d77-a3cc-4423-83d1-9dd36c14e146",
+        "type": "message",
+        "text": " Plop",
+        "user": "U0DSEQH9S",
+        "ts": "1552893347.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xVSgw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b2063288-901a-4f59-ad24-47ae8bf9e462",
+        "type": "message",
+        "text": "Tiens, magg, est-c que tu aurais des ressources\/guidelines pour faire un débreif d'atelier ?",
+        "user": "U0A48EDPD",
+        "ts": "1552894413.000700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ci1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tiens, magg, est-c que tu aurais des ressources\/guidelines pour faire un débreif d'atelier ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": ":wine_glass:",
+        "user": "USLACKBOT",
+        "ts": "1552894413.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "elY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wine_glass",
+                                "unicode": "1f377"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2ef79730-2bee-462b-82d9-4b487ca8d406",
+        "type": "message",
+        "text": "Un débrief ? Pas spécialement..",
+        "user": "U0DSEQH9S",
+        "ts": "1552895094.001200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tveu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un débrief ? Pas spécialement.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c3fbb7c5-983d-4437-991c-3c9394c05a94",
+        "type": "message",
+        "text": "Après tu te recherches quoi exactement ?",
+        "user": "U0DSEQH9S",
+        "ts": "1552895110.001700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nv0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Après tu te recherches quoi exactement ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0b6dcd30-b0b0-4976-9a78-d7d4f42c3f18",
+        "type": "message",
+        "text": "*Conference Tuesday*",
+        "user": "U0A48EDPD",
+        "ts": "1552895192.002000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Low",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Conference Tuesday",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1552895192.002000",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1552899462.004000",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0AA0KVLH"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1552895237.002100"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1552895245.002300"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1552895319.002500"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1552895360.002700"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1552895453.003100"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1552898630.003800"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1552899462.004000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1552899462.004000"
+    },
+    {
+        "client_msg_id": "90cc7fee-4842-47b0-bb24-05507f4f44d3",
+        "type": "message",
+        "text": "Le contexte; chaque mardi, on regarde une conférence, en groupe.\nL'idée est de débrieiffer derrière, pour partager ce que l'on a compris, pas compris, les pours et les contres, etc.",
+        "user": "U0A48EDPD",
+        "ts": "1552895237.002100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z\/MF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le contexte; chaque mardi, on regarde une conférence, en groupe.\nL'idée est de débrieiffer derrière, pour partager ce que l'on a compris, pas compris, les pours et les contres, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1552895430.000000"
+        },
+        "thread_ts": "1552895192.002000",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "bce05b58-fb41-4f51-929f-171bca4a9bf0",
+        "type": "message",
+        "text": "Objectif actuel: inconnu.",
+        "user": "U0A48EDPD",
+        "ts": "1552895245.002300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eYv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Objectif actuel: inconnu."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1552895192.002000",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "66c9d89f-6a47-4d64-a0cd-8d79c78e28f7",
+        "type": "message",
+        "text": "En gros, je pose les questions suivantes :\n- est-ce que la conférence vous a plu ?\n- quels sont les 3 idées clés avec lesquelles vous ressortez ?\n- est-ce qu'elle vous donne envie de regarder d'autres conférences sur le sujet ?\n- quels sont les autres sujets que vous voulez aborder ?",
+        "user": "U0A48EDPD",
+        "ts": "1552895319.002500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XoxO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En gros, je pose les questions suivantes :\n- est-ce que la conférence vous a plu ?\n- quels sont les 3 idées clés avec lesquelles vous ressortez ?\n- est-ce qu'elle vous donne envie de regarder d'autres conférences sur le sujet ?\n- quels sont les autres sujets que vous voulez aborder ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1552895661.000000"
+        },
+        "thread_ts": "1552895192.002000",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "3aceb95c-fc1a-4eca-ba4a-b7911d955f56",
+        "type": "message",
+        "text": "Je fais ça à l'oral uniquement. Sans post-it.\nEt je cherche une façon de conduire le trucs plus efficacement.",
+        "user": "U0A48EDPD",
+        "ts": "1552895360.002700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xjrWj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je fais ça à l'oral uniquement. Sans post-it.\nEt je cherche une façon de conduire le trucs plus efficacement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1552895365.000000"
+        },
+        "thread_ts": "1552895192.002000",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "bde60631-91f4-4784-bb2a-fd71892b9030",
+        "type": "message",
+        "text": "L'idée est de faire un truc un peu à la xReading.",
+        "user": "U0A48EDPD",
+        "ts": "1552895453.003100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0SZL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L'idée est de faire un truc un peu à la xReading."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1552895192.002000",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "9ba2feca-5533-477b-a76b-cd8aa3f21bad",
+        "type": "message",
+        "text": "Ploqp",
+        "user": "U0AA0KVLH",
+        "ts": "1552895784.003500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3hzBC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ploqp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD",
+                    "U0DSEQH9S"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5cdd7d9-3546-4630-bd54-7f8ca6e65036",
+        "type": "message",
+        "text": "XReading = ?",
+        "user": "U0AA0KVLH",
+        "ts": "1552898630.003800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EJgiU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "XReading = ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1552895192.002000",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "f6a69233-098e-4df6-adb3-64053cb644c1",
+        "type": "message",
+        "text": "<https:\/\/medium.com\/@yoan.thirion\/xtrem-reading-6a8a8d407543>",
+        "user": "U0A48EDPD",
+        "ts": "1552899462.004000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KKFg5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/@yoan.thirion\/xtrem-reading-6a8a8d407543"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Xtrem reading",
+                "title_link": "https:\/\/medium.com\/@yoan.thirion\/xtrem-reading-6a8a8d407543",
+                "text": "Booster votre intelligence collective",
+                "fallback": "Medium: Xtrem reading",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*euVaAsc3wkH65K-C6uQnPA.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "6 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1541022639,
+                "from_url": "https:\/\/medium.com\/@yoan.thirion\/xtrem-reading-6a8a8d407543",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 169755,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*8I-HPL0bfoIzGied-dzOvA.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/@yoan.thirion\/xtrem-reading-6a8a8d407543"
+            }
+        ],
+        "thread_ts": "1552895192.002000",
+        "parent_user_id": "U0A48EDPD"
+    }
+]

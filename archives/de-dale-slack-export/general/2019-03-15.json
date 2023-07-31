@@ -1,0 +1,2957 @@
+[
+    {
+        "client_msg_id": "4a21ee79-5623-475b-a2d8-8272b5b5a58a",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0A48EDPD",
+        "ts": "1552633530.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xEZX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0a181318-be91-46df-a589-79ab2823039d",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1552633934.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZDYd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "03fa58d1-6056-4c38-a192-3b83abe4d40a",
+        "type": "message",
+        "text": "<https:\/\/www.letemps.ch\/culture\/succes-1d100-jeux-role?fbclid=IwAR3l7KWteAl0TTITzcHXHH2BJOQytV9_e0CmDYjmjUeA_Xj0jJi4D7wgiTQ>",
+        "user": "U0AA0KVLH",
+        "ts": "1552640484.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nNct1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.letemps.ch\/culture\/succes-1d100-jeux-role?fbclid=IwAR3l7KWteAl0TTITzcHXHH2BJOQytV9_e0CmDYjmjUeA_Xj0jJi4D7wgiTQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Le Temps",
+                "title": "Le succès 1d100 des jeux de rôle",
+                "title_link": "https:\/\/www.letemps.ch\/culture\/succes-1d100-jeux-role?fbclid=IwAR3l7KWteAl0TTITzcHXHH2BJOQytV9_e0CmDYjmjUeA_Xj0jJi4D7wgiTQ",
+                "text": "A l’heure des écrans souples et de la 5G, le jeu de rôle, loisir basé sur du papier, des crayons et bien sûr pléthore de dés bizarres, revient en force et se trouve un nouveau public. Le festival suisse Ludesco y consacre une large part ce week-end",
+                "fallback": "Le Temps: Le succès 1d100 des jeux de rôle",
+                "image_url": "https:\/\/assets.letemps.ch\/sites\/default\/files\/styles\/share\/public\/media\/2019\/03\/14\/file74h4ql0ksv7r97pk6ja.jpg.jpeg?itok=42ksZRLv",
+                "ts": 1552588089,
+                "from_url": "https:\/\/www.letemps.ch\/culture\/succes-1d100-jeux-role?fbclid=IwAR3l7KWteAl0TTITzcHXHH2BJOQytV9_e0CmDYjmjUeA_Xj0jJi4D7wgiTQ",
+                "image_width": 693,
+                "image_height": 250,
+                "image_bytes": 110865,
+                "service_icon": "http:\/\/assets.letemps.ch\/themes\/custom\/letemps\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.letemps.ch\/culture\/succes-1d100-jeux-role?fbclid=IwAR3l7KWteAl0TTITzcHXHH2BJOQytV9_e0CmDYjmjUeA_Xj0jJi4D7wgiTQ"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "269e3722-9249-4538-bdc9-94b09471aed4",
+        "type": "message",
+        "text": "Méfiez-vous, les rôlistes sont les nouveaux franc-maçons ! Ils sont partout !",
+        "user": "U0AA0KVLH",
+        "ts": "1552640504.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c=rHd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Méfiez-vous, les rôlistes sont les nouveaux franc-maçons ! Ils sont partout !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "aad3c456-f5d5-46df-bb53-d610fc841c16",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0DSEQH9S",
+        "ts": "1552642401.001000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9df9aa3f-502c-48cf-8889-fd7a92dc599e",
+        "type": "message",
+        "text": "Et les credits pour utiliser une image de Call of Cthulhu ils sont où????? :smile:",
+        "user": "U5VQX0XTQ",
+        "ts": "1552646983.001800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jMG8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et les credits pour utiliser une image de Call of Cthulhu ils sont où????? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1552646983.001800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1552651125.014300",
+        "reply_users": [
+            "U0A48EDPD"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1552651125.014300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1552651125.014300"
+    },
+    {
+        "client_msg_id": "16d0ddd5-f667-4b66-88c7-6de404938a85",
+        "type": "message",
+        "text": "Plop",
+        "user": "U5VQX0XTQ",
+        "ts": "1552646986.002000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eG5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3cf50e21-9614-4c6b-be71-658367f9a957",
+        "type": "message",
+        "text": "En haut à droite",
+        "user": "U0AA0KVLH",
+        "ts": "1552647061.002200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fd0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En haut à droite"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ace3cab8-625a-4f46-a8ca-a75134ad5931",
+        "type": "message",
+        "text": "tu as un petit \"I\"",
+        "user": "U0AA0KVLH",
+        "ts": "1552647065.002400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xltn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu as un petit \"I\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f07f4b52-0302-41d2-9755-6530a853d670",
+        "type": "message",
+        "text": "qui détaile la source",
+        "user": "U0AA0KVLH",
+        "ts": "1552647074.002700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Aaf\/y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "qui détaile la source"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "516d06be-6898-41ef-bb44-09ba08cc0840",
+        "type": "message",
+        "text": "avec une énorme de faute",
+        "user": "U0AA0KVLH",
+        "ts": "1552647077.002900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Ql7D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "avec une énorme de faute"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "434c10d5-3141-473d-925e-a6f08dc71358",
+        "type": "message",
+        "text": "Surtout qu'ils ont pris l'image sur un site random et mettent ça en source? oO",
+        "user": "U5VQX0XTQ",
+        "ts": "1552647252.003300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E=n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Surtout qu'ils ont pris l'image sur un site random et mettent ça en source? oO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3093e807-b1f6-424e-b80e-ea3d7cbe09fa",
+        "type": "message",
+        "text": "je connais pas le droit suisse",
+        "user": "U0AA0KVLH",
+        "ts": "1552647342.003500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tMVe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je connais pas le droit suisse"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f60ca1d4-5a78-48a8-aa5b-94f693468357",
+        "type": "message",
+        "text": "c'est peut-être plus détendu... ^^",
+        "user": "U0AA0KVLH",
+        "ts": "1552647349.003900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kKN2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est peut-être plus détendu... ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5d63a089-20c1-45b9-85f2-272ba5aa1d41",
+        "type": "message",
+        "text": "hmm il doit y avoir des réglementations communes sur les IP non?",
+        "user": "U5VQX0XTQ",
+        "ts": "1552647411.004600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "trQ4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hmm il doit y avoir des réglementations communes sur les IP non?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "82dfc354-6daa-4442-babe-858e309edeab",
+        "type": "message",
+        "text": "Enfin bon, anyway, les mecs sont juste pas très bons ^^",
+        "user": "U5VQX0XTQ",
+        "ts": "1552647447.005000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oyqe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Enfin bon, anyway, les mecs sont juste pas très bons ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2d734c55-4550-430d-a5a0-26b2ef586233",
+        "type": "message",
+        "text": "Ils réutilisent une image sans savoir de quoi il s'agit :stuck_out_tongue:",
+        "user": "U5VQX0XTQ",
+        "ts": "1552647467.005500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IQ8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ils réutilisent une image sans savoir de quoi il s'agit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c4510059-70b0-40cb-b720-34f2c949560c",
+        "type": "message",
+        "text": "l'auteur de l'article est-il le même que le mec qui met l'image d'en-tête ?",
+        "user": "U0AA0KVLH",
+        "ts": "1552647768.005800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ifY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "l'auteur de l'article est-il le même que le mec qui met l'image d'en-tête ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "188de7e1-437a-43bb-8523-9c57276ca59d",
+        "type": "message",
+        "text": "Par forcément sachant par exemple en france que le journaliste qui fait l'article ne décide pas forcément du titre de son article",
+        "user": "U0AA0KVLH",
+        "ts": "1552647787.006300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BVF\/q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Par forcément sachant par exemple en france que le journaliste qui fait l'article ne décide pas forcément du titre de son article"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "31b5731f-ab33-4677-ac6b-2f3f3b525553",
+        "type": "message",
+        "text": "No idea",
+        "user": "U5VQX0XTQ",
+        "ts": "1552648076.006600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0f5Hj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No idea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d9c8f046-80e1-4db8-be08-8c42e0e1b871",
+        "type": "message",
+        "text": "Ah punaise, pas de motivation aujourd'hui... maintenant que j'ai bouclé tous mes sujets prioritaires... ^^;",
+        "user": "U5VQX0XTQ",
+        "ts": "1552648312.007800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SZ53",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah punaise, pas de motivation aujourd'hui... maintenant que j'ai bouclé tous mes sujets prioritaires... ^^;"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c06186db-4c58-42b5-98ae-5d78a995cc3f",
+        "type": "message",
+        "text": "pense à dimanche",
+        "user": "U0AA0KVLH",
+        "ts": "1552648374.008000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dba",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pense à dimanche"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d9bb1408-3ab3-47dd-a5ad-6911bc5fa322",
+        "type": "message",
+        "text": "et aux tonnes de chose à lire sur le slack que tu as en retard",
+        "user": "U0AA0KVLH",
+        "ts": "1552648386.008300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vTu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et aux tonnes de chose à lire sur le slack que tu as en retard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "403e9d77-c5ff-492c-a2b5-1d798cc7d156",
+        "type": "message",
+        "text": "on level up dimanche? :smile:",
+        "user": "U5VQX0XTQ",
+        "ts": "1552648392.008500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zEEHI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on level up dimanche? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9795653b-2a12-4f54-89fe-fe15482803ad",
+        "type": "message",
+        "text": "lol non ça j'oublie",
+        "user": "U5VQX0XTQ",
+        "ts": "1552648398.008700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1v0o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol non ça j'oublie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "341dbd18-b1c7-4b70-a912-4a4a90c4ce84",
+        "type": "message",
+        "text": "trop de trucs sont passés",
+        "user": "U5VQX0XTQ",
+        "ts": "1552648404.009000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y78I4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "trop de trucs sont passés"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5390bd51-cc05-414f-ae28-ef9f0444d9ef",
+        "type": "message",
+        "text": "ca dépend de ce que vous faîtes",
+        "user": "U0AA0KVLH",
+        "ts": "1552648410.009200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9FjqT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ca dépend de ce que vous faîtes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cbbfe2a1-44a3-41bf-bc99-b883919f0edc",
+        "type": "message",
+        "text": "On farm le donjon? :stuck_out_tongue:",
+        "user": "U5VQX0XTQ",
+        "ts": "1552648427.009500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j0gki",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On farm le donjon? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fc3c1de6-2c01-4907-8885-eedb40532826",
+        "type": "message",
+        "text": "et on va tuer des sangliers",
+        "user": "U5VQX0XTQ",
+        "ts": "1552648435.009700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5n1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et on va tuer des sangliers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7c19d3c3-f0f7-4a5d-9b08-351a3e1e973f",
+        "type": "message",
+        "text": "ouais enfin si il vous faut trois heures pour décider où vous aller",
+        "user": "U0AA0KVLH",
+        "ts": "1552648540.010000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lowa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ouais enfin si il vous faut trois heures pour décider où vous aller"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "39604d2a-bb20-4c41-9ab8-9462bd70b998",
+        "type": "message",
+        "text": "ca va pas être du farm ^^",
+        "user": "U0AA0KVLH",
+        "ts": "1552648546.010200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ju",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ca va pas être du farm ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9f7a8a92-b8f1-4e84-8612-75b5a9cf75df",
+        "type": "message",
+        "text": "ah ah c'est tjs comme ça ^^",
+        "user": "U5VQX0XTQ",
+        "ts": "1552648552.010400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BG\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah ah c'est tjs comme ça ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d77f019a-cc2a-4eae-ae0e-ece793b61898",
+        "type": "message",
+        "text": "Sauf hier mdr",
+        "user": "U5VQX0XTQ",
+        "ts": "1552648561.010600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=u2YZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sauf hier mdr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ceee520a-675f-482e-8cd7-2aafaa937e36",
+        "type": "message",
+        "text": "on a surpris notre mj",
+        "user": "U5VQX0XTQ",
+        "ts": "1552648566.010800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1GN8z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on a surpris notre mj"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "110047da-c4c1-433a-8e4a-0aafabd5cc2e",
+        "type": "message",
+        "text": "pq on arrive devant un dilemne, et on a pris la décision en 2min",
+        "user": "U5VQX0XTQ",
+        "ts": "1552648578.011300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z7pMe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pq on arrive devant un dilemne, et on a pris la décision en 2min"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1537fe3c-2eb6-4f92-8822-42e634997a15",
+        "type": "message",
+        "text": "je crois qu'il avait pas prévu qu'on mette aussi peu de temps à se décider... ^^",
+        "user": "U5VQX0XTQ",
+        "ts": "1552648600.011800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kzMwp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je crois qu'il avait pas prévu qu'on mette aussi peu de temps à se décider... ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "76f19ff7-727f-4cd3-b93f-83fa11a922bb",
+        "type": "message",
+        "text": "sachant que juste avant on a du mettre 50 min pour se décider à descendre d'un escalier et rentrer dans une salle...",
+        "user": "U63CG7FCZ",
+        "ts": "1552648627.012300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fLQB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sachant que juste avant on a du mettre 50 min pour se décider à descendre d'un escalier et rentrer dans une salle..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g637f49bb175",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d637f49bb1756e01df7ed795e693ac56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Julien",
+            "real_name": "Julien LOPEZ",
+            "display_name": "ashyrra",
+            "team": "T0A48J0MV",
+            "name": "ashyrra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "db20cd27-061e-467d-a645-4b6d869723f7",
+        "type": "message",
+        "text": "et ensuite on a mis 50min pour se décider comment on allait passer la nuit :stuck_out_tongue:",
+        "user": "U5VQX0XTQ",
+        "ts": "1552648676.012700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DzvN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et ensuite on a mis 50min pour se décider comment on allait passer la nuit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9b887067-04c2-4fcf-a11b-2acf0f88b6aa",
+        "type": "message",
+        "text": "et sans RP ?",
+        "user": "U0AA0KVLH",
+        "ts": "1552648717.012900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AjNGs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et sans RP ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5c0901e4-b813-4539-a273-3e4ed5ddd6ac",
+        "type": "message",
+        "text": "et sans RP?",
+        "user": "U5VQX0XTQ",
+        "ts": "1552649177.013100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g4uLk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et sans RP?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e5ec1b9d-bc69-4e49-99aa-2f25b6175606",
+        "type": "message",
+        "text": "Ba débattre 50 minutes pour passer une rivière parce qu'un personne a peur de l'eau et faut le forcer et le rassurer, c'est drôle. débattre 50 minutes sur on va à gauche ou à droite... c'est un peu bcp",
+        "user": "U0AA0KVLH",
+        "ts": "1552649308.014000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dv2b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ba débattre 50 minutes pour passer une rivière parce qu'un personne a peur de l'eau et faut le forcer et le rassurer, c'est drôle. débattre 50 minutes sur on va à gauche ou à droite... c'est un peu bcp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3e7797b8-73fe-4b73-99d4-365ce815e7f2",
+        "type": "message",
+        "text": "Effectivement",
+        "user": "U5VQX0XTQ",
+        "ts": "1552649756.014200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7SA4T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Effectivement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e636cb2e-4a8d-4e9f-8455-dd482c1db49d",
+        "type": "message",
+        "text": "C'est ta boîte qui produite Call of Cthulhu ? :slightly_smiling_face:\nQue nous vaut un tel dévouement au respect de la propriété intellectuelle ? ^^",
+        "user": "U0A48EDPD",
+        "ts": "1552651125.014300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vvh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est ta boîte qui produite Call of Cthulhu ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nQue nous vaut un tel dévouement au respect de la propriété intellectuelle ? ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1552646983.001800",
+        "parent_user_id": "U5VQX0XTQ"
+    },
+    {
+        "bot_id": "B0DGMTBFT",
+        "type": "message",
+        "text": "",
+        "user": "U0A48EDPD",
+        "ts": "1552664932.014700",
+        "team": "T0A48J0MV",
+        "bot_profile": {
+            "id": "B0DGMTBFT",
+            "app_id": "A0F827J2C",
+            "name": "giphy",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "deleted": false,
+            "updated": 1446211592,
+            "team_id": "T0A48J0MV"
+        },
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/girl-UhpGRl1Rg8qQw",
+                "image_url": "https:\/\/media1.giphy.com\/media\/UhpGRl1Rg8qQw\/giphy.gif?cid=6104955e5c8bc96135336d364d3eddd3",
+                "image_width": 387,
+                "image_height": 217,
+                "image_bytes": 498561,
+                "is_animated": true,
+                "title": "fed up",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/girl-UhpGRl1Rg8qQw"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b1879142-93fd-4c77-ab2f-7588f2c34fc0",
+        "type": "message",
+        "text": "intense vos partie  à ce que je vois  ^^",
+        "user": "U0A9S1HCJ",
+        "ts": "1552667895.015000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BSVTW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "intense vos partie  à ce que je vois  ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "27e07939-2008-4106-a816-61e65c91297b",
+        "type": "message",
+        "text": "Faut mettre des petites filles",
+        "user": "U0A48EDPD",
+        "ts": "1552667938.015400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "40jT5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Faut mettre des petites filles"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5c09a1ca-ce5b-4630-88f9-1765b9b7c301",
+        "type": "message",
+        "text": "heu.... pourquoi faire ?",
+        "user": "U0A9S1HCJ",
+        "ts": "1552667952.015600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X2F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "heu.... pourquoi faire ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cddcb87b-7d6b-4c35-8dd1-d1b489d744ac",
+        "type": "message",
+        "text": "pour que ben les achèvent ?",
+        "user": "U0A9S1HCJ",
+        "ts": "1552667965.015900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jrqH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pour que ben les achèvent ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c431db93-b6c5-44fe-96a6-28b0fd6d58fe",
+        "type": "message",
+        "text": "C'est une private joke",
+        "user": "U0AA0KVLH",
+        "ts": "1552668092.016300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Aegk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est une private joke"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "30ac4b66-bead-4153-9de7-40eae0cb0317",
+        "type": "message",
+        "text": "une fois mes joueurs découvrent une petite orpheline d'un village sauvagement ravagé par des brigands",
+        "user": "U0AA0KVLH",
+        "ts": "1552668109.016800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xQWJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "une fois mes joueurs découvrent une petite orpheline d'un village sauvagement ravagé par des brigands"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "37562c56-7d12-4fc8-986d-3bd0db23f07e",
+        "type": "message",
+        "text": "savoir quoi faire de cette petite fille leur a pris une partie entière donc la blague : tu veux ralentir les joueurs, tu mets une petite fille",
+        "user": "U0AA0KVLH",
+        "ts": "1552668130.017300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fMu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "savoir quoi faire de cette petite fille leur a pris une partie entière donc la blague : tu veux ralentir les joueurs, tu mets une petite fille"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ddbfb6a5-5150-4f86-a7a6-46c55ab34f22",
+        "type": "message",
+        "text": "moi ca me fait penser a ben qui avait presque tuer des enfants dfans ma partie",
+        "user": "U0A9S1HCJ",
+        "ts": "1552668154.017600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cjRqH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "moi ca me fait penser a ben qui avait presque tuer des enfants dfans ma partie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "15d498be-d215-434d-a164-9d05b5440c84",
+        "type": "message",
+        "text": "c'étais bien ben ?",
+        "user": "U0A9S1HCJ",
+        "ts": "1552668158.017800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "co3Cf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'étais bien ben ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "acf97173-511c-47c5-a895-28810d228d47",
+        "type": "message",
+        "text": "ou toi clem ?  ^^",
+        "user": "U0A9S1HCJ",
+        "ts": "1552668162.018000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+ZgdN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ou toi clem ?  ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "07504537-6dd2-4ef0-97e7-b6abda53a304",
+        "type": "message",
+        "text": "Nico",
+        "user": "U0A48EDPD",
+        "ts": "1552668184.018200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SSRu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nico"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3b569725-ca5b-4c58-ba6a-1bff4936eeef",
+        "type": "message",
+        "text": "Avec son bâton. ",
+        "user": "U0A48EDPD",
+        "ts": "1552668194.018600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TeO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Avec son bâton."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "45716f1f-a54a-4840-a116-8f88186f7a8f",
+        "type": "message",
+        "text": "mdrrr  c'est vrai  ^^",
+        "user": "U0A9S1HCJ",
+        "ts": "1552668200.018900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mdrrr  c'est vrai  ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "58050b71-e17f-4bc4-aec4-1aaed3523100",
+        "type": "message",
+        "text": "mais il y a pas nico dans la partie de clem la ?",
+        "user": "U0A9S1HCJ",
+        "ts": "1552668214.019200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "taOBz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais il y a pas nico dans la partie de clem la ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "29c5ca09-e5a2-4914-902a-274c56049776",
+        "type": "message",
+        "text": "C'était Ben le prêtre",
+        "user": "U0AA0KVLH",
+        "ts": "1552668230.019400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IXm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'était Ben le prêtre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "79a254c2-aa95-4eee-bdbb-6807f1f646cf",
+        "type": "message",
+        "text": "dans ta partie, j'étais la sorcière avec Monsieur le Chat",
+        "user": "U0AA0KVLH",
+        "ts": "1552668237.019700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tAhN0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dans ta partie, j'étais la sorcière avec Monsieur le Chat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5d59b54c-997e-4318-9391-0cc1f5073dce",
+        "type": "message",
+        "text": "qui financé un orphelinat",
+        "user": "U0AA0KVLH",
+        "ts": "1552668243.019900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qeJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "qui financé un orphelinat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "635709c8-212d-4c10-96e0-86b3ef672453",
+        "type": "message",
+        "text": "la sorcière je me souviens ....",
+        "user": "U0A9S1HCJ",
+        "ts": "1552668256.020300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aozW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la sorcière je me souviens ...."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bf52aa1c-e879-47a0-9fb7-4d2baccb6a31",
+        "type": "message",
+        "text": "pas en bien j'ai l'impression ^^",
+        "user": "U0AA0KVLH",
+        "ts": "1552668265.020800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UFc3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pas en bien j'ai l'impression ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b38d0ea1-cbe2-4c5c-9629-14a6f7de60b3",
+        "type": "message",
+        "text": "mais c'est pas le rpetre qui a taper les enfant ?",
+        "user": "U0A9S1HCJ",
+        "ts": "1552668266.020900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QaK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais c'est pas le rpetre qui a taper les enfant ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "45fed55c-b0db-4db4-a51b-a430a39547ae",
+        "type": "message",
+        "text": "si",
+        "user": "U0AA0KVLH",
+        "ts": "1552668268.021200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EKFw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ba6cde02-b8a1-414d-b18e-383fbc429023",
+        "type": "message",
+        "text": "t'es sur ^^",
+        "user": "U0A9S1HCJ",
+        "ts": "1552668270.021400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U4k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "t'es sur ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "783e8715-2868-4da2-8c16-837799ad5f28",
+        "type": "message",
+        "text": "aaa",
+        "user": "U0A9S1HCJ",
+        "ts": "1552668274.021700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hY8vf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aaa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "87b08060-2f44-45fd-b776-a49c8ac083c2",
+        "type": "message",
+        "text": "Ma sorcière était un modèle de gentilesse",
+        "user": "U0AA0KVLH",
+        "ts": "1552668277.021800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jKhEw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ma sorcière était un modèle de gentilesse"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "eea1dcd7-402a-4210-b6e4-ed72fda508fa",
+        "type": "message",
+        "text": "la soricèere était pas la pire ...",
+        "user": "U0A9S1HCJ",
+        "ts": "1552668284.022100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PKUa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la soricèere était pas la pire ..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "85fe86db-1eab-442c-8201-5c0e40caf27b",
+        "type": "message",
+        "text": "un guerrier a 2 lame ......",
+        "user": "U0A9S1HCJ",
+        "ts": "1552668303.022500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eWI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "un guerrier a 2 lame ......"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "786dec65-a1a9-4f4f-aef6-9874a0f6e753",
+        "type": "message",
+        "text": "maléfice : sommeil",
+        "user": "U0AA0KVLH",
+        "ts": "1552668322.022700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JyqHY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "maléfice : sommeil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "024286b0-81d5-4fac-ab7e-8a6068f400c3",
+        "type": "message",
+        "text": "sommeil relou",
+        "user": "U0A9S1HCJ",
+        "ts": "1552668421.022900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cT8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sommeil relou"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f8e64d96-c296-48bb-a449-9e37abdb3053",
+        "type": "message",
+        "text": "oui",
+        "user": "U0AA0KVLH",
+        "ts": "1552668576.023100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0bluI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b7f4f87b-6eba-4392-9b20-0343e7e4d48f",
+        "type": "message",
+        "text": "j'étais pas assez bon poru gerer ce genre de eprso ^^",
+        "user": "U0A9S1HCJ",
+        "ts": "1552668591.023700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "weEQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'étais pas assez bon poru gerer ce genre de eprso ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f3f21747-2e5c-4e27-8add-b31a8751b603",
+        "type": "message",
+        "text": "mais tu n'as pas vraiment le choix dans les maléfices en sorcière...",
+        "user": "U0AA0KVLH",
+        "ts": "1552668593.023800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pWND",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais tu n'as pas vraiment le choix dans les maléfices en sorcière..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b7af1da6-b9d0-4892-9b40-a4dff1e511e1",
+        "type": "message",
+        "text": "^^",
+        "user": "U0AA0KVLH",
+        "ts": "1552668600.024000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uaK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

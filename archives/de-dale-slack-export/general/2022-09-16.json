@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "72bc89b3-e1d0-4232-8678-8a253b298952",
+        "type": "message",
+        "text": "<https:\/\/pbs.twimg.com\/media\/Fcwyw8XXEAEOOQ3?format=jpg&amp;name=medium>",
+        "user": "U0AA0KVLH",
+        "ts": "1663347955.313439",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qZy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pbs.twimg.com\/media\/Fcwyw8XXEAEOOQ3?format=jpg&name=medium"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/pbs.twimg.com\/media\/Fcwyw8XXEAEOOQ3?format=jpg&name=medium",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/Fcwyw8XXEAEOOQ3?format=jpg&name=medium",
+                "image_width": 735,
+                "image_height": 951,
+                "image_bytes": 128507,
+                "id": 1,
+                "original_url": "https:\/\/pbs.twimg.com\/media\/Fcwyw8XXEAEOOQ3?format=jpg&amp;name=medium",
+                "fallback": "735x951px image"
+            }
+        ],
+        "thread_ts": "1663347955.313439",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1663775150.083849",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0AA0KVLH",
+            "U0LSAUM71"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1663594836.946689"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1663691942.099799"
+            },
+            {
+                "user": "U0LSAUM71",
+                "ts": "1663769769.096559"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1663774804.616949"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1663775150.083849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1663775150.083849"
+    }
+]

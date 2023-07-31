@@ -1,0 +1,167 @@
+[
+    {
+        "client_msg_id": "993fba61-89bf-4a8d-a199-4cb80ee62b91",
+        "type": "message",
+        "text": "allergie, allergie",
+        "user": "U0AA0KVLH",
+        "ts": "1671184951.826309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QG=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "allergie, allergie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1671041078.597789",
+        "parent_user_id": "U0M8SF5CG"
+    },
+    {
+        "client_msg_id": "2ed9cf8d-6b14-4327-b3f1-303b4b3f35ef",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/tristanmf\/status\/1603446734100738048>",
+        "user": "U0AA0KVLH",
+        "ts": "1671184969.772849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VBZH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/tristanmf\/status\/1603446734100738048"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/tristanmf\/status\/1603446734100738048",
+                "ts": 1671126466,
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FkCWTiEXwA0RxqV.jpg",
+                "image_width": 896,
+                "image_height": 972,
+                "image_bytes": 100069,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/tristanmf\/status\/1603446734100738048",
+                "fallback": "<https:\/\/twitter.com\/tristanmf|@tristanmf>: 1. Trump : Je vais faire une annonce MAJEURE aujourd'hui !\n2. Sa fanbase (QAnon) en feu. Hunter Biden ? Origine du Covid ? Génie !\n3. La réalité : vente de NFT à 99$ à l'effigie de Trump.\nÊtre pris pour des idiots à ce point, ça doit faire mal.",
+                "text": "1. Trump : Je vais faire une annonce MAJEURE aujourd'hui !\n2. Sa fanbase (QAnon) en feu. Hunter Biden ? Origine du Covid ? Génie !\n3. La réalité : vente de NFT à 99$ à l'effigie de Trump.\nÊtre pris pour des idiots à ce point, ça doit faire mal.",
+                "author_name": "Tristan Mendès France",
+                "author_link": "https:\/\/twitter.com\/tristanmf\/status\/1603446734100738048",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1601852320282820608\/xpygnMBm_normal.jpg",
+                "author_subname": "@tristanmf",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "from_url": "https:\/\/twitter.com\/tristanmf\/status\/1603446734100738048",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FkCTtzyXwAMD-xh.jpg",
+                "image_width": 838,
+                "image_height": 1200,
+                "image_bytes": 128466,
+                "id": 2,
+                "fallback": "838x1200px image"
+            },
+            {
+                "from_url": "https:\/\/twitter.com\/tristanmf\/status\/1603446734100738048",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FkCTyhaWQAA9nTF.jpg",
+                "image_width": 882,
+                "image_height": 1200,
+                "image_bytes": 191492,
+                "id": 3,
+                "fallback": "882x1200px image"
+            },
+            {
+                "from_url": "https:\/\/twitter.com\/tristanmf\/status\/1603446734100738048",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FkCT10hXwAwp6tX.jpg",
+                "image_width": 1075,
+                "image_height": 1200,
+                "image_bytes": 178607,
+                "id": 4,
+                "fallback": "1075x1200px image"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2b4c001-e0a0-4b0f-8938-38ac4b8cd177",
+        "type": "message",
+        "text": "Trump, vraiment... chaque fois plus loin",
+        "user": "U0AA0KVLH",
+        "ts": "1671184983.504389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2n=Eq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trump, vraiment... chaque fois plus loin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

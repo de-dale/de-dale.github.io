@@ -1,0 +1,539 @@
+[
+    {
+        "client_msg_id": "3d340129-62a6-4da7-9aad-3d76a8edbdcd",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1593761237.010900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b9\/o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ca3f759d-2608-4ff5-a204-65367802d63f",
+        "type": "message",
+        "text": "Ouep chaud",
+        "user": "U0AA0KVLH",
+        "ts": "1593761239.011100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q5o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ouep chaud"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "620808fe-ff37-486b-b2cc-e4c4e094c7b1",
+        "type": "message",
+        "text": "plop",
+        "user": "U0M8SF5CG",
+        "ts": "1593765632.011400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5C7f+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f168c4f4-e4e8-47b1-8895-fad314e3893a",
+        "type": "message",
+        "text": "On vient de me faire redécouvrir ce générateur de cartes :\n<https:\/\/azgaar.github.io\/Fantasy-Map-Generator\/>",
+        "user": "U0A48EDPD",
+        "ts": "1593770792.011800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g88Am",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On vient de me faire redécouvrir ce générateur de cartes :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/azgaar.github.io\/Fantasy-Map-Generator\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Azgaar's Fantasy Map Generator",
+                "title_link": "https:\/\/azgaar.github.io\/Fantasy-Map-Generator\/",
+                "text": "Web application generating interactive and customizable maps",
+                "fallback": "Azgaar's Fantasy Map Generator",
+                "from_url": "https:\/\/azgaar.github.io\/Fantasy-Map-Generator\/",
+                "service_name": "Azgaar's Fantasy Map Generator",
+                "id": 1,
+                "original_url": "https:\/\/azgaar.github.io\/Fantasy-Map-Generator\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e80b7592-e508-44ca-a0de-5cde405f1a02",
+        "type": "message",
+        "text": "c'est cool bien que tu ne controlses rien",
+        "user": "U0AA0KVLH",
+        "ts": "1593773558.012200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MkU1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est cool bien que tu ne controlses rien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "99290a76-bdd1-47a6-8a59-6c6276daa666",
+        "type": "message",
+        "text": "J'ai reçu de la pub pour un créateur de carte mais les options gratuites sot très limités, c'est Inkarnate",
+        "user": "U0AA0KVLH",
+        "ts": "1593773576.012700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vZ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai reçu de la pub pour un créateur de carte mais les options gratuites sot très limités, c'est Inkarnate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "94e49370-7a62-476b-a62e-67f5031c8c57",
+        "type": "message",
+        "text": "Qu'est ce que tu veux dire par \"tu ne controles rien\" ?",
+        "user": "U0A48EDPD",
+        "ts": "1593778624.013100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wAs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Qu'est ce que tu veux dire par \"tu ne controles rien\" ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "92df3465-478f-4c0d-b62b-059df515741e",
+        "type": "message",
+        "text": "j'ai vu qu'il y avait des options pour certains trucs",
+        "user": "U0AA0KVLH",
+        "ts": "1593780435.013500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nWDx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'ai vu qu'il y avait des options pour certains trucs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "81dc3eae-a434-4945-98fa-d2d51cacf4e9",
+        "type": "message",
+        "text": "mais ca rest eun générateur donc tu ne peux pas modifier si la forme d'un pays ne te convient pas",
+        "user": "U0AA0KVLH",
+        "ts": "1593780454.014000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x5A8f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais ca rest eun générateur donc tu ne peux pas modifier si la forme d'un pays ne te convient pas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "526a532d-decb-43c1-a19b-22e5d7b0ca31",
+        "type": "message",
+        "text": "si :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1593785739.014200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dWNz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8355974b-e7cd-45df-b638-9b9b17ef1aa7",
+        "type": "message",
+        "text": "Ah non effectivement :confused:\nTu peux modifier manuellement les côtes, la taille du pays, mais pas la forme de ses frontières",
+        "user": "U0A48EDPD",
+        "ts": "1593786100.015300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rtf2l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah non effectivement "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nTu peux modifier manuellement les côtes, la taille du pays, mais pas la forme de ses frontières"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1593786117.000000"
+        }
+    },
+    {
+        "client_msg_id": "6fdeb731-32a6-429e-9307-45490d14c281",
+        "type": "message",
+        "text": "Il y a moyen de changer les frontières mais il y a des \"tuiles\" invisibles qui contraignent le tracé",
+        "user": "U0M8SF5CG",
+        "ts": "1593792435.016700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XDy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il y a moyen de changer les frontières mais il y a des \"tuiles\" invisibles qui contraignent le tracé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "13a858a1-218c-433e-8c5c-36f6c1ec680f",
+        "type": "message",
+        "text": "(tool\/state icône pinceaux)",
+        "user": "U0M8SF5CG",
+        "ts": "1593792596.017200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SFf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(tool\/state icône pinceaux)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

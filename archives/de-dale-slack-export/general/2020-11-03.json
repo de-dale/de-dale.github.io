@@ -1,0 +1,137 @@
+[
+    {
+        "client_msg_id": "d438f166-43ed-434a-b892-e340f6780a04",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1604390996.023800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fVtt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4e647de2-49ed-40c4-8982-83f21416ceef",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1604414488.024000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oSvU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "94bf9b97-8604-4e22-988d-c91d606a10f6",
+        "type": "message",
+        "text": "<http:\/\/www.black-book-editions.fr\/news-3069.html> CO est offert en PDF",
+        "user": "U0AA0KVLH",
+        "ts": "1604415766.024300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Cu2\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.black-book-editions.fr\/news-3069.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": " CO est offert en PDF"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Black Book Editions",
+                "title": "[PROMO PDF] Livre de base Chroniques Oubliées Fantasy OFFERT + tout le catalogue BBE à 10€",
+                "title_link": "http:\/\/www.black-book-editions.fr\/news-3069.html",
+                "text": "Pour vous aider à travers ce nouveau confinement, nous offrons la version PDF du livre de base de notre gamme maison Chroniques Oubliées Fantasy et passons tout le catalogue PDF Black Book Editions à 10€ max. Courage à toutes et tous.",
+                "fallback": "Black Book Editions: [PROMO PDF] Livre de base Chroniques Oubliées Fantasy OFFERT + tout le catalogue BBE à 10€",
+                "image_url": "https:\/\/www.black-book-editions.fr\/contenu\/image\/actu\/default.png",
+                "from_url": "http:\/\/www.black-book-editions.fr\/news-3069.html",
+                "image_width": 220,
+                "image_height": 220,
+                "image_bytes": 17902,
+                "service_icon": "http:\/\/www.black-book-editions.fr\/img\/favicon_x72.png",
+                "id": 1,
+                "original_url": "http:\/\/www.black-book-editions.fr\/news-3069.html"
+            }
+        ]
+    }
+]

@@ -1,0 +1,336 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F04CER0P86S",
+                "created": 1541341437,
+                "timestamp": 1541404377,
+                "name": "Liens_utiles",
+                "title": "Liens utiles",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U0A48EDPD",
+                "user_team": "T0A48J0MV",
+                "editable": true,
+                "size": 604,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F04CER0P86S\/liens_utiles?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F04CER0P86S\/download\/liens_utiles?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "permalink": "https:\/\/de-dale.slack.com\/files\/T0A48J0MV\/F04CER0P86S",
+                "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F04CER0P86S-ccc498672f",
+                "preview": "<h1>Trello<\/h1><p><a href=\"https:\/\/trello.com\/b\/df5mWvjz\/sph%C3%A9rier\">https:\/\/trello.com\/b\/df5mWvjz\/sph%C3%A9rier<\/a><br><\/p><h1>GitHub<\/h1><p><a href=\"https:\/\/github.com\/de-dale\/spherier\">https:\/\/github.com\/de-dale\/spherier<\/a><br><a href=\"https:\/\/de-dale.github.io\/spherier\/\">https:\/\/de-dale.github.io\/spherier\/<\/a><br><\/p><h1>Espace de travail : Notions<\/h1><p><a href=\"https:\/\/www.notion.so\/spherier\/\">https:\/\/www.notion.so\/spherier\/<\/a><br><\/p>",
+                "editor": null,
+                "last_editor": "U0A48EDPD",
+                "non_owner_editable": true,
+                "updated": 1541404377,
+                "migrated_id": "FDUL2JW9E",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0A48EDPD",
+        "display_as_bot": false,
+        "ts": "1541341463.001200"
+    },
+    {
+        "client_msg_id": "2d19fa81-5b9d-4811-9936-8b02da298ed4",
+        "type": "message",
+        "text": "En fait, non.\nDans la language courant, on va toujours parler de “capa”, du coup, “capacité” me semble davantage approprié",
+        "user": "U0A48EDPD",
+        "ts": "1541341583.002000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W5CE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En fait, non.\nDans la language courant, on va toujours parler de “capa”, du coup, “capacité” me semble davantage approprié"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1525260360.000245",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "dba02908-f4e5-4d21-83f2-fc9a62af838b",
+        "type": "message",
+        "text": "Petite relecture pour ceux que ça intéresse :\n<https:\/\/github.com\/de-dale\/spherier\/pull\/3>",
+        "user": "U0A48EDPD",
+        "ts": "1541343170.002500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Q+UQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petite relecture pour ceux que ça intéresse :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/de-dale\/spherier\/pull\/3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Rules: Simplification et clarifications by fhiegel · Pull Request #3 · de-dale\/spherier",
+                "title_link": "https:\/\/github.com\/de-dale\/spherier\/pull\/3",
+                "text": "Quelques clarifications et revues d'idéessuite à des échanges avec @quentinchevallier.",
+                "fallback": "GitHub: Rules: Simplification et clarifications by fhiegel · Pull Request #3 · de-dale\/spherier",
+                "from_url": "https:\/\/github.com\/de-dale\/spherier\/pull\/3",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/7289459?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/de-dale\/spherier\/pull\/3"
+            }
+        ],
+        "thread_ts": "1541343170.002500",
+        "reply_count": 7,
+        "reply_users_count": 1,
+        "latest_reply": "1541579580.000300",
+        "reply_users": [
+            "U0A48EDPD"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1541491193.000100"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1541498307.000100"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1541498456.000400"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1541498541.000600"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1541577909.000100"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1541578940.000100"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1541579580.000300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1541579580.000300"
+    },
+    {
+        "client_msg_id": "471b3144-92f2-41ab-aa2b-315c91ef3059",
+        "type": "message",
+        "text": "Questions: pour le sphèrier, j'imagines trois phases de jeu differentes (4 en fait) :\n- le combat\n- le hors-combat\n- le rp\n- le hrp\/hors-jeu",
+        "user": "U0A48EDPD",
+        "ts": "1541403390.002600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ckC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Questions: pour le sphèrier, j'imagines trois phases de jeu differentes (4 en fait) :\n- le combat\n- le hors-combat\n- le rp\n- le hrp\/hors-jeu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "be7dba7b-a0b9-4adc-9e73-d58a2eda2c47",
+        "type": "message",
+        "text": "Actuellement,  je ne sais pas si je cherche à synergiser le combat et le hors-combat, ou si je laisse deux systèmes indépendants. La synergie me paraît difficile à équilibrer. ",
+        "user": "U0A48EDPD",
+        "ts": "1541403396.002700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q176M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Actuellement,  je ne sais pas si je cherche à synergiser le combat et le hors-combat, ou si je laisse deux systèmes indépendants. La synergie me paraît difficile à équilibrer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6deb13dd-8a45-4eea-9c23-e9d79a2d4215",
+        "type": "message",
+        "text": "Qu'en pensez vous? Est ce que synergiser les compétentes\/capacités\/actions de combat et hors-combat vous paraît intéressant pour les joueurs?",
+        "user": "U0A48EDPD",
+        "ts": "1541403463.004600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ija",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Qu'en pensez vous? Est ce que synergiser les compétentes\/capacités\/actions de combat et hors-combat vous paraît intéressant pour les joueurs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1b27d96a-4f8c-4eed-9d07-4c1190630ef7",
+        "type": "message",
+        "text": " Est ce que ça vous paraît réalisable ?",
+        "user": "U0A48EDPD",
+        "ts": "1541403495.005200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YY5e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est ce que ça vous paraît réalisable ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

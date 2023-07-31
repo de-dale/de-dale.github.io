@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "<@U0A48EDPD|faby> uploaded a file: <https:\/\/de-dale.slack.com\/files\/faby\/F4T4J1HRS\/pathfinder_-_univers_-_la_mer_inte__rieure.pdf|Pathfinder - Univers - La Mer Intérieure.pdf>",
+        "files": [
+            {
+                "id": "F4T4J1HRS",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "user": "U0A48EDPD",
+        "display_as_bot": false,
+        "ts": "1491048563.995486",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xu4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " uploaded a file: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/de-dale.slack.com\/files\/faby\/F4T4J1HRS\/pathfinder_-_univers_-_la_mer_inte__rieure.pdf",
+                                "text": "Pathfinder - Univers - La Mer Intérieure.pdf",
+                                "unsafe": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

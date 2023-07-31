@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "50a3e31f-dd82-4e67-a68b-d79d8320a300",
+        "type": "message",
+        "text": "@ben : as-tu vu passer cette série d'article sde Xebia ?\n<https:\/\/blog.xebia.fr\/2018\/11\/13\/kiss-serie-episode-1-le-story-mapping\/>",
+        "user": "U0A48EDPD",
+        "ts": "1548143356.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BoA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@ben : as-tu vu passer cette série d'article sde Xebia ?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.xebia.fr\/2018\/11\/13\/kiss-serie-episode-1-le-story-mapping\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

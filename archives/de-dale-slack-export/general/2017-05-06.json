@@ -1,0 +1,1753 @@
+[
+    {
+        "type": "message",
+        "text": "<@U0A48EDPD> : je me remets lentement au javascript, j'ai réussi à faire un exo demandant de faire une fonction qui te rend un nombre de 1 à 100, et si le nb est divisible par 3 ça rend Fizz, par 5 Buzz, et par les deux FizzBuzz. Par contre, ayant peu d'xp dév, je me demande si c'est possible de le rendre plus clean, mais j'pense qu'il y a des trucs que je connais pas. Un avis ? :stuck_out_tongue:\nfor (var i = 1; i &lt;=100; i++) {\n  if(i % 3 == 0 &amp;&amp; i % 5 == 0)\n    console.log(\"FizzBuzz\");\n  else if(i %3 ==0)\n    console.log(\"Fizz\");\n  else if(i % 5 == 0)\n    console.log(\"Buzz\");\n  else console.log(i);\n}",
+        "user": "U0DSEQH9S",
+        "ts": "1494062935.467448",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AtXO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : je me remets lentement au javascript, j'ai réussi à faire un exo demandant de faire une fonction qui te rend un nombre de 1 à 100, et si le nb est divisible par 3 ça rend Fizz, par 5 Buzz, et par les deux FizzBuzz. Par contre, ayant peu d'xp dév, je me demande si c'est possible de le rendre plus clean, mais j'pense qu'il y a des trucs que je connais pas. Un avis ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nfor (var i = 1; i <=100; i++) {\n  if(i % 3 == 0 && i % 5 == 0)\n    console.log(\"FizzBuzz\");\n  else if(i %3 ==0)\n    console.log(\"Fizz\");\n  else if(i % 5 == 0)\n    console.log(\"Buzz\");\n  else console.log(i);\n}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1494065864.590289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HIV0o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Haha",
+        "user": "U0A48EDPD",
+        "ts": "1494065872.590741",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EdxoE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "tu fais le Kata du Fizz Buzz :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1494065880.591038",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iZ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu fais le Kata du Fizz Buzz "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "-&gt; Extrait une function",
+        "user": "U0A48EDPD",
+        "ts": "1494065914.592608",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zla",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "-> Extrait une function"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "la fonction qui prend un `int` en paramètre et qui te retourne une `String`",
+        "user": "U0A48EDPD",
+        "ts": "1494065975.594947",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B6l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la fonction qui prend un "
+                            },
+                            {
+                                "type": "text",
+                                "text": "int",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " en paramètre et qui te retourne une "
+                            },
+                            {
+                                "type": "text",
+                                "text": "String",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "(`String`= texte)",
+        "user": "U0A48EDPD",
+        "ts": "1494065987.595384",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mntk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "("
+                            },
+                            {
+                                "type": "text",
+                                "text": "String",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "= texte)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "et du coup ; tu verras ptet un truc apparître",
+        "user": "U0A48EDPD",
+        "ts": "1494066026.597131",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/QF0U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et du coup ; tu verras ptet un truc apparître"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Pour info : le FizzBuzz est le Kata de base pour apprendre le test unitaire",
+        "user": "U0A48EDPD",
+        "ts": "1494066046.597910",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour info : le FizzBuzz est le Kata de base pour apprendre le test unitaire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "-&gt; As-tu fais des TUs ?",
+        "user": "U0A48EDPD",
+        "ts": "1494066054.598176",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X+k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "-> As-tu fais des TUs ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Sinon : j’aurais besoin d’un avais là dessus :",
+        "user": "U0A48EDPD",
+        "ts": "1494066218.604892",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A1b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sinon : j’aurais besoin d’un avais là dessus :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "(à télécharger et ouvrir avec un Firefox\/Chrome\/whatever vous utilisez comme navigateur)",
+        "user": "U0A48EDPD",
+        "ts": "1494066262.606714",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K1fdT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(à télécharger et ouvrir avec un Firefox\/Chrome\/whatever vous utilisez comme navigateur)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "* Est-ce que ça s’affiche correctement ?\n* Est-ce que les couleurs sont différentiables (surtout @nav) ?\n* Est-ce que vous avez des piste d’amélioration ?\n* Est-ce que vous avez des logos cool pour typer les cartes ?",
+        "user": "U0A48EDPD",
+        "ts": "1494066353.610368",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vx5n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "* Est-ce que ça s’affiche correctement ?\n* Est-ce que les couleurs sont différentiables (surtout @nav) ?\n* Est-ce que vous avez des piste d’amélioration ?\n* Est-ce que vous avez des logos cool pour typer les cartes ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1494066473.000000"
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Échec critique!",
+        "user": "USLACKBOT",
+        "ts": "1494066353.610375",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ogrxn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Échec critique!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U0DSEQH9S> Si tu cherches des petits problèmes d’algorihme :",
+        "user": "U0A48EDPD",
+        "ts": "1494066865.631790",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IFOwB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0DSEQH9S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Si tu cherches des petits problèmes d’algorihme :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/projecteuler.net>",
+        "user": "U0A48EDPD",
+        "ts": "1494066875.632134",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "btQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/projecteuler.net"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "About - Project Euler",
+                "title_link": "https:\/\/projecteuler.net",
+                "text": "A website dedicated to the fascinating world of mathematics and programming",
+                "fallback": "About - Project Euler",
+                "from_url": "https:\/\/projecteuler.net",
+                "service_icon": "https:\/\/projecteuler.net\/favicon.ico",
+                "service_name": "projecteuler.net",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Merci pour le site !",
+        "user": "U0DSEQH9S",
+        "ts": "1494075535.010903",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uejc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour le site !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Et oui, les TU, je connais, mais ça fait un BAIL. T'façon vu que j'explique un peu ce qu'est l'eXtreme Programming, je connais plus les concepts (de fond) que la technique (de forme). :stuck_out_tongue:",
+        "user": "U0DSEQH9S",
+        "ts": "1494075597.013580",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zx2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et oui, les TU, je connais, mais ça fait un BAIL. T'façon vu que j'explique un peu ce qu'est l'eXtreme Programming, je connais plus les concepts (de fond) que la technique (de forme). "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Pour les cartes, je regarde là",
+        "user": "U0DSEQH9S",
+        "ts": "1494075635.016443",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F0s6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour les cartes, je regarde là"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "alors ça s'affiche correctement sur chrome",
+        "user": "U0DSEQH9S",
+        "ts": "1494075644.016926",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmPc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alors ça s'affiche correctement sur chrome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "(faut le DL bien sur, juste en cliquant dessus ça m'amène sur le code :stuck_out_tongue: )",
+        "user": "U0DSEQH9S",
+        "ts": "1494075657.017479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cv3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(faut le DL bien sur, juste en cliquant dessus ça m'amène sur le code "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "j'ai peur que les cartes vertes soient peu différenciables (les 3 premières)",
+        "user": "U0DSEQH9S",
+        "ts": "1494075674.018394",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "loX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'ai peur que les cartes vertes soient peu différenciables (les 3 premières)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "surtout pour les daltoniens",
+        "user": "U0DSEQH9S",
+        "ts": "1494075677.018593",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KRA9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "surtout pour les daltoniens"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Pour l'amélioration, je trouve que le titre et le corps du texte sont bizarrement alignés",
+        "user": "U0DSEQH9S",
+        "ts": "1494075709.020255",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dadjt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour l'amélioration, je trouve que le titre et le corps du texte sont bizarrement alignés"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "(et les textes sont un peu rognés, ils sortent du cadre et n'apparaissent donc que coupés à la fin)",
+        "user": "U0DSEQH9S",
+        "ts": "1494075752.022422",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Bl0x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(et les textes sont un peu rognés, ils sortent du cadre et n'apparaissent donc que coupés à la fin)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "En ce moment en fait je lis le bouquin gratuit \"Eloquent Javascript\" qu'on m'a conseillé. Et j'avoue qu'il est excellent.",
+        "user": "U0DSEQH9S",
+        "ts": "1494075781.023707",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CKS3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En ce moment en fait je lis le bouquin gratuit \"Eloquent Javascript\" qu'on m'a conseillé. Et j'avoue qu'il est excellent."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Mais je me suis raté sur un des exos, où j'ai galéré bien 15 minutes. Le but c'est de faire une grille 8x8 de #, en mode échiquier, et je me suis rendu compte que je me gourrais royalement dans les boucles. Alors qu'au final il suffisait de faire une matrice avec deux boucles x et y (x abscisse y ordonnée) et de faire ligne par ligne avec une formule (x+y) % 2 == 0 pour mon \"if\" pour savoir quand apparaissant le #. xD",
+        "user": "U0DSEQH9S",
+        "ts": "1494075893.028993",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P1KLB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mais je me suis raté sur un des exos, où j'ai galéré bien 15 minutes. Le but c'est de faire une grille 8x8 de #, en mode échiquier, et je me suis rendu compte que je me gourrais royalement dans les boucles. Alors qu'au final il suffisait de faire une matrice avec deux boucles x et y (x abscisse y ordonnée) et de faire ligne par ligne avec une formule (x+y) % 2 == 0 pour mon \"if\" pour savoir quand apparaissant le #. xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DSEQH9S",
+            "ts": "1494075914.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Je suis rouillé. Bite.",
+        "user": "U0DSEQH9S",
+        "ts": "1494075933.031217",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nRsaN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis rouillé. Bite."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "* Texte rogné : c’est fait exprès : les deux textes sont trop grands pour les cartes (qui doivent rentrer dans du 63x88mm)\n* “Titre et corps” bizarrement alignés : c’est à dire ? \n  &gt; Le titre n’est pas mis en avant de manière adéquate ?\n  &gt; Faudrait-il les réaligner ? Dans ce cas les cadres seraient alignés entre eux, ce qui n’est pas top (à mon sens)",
+        "user": "U0A48EDPD",
+        "ts": "1494078227.149454",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1vQ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "* Texte rogné : c’est fait exprès : les deux textes sont trop grands pour les cartes (qui doivent rentrer dans du 63x88mm)\n* “Titre et corps” bizarrement alignés : c’est à dire ? \n  > Le titre n’est pas mis en avant de manière adéquate ?\n  > Faudrait-il les réaligner ? Dans ce cas les cadres seraient alignés entre eux, ce qui n’est pas top (à mon sens)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1494078316.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Je ne connais pas “Eloquent Javascript”",
+        "user": "U0A48EDPD",
+        "ts": "1494078244.150492",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+0BK4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je ne connais pas “Eloquent Javascript”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "mais le site réfrence de w3c est bien fait si tu veux te remettre au goût du jour",
+        "user": "U0A48EDPD",
+        "ts": "1494078265.151603",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E1e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais le site réfrence de w3c est bien fait si tu veux te remettre au goût du jour"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.w3schools.com>",
+        "user": "U0A48EDPD",
+        "ts": "1494078279.152300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jmV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.w3schools.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/eloquentjavascript.net\/>",
+        "user": "U0DSEQH9S",
+        "ts": "1494080040.251364",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kl1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/eloquentjavascript.net\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ce qu'il y a d'intéressant, c'est que c'est écrit de manière simple et moderne. Et ça me plait pas mal.",
+        "user": "U0DSEQH9S",
+        "ts": "1494080053.252133",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BAdl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ce qu'il y a d'intéressant, c'est que c'est écrit de manière simple et moderne. Et ça me plait pas mal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Plus simplement, pour les titres, c'est le cadre qui entoure le titre qui me surprend. Ca doit être à cause du texte rogné que ça me fait cet effet.",
+        "user": "U0DSEQH9S",
+        "ts": "1494080191.259661",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ON2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plus simplement, pour les titres, c'est le cadre qui entoure le titre qui me surprend. Ca doit être à cause du texte rogné que ça me fait cet effet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ah",
+        "user": "U0A48EDPD",
+        "ts": "1494081567.339368",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gZ=g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "le fait que le cadre soit plus grand, c’est pas top ?",
+        "user": "U0A48EDPD",
+        "ts": "1494081587.340373",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bZO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le fait que le cadre soit plus grand, c’est pas top ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "je dois faire quoi...",
+        "user": "U0AA0KVLH",
+        "ts": "1494089079.794821",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ihG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je dois faire quoi..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "j'ai vu qu'on ma demandé un truc",
+        "user": "U0AA0KVLH",
+        "ts": "1494089084.795127",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u1ScC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'ai vu qu'on ma demandé un truc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "mais rien suivi",
+        "user": "U0AA0KVLH",
+        "ts": "1494089087.795337",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r+BL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais rien suivi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U0AA0KVLH> : \n1. Télécharger ce fichier (`carte_template.html`)\n2. L’ouvrir dans un navigateur internet\n3. Faire des retours quant aux cartes qui s’afficheront\n    a. Les couleurs sont-elles bien visibles pour toi ?\n    b. Est-ce que tu aurais des trucs qui te choquent direct ? (Sachant que le texte ne veut rien dire, et est volontairement trop long pour montrer l’effet produit)",
+        "user": "U0A48EDPD",
+        "ts": "1494108541.886908",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pk\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0AA0KVLH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " : \n1. Télécharger ce fichier ("
+                            },
+                            {
+                                "type": "text",
+                                "text": "carte_template.html",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n2. L’ouvrir dans un navigateur internet\n3. Faire des retours quant aux cartes qui s’afficheront\n    a. Les couleurs sont-elles bien visibles pour toi ?\n    b. Est-ce que tu aurais des trucs qui te choquent direct ? (Sachant que le texte ne veut rien dire, et est volontairement trop long pour montrer l’effet produit)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1494108873.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U0A48EDPD|faby> uploaded a file: <https:\/\/de-dale.slack.com\/files\/faby\/F59S61AQ5\/card_template.html|card_template.html>",
+        "files": [
+            {
+                "id": "F59S61AQ5",
+                "created": 1494108597,
+                "timestamp": 1494108597,
+                "name": "card_template.html",
+                "title": "card_template.html",
+                "mimetype": "text\/plain",
+                "filetype": "html",
+                "pretty_type": "HTML",
+                "user": "U0A48EDPD",
+                "user_team": "T0A48J0MV",
+                "editable": true,
+                "size": 35696,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F59S61AQ5\/card_template.html?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F59S61AQ5\/download\/card_template.html?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "permalink": "https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/F59S61AQ5\/card_template.html",
+                "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F59S61AQ5-fc51774349",
+                "edit_link": "https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/F59S61AQ5\/card_template.html\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U0A48EDPD",
+        "display_as_bot": false,
+        "ts": "1494108601.889703",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qqRn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " uploaded a file: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/de-dale.slack.com\/files\/faby\/F59S61AQ5\/card_template.html",
+                                "text": "card_template.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Après je suis preneur de \n* Symboles à afficher sur une telle carte\n* Concepts d’éléments à afficher sur une carte. Actuellement, j’ai les concepts :\n   &gt; Nom de la carte\n   &gt; Texte long\n   &gt; Image\n   &gt; Icône\n   &gt; Champs Clé\/valeur (ex : “Type : Trésor”)",
+        "user": "U0A48EDPD",
+        "ts": "1494108743.896722",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b6i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Après je suis preneur de \n* Symboles à afficher sur une telle carte\n* Concepts d’éléments à afficher sur une carte. Actuellement, j’ai les concepts :\n   > Nom de la carte\n   > Texte long\n   > Image\n   > Icône\n   > Champs Clé\/valeur (ex : “Type : Trésor”)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "(du coup ; un concept ; c’est quelque chose que vous aimeriez représenter sur une carte, mais qui ne correspond pas à un des composnts qui existe déjà)",
+        "user": "U0A48EDPD",
+        "ts": "1494108823.900370",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yqK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(du coup ; un concept ; c’est quelque chose que vous aimeriez représenter sur une carte, mais qui ne correspond pas à un des composnts qui existe déjà)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

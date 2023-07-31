@@ -1,0 +1,451 @@
+[
+    {
+        "client_msg_id": "6014666b-de07-480d-a469-b71de9bc13fc",
+        "type": "message",
+        "text": "C'est les soldes BBE, ca solde beaucoup sur certains produit",
+        "user": "U0AA0KVLH",
+        "ts": "1561628159.005100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TiDra",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est les soldes BBE, ca solde beaucoup sur certains produit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5d2e3539-c486-4d9a-976e-305a1549a8e9",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1561635647.005300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FROjE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ac66a85f-049c-48ad-893a-1ad6598ce169",
+        "type": "message",
+        "text": "merci de l’info :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1561635653.005600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RoIH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci de l’info "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "546c8107-895c-4e72-a06f-66a4d244859a",
+        "type": "message",
+        "text": "Du coup, je découvre que ce genre de truc existe:\n<https:\/\/www.black-book-editions.fr\/produit.php?id=6138>",
+        "user": "U0A48EDPD",
+        "ts": "1561635753.005900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VbjkK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Du coup, je découvre que ce genre de truc existe:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.black-book-editions.fr\/produit.php?id=6138"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Black Book Editions",
+                "title": "Terrain Crate - Town Crate",
+                "title_link": "https:\/\/www.black-book-editions.fr\/produit.php?id=6138",
+                "text": "Terrain Crate - Town Crate...",
+                "fallback": "Black Book Editions: Terrain Crate - Town Crate",
+                "image_url": "https:\/\/www.black-book-editions.fr\/img_produit\/8\/XL\/8408.jpg",
+                "from_url": "https:\/\/www.black-book-editions.fr\/produit.php?id=6138",
+                "image_width": 332,
+                "image_height": 250,
+                "image_bytes": 72567,
+                "service_icon": "http:\/\/www.black-book-editions.fr\/img\/favicon_x72.png",
+                "id": 1,
+                "original_url": "https:\/\/www.black-book-editions.fr\/produit.php?id=6138"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3da8478d-e5df-4fb0-87e0-776836494f3f",
+        "type": "message",
+        "text": "des décors",
+        "user": "U0A48EDPD",
+        "ts": "1561635764.006200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jWfjZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "des décors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "860ea5bb-f5e9-4807-af76-b9bdc1216c1d",
+        "type": "message",
+        "text": "(même si c’est logique que ça existe ... )",
+        "user": "U0A48EDPD",
+        "ts": "1561635779.006600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6fqH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(même si c’est logique que ça existe ... )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3ff29275-cf2f-420c-93a4-45fc233b5d0c",
+        "type": "message",
+        "text": "Ya bcp de matos mine de rien",
+        "user": "U0AA0KVLH",
+        "ts": "1561635868.007100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vHNq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ya bcp de matos mine de rien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cc23c2ff-ac0a-4065-8e48-93f14f531567",
+        "type": "message",
+        "text": "Yep. Dont plein que l'on ne connaît pas et dont on n'a pas vraiment besoin :expressionless:",
+        "user": "U0A48EDPD",
+        "ts": "1561651081.008100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xQe7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep. Dont plein que l'on ne connaît pas et dont on n'a pas vraiment besoin "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "expressionless",
+                                "unicode": "1f611"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "917cdb5c-22f1-462b-b026-ba9165f14462",
+        "type": "message",
+        "text": "inutile donc indispensable",
+        "user": "U0AA0KVLH",
+        "ts": "1561651125.008300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/VfA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "inutile donc indispensable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9c0974fc-c980-44bf-8a12-0e6ddc13a13a",
+        "type": "message",
+        "text": "Cher. Donc non.",
+        "user": "U0A48EDPD",
+        "ts": "1561699844.000300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fb767",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cher. Donc non."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "92bb6040-97e2-4520-a1e8-590b51339f87",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0A48EDPD",
+        "ts": "1561699848.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QGj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

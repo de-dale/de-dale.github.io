@@ -1,0 +1,363 @@
+[
+    {
+        "client_msg_id": "67ab6ff9-79b3-4f5c-b74b-8156a888dc4d",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=OOEf3wW4QdU>",
+        "user": "U0DSEQH9S",
+        "ts": "1548668249.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LL9D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=OOEf3wW4QdU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Gamification improves Kramp.com",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=OOEf3wW4QdU",
+                "author_name": "Kramp",
+                "author_link": "https:\/\/www.youtube.com\/user\/krampgroep",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/OOEf3wW4QdU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Gamification improves Kramp.com",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/OOEf3wW4QdU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=OOEf3wW4QdU",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=OOEf3wW4QdU"
+            }
+        ],
+        "thread_ts": "1548668249.000200",
+        "reply_count": 10,
+        "reply_users_count": 2,
+        "latest_reply": "1548770923.000700",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0DSEQH9S"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1548677210.000100"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1548677284.000300"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1548683113.000100"
+            },
+            {
+                "user": "U0DSEQH9S",
+                "ts": "1548747692.000200"
+            },
+            {
+                "user": "U0DSEQH9S",
+                "ts": "1548747705.000400"
+            },
+            {
+                "user": "U0DSEQH9S",
+                "ts": "1548747721.000600"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1548755296.000100"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1548755304.000300"
+            },
+            {
+                "user": "U0DSEQH9S",
+                "ts": "1548770919.000500"
+            },
+            {
+                "user": "U0DSEQH9S",
+                "ts": "1548770923.000700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1548779015.000000"
+    },
+    {
+        "client_msg_id": "fdd810aa-f915-4d84-9a45-07907105d7e3",
+        "type": "message",
+        "text": "Merci pour la vidéo!",
+        "user": "U0A48EDPD",
+        "ts": "1548677210.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour la vidéo!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1548668249.000200",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "646c74ef-0c00-4b47-8c44-615249215b01",
+        "type": "message",
+        "text": "Pour faire de la gamification, je vais suivre une formation en ligne de \"Facilitateur graphique\".\nÇa a l'air super chouette. ",
+        "user": "U0A48EDPD",
+        "ts": "1548677284.000300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+4oGx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour faire de la gamification, je vais suivre une formation en ligne de \"Facilitateur graphique\".\nÇa a l'air super chouette."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1548668249.000200",
+        "parent_user_id": "U0DSEQH9S",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e68643b-5d83-4f6f-9d0f-0678e919275c",
+        "type": "message",
+        "text": "J'aime pas trop l'élection du \"meilleur guerrier\", mais sinon, ils ont fait ça trop bien.",
+        "user": "U0A48EDPD",
+        "ts": "1548683113.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WpEbn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'aime pas trop l'élection du \"meilleur guerrier\", mais sinon, ils ont fait ça trop bien."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1548668249.000200",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "1b6dd520-51ab-4cf3-8c3d-9e4e83935171",
+        "type": "message",
+        "text": "J'ai fait une formation de facilitation graphique aussi, c'est top !",
+        "user": "U0DSEQH9S",
+        "ts": "1548747692.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GL+jP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai fait une formation de facilitation graphique aussi, c'est top !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1548668249.000200",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "c95f36da-0fb5-41eb-b582-57e7dab7ce8d",
+        "type": "message",
+        "text": "Par contre ça demande de l'entrainement constant..",
+        "user": "U0DSEQH9S",
+        "ts": "1548747705.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TlhG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Par contre ça demande de l'entrainement constant.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1548668249.000200",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "202a12bf-5316-40fe-a788-344018bf0155",
+        "type": "message",
+        "text": "C'est la formation en ligne de Romain Couturier par hasard ?",
+        "user": "U0DSEQH9S",
+        "ts": "1548747721.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T=L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est la formation en ligne de Romain Couturier par hasard ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1548668249.000200",
+        "parent_user_id": "U0DSEQH9S"
+    }
+]

@@ -1,0 +1,596 @@
+[
+    {
+        "client_msg_id": "06f066f0-6966-45cb-b59f-987696386694",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1596007936.074300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C6hs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "015ebb3b-7f2a-43e8-b24a-d8892ef0680e",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1596010758.074500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QOIe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3c456f81-1dc1-4076-999f-d2f10245ab37",
+        "type": "message",
+        "text": "@nav: ça t'a plu au fait lundi soir ?",
+        "user": "U0A48EDPD",
+        "ts": "1596010788.075200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IIFZV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@nav: ça t'a plu au fait lundi soir ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ad7cc073-5b83-487a-86fb-61e7148cf73a",
+        "type": "message",
+        "text": "-&gt; Qu'est ce qui t'a plu ?\n-&gt; Qu'est ce que j'aurais pu faire différemment, pour que ce soit mieux ?",
+        "user": "U0A48EDPD",
+        "ts": "1596010820.075700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FPe3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "-> Qu'est ce qui t'a plu ?\n-> Qu'est ce que j'aurais pu faire différemment, pour que ce soit mieux ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1596010849.000000"
+        }
+    },
+    {
+        "client_msg_id": "c0859943-9bb0-41e2-9185-cb2dc04b7941",
+        "type": "message",
+        "text": "ouep",
+        "user": "U0AA0KVLH",
+        "ts": "1596010822.075900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RvkU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ouep"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dc528020-b009-4569-9171-5d4fc078ea28",
+        "type": "message",
+        "text": "(et accessoirement, est-ce que ça te tente d'investir dans un perso, pour refaire des Runs ?)",
+        "user": "U0A48EDPD",
+        "ts": "1596010884.076700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FLlJy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(et accessoirement, est-ce que ça te tente d'investir dans un perso, pour refaire des Runs ?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8e6234b5-5087-459f-92dc-75c040cd914e",
+        "type": "message",
+        "text": "1. Est-ce que ca ta plu ? : Oui, j'espère avoir laisser les autres s'exprimer.",
+        "user": "U0AA0KVLH",
+        "ts": "1596018215.077500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qSq",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Est-ce que ca ta plu ? : Oui, j'espère avoir laisser les autres s'exprimer."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "63d66bd2-b756-490c-877d-8604b4a47db6",
+        "type": "message",
+        "text": "2. Qu'est ce qui t'a plu ? : Pouvoir organiser le braquage comme si c'était un film comme Ocean's Eleven.",
+        "user": "U0AA0KVLH",
+        "ts": "1596018304.078400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1SR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2. Qu'est ce qui t'a plu ? : Pouvoir organiser le braquage comme si c'était un film comme Ocean's Eleven."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a383b165-cc5c-4bcf-abfa-3028e2bff9d2",
+        "type": "message",
+        "text": "3. Qu'est ce tu aurais pu faire différemment pour ce que soit mieux ? Présenter l'univers rapidement notamment le niveau technologique (puissance des IA, les corps cybernétiques sont faciles d'accès ? On a réussi à cybernétiser l'intégralité du corps ? les relations entre race ont de l'importance ?) et l'ambiance : les runners et les guerres de corporation sont courantes, quel est la véritable puissance de l'état ? Toutes les infos sont pas forcément utiles mais personnellement je connais très mal le monde Shadowrun (à supposer même que ce soit celui là).",
+        "user": "U0AA0KVLH",
+        "ts": "1596018476.081500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TxKL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3. Qu'est ce tu aurais pu faire différemment pour ce que soit mieux ? Présenter l'univers rapidement notamment le niveau technologique (puissance des IA, les corps cybernétiques sont faciles d'accès ? On a réussi à cybernétiser l'intégralité du corps ? les relations entre race ont de l'importance ?) et l'ambiance : les runners et les guerres de corporation sont courantes, quel est la véritable puissance de l'état ? Toutes les infos sont pas forcément utiles mais personnellement je connais très mal le monde Shadowrun (à supposer même que ce soit celui là)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f797f334-a86b-4969-92ca-5525e3f736b9",
+        "type": "message",
+        "text": "Peut-être décrire le monde du Web pour lui donner un peu plus corps à la matrix ou à la Ghost in the shell pour ressentir plus les attaques de Firewall",
+        "user": "U0AA0KVLH",
+        "ts": "1596018552.082400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PpWTW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Peut-être décrire le monde du Web pour lui donner un peu plus corps à la matrix ou à la Ghost in the shell pour ressentir plus les attaques de Firewall"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "69916e64-5668-4601-9481-ec242c0fc3ef",
+        "type": "message",
+        "text": "Mais ca n'enlève rien que c'était bien sinon. La liberté, les ouvertures, l'adaptation.",
+        "user": "U0AA0KVLH",
+        "ts": "1596018577.083000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5kN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mais ca n'enlève rien que c'était bien sinon. La liberté, les ouvertures, l'adaptation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "43db186b-0f99-4c34-b583-6ed41db9c10a",
+        "type": "message",
+        "text": "Chacun a réussi à avoir un rôle différent et utile",
+        "user": "U0AA0KVLH",
+        "ts": "1596018600.083400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "69g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chacun a réussi à avoir un rôle différent et utile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0AA0KVLH",
+            "ts": "1596018603.000000"
+        }
+    },
+    {
+        "client_msg_id": "addf0408-f5e8-45c7-88b2-e29514d2892c",
+        "type": "message",
+        "text": "(même si mon personnage état plus le touche à tout que le pilote)",
+        "user": "U0AA0KVLH",
+        "ts": "1596018618.083900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ftbnr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(même si mon personnage état plus le touche à tout que le pilote)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b31aa6cb-39bc-4686-b543-706ae079847a",
+        "type": "message",
+        "text": "4. Plus de runs ? Ca mon coco, c'est un V8 AMG pour 510 chevaux installation boost nitro. Avec ça, tu fais un trou dans la couche d'Ozone plus vite que le temps de réaction des flics. Fiabilité allemande oblige.",
+        "user": "U0AA0KVLH",
+        "ts": "1596018695.084200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JNb\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "4. Plus de runs ? Ca mon coco, c'est un V8 AMG pour 510 chevaux installation boost nitro. Avec ça, tu fais un trou dans la couche d'Ozone plus vite que le temps de réaction des flics. Fiabilité allemande oblige."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2a2287b3-322f-422c-95df-45b9ca5d40ae",
+        "type": "message",
+        "text": "(le fait que je viens de finir la saison 1 de Ghost in the Shell SAC 2045 pourrait avoir une influence)",
+        "user": "U0AA0KVLH",
+        "ts": "1596018733.084700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NQ4ub",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(le fait que je viens de finir la saison 1 de Ghost in the Shell SAC 2045 pourrait avoir une influence)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

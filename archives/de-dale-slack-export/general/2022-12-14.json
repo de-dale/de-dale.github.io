@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "dae29286-a028-448a-acd3-56567eca58b6",
+        "type": "message",
+        "text": "Fuyez il est la <https:\/\/fr.wikipedia.org\/wiki\/Aesculus_hippocastanum#\/media\/Fichier:Kasztan_oo007.JPG>",
+        "user": "U0M8SF5CG",
+        "ts": "1671041078.597789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qcS22",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fuyez il est la "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fr.wikipedia.org\/wiki\/Aesculus_hippocastanum#\/media\/Fichier:Kasztan_oo007.JPG"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/fr.wikipedia.org\/wiki\/Aesculus_hippocastanum#\/media\/Fichier:Kasztan_oo007.JPG",
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bf\/Kasztan_oo007.JPG",
+                "image_width": 800,
+                "image_height": 600,
+                "image_bytes": 164724,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/fr.wikipedia.org\/wiki\/Aesculus_hippocastanum#\/media\/Fichier:Kasztan_oo007.JPG",
+                "fallback": "wikipedia: Aesculus hippocastanum",
+                "text": "Le marronnier commun, marronnier d'Inde ou marronnier blanc (Aesculus hippocastanum L.) est un arbre, anciennement de la famille des Hippocastanaceae (Classification de Cronquist (1981)), laquelle est aujourd'hui incluse dans la famille des Sapindaceae (en classification APGIII). Il est parfois appelé châtaignier de mer, marronnier faux-châtaignier ou châtaignier des chevaux.\nIl est souvent confondu avec le châtaignier commun (Castanea sativa), qui produit la véritable châtaigne comestible.\nSes cousins nord-américains, nommés paviers, ont des feuilles plus lisses et non dentelées, avec des fleurs qui rappellent celles du marronnier européen.\nLe marronnier est très répandu dans les parcs publics et le long des avenues en Europe et Amérique du Nord.\nL’espèce est considérée en Europe comme « vulnérable » par le comité français de l’Union internationale pour la conservation de la nature,. Toutefois, ceci ne s'applique pas aux individus plantés en France, mais uniquement aux populations sauvages, originaires des Balkans.",
+                "title": "Aesculus hippocastanum",
+                "title_link": "https:\/\/fr.wikipedia.org\/wiki\/Aesculus_hippocastanum#\/media\/Fichier:Kasztan_oo007.JPG",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/fr.wikipedia.org\/"
+            }
+        ],
+        "thread_ts": "1671041078.597789",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1671184951.826309",
+        "reply_users": [
+            "U0AA0KVLH"
+        ],
+        "replies": [
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1671184951.826309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

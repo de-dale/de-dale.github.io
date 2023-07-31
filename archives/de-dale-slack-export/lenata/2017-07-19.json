@@ -1,0 +1,94 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1500465046.263622",
+        "user": "U0AA0KVLH",
+        "text": "<@U0AA0KVLH> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1500465070.271680",
+        "user": "U0A48EDPD",
+        "text": "<@U0A48EDPD> has joined the channel",
+        "inviter": "U0AA0KVLH"
+    },
+    {
+        "type": "message",
+        "text": "_La jeune femme réajusta son arc en bandoulière avant d'entrer dans l'auberge. Sa tenue de voyage était poussiéreuse comme ses cheveux mais elle ne jugea pas utile d'arranger quoique ce soit d'autres. Les auberges avaient l'habitude des voyageurs alors inutile de faire semblant de ne pas en être un. Alors qu'elle franchissait la porte au dessus de laquelle un écriteau représentant trois hommes en train de trinquer sous l'inscriptions \"Les trois ducs\", elle ne pu s'empêcher de pousser un soupir à l'idée de pouvoir profiter du confort urbain. Elle s'empressa de se justifier que ce n'était qu'un petit plaisir et non un choix de vie._\n_C'est ici qu'elle devait retrouver ses équipiers mais comme d'habitude elle serait la première arrivée. Elle était toujours la plus rapide à faire son inspection. Ce qui n'était guère étonnant vu que c'était pour ses talents de pisteuse qu'elle avait été choisie. Elle pourrait ainsi se reposer un peu. Un avantage qu'il ne fallait pas négliger compte tenu de ses objectifs._\n_L'auberge des trois ducs était une auberge proche de l'entrée est de la ville, destinée au voyageur, elle disposait de tout ce qu'on pouvait attendre d'une auberge. Elle était fréquentée principalement par des marchands mais aussi par quelques magiciens locaux qui voulaient s'épargner leurs tavernes habituels. La ville de Lenata, compte tenue de sa proximité avec une académie de magie, n'avait que peu de criminalité et un commerce florissant : les mages et les marchands s'approvisionnaient et revendaient toutes sortes de marchandises. Malgré tous, qui faisait vraiment confiance aux mages ? Personne de sain d'esprit._\n_La jeune femme avança jusqu'au comptoir où l'aubergiste, une femme (l'originalité de la chose fit sourire l'étrangère), s'appliquait à nettoyer ... une assiette (décidément...)._",
+        "user": "U0AA0KVLH",
+        "ts": "1500465958.571877",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "krktF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La jeune femme réajusta son arc en bandoulière avant d'entrer dans l'auberge. Sa tenue de voyage était poussiéreuse comme ses cheveux mais elle ne jugea pas utile d'arranger quoique ce soit d'autres. Les auberges avaient l'habitude des voyageurs alors inutile de faire semblant de ne pas en être un. Alors qu'elle franchissait la porte au dessus de laquelle un écriteau représentant trois hommes en train de trinquer sous l'inscriptions \"Les trois ducs\", elle ne pu s'empêcher de pousser un soupir à l'idée de pouvoir profiter du confort urbain. Elle s'empressa de se justifier que ce n'était qu'un petit plaisir et non un choix de vie.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "C'est ici qu'elle devait retrouver ses équipiers mais comme d'habitude elle serait la première arrivée. Elle était toujours la plus rapide à faire son inspection. Ce qui n'était guère étonnant vu que c'était pour ses talents de pisteuse qu'elle avait été choisie. Elle pourrait ainsi se reposer un peu. Un avantage qu'il ne fallait pas négliger compte tenu de ses objectifs.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "L'auberge des trois ducs était une auberge proche de l'entrée est de la ville, destinée au voyageur, elle disposait de tout ce qu'on pouvait attendre d'une auberge. Elle était fréquentée principalement par des marchands mais aussi par quelques magiciens locaux qui voulaient s'épargner leurs tavernes habituels. La ville de Lenata, compte tenue de sa proximité avec une académie de magie, n'avait que peu de criminalité et un commerce florissant : les mages et les marchands s'approvisionnaient et revendaient toutes sortes de marchandises. Malgré tous, qui faisait vraiment confiance aux mages ? Personne de sain d'esprit.",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "La jeune femme avança jusqu'au comptoir où l'aubergiste, une femme (l'originalité de la chose fit sourire l'étrangère), s'appliquait à nettoyer ... une assiette (décidément...).",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0AA0KVLH",
+            "ts": "1500466025.000000"
+        }
+    }
+]

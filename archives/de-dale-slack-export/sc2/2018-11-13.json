@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "22fc076f-2fc0-4b38-a7f5-ab243be452d8",
+        "type": "message",
+        "text": "<https:\/\/9gag.com\/gag\/axzjRdK>",
+        "user": "U0A48EDPD",
+        "ts": "1542150995.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SHS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/9gag.com\/gag\/axzjRdK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "9GAG",
+                "title": "How i was imaging it vs how it was.",
+                "title_link": "https:\/\/9gag.com\/gag\/axzjRdK",
+                "text": "Join the fun convo with 9GAG community",
+                "fallback": "9GAG: How i was imaging it vs how it was.",
+                "image_url": "https:\/\/images-cdn.9gag.com\/photo\/axzjRdK_700b.jpg",
+                "from_url": "https:\/\/9gag.com\/gag\/axzjRdK",
+                "image_width": 446,
+                "image_height": 250,
+                "image_bytes": 14937,
+                "service_icon": "https:\/\/assets-9gag-fun.9cache.com\/s\/fab0aa49\/f213f791004986ca1236a64fa983398b1e9a6bf3\/static\/dist\/core\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/9gag.com\/gag\/axzjRdK"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0AA0KVLH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

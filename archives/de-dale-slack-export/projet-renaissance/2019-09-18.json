@@ -1,0 +1,890 @@
+[
+    {
+        "client_msg_id": "c0a02ca8-15f9-4657-b26a-a15b17202661",
+        "type": "message",
+        "text": "Ça manque d'un lexique des abréviations, c'est quoi la def de 'Emp'? Le franglais nuit à la compréhension aussi.\nPotentiellement, l'ingénieur ne génère aucune intuition ?",
+        "user": "U0AA0KVLH",
+        "ts": "1568792888.023500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AQ=hL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ça manque d'un lexique des abréviations, c'est quoi la def de 'Emp'? Le franglais nuit à la compréhension aussi.\nPotentiellement, l'ingénieur ne génère aucune intuition ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568792888.023500",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1568806343.034800",
+        "reply_users": [
+            "U0DTHMU81",
+            "U0AA0KVLH"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1568799073.034000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1568799135.034200"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1568800718.034400"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1568803496.034600"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1568806343.034800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "77b24d05-5269-4f41-951a-70661812c9b5",
+        "type": "message",
+        "text": "J'y ai pensé ce matin. J'essaye de sortir mes idées vite et je prends les mots qui me viennent immédiatement (d'où des formulations un peu moisies parfois).",
+        "user": "U0DTHMU81",
+        "ts": "1568798045.024500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nuba",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'y ai pensé ce matin. J'essaye de sortir mes idées vite et je prends les mots qui me viennent immédiatement (d'où des formulations un peu moisies parfois)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c1067ba3-5c6a-4a73-b9d2-23e9c88a3935",
+        "type": "message",
+        "text": "K",
+        "user": "U0AA0KVLH",
+        "ts": "1568798150.025500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VSC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "K"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "29f2169b-e86c-456b-b9ea-79d06680e4f4",
+        "type": "message",
+        "text": "Emp : C'est Empower (améliorer)\nL'idée d'un empower c'est d'améliorer une capacité. on peut comparer ça à de la métamagie, mais par sort.\nAinsi pour reproduire Boule de feu à partir de Main Brulante, on pourrait dire : (+1 lvl de sort : double le nombre de d6 max et la zone devient 1 sphère de 2 cases de rayon) \/ (+1 lvl de sort : double la zone et la portée devient longue)",
+        "user": "U0DTHMU81",
+        "ts": "1568798345.027700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BAee0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Emp : C'est Empower (améliorer)\nL'idée d'un empower c'est d'améliorer une capacité. on peut comparer ça à de la métamagie, mais par sort.\nAinsi pour reproduire Boule de feu à partir de Main Brulante, on pourrait dire : (+1 lvl de sort : double le nombre de d6 max et la zone devient 1 sphère de 2 cases de rayon) \/ (+1 lvl de sort : double la zone et la portée devient longue)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "27746893-bce9-490b-93c1-60454454b10b",
+        "type": "message",
+        "text": "Cela permet plus de flexibilité et d'avoir moins de sorts à retenir.",
+        "user": "U0DTHMU81",
+        "ts": "1568798598.029600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DUcmc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cela permet plus de flexibilité et d'avoir moins de sorts à retenir."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "01fee3dc-f07c-45ca-b0c5-fa77c47cc7b1",
+        "type": "message",
+        "text": "La liste des possibilités de l'alchimiste a l'air de donner bcp de boulot",
+        "user": "U0AA0KVLH",
+        "ts": "1568798720.032200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I2DXh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La liste des possibilités de l'alchimiste a l'air de donner bcp de boulot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568798720.032200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1568798848.033800",
+        "reply_users": [
+            "U0DTHMU81",
+            "U0AA0KVLH"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1568798794.033400"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1568798810.033600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1568798848.033800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c702c84e-82a1-46de-9934-68d3c26933fc",
+        "type": "message",
+        "text": "Genre Prière est une upgrade directe de Bénédiction\/Anathème.\n1 seul sort : Bénédiction\n- Bénédiction : Vos alliés gagnent +1 au jets d'attaque\n- Emp : Le bonus aux jets d'attaque s'applique aussi aux jets de dégâts et JS.\n- Emp : Les bonus sont aussi appliqués en malus aux ennemis",
+        "user": "U0DTHMU81",
+        "ts": "1568798788.033300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BNR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Genre Prière est une upgrade directe de Bénédiction\/Anathème.\n1 seul sort : Bénédiction\n- Bénédiction : Vos alliés gagnent +1 au jets d'attaque\n- Emp : Le bonus aux jets d'attaque s'applique aussi aux jets de dégâts et JS.\n- Emp : Les bonus sont aussi appliqués en malus aux ennemis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "304c2284-fd2e-404f-b3f6-44b7646136d3",
+        "type": "message",
+        "text": "A qui ?",
+        "user": "U0DTHMU81",
+        "ts": "1568798794.033400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dP9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A qui ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568798720.032200",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "8dec1c1d-a115-4696-871e-cfa4270ddc94",
+        "type": "message",
+        "text": "Au concepteur",
+        "user": "U0AA0KVLH",
+        "ts": "1568798810.033600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I34Xr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Au concepteur"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568798720.032200",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "906564c0-e739-4387-b0f7-852413d9bb0e",
+        "type": "message",
+        "text": "A moi ? Oui et non. Les formules vont vite à faire en vrai. Il y aura un peu d'équilibrage, mais ça va\nAu joueur ? Oui, c'est pour ça que la classe est difficile",
+        "user": "U0DTHMU81",
+        "ts": "1568798848.033800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TeH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A moi ? Oui et non. Les formules vont vite à faire en vrai. Il y aura un peu d'équilibrage, mais ça va\nAu joueur ? Oui, c'est pour ça que la classe est difficile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568798720.032200",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "54002f77-874c-4f4d-8f7b-ebe7c233a089",
+        "type": "message",
+        "text": "Oui s'il n'a pas de chance, l'ingé ne génère pas de ressources. Mais on va vite tomber dans la moyenne. Si par exemple je vise qu'un ingé gagne en moyenne 7 (+ ou -2) Intuition\/combat, cela devrait limiter le risque de ne pas avoir de ressources",
+        "user": "U0DTHMU81",
+        "ts": "1568799073.034000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pOvkv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui s'il n'a pas de chance, l'ingé ne génère pas de ressources. Mais on va vite tomber dans la moyenne. Si par exemple je vise qu'un ingé gagne en moyenne 7 (+ ou -2) Intuition\/combat, cela devrait limiter le risque de ne pas avoir de ressources"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568792888.023500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "c537a90f-6724-4026-93c5-cc36eeee7a0f",
+        "type": "message",
+        "text": "Après la classe aura des effets sûrs et des effets basés sur les ressources. Au joueur de choisir son degré d'implication dans 1 ressource aléatoire",
+        "user": "U0DTHMU81",
+        "ts": "1568799135.034200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MFyFI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Après la classe aura des effets sûrs et des effets basés sur les ressources. Au joueur de choisir son degré d'implication dans 1 ressource aléatoire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568792888.023500",
+        "parent_user_id": "U0AA0KVLH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "96529de8-fb43-4534-84a5-b14d89e9f0bf",
+        "type": "message",
+        "text": "Donc je ne jouerai pas cette classe. Ma dechatte prendrai ça pour un défi.",
+        "user": "U0AA0KVLH",
+        "ts": "1568800718.034400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1uP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Donc je ne jouerai pas cette classe. Ma dechatte prendrai ça pour un défi."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568792888.023500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "afff05b6-f2f2-4a7d-89e8-818eabae94d6",
+        "type": "message",
+        "text": "Il ne faut pas rester sur un echec",
+        "user": "U0DTHMU81",
+        "ts": "1568803496.034600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SFwIS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il ne faut pas rester sur un echec"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568792888.023500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "6e9e606b-7fe3-4652-a976-f62095d07a39",
+        "type": "message",
+        "text": "A compter de douze, c'est un abonnement",
+        "user": "U0AA0KVLH",
+        "ts": "1568806343.034800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L0W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A compter de douze, c'est un abonnement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1568792888.023500",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "type": "message",
+        "text": "Maj du fichier.",
+        "files": [
+            {
+                "id": "FNA5ZBMFB",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "user": "U0DTHMU81",
+        "display_as_bot": false,
+        "ts": "1568816311.035100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zAPR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maj du fichier."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e412e4a8-27c9-47ab-a805-c32fae1a8107",
+        "thread_ts": "1568816311.035100",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1568980000.011100",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0DTHMU81"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1568979173.008200"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1568979263.008500"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1568979386.008900"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1568979569.009400"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1568979681.010000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1568979726.010200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1568979846.010500"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1568979924.010900"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1568980000.011100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1568980000.011100"
+    },
+    {
+        "client_msg_id": "93aff51b-b87d-4070-8885-2ff2aad3d9e0",
+        "type": "message",
+        "text": "<@U0AA0KVLH> je pense qu'il y a des choses qui peuvent t'intéresser notamment le passage du temps et la tension",
+        "user": "U0DTHMU81",
+        "ts": "1568816402.035800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y0A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0AA0KVLH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " je pense qu'il y a des choses qui peuvent t'intéresser notamment le passage du temps et la tension"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "691eb6fd-d171-4aea-a40f-43d37f07bc83",
+        "type": "message",
+        "text": "c'est en partie la traduction d'Angry",
+        "user": "U0DTHMU81",
+        "ts": "1568816411.036100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ZcDX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est en partie la traduction d'Angry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d6ba037b-2c40-4308-a199-19c276f15f7b",
+        "type": "message",
+        "text": "je pense qu'il est encore possible de les mettre en place dans ta campagne si tu le veux (pas de grosses modifs et ça peut s'appliquer sur les prochains bouquins)",
+        "user": "U0DTHMU81",
+        "ts": "1568816462.036900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xl=64",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je pense qu'il est encore possible de les mettre en place dans ta campagne si tu le veux (pas de grosses modifs et ça peut s'appliquer sur les prochains bouquins)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7c941d62-d5ac-4c9c-9f59-1d4470b044eb",
+        "type": "message",
+        "text": "Je vais réécrire les classes pour que ce soit plus clair.",
+        "user": "U0DTHMU81",
+        "ts": "1568816617.037500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tw7X5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vais réécrire les classes pour que ce soit plus clair."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

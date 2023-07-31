@@ -1,0 +1,434 @@
+[
+    {
+        "client_msg_id": "cfa666bd-c352-4c80-a89e-600aa0ffc778",
+        "type": "message",
+        "text": "pareil :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1552206100.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yfTO2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pareil "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8c40e6dd-02da-4e40-b6ef-456678b1d085",
+        "type": "message",
+        "text": "Tableau récapitulatif SC2\n<https:\/\/trello.com\/b\/mAv093L0>",
+        "user": "U0A48EDPD",
+        "ts": "1552208669.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eg4ry",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tableau récapitulatif SC2\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/b\/mAv093L0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Trello",
+                "title": "Starcraft",
+                "title_link": "https:\/\/trello.com\/b\/mAv093L0",
+                "text": "Trello is the visual collaboration platform that gives teams perspective on projects. Use Trello to collaborate, communicate and coordinate on all of your projects.",
+                "fallback": "Trello: Starcraft",
+                "thumb_url": "https:\/\/trello-backgrounds.s3.amazonaws.com\/SharedBackground\/256x171\/bb9fba6ae1a01b53d95d862266f30827\/photo-1551509134-2f9d4ec80a9b.jpg",
+                "from_url": "https:\/\/trello.com\/b\/mAv093L0",
+                "thumb_width": 256,
+                "thumb_height": 171,
+                "service_icon": "https:\/\/trello.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/trello.com\/b\/mAv093L0"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db8a4c16-b97e-4ff5-9caf-6e6f84216da9",
+        "type": "message",
+        "text": "C'est quoi votre délire? ",
+        "user": "U0DTHMU81",
+        "ts": "1552210034.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=wm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est quoi votre délire?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1552210034.000400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1552210929.002700",
+        "reply_users": [
+            "U0A48EDPD"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1552210929.002700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1552210929.002700"
+    },
+    {
+        "client_msg_id": "f3e7bf4f-ab59-4169-8c33-5a9f72d39d05",
+        "type": "message",
+        "text": "je sais pas il veut jouer a sc2 ^^",
+        "user": "U0A9S1HCJ",
+        "ts": "1552210082.000700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "40h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je sais pas il veut jouer a sc2 ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3d2fbb7a-8685-4012-90c9-7ab8090d952c",
+        "type": "message",
+        "text": "des dispo dans l'aprem ?",
+        "user": "U0A9S1HCJ",
+        "ts": "1552210085.000900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "asY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "des dispo dans l'aprem ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b9864c9c-0450-49e2-a082-3bff57070477",
+        "type": "message",
+        "text": "Ça ne dépend pas que de moi...\nJ'en saurais plus à 14h. Mais j'ai probablement un biberon vers 14h.",
+        "user": "U0A48EDPD",
+        "ts": "1552210904.002600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wb29",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ça ne dépend pas que de moi...\nJ'en saurais plus à 14h. Mais j'ai probablement un biberon vers 14h."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7239a0ff-e485-4dcd-9c08-75e71c0b70d3",
+        "type": "message",
+        "text": "Comment ça?",
+        "user": "U0A48EDPD",
+        "ts": "1552210929.002700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0KNUv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Comment ça?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1552210034.000400",
+        "parent_user_id": "U0DTHMU81"
+    },
+    {
+        "client_msg_id": "2f0698cf-0c18-4b12-8062-387262ebdb72",
+        "type": "message",
+        "text": "oki ^^",
+        "user": "U0A9S1HCJ",
+        "ts": "1552211196.003000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0kRAl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oki ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "07f19c31-7ab0-4bc3-8024-d778d8821202",
+        "type": "message",
+        "text": "En tout cas, je suis chaud pour jouer cet aprem sur un créneau de 13h30 à 16h. Modulo les aléas des biberons et des siestes",
+        "user": "U0A48EDPD",
+        "ts": "1552211521.004700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MQa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En tout cas, je suis chaud pour jouer cet aprem sur un créneau de 13h30 à 16h. Modulo les aléas des biberons et des siestes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "wink",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65523397-c410-4a40-a63d-9b3b0901c887",
+        "type": "message",
+        "text": "ok adjugé appel sur mon àortable quand tu es dispo ^^",
+        "user": "U0A9S1HCJ",
+        "ts": "1552216959.000300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1bKZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok adjugé appel sur mon àortable quand tu es dispo ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

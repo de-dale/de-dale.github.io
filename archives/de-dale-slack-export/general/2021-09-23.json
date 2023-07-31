@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "3ffafdd9-2b5f-44ff-93fa-8aa31973c1c1",
+        "type": "message",
+        "text": "L'activité du site est comme les gros titres de la presse : sous-marin",
+        "user": "U0AA0KVLH",
+        "ts": "1632387946.002600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LH5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L'activité du site est comme les gros titres de la presse : sous-marin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "stuck_out_tongue",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ca2fce8-954f-4e3f-9206-7a93958fd794",
+        "type": "message",
+        "text": "Mais se passe-t-il réelle ment quelque chose ?",
+        "user": "U0A48EDPD",
+        "ts": "1632423557.003000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2E8N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mais se passe-t-il réelle ment quelque chose ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

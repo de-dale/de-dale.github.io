@@ -1,0 +1,268 @@
+[
+    {
+        "client_msg_id": "6e871a13-cb94-4b31-b347-89e7d1e3dc4b",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1574766656.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4mE2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7172fbf4-5e50-4dd6-867c-af2d4c32dd26",
+        "type": "message",
+        "text": "<https:\/\/www.black-book-editions.fr\/news-2604.html>",
+        "user": "U0AA0KVLH",
+        "ts": "1574766658.001500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sm2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.black-book-editions.fr\/news-2604.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Black Book Editions",
+                "title": "[BOUTIQUE] Jusqu'à -80% pendant la Black Friday Week !",
+                "title_link": "https:\/\/www.black-book-editions.fr\/news-2604.html",
+                "text": "Profitez de nos offres promotionnelles jusqu'à - 80% pendant la Black Friday Week du mardi 26\/11 à 8h00 au lundi 2\/12 à 8h00. Attention, stocks et durée limités !",
+                "fallback": "Black Book Editions: [BOUTIQUE] Jusqu'à -80% pendant la Black Friday Week !",
+                "image_url": "https:\/\/www.black-book-editions.fr\/contenu\/image\/actu\/default.png",
+                "from_url": "https:\/\/www.black-book-editions.fr\/news-2604.html",
+                "image_width": 220,
+                "image_height": 220,
+                "image_bytes": 17902,
+                "service_icon": "http:\/\/www.black-book-editions.fr\/img\/favicon_x72.png",
+                "id": 1,
+                "original_url": "https:\/\/www.black-book-editions.fr\/news-2604.html"
+            }
+        ],
+        "thread_ts": "1574766658.001500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1574859396.004700",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0AA0KVLH"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1574859269.004500"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1574859396.004700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1574859396.004700"
+    },
+    {
+        "client_msg_id": "eda1206d-34b7-4eca-bd79-6f90d9f0807e",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1574769435.001800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e6a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d3e903fd-cf26-4cd3-b9c5-a0e0012ac2fa",
+        "type": "message",
+        "text": "Ca va bien ?",
+        "user": "U0AA0KVLH",
+        "ts": "1574777523.002000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EUsp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca va bien ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "87a7d6a4-97c9-4f59-ba5a-a78651df652a",
+        "type": "message",
+        "text": "oui et toi ?",
+        "user": "U0A48EDPD",
+        "ts": "1574802900.002200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9z62",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui et toi ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "736ef2ea-16c3-4128-a9e5-813b7649e6c6",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0A48EDPD",
+        "ts": "1574840466.002400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/1X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

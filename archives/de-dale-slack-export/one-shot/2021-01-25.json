@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "e614ad01-6e94-49a2-b5f1-da672ce4859d",
+        "type": "message",
+        "text": "<https:\/\/fr.wikipedia.org\/wiki\/Lemegeton>",
+        "user": "U0AA0KVLH",
+        "ts": "1611598859.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0rx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fr.wikipedia.org\/wiki\/Lemegeton"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/f7\/King_Solomon.jpg\/1200px-King_Solomon.jpg",
+                "image_width": 1200,
+                "image_height": 2165,
+                "image_bytes": 792162,
+                "title": "Lemegeton",
+                "title_link": "https:\/\/fr.wikipedia.org\/wiki\/Lemegeton",
+                "from_url": "https:\/\/fr.wikipedia.org\/wiki\/Lemegeton",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/fr.wikipedia.org\/",
+                "text": "Le Lemegeton Clavicula Salomonis, ou la petite clé de Salomon, ou simplement Lemegeton, est un traité de magie rituelle, anonyme, en anglais, de la seconde moitié du XVIIe siècle. Il s'agit, dans sa version complète, d'une compilation et d'une refonte de cinq textes, prêtés au roi des Juifs Salomon, ayant auparavant circulé de façon indépendante. Ce recueil participe d'une longue tradition d'œuvres (avec notamment le Testament de Salomon, les Clavicules de Salomon, le Grand grimoire, etc.) décrivant ce roi comme un sorcier ayant reçu à l'origine ses pouvoirs de Dieu,,,.",
+                "fallback": "wikipedia: Lemegeton",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/fr.wikipedia.org\/wiki\/Lemegeton"
+            }
+        ]
+    }
+]

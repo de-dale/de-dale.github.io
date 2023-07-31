@@ -1,0 +1,1007 @@
+[
+    {
+        "client_msg_id": "c279c096-ee99-4e88-be71-0d11b071281e",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1552374661.001900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+rIS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f19f4c1f-abca-4a94-bf23-be250d841c9a",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0A48EDPD",
+        "ts": "1552376447.002100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hkRJo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2720155d-046e-4d2f-83f6-8876730b71fa",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0DSEQH9S",
+        "ts": "1552376598.002300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PBl2d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f318319b-8e91-4fa3-ae1d-affe9c796661",
+        "type": "message",
+        "text": "@ben: est-ce que tu connais Modern Agile ?\n<http:\/\/modernagile.org>",
+        "user": "U0A48EDPD",
+        "ts": "1552378415.002700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NB5CJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@ben: est-ce que tu connais Modern Agile ?\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/modernagile.org"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Modern Agile",
+                "title_link": "http:\/\/modernagile.org\/",
+                "text": "Over the past decade, innovative companies, software industry thought leaders and lean\/agile pioneers have discovered simpler, sturdier, more streamlined ways to be agile. These modern approaches share a focus on producing exceptional outcomes and growing an outstanding culture.",
+                "fallback": "Modern Agile",
+                "from_url": "http:\/\/modernagile.org\/",
+                "service_icon": "http:\/\/modernagile.org\/favicon.png",
+                "service_name": "modernagile.org",
+                "id": 1,
+                "original_url": "http:\/\/modernagile.org"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "051b994c-9e49-412e-b345-a3c4608d483f",
+        "type": "message",
+        "text": "Je découvre à l'instant",
+        "user": "U0A48EDPD",
+        "ts": "1552378423.003100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YWe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je découvre à l'instant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6deee0f0-10f2-4b29-a70f-24b0aa38ed09",
+        "type": "message",
+        "text": "Yep !",
+        "user": "U0DSEQH9S",
+        "ts": "1552378548.003400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=67ix",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "02d94c01-f571-43c4-9ad0-1c1e52a970b2",
+        "type": "message",
+        "text": "Qu'est ce que tu en penses ? Tu as des pro\/con dessus ? Et quid de l'Agile de l'agile de base du coup ?",
+        "user": "U0A48EDPD",
+        "ts": "1552379034.004200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v5BZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Qu'est ce que tu en penses ? Tu as des pro\/con dessus ? Et quid de l'Agile de l'agile de base du coup ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9fac5bf0-e24e-422a-b40a-5d2b587cb909",
+        "type": "message",
+        "text": "Pour répondre à ces questions, je partage l'avis de Marilyn : <https:\/\/vismaviedagiliste.com\/>",
+        "user": "U0DSEQH9S",
+        "ts": "1552379102.004700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V693",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour répondre à ces questions, je partage l'avis de Marilyn : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vismaviedagiliste.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Vis ma vie d'agiliste",
+                "title_link": "https:\/\/vismaviedagiliste.com\/",
+                "text": "Le blog qui raconte la vie des agilistes",
+                "fallback": "Vis ma vie d'agiliste",
+                "from_url": "https:\/\/vismaviedagiliste.com\/",
+                "service_icon": "https:\/\/vismaviedagiliste.com\/wp-content\/uploads\/2018\/10\/cropped-sketch-1539073949078-180x180.png",
+                "service_name": "vismaviedagiliste.com",
+                "id": 1,
+                "original_url": "https:\/\/vismaviedagiliste.com\/"
+            }
+        ],
+        "thread_ts": "1552379102.004700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1552382596.007800",
+        "reply_users": [
+            "U0A48EDPD"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1552382596.007800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1552382596.007800"
+    },
+    {
+        "client_msg_id": "f1f880e5-8395-4d57-b9ef-802bb57df666",
+        "type": "message",
+        "text": "Elle a fait 6 articles dessus",
+        "user": "U0DSEQH9S",
+        "ts": "1552379107.005000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ou09P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Elle a fait 6 articles dessus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6bd18f1d-1c41-4e9c-947b-64a155013482",
+        "type": "message",
+        "text": "En fait, si je devais essayer de faire une comparaison, ce serait plutôt avec \"Heart of Agile\", que je te propose de regarder aussi, c'est bien intéressant !",
+        "user": "U0DSEQH9S",
+        "ts": "1552379143.005800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/qsx1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En fait, si je devais essayer de faire une comparaison, ce serait plutôt avec \"Heart of Agile\", que je te propose de regarder aussi, c'est bien intéressant !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DSEQH9S",
+            "ts": "1552381473.000000"
+        }
+    },
+    {
+        "client_msg_id": "5f5f7ef0-8008-4953-bb19-2ac595771a17",
+        "type": "message",
+        "text": "En gros, par rapport au Modern Agile : c'est plus difficile de se mettre dessus que le Manifeste, car il n'y a pas de principe opérationnel. Les idées restent sympas, mais à voir comment les appliquer. Il y a une chaine youtube dédiée à ça d'ailleurs, et elle est plutôt sympa (le passage avec Mary Poppendieck, du Lean software development, est top !)",
+        "user": "U0DSEQH9S",
+        "ts": "1552379237.007100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4HDp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En gros, par rapport au Modern Agile : c'est plus difficile de se mettre dessus que le Manifeste, car il n'y a pas de principe opérationnel. Les idées restent sympas, mais à voir comment les appliquer. Il y a une chaine youtube dédiée à ça d'ailleurs, et elle est plutôt sympa (le passage avec Mary Poppendieck, du Lean software development, est top !)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f82adcc1-c994-424a-a266-b7a1dbbcab74",
+        "type": "message",
+        "text": "Merci :slightly_smiling_face:\nC'est à partir de son article que je suis tombé là-dessus.",
+        "user": "U0A48EDPD",
+        "ts": "1552382596.007800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h1fU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nC'est à partir de son article que je suis tombé là-dessus."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1552379102.004700",
+        "parent_user_id": "U0DSEQH9S",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "46fabc55-733f-4fca-a6cf-030b17d18ad9",
+        "type": "message",
+        "text": "<@U0A48EDPD>: j'aimerais réussir à mettre en place des mini coding dojo et des workshops (Scrum, Kanban, XP, Lean...) entre midi et deux là où je suis, mais je voudrais savoir si tu avais de l'expérience là dessus, si tu en as déjà fait, les problèmes classiques, etc... Merci !",
+        "user": "U0DSEQH9S",
+        "ts": "1552385956.009700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pk4Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": j'aimerais réussir à mettre en place des mini coding dojo et des workshops (Scrum, Kanban, XP, Lean...) entre midi et deux là où je suis, mais je voudrais savoir si tu avais de l'expérience là dessus, si tu en as déjà fait, les problèmes classiques, etc... Merci !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1552385956.009700",
+        "reply_count": 4,
+        "reply_users_count": 1,
+        "latest_reply": "1552394834.011600",
+        "reply_users": [
+            "U0A48EDPD"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1552392285.010100"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1552394574.011200"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1552394791.011400"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1552394834.011600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1552394834.011600"
+    },
+    {
+        "client_msg_id": "a3becc1f-2d9e-4359-bd90-0235389fed5b",
+        "type": "message",
+        "text": "oui",
+        "user": "U0A48EDPD",
+        "ts": "1552392246.010000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LNP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4d25c79a-4064-4345-8941-282778f543c3",
+        "type": "message",
+        "text": "J'ai essentiellement fait des coding dojo en mob le midi.\nPlusieurs problèmes :\n- on était trop nombreux, car tout le monde mangeait dans la salle\n- tout le monde n'était pas impliqué",
+        "user": "U0A48EDPD",
+        "ts": "1552392285.010100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GW06O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai essentiellement fait des coding dojo en mob le midi.\nPlusieurs problèmes :\n- on était trop nombreux, car tout le monde mangeait dans la salle\n- tout le monde n'était pas impliqué"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1552394546.000000"
+        },
+        "thread_ts": "1552385956.009700",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "d7101ec9-1ea5-437b-b36d-57791bbadec0",
+        "type": "message",
+        "text": "Je vais essayer aussi. Juste que c'est encore un peu tôt depuis mon arrivée mais je pense que ce sera utile.",
+        "user": "U0DSEQH9S",
+        "ts": "1552393937.011000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rnAb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vais essayer aussi. Juste que c'est encore un peu tôt depuis mon arrivée mais je pense que ce sera utile."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "85c24390-e2ad-4fe4-bb13-752b80b505eb",
+        "type": "message",
+        "text": "Après, on a aussi eu des gens qui ne voulaient pas en faire le midi, car ils ne trouvaient pas ça normal de faire ça sur leut temps de pause.\n(du coup, ils en faisaient pas, ou étaient présent, mais pas impliquas, ce qui est pourri)",
+        "user": "U0A48EDPD",
+        "ts": "1552394574.011200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uIsye",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Après, on a aussi eu des gens qui ne voulaient pas en faire le midi, car ils ne trouvaient pas ça normal de faire ça sur leut temps de pause.\n(du coup, ils en faisaient pas, ou étaient présent, mais pas impliquas, ce qui est pourri)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1552394912.000000"
+        },
+        "thread_ts": "1552385956.009700",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "770dc444-c702-4aaf-84b5-dcf4d04aba06",
+        "type": "message",
+        "text": "Ensuite ; tout le monde n'a pas le même objectif en tête en arrivant au dojo.\nC'est quelque chose à garder en tête\nC'est encore mieux si tu arrives à le faire apparaître, et que les participant aient conscience de leur objectif\n\nExemples d'objectifs:\n- Découvrir le kata\n- Découvrir une techno\n- Aller au bout du kata\n- Appliquer une contrainte rigolote (pas de souris, langage inconnu)\n- Evangéliser les autres participants\n- Monter que je suis le meilleur",
+        "user": "U0A48EDPD",
+        "ts": "1552394791.011400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GXj0J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ensuite ; tout le monde n'a pas le même objectif en tête en arrivant au dojo.\nC'est quelque chose à garder en tête\nC'est encore mieux si tu arrives à le faire apparaître, et que les participant aient conscience de leur objectif\n\nExemples d'objectifs:\n- Découvrir le kata\n- Découvrir une techno\n- Aller au bout du kata\n- Appliquer une contrainte rigolote (pas de souris, langage inconnu)\n- Evangéliser les autres participants\n- Monter que je suis le meilleur"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1552385956.009700",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "d32c6e1d-e5e0-4468-ba99-bf10ef2b3441",
+        "type": "message",
+        "text": "Parmi les Kata, un truc qui marchais bien, c'était le \"Conference Tuesday\". On passait une conférence sur grand écran dans une salle de réunion, et on débriefait après.",
+        "user": "U0A48EDPD",
+        "ts": "1552394834.011600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pv=u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Parmi les Kata, un truc qui marchais bien, c'était le \"Conference Tuesday\". On passait une conférence sur grand écran dans une salle de réunion, et on débriefait après."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1552394842.000000"
+        },
+        "thread_ts": "1552385956.009700",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "bac4f51e-a035-4823-a3f9-237398a9c604",
+        "type": "message",
+        "text": "Est-ce que ça répond quelques unes de tes questions ? Si tu en as d'autres ; go :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1552395007.012400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JZVD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est-ce que ça répond quelques unes de tes questions ? Si tu en as d'autres ; go "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "29859566-be1d-4fc4-8ce3-ab94076c098c",
+        "type": "message",
+        "text": "Ça roule, merci beaucoup !! J'en aurai sûrement d'autres plus tard.",
+        "user": "U0DSEQH9S",
+        "ts": "1552400808.013200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lBKL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ça roule, merci beaucoup !! J'en aurai sûrement d'autres plus tard."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "89d87ce8-eb8a-4820-bafa-1c6c1ac8dbc0",
+        "type": "message",
+        "text": "plop^^",
+        "user": "U0A9S1HCJ",
+        "ts": "1552416373.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RJh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "537fa8a3-4b0e-4615-bef2-b016d50c4bb9",
+        "type": "message",
+        "text": "Ploop",
+        "user": "U0A48EDPD",
+        "ts": "1552460394.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Zze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ploop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

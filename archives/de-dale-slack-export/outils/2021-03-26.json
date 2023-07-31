@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "68d8e76a-b1c9-4ee1-97b8-a91d6b142a06",
+        "type": "message",
+        "text": "<https:\/\/www.deviantart.com\/gogots\/gallery>",
+        "user": "U0AA0KVLH",
+        "ts": "1616782207.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y49",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.deviantart.com\/gogots\/gallery"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "gogots - Professional, Digital Artist | DeviantArt",
+                "title_link": "https:\/\/www.deviantart.com\/gogots\/gallery",
+                "fallback": "gogots - Professional, Digital Artist | DeviantArt",
+                "image_url": "https:\/\/a.deviantart.net\/avatars\/g\/o\/gogots.jpg?1616782208",
+                "from_url": "https:\/\/www.deviantart.com\/gogots\/gallery",
+                "image_width": 50,
+                "image_height": 50,
+                "image_bytes": 1975,
+                "service_icon": "https:\/\/st.deviantart.net\/eclipse\/icons\/ios-180.png",
+                "service_name": "DeviantArt",
+                "id": 1,
+                "original_url": "https:\/\/www.deviantart.com\/gogots\/gallery"
+            }
+        ]
+    }
+]

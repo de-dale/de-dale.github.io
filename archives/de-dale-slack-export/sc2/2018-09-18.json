@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "6816def8-ce3c-4e14-a46e-0882e9f88487",
+        "type": "message",
+        "text": "ping <@U0AA0KVLH> <https:\/\/wallup.net\/preview\/?wallpaper=cat-starcraft-ii>",
+        "user": "U0A48EDPD",
+        "ts": "1537303898.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gZS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ping "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0AA0KVLH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wallup.net\/preview\/?wallpaper=cat-starcraft-ii"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1537303924.000000"
+        }
+    }
+]

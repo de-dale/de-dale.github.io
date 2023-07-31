@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "abc9db7e-bb58-4464-8c3a-2e2936c28f70",
+        "type": "message",
+        "text": "il y a ça aussi <https:\/\/place-atlas.stefanocoding.me\/>",
+        "user": "U0M8SF5CG",
+        "ts": "1649270493.359149",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KNCfB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "il y a ça aussi "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/place-atlas.stefanocoding.me\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/place-atlas.stefanocoding.me\/",
+                "service_icon": "https:\/\/place-atlas.stefanocoding.me\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/place-atlas.stefanocoding.me\/",
+                "fallback": "The 2022 \/r\/place Atlas",
+                "text": "An interactive map of Reddit's 2022 \/r\/place, with information to each artwork of the canvas.",
+                "title": "The 2022 \/r\/place Atlas",
+                "title_link": "https:\/\/place-atlas.stefanocoding.me\/",
+                "service_name": "The \/r\/place Atlas 2022"
+            }
+        ]
+    }
+]

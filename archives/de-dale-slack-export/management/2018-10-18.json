@@ -1,0 +1,163 @@
+[
+    {
+        "client_msg_id": "94693764-26c7-48f7-9a3b-1595024f6232",
+        "type": "message",
+        "text": "Dans mon setup ; j'ai les phases suivantes :\n- Rappel du contexte de la Rétro\n- Directive Principle\n- Energizer\n- CheckIn\n=&gt; Le rappel du contexte, c'est le plus compliqué pour moi, car je trouve que rappeler l'Objectif du sprint n'est pas suffisant. Mais merci pour l'info :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1539848416.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vl8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dans mon setup ; j'ai les phases suivantes :\n- Rappel du contexte de la Rétro\n- Directive Principle\n- Energizer\n- CheckIn\n=> Le rappel du contexte, c'est le plus compliqué pour moi, car je trouve que rappeler l'Objectif du sprint n'est pas suffisant. Mais merci pour l'info "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c884934c-493a-4838-b192-0a257ce8959e",
+        "type": "message",
+        "text": "C'est l'objectif de la rétro plutôt !",
+        "user": "U0DSEQH9S",
+        "ts": "1539858341.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TEN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est l'objectif de la rétro plutôt !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "66e12e2b-3cc3-4880-9616-3c19d554e85b",
+        "type": "message",
+        "text": "Du genre \" sur les 2 dernières semaines, on a eu un gros crash en prod, on va orienter la rétro sur ça si vous êtes d'accord !\"",
+        "user": "U0DSEQH9S",
+        "ts": "1539858388.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GDypy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Du genre \" sur les 2 dernières semaines, on a eu un gros crash en prod, on va orienter la rétro sur ça si vous êtes d'accord !\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "53c3f10a-3569-49ea-9762-030863df687d",
+        "type": "message",
+        "text": "C'est donc bien ce que j'appelle \"Contexte de la rétro\"\n- rappel de l'objectif du sprint\n- rappel du context dans lequel s'est déroulé le sprint\n- autre",
+        "user": "U0A48EDPD",
+        "ts": "1539863033.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7AjU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est donc bien ce que j'appelle \"Contexte de la rétro\"\n- rappel de l'objectif du sprint\n- rappel du context dans lequel s'est déroulé le sprint\n- autre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1539863037.000000"
+        }
+    }
+]

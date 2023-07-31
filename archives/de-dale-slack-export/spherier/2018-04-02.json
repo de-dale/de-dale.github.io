@@ -1,0 +1,67 @@
+[
+    {
+        "type": "message",
+        "text": "<@U0A48EDPD> uploaded a file: <https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/FA083QNTX\/codex_de-dale__1_.json|Starter INT>",
+        "files": [
+            {
+                "id": "FA083QNTX",
+                "created": 1522733518,
+                "timestamp": 1522733518,
+                "name": "Codex De-Dale (1).json",
+                "title": "Starter INT",
+                "mimetype": "text\/plain",
+                "filetype": "javascript",
+                "pretty_type": "JavaScript",
+                "user": "U0A48EDPD",
+                "user_team": "T0A48J0MV",
+                "editable": true,
+                "size": 577,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-FA083QNTX\/codex_de-dale__1_.json?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-FA083QNTX\/download\/codex_de-dale__1_.json?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "permalink": "https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/FA083QNTX\/codex_de-dale__1_.json",
+                "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-FA083QNTX-3a912a93fc",
+                "edit_link": "https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/FA083QNTX\/codex_de-dale__1_.json\/edit",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": true,
+        "user": "U0A48EDPD",
+        "display_as_bot": false,
+        "ts": "1522733518.000147",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FrOUF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " uploaded a file: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/FA083QNTX\/codex_de-dale__1_.json",
+                                "text": "Starter INT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

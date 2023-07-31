@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "26588a38-7308-458e-b375-84e7aa665018",
+        "type": "message",
+        "text": "On croirait entendre Quentin :stuck_out_tongue_closed_eyes: ",
+        "user": "U0A48EDPD",
+        "ts": "1543300723.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fQR2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On croirait entendre Quentin "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue_closed_eyes",
+                                "unicode": "1f61d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1543300753.000000"
+        },
+        "reactions": [
+            {
+                "name": "middle_finger",
+                "users": [
+                    "U0DTHMU81"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

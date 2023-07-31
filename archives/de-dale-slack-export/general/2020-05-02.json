@@ -1,0 +1,232 @@
+[
+    {
+        "client_msg_id": "d8e4662e-f047-4a44-b658-1b7f2c6ad107",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1588419689.190100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VAWE0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8cdc315c-adfc-49de-a9de-ab3a52e0282a",
+        "type": "message",
+        "text": "Le livret de démo: <https:\/\/drive.google.com\/file\/d\/1bKg2fJrkmMCLArv8OaYqurIEJnZpCwMU\/view?usp=drivesdk|https:\/\/drive.google.com\/file\/d\/1bKg2fJrkmMCLArv8OaYqurIEJnZpCwMU\/view?usp=drivesdk>",
+        "user": "U0A48EDPD",
+        "ts": "1588420690.190200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DAc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le livret de démo: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1bKg2fJrkmMCLArv8OaYqurIEJnZpCwMU\/view?usp=drivesdk",
+                                "text": "https:\/\/drive.google.com\/file\/d\/1bKg2fJrkmMCLArv8OaYqurIEJnZpCwMU\/view?usp=drivesdk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1588347189.189800",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "c1e608cc-d534-4325-96f3-38d1c78d24eb",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0A48EDPD",
+        "ts": "1588420704.190900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1JA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "12180bc6-2816-4fdc-9ac8-d556e7576fa3",
+        "type": "message",
+        "text": "c'est assez intérerssant :\n• magie entièrement déconstruite\n• toutes les options de combat matérialisées par des cartes en main",
+        "user": "U0A48EDPD",
+        "ts": "1588426535.191000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ewx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est assez intérerssant :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "magie entièrement déconstruite"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "toutes les options de combat matérialisées par des cartes en main"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1588426603.000000"
+        },
+        "thread_ts": "1588347189.189800",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "675405b6-7aa8-40dd-9c1d-59d7c36ac02f",
+        "type": "message",
+        "text": "bien fait de t'en parler alors",
+        "user": "U0AA0KVLH",
+        "ts": "1588443575.191300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zsRV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bien fait de t'en parler alors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1588347189.189800",
+        "parent_user_id": "U0AA0KVLH"
+    }
+]

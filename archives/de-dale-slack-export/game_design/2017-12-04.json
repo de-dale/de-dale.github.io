@@ -1,0 +1,311 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/gamedesign\/wiki\/index>\n<https:\/\/www.reddit.com\/r\/gamedesign\/>",
+        "user": "U0A48EDPD",
+        "ts": "1512393718.000323",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jrU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/gamedesign\/wiki\/index"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/gamedesign\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "index - gamedesign",
+                "title_link": "https:\/\/www.reddit.com\/r\/gamedesign\/wiki\/index",
+                "text": "reddit: the front page of the internet",
+                "fallback": "index - gamedesign",
+                "from_url": "https:\/\/www.reddit.com\/r\/gamedesign\/wiki\/index",
+                "service_icon": "https:\/\/www.reddit.com\/favicon.ico",
+                "service_name": "reddit.com",
+                "id": 1
+            },
+            {
+                "service_name": "reddit",
+                "title": "Game Design: The Art of Crafting Rulesets • r\/gamedesign",
+                "title_link": "https:\/\/www.reddit.com\/r\/gamedesign\/",
+                "text": "For topics related to the design of games for interactive entertainment systems - video games, board games, tabletop RPGs, or any other type....",
+                "fallback": "reddit: Game Design: The Art of Crafting Rulesets • r\/gamedesign",
+                "thumb_url": "https:\/\/www.redditstatic.com\/icon.png",
+                "from_url": "https:\/\/www.reddit.com\/r\/gamedesign\/",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "https:\/\/www.reddit.com\/favicon.ico",
+                "id": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U0A48EDPD> pinned a message to this channel.",
+        "user": "U0A48EDPD",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[December 4th, 2017 5:21 AM] faby: <https:\/\/www.reddit.com\/r\/gamedesign\/wiki\/index>\n<https:\/\/www.reddit.com\/r\/gamedesign\/>",
+                "ts": "1512393718.000323",
+                "author_id": "U0A48EDPD",
+                "author_subname": "faby",
+                "channel_id": "C8A04UDAS",
+                "channel_team": "T0A48J0MV",
+                "channel_name": "game_design",
+                "is_msg_unfurl": true,
+                "text": "<https:\/\/www.reddit.com\/r\/gamedesign\/wiki\/index>\n<https:\/\/www.reddit.com\/r\/gamedesign\/>",
+                "message_blocks": [
+                    {
+                        "team": "T0A48J0MV",
+                        "channel": "C8A04UDAS",
+                        "ts": "1512393718.000323",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "MOZO",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.reddit.com\/r\/gamedesign\/wiki\/index"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.reddit.com\/r\/gamedesign\/"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "author_name": "faby",
+                "author_link": "https:\/\/de-dale.slack.com\/team\/U0A48EDPD",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "from_hidden_wksp": false
+            }
+        ],
+        "ts": "1512393725.000259"
+    },
+    {
+        "type": "message",
+        "text": "On m'a conseillé :\n- Designing Games - Tynan Sylvester - O\"Reilly\n- Characteristics of Games - (collectif) - MIT Press\n- The Art of Game Design - Jesse Schell (PDF première edition ici : <http:\/\/www.sg4adults.eu\/files\/art-game-design.pdf>)",
+        "user": "U0A48EDPD",
+        "ts": "1512394153.000561",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0z6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On m'a conseillé :\n- Designing Games - Tynan Sylvester - O\"Reilly\n- Characteristics of Games - (collectif) - MIT Press\n- The Art of Game Design - Jesse Schell (PDF première edition ici : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.sg4adults.eu\/files\/art-game-design.pdf"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U0A48EDPD> pinned a message to this channel.",
+        "user": "U0A48EDPD",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[December 4th, 2017 5:29 AM] faby: On m'a conseillé :\n- Designing Games - Tynan Sylvester - O\"Reilly\n- Characteristics of Games - (collectif) - MIT Press\n- The Art of Game Design - Jesse Schell (PDF première edition ici : <http:\/\/www.sg4adults.eu\/files\/art-game-design.pdf>)",
+                "ts": "1512394153.000561",
+                "author_id": "U0A48EDPD",
+                "author_subname": "faby",
+                "channel_id": "C8A04UDAS",
+                "channel_team": "T0A48J0MV",
+                "channel_name": "game_design",
+                "is_msg_unfurl": true,
+                "text": "On m'a conseillé :\n- Designing Games - Tynan Sylvester - O\"Reilly\n- Characteristics of Games - (collectif) - MIT Press\n- The Art of Game Design - Jesse Schell (PDF première edition ici : <http:\/\/www.sg4adults.eu\/files\/art-game-design.pdf>)",
+                "message_blocks": [
+                    {
+                        "team": "T0A48J0MV",
+                        "channel": "C8A04UDAS",
+                        "ts": "1512394153.000561",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "7nA6f",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "On m'a conseillé :\n- Designing Games - Tynan Sylvester - O\"Reilly\n- Characteristics of Games - (collectif) - MIT Press\n- The Art of Game Design - Jesse Schell (PDF première edition ici : "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "http:\/\/www.sg4adults.eu\/files\/art-game-design.pdf"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": ")"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "author_name": "faby",
+                "author_link": "https:\/\/de-dale.slack.com\/team\/U0A48EDPD",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "from_hidden_wksp": false
+            }
+        ],
+        "ts": "1512394162.000294"
+    },
+    {
+        "type": "message",
+        "text": "<@U0A48EDPD> shared a file: <https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/F892R432P\/Conception_-_Hades|Conception - Hadès>",
+        "files": [
+            {
+                "id": "F04CTH46HG8",
+                "created": 1512379874,
+                "timestamp": 1512471257,
+                "name": "Conception_-_Hades",
+                "title": "Conception - Hadès",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U0A48EDPD",
+                "user_team": "T0A48J0MV",
+                "editable": true,
+                "size": 2545,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F04CTH46HG8\/conception_-_hades?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-F04CTH46HG8\/download\/conception_-_hades?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "permalink": "https:\/\/de-dale.slack.com\/files\/T0A48J0MV\/F04CTH46HG8",
+                "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-F04CTH46HG8-896587fb3c",
+                "preview": "<p>__Draft__<br>Hello there ! <br>Pour me changer les idées, je me lance dans la conception mimimaliste d'un jeu.<br>Dans quel but ? Pour la gloire et le fun ! Je n'ai pas pour ambition de concevoir le meilleur jeu de la terre ; d'autres ont bien plus d'avance quer moi dans ce domaine. En revanche, j'ai envie de me confronter aux problématiques qu'on peut rencontrer dans ce genre de projet.<br><br>La question primordiale est ; vers quoi me diriger ? Puis ; quelles sont les étapes pour y parvenir ?<br><\/p><h2>Quoi ?<\/h2><p>Quelque chose qui me plaît et qui m'amuse.<br>Un FPS ? Non ; j'aime pas.<br>Un RPG ? Pourquoi pas. Cependant, je ne me vois pas inventer une mécanique de jeu ; il y a d'excellentes référnces sur le sujet (Dungeon&amp;Dragon, Shadowrun, etc.), mais je n'ai pas envie de les implanter.<br>Quoi d'autre ? Je me souvient des heure passées sur Ascendancy, Warcraft, Starcraft, Dungeon Keeper, et là, quelque chsoe résonne en moi. <br><br>Oui ; ce sera un RTS (Real Time Strategy).<br><\/p><h2>COmment ?<\/h2><p>Par étapes successives, en isolant les problématiques pour les traiter, les unes après les autres.<br><br>Mais tout d'abord : C'est quoi un RTS ?<br><br>Un copain m'a dit une fois: \"Ce qui m'amuse dans un RTS, c'est de faire plusieurs mini-jeux en parallèle ; l'exploration, la microgestion et l'économie.\". Je trouve que ce concept de \"mini-jeux\" décrit parfaitement un RTS, d'autant que tous les RTS ne choisissent pas les mêmes mini-jeux.<br><br>Liste des minijeux qui me viennent en tête<\/p><ul><li>Récupération des ressources<\/li><li>Combats tactiques<\/li><li>Exploration<\/li><li>Recherche \/ déblocage d'unités, capacités<\/li><li>IA des unités \/ Gestion des besoins des unités<\/li><li>Politique\/Commerce avec les autres joueurs<\/li><li>(Joueurs Artificiels \/ IA)<\/li><\/ul><p>Autres points de vues :<br>Micro gestion:<\/p><ul><li>Gestion des unités (déplacements, aoe, sorts, esquives contre aoe, prises en tenaille, etc)<\/li><li>Gestion des formations (optionnel mais en général carré, triangle, etc)<\/li><li>Gestion des combats<\/li><li>Gestion stratégique (attaque, sièges, contre-attaque, etc)<\/li><\/ul><p>Macro gestion:<\/p><ul><li>Gestion des ressources<\/li><li>Gestion de la reconnaissance (scout, vision, etc)<\/li><li>Gestion des bâtiments<\/li><li>Gestion de la politique<\/li><\/ul><p>4X (en TBS) : eXplore, eXploit, eXpand, eXterminate <br><\/p>",
+                "editor": "U0A48EDPD",
+                "last_editor": "U0A48EDPD",
+                "non_owner_editable": false,
+                "updated": 1512471257,
+                "migrated_id": "F892R432P",
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0A48EDPD",
+        "display_as_bot": false,
+        "ts": "1512395481.000280",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J3C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " shared a file: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/de-dale.slack.com\/files\/U0A48EDPD\/F892R432P\/Conception_-_Hades",
+                                "text": "Conception - Hadès"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "type": "message",
+        "text": "<http:\/\/www.gargoylesoftware.com\/ex>",
+        "user": "U0A48EDPD",
+        "ts": "1524051239.000171",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Wcv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.gargoylesoftware.com\/ex"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U0A48EDPD> pinned a message to this channel.",
+        "user": "U0A48EDPD",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[April 18th, 2018 4:33 AM] faby: <http:\/\/www.gargoylesoftware.com\/ex>",
+                "ts": "1524051239.000171",
+                "author_id": "U0A48EDPD",
+                "author_subname": "faby",
+                "channel_id": "C5YAGH7B2",
+                "channel_team": "T0A48J0MV",
+                "channel_name": "management",
+                "is_msg_unfurl": true,
+                "text": "<http:\/\/www.gargoylesoftware.com\/ex>",
+                "message_blocks": [
+                    {
+                        "team": "T0A48J0MV",
+                        "channel": "C5YAGH7B2",
+                        "ts": "1524051239.000171",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "CFrq",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "link",
+                                                    "url": "http:\/\/www.gargoylesoftware.com\/ex"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "author_name": "faby",
+                "author_link": "https:\/\/de-dale.slack.com\/team\/U0A48EDPD",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "from_hidden_wksp": false
+            }
+        ],
+        "ts": "1524057133.000389"
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U0A48EDPD> pinned a message to this channel.",
+        "user": "U0A48EDPD",
+        "item_type": "C",
+        "attachments": [
+            {
+                "fallback": "[September 30th, 2017 1:58 AM] maggeus: <@U0A48EDPD>: <http:\/\/agile.2ia.net\/Agile%20Retrospectives.pdf>",
+                "ts": "1506761899.000064",
+                "author_id": "U0DSEQH9S",
+                "author_subname": "Benjamin Feireisen",
+                "channel_id": "C5YAGH7B2",
+                "channel_team": "T0A48J0MV",
+                "channel_name": "management",
+                "is_msg_unfurl": true,
+                "text": "<@U0A48EDPD>: <http:\/\/agile.2ia.net\/Agile%20Retrospectives.pdf>",
+                "message_blocks": [
+                    {
+                        "team": "T0A48J0MV",
+                        "channel": "C5YAGH7B2",
+                        "ts": "1506761899.000064",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "zsCb",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U0A48EDPD"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": ": "
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "http:\/\/agile.2ia.net\/Agile%20Retrospectives.pdf"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "author_name": "Benjamin Feireisen",
+                "author_link": "https:\/\/de-dale.slack.com\/team\/U0DSEQH9S",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "from_hidden_wksp": false
+            }
+        ],
+        "ts": "1524057167.000555"
+    },
+    {
+        "type": "message",
+        "text": "Bon ; vu les updates des Slack ; il va falloir qu'on pine tous les liens dans un doc, si on veut conserver un hsitorique",
+        "user": "U0A48EDPD",
+        "ts": "1524057288.000245",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SBAKx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon ; vu les updates des Slack ; il va falloir qu'on pine tous les liens dans un doc, si on veut conserver un hsitorique"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1524057293.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

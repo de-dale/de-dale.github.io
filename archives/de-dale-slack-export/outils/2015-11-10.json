@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "Jouer une musique à l'infini : <http:\/\/labs.echonest.com\/Uploader\/index.html>",
+        "user": "U0A48EDPD",
+        "ts": "1447157919.000002",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L3ve",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jouer une musique à l'infini : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/labs.echonest.com\/Uploader\/index.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

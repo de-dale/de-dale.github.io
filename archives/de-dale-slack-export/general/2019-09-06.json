@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "966a7601-6cd0-485d-b17f-d94dce4f6d93",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=mzBrfW7Ipzg>",
+        "user": "U0AA0KVLH",
+        "ts": "1567772251.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8YST",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=mzBrfW7Ipzg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Throne of Eldraine Official Trailer – Magic: The Gathering",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=mzBrfW7Ipzg",
+                "author_name": "Magic: The Gathering",
+                "author_link": "https:\/\/www.youtube.com\/user\/wizardsmtg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/mzBrfW7Ipzg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Throne of Eldraine Official Trailer – Magic: The Gathering",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/mzBrfW7Ipzg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=mzBrfW7Ipzg",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=mzBrfW7Ipzg"
+            }
+        ]
+    }
+]

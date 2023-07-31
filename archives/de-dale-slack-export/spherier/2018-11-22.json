@@ -1,0 +1,124 @@
+[
+    {
+        "client_msg_id": "b3faa163-577f-4723-a61f-830a8d8bcd5a",
+        "type": "message",
+        "text": "Je vois pas d'autres éléments pour le moment sinon pour les actions génériques de combat",
+        "user": "U0AA0KVLH",
+        "ts": "1542876752.038300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kUO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vois pas d'autres éléments pour le moment sinon pour les actions génériques de combat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1fbce0fd-93e4-46c6-9e9f-bbd92c286269",
+        "type": "message",
+        "text": "J'en ai trouvé quatre autres vitales :",
+        "user": "U0A48EDPD",
+        "ts": "1542877017.038800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bwR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'en ai trouvé quatre autres vitales :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1542877069.000000"
+        }
+    },
+    {
+        "client_msg_id": "91f272dc-703b-4ed5-9b66-d32ad9cbc75d",
+        "type": "message",
+        "text": "- Aider un allié\n- Déterminer qui commence\n- Réagir\n- Esquiver une attaque",
+        "user": "U0A48EDPD",
+        "ts": "1542877053.039200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BK+Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "- Aider un allié\n- Déterminer qui commence\n- Réagir\n- Esquiver une attaque"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1542877062.000000"
+        }
+    }
+]

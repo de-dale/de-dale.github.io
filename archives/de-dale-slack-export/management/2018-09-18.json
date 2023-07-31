@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "e68fd8cb-a8e6-4d35-a517-0ca1f129b838",
+        "type": "message",
+        "text": "<https:\/\/trello.com\/b\/40BwQg57\/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators>",
+        "user": "U0A48EDPD",
+        "ts": "1537262809.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eFRU2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/b\/40BwQg57\/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Trello",
+                "title": "Retrospective Techniques for Coaches, Scrum Masters, and Other Facilitators",
+                "title_link": "https:\/\/trello.com\/b\/40BwQg57\/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators",
+                "text": "Trello is the visual collaboration platform that gives teams perspective on projects. Use Trello to collaborate, communicate and coordinate on all of your projects.",
+                "fallback": "Trello: Retrospective Techniques for Coaches, Scrum Masters, and Other Facilitators",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/trello\/images\/og\/trello-icon.png?v=2013-08-15",
+                "from_url": "https:\/\/trello.com\/b\/40BwQg57\/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/trello.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/trello.com\/b\/40BwQg57\/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators"
+            }
+        ]
+    }
+]

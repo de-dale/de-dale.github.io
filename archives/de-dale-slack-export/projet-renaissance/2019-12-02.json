@@ -1,0 +1,353 @@
+[
+    {
+        "type": "message",
+        "text": "Retour sur test solo effectué hier soir. Résultat plutôt positif.",
+        "files": [
+            {
+                "id": "FR5N1RWFJ",
+                "created": 1575279027,
+                "timestamp": 1575284670,
+                "name": "Test_des_mecaniques_01-12-19",
+                "title": "Test des mécaniques 01-12-19",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U0DTHMU81",
+                "user_team": "T0A48J0MV",
+                "editable": true,
+                "size": 7492,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-FR5N1RWFJ\/Test_des_mecaniques_01-12-19?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-FR5N1RWFJ\/download\/Test_des_mecaniques_01-12-19?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "permalink": "https:\/\/de-dale.slack.com\/files\/T0A48J0MV\/FR5N1RWFJ",
+                "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-FR5N1RWFJ-fde606c981",
+                "preview": "<p>Classes testés : Enragé 1 \/ Fanatique 1<br>Ennemis testés : Marteau 1 \/ Enclume 1 \/ Commandant 1 \/ Marteau 3 (à définir) \/ Boss 1 \/ Minions 1<br>A noter :<\/p><ul><li>Pas de décors<\/li><li>Pas de PR<\/li><li>Attaques d'opportunités infligent en 1d3 dmgs automatiques<\/li><li>Combats uniques, pas d'enchaînement ni de Repos Courts<\/li><\/ul><p><br>Impressions générales :<\/p><ul><li>Test globalement positif. L'équilibre semble correct et les PJs auraient pu enchaîner 3-4 combats + 1 boss avec l'effet des Repos courts. Le boss a focus 1 PJ et l'aurait peut-être mis KO. L'autre aurait fini peu blessé.<\/li><li>Système de PA : <ul><li>6 PA pour les PJ semble bien avec un déplacement qui coûte 2 PA et des attaques entre 3 et 6 PA.<\/li><li>4 PA pour les mobs créent des difficultés sur le coût des attaques et des déplacements. 6 PA semble plus appropriés. Le système de pioche des PA (6 en main de départ puis 6 piochées à chaque fois qu'un mob joue jusqu'à ce que la pile soit vide est assez intéressant. Cela permet de stacker des PA sur plusieurs tours pour offrir des tours plus intéressants aux mobs. A voir avec le stacking de plusieurs mobs si cela ne devient pas trop violent. La limite naturelle de fin de tour si double passe devrait limiter le risque (si le MJ passe trop pour stacker des cartes, les joueurs peuvent sacrifier un tour en passant pour mettre fin au round et défausser les cartes).<\/li><li>Manque d'actions faibles pour 1-2 PA qui font varier les tours.<\/li><\/ul><\/li><li>Déplacement et portée :<ul><li>Déplacement fluide, mais le manque de mécaniques permettant déplacement + frappe en 1 action ou double déplacement + action faible rend les poursuites difficiles. Travail à faire sur les déplacements.<\/li><li>Portée = déplacement. Cela met les lanceurs de sort en danger. La possibilité d'augmenter la portée de 100% en échange d'un désavantage sur le dé d'attaque ou d'un avantage sur le dé de JS est intéressante.<\/li><\/ul><\/li><li>Combat :<ul><li>Les 5 PVs initiaux des mobs sont trop faibles pour tenir l'objectif de durée du combat à 5-7 tours. 15 semble être plus cohérent.<\/li><li>L'objectif de dégâts subis par les PJ (20% de leurs PV max \/ combat) semblent être tenus au lvl 1.<\/li><li>La génération des PV tempo est un peu faible qu'escomptée (0.75\/tour environ vs 1.25). A surveiller.<\/li><\/ul><\/li><\/ul><p><br>Points généraux à travailler :<\/p><ul><li>Effet du Repos court si un PJ s'est fait focus. Proposition : A la place de se soigner, le PJ peut aider un autre PJ à se soigner. Dans ce cas, il lance aussi les dés de soin de son allié et ce dernier choisit le résultat qu'il préfère.<\/li><li>Gestion des CC avec des PA. Proposition : remplacer tous les effets de CC faisant perdre des actions par une perte de PA avec la priorité suivante :<ul><li>Défausse des PA en main<\/li><li>Défausse des PA de la pioche<\/li><li>PA de la défausse retirés du jeu jusqu'au début du prochain tour puis replacé dans la défausse.<\/li><li>Exemple de Stun (-6 PA) sur le Dragon qui 2 PA en main, 2 dans sa pioche et 2 dans sa défausse :<ul><li>Il commence par défausser ses PA en main jusqu'à 6. Il perd donc 2 PA et il lui en reste 4 à perdre.<\/li><li>Il défausse ensuite les PA du dessus de sa pioche jusqu'à 4. Il en place donc 2 dans la défausse et il lui reste 2 PA à perdre.<\/li><li>Il retire les PA de sa défausse (jusqu'à 2) du jeu. Il retire donc 2 PA du jeu.<\/li><li>Au début du tour suivant, le Dragon remet sa défausse dans sa pioche, pioche 4 PA puis remet les 2 PA retirés du jeu dans sa défausse.<\/li><li>Résultat : Sur 2 tours (6*2 = 12 PA) , il aura joué 2 PA le 1° tour et 4 PA le second, pour une perte de 6 PA au total.<\/li><\/ul><\/li><li>Permet aussi de faire perdre des PA à des unités ayant déjà joué.<\/li><\/ul><\/li><\/ul><p><br>Classes :<\/p><ul><li>Enragé :<ul><li>Génération d'Adrénaline : Monte correctement s'il reste au Cac. Les bonus sont corrects. Manque peut-être quelque chose pour donner envie de rester au palier 3 de Rage.<\/li><\/ul><\/li><\/ul><p>La génération de Peur le gêne énormément pour construire son Adrénaline, mais impacte moins sa capacité de combat. A surveiller.<\/p><ul><li>Autres informations : Personnage simple à jouer avec un possibilité de burst importante. Manque peut-être quelque chose pour l'aider à atteindre le CaC même au pris d'un défaut (Désavantage \/ Dégâts)<\/li><li>Fanatique :<ul><li>Génération de Foi : Excellente en solo avec le combo Bénédiction de l'Air + Jugement Foudroyant : 2 Foi \/ Tour tout en gagnant 1 PV tempo et en infligeant 1d6 dégâts. Plus faible lorsque fait son rôle de soutien : 1 Foi\/tour.<\/li><li>Capacités : <ul><li>Bénédiction de l'Air : Le double emploi est intéressant et lui donne une utilité solo\/soutien. Emp non testés.<\/li><li>Jugement Foudroyant : Très correct. Dégâts réguliers avec un effet de CC puissant pour gérer un ennemi.<\/li><\/ul><\/li><\/ul><\/li><li>Barde : Non testé<\/li><\/ul><p><br>Ennemis :<\/p><ul><li>Marteau 1 : Efficace dans son rôle. Manque une capacité unique.<\/li><li>Enclume 1 : Basé sur la Peur et la perte de PA. Gêne beaucoup un tapeur, moins un lanceur de sort.<\/li><li>Commandant 1 : A rework :<ul><li>+1 PV tempo à tous les alliés au début du tour : Trop puissant et fait durer le combat sans impact réel. A remplacer par : \"Tous les gobelins non-minions alliés gagnent 1 PV tempo au début du tour s'ils n'en ont pas.\" Cela motive à focus 1 ennemi, mais laisse les minions faibles.<\/li><li>Commence avec 2 minions. Au début de chaque tour, un minion apparaît. Si le Commandant meurt, les minions fuient : Le minion supplémentaire automatique et sans limite est trop puissant et fait durer le combat. A remplacer par \"Stock de 5 minion à invoquer\".<\/li><li>4PA : Sacrifiez un minion au Cac avec le Commandant, tous les alliés non-minions gagnent 1 Avantage et tous les minions gagnent +1 dégât : Inutilisable. A supprimer<\/li><li>Nouvelle capacité : 4 PA : Invoquez un minion à côté du Commandant<\/li><li>Nouvelle capacité : 4 PA : Les minions jouent<\/li><li>Nouvelle capacité : 2 PA : Infligez 1 dégât à 1 alliés à 2c ou moins. Il gagne 1 Avantage.<\/li><\/ul><\/li><li>Marteau 3 : Efficace dans son rôle. Manque une 2ième capacité unique (résistance à un effet).<\/li><li>Boss 1 : <ul><li>Trop de PA (4 PA\/pj). A basculer à 2+2\/PJ.<\/li><li>Inspiration : Ok<\/li><li>Souffle : <ul><li>Coûte désormais 1 Emp à lancer<\/li><li>Dégâts trop élevés et save or suck. Passage à 2d6 + dommages réduits de moitié uniquement sur un JS réussi. Cela réduit les pics de dmgs mais inflige plus de dégâts au total à tous les PJ..<\/li><li>Emp 1 - +2d6 dmgs : Dégâts trop élevés. Passage à Emp 2 - 1d6+1<\/li><\/ul><\/li><li>Résistance Ok. 35 pv\/PJ + 13 CA pour un combat de 12-15 rounds.<\/li><li>Dégâts des attaques ok. A augmenter très légèrement peut-être (+1\/+2 max).<\/li><li>Baisser les dégâts et ajouter un effet au coup de queue : Perte de PA \/ Repousse \/ ...<\/li><li>Pas de contre au souffle parmi les PJ.<\/li><\/ul><\/li><li>Minions 1 : Ok. Jouent en premiers au début de chaque tour. Soit se déplacent soit infligent leurs dégâts. Valeur des minions dans la difficulté du combat à analyser. Incite à avoir de l'AoE pour les gérer sans perdre trop de PA.<\/li><\/ul><p><br><\/p>",
+                "editor": null,
+                "last_editor": "U0DTHMU81",
+                "non_owner_editable": false,
+                "updated": 1575284670,
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0DTHMU81",
+        "display_as_bot": false,
+        "ts": "1575284710.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OPJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Retour sur test solo effectué hier soir. Résultat plutôt positif."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7869367-17c0-4e72-aa7b-6905bfe6d1a5",
+        "type": "message",
+        "text": "<@U0A48EDPD> Il y a ptet des trucs qui peuvent t'intéresser dans les mécaniques.",
+        "user": "U0DTHMU81",
+        "ts": "1575284753.001100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VQfZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Il y a ptet des trucs qui peuvent t'intéresser dans les mécaniques."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575284753.001100",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1575366164.012800",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0DTHMU81"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1575359805.008200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1575360521.008800"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1575365396.011400"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1575365422.011600"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1575365468.011800"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1575365717.012200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1575365954.012400"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1575366130.012600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1575366164.012800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1575366164.012800"
+    },
+    {
+        "client_msg_id": "f1435981-26a8-4f5a-a430-2d38763498db",
+        "type": "message",
+        "text": "<@U0A48EDPD> Je bosse sur l'augmentation de puissance des monstres avec l'augmentation de leur FP.\nTout ce qui touche à des valeurs numéraires ça va (+20% de PV, ça fait +20% de durée de vie, facile).\nPar contre c'est la merde quand on entre dans les %, la CA (et en miroir l'attaque) étant un % de chance de toucher variable en fonction de l'ennemi. Explication : Si la CA relative (CA - attaque) est de 10, on a 50% de toucher (par simplification) alors +2 de CA donnent 40% de toucher soit -20% (ou +20% de résistance). Par contre si la CA relative est de 17, alors +2 CA passent de 15% à 5% de toucher, soit +200%, ce qui fait tripler la durée de vie du mob.\nAs-tu bossé là-dessus déjà ?\nAs-tu des idées pour limiter ce bordel ?\nJe sais à quoi c'est du (probabilité relative), mais j'ai pas d'idée pour contrer ça.",
+        "user": "U0DTHMU81",
+        "ts": "1575303147.008100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ssbX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Je bosse sur l'augmentation de puissance des monstres avec l'augmentation de leur FP.\nTout ce qui touche à des valeurs numéraires ça va (+20% de PV, ça fait +20% de durée de vie, facile).\nPar contre c'est la merde quand on entre dans les %, la CA (et en miroir l'attaque) étant un % de chance de toucher variable en fonction de l'ennemi. Explication : Si la CA relative (CA - attaque) est de 10, on a 50% de toucher (par simplification) alors +2 de CA donnent 40% de toucher soit -20% (ou +20% de résistance). Par contre si la CA relative est de 17, alors +2 CA passent de 15% à 5% de toucher, soit +200%, ce qui fait tripler la durée de vie du mob.\nAs-tu bossé là-dessus déjà ?\nAs-tu des idées pour limiter ce bordel ?\nJe sais à quoi c'est du (probabilité relative), mais j'ai pas d'idée pour contrer ça."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575303147.008100",
+        "reply_count": 15,
+        "reply_users_count": 2,
+        "latest_reply": "1575366273.013000",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0DTHMU81"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1575359913.008400"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1575360026.008600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1575362007.009000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1575362061.009200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1575362070.009400"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1575362097.009600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1575362141.009800"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1575362160.010000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1575362443.010200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1575362510.010400"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1575362615.010600"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1575365088.010800"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1575365174.011000"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1575365197.011200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1575366273.013000"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1575366273.013000"
+    },
+    {
+        "client_msg_id": "a9c8e0a8-1ed2-453a-b261-2adc3e02452b",
+        "type": "message",
+        "text": "Tu penses à quoi ?",
+        "user": "U0A48EDPD",
+        "ts": "1575359805.008200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kK0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu penses à quoi ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575284753.001100",
+        "parent_user_id": "U0DTHMU81"
+    },
+    {
+        "client_msg_id": "002201e2-8f87-4688-9b04-c75e0c815114",
+        "type": "message",
+        "text": "Non, et non :confused:",
+        "user": "U0A48EDPD",
+        "ts": "1575359913.008400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "73o4u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Non, et non "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1575303147.008100",
+        "parent_user_id": "U0DTHMU81"
+    }
+]

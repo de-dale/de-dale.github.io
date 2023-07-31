@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "af68ee8e-72c0-499c-a0ce-2238b4789745",
+        "type": "message",
+        "text": "<https:\/\/xkcd.com\/1987\/>",
+        "user": "U0DSEQH9S",
+        "ts": "1529755005.000042",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rX4W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/xkcd.com\/1987\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Python Environment",
+                "title_link": "https:\/\/xkcd.com\/1987\/",
+                "author_name": "xkcd",
+                "author_link": "https:\/\/xkcd.com\/",
+                "image_url": "https:\/\/imgs.xkcd.com\/comics\/python_environment.png",
+                "image_width": 492,
+                "image_height": 487,
+                "image_bytes": 54078,
+                "text": "[Title text] \"The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages.\"",
+                "fallback": "xkcd: Python Environment",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/xkcd.png",
+                "id": 1,
+                "original_url": "https:\/\/xkcd.com\/1987\/"
+            }
+        ]
+    }
+]

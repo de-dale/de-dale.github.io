@@ -1,0 +1,130 @@
+[
+    {
+        "client_msg_id": "2c5403c7-281d-4fa8-bfb1-d3ade8090ce8",
+        "type": "message",
+        "text": "Je suis tombé là-dessus :\n<https:\/\/medium.com\/@jurgenappelo\/the-7-levels-of-delegation-672ec2a48103>\nPui, sur ces jeux :\n<https:\/\/management30.com\/practice\/>",
+        "user": "U0A48EDPD",
+        "ts": "1548402086.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qun",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis tombé là-dessus :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/@jurgenappelo\/the-7-levels-of-delegation-672ec2a48103"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPui, sur ces jeux :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/management30.com\/practice\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "The 7 Levels of Delegation – Jurgen Appelo – Medium",
+                "title_link": "https:\/\/medium.com\/@jurgenappelo\/the-7-levels-of-delegation-672ec2a48103",
+                "text": "Empowerment with Boundaries and Clarity",
+                "fallback": "Medium: The 7 Levels of Delegation – Jurgen Appelo – Medium",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*0bG7KfkJT0pNWrcSZJMclA.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "5 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1424868543,
+                "from_url": "https:\/\/medium.com\/@jurgenappelo\/the-7-levels-of-delegation-672ec2a48103",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 390167,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*8I-HPL0bfoIzGied-dzOvA.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/@jurgenappelo\/the-7-levels-of-delegation-672ec2a48103"
+            },
+            {
+                "service_name": "Management 3.0",
+                "title": "Management 3.0 Practices, Games &amp; Tools - Take Action Today!",
+                "title_link": "https:\/\/management30.com\/practice\/",
+                "text": "Our innovative, hands on and tangible tools and games are the best way to foster transformational change within teams, companies and even on a personal level",
+                "fallback": "Management 3.0: Management 3.0 Practices, Games &amp; Tools - Take Action Today!",
+                "image_url": "https:\/\/management30.com\/wp-content\/uploads\/2018\/11\/kudo-cards-1.jpg",
+                "from_url": "https:\/\/management30.com\/practice\/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 109261,
+                "service_icon": "https:\/\/1qjpt15fhlq3xjfpm2utibj1-wpengine.netdna-ssl.com\/apple-touch-icon.png",
+                "id": 2,
+                "original_url": "https:\/\/management30.com\/practice\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "231808d9-efb8-4e13-81fa-63dfc9413a92",
+        "type": "message",
+        "text": "Ben, tu as déjà animé des ateliers sur ces sujets ?",
+        "user": "U0A48EDPD",
+        "ts": "1548402099.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bAn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ben, tu as déjà animé des ateliers sur ces sujets ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "5a2a52f4-73cd-44b2-a909-b7887cfe0d2b",
+        "type": "message",
+        "text": "<https:\/\/patterns.neilon.software\/>",
+        "user": "U0A48EDPD",
+        "ts": "1542192650.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yivF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/patterns.neilon.software\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "The 48 Personality Patterns of Agile Failure",
+                "title_link": "https:\/\/patterns.neilon.software\/",
+                "text": "The Enemy of Agile: People who sabotage software development.",
+                "fallback": "The 48 Personality Patterns of Agile Failure",
+                "image_url": "https:\/\/patterns.neilon.software\/img\/personality-patterns\/personality-patterns-of-problematic-projects-map.png",
+                "from_url": "https:\/\/patterns.neilon.software\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 139259,
+                "service_icon": "https:\/\/patterns.neilon.software\/favicon\/apple-touch-icon-57x57.png",
+                "service_name": "The 48 Personality Patterns of Agile Failure",
+                "id": 1,
+                "original_url": "https:\/\/patterns.neilon.software\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a67ee211-557d-4c9b-9294-50e666dad8af",
+        "type": "message",
+        "text": "<https:\/\/pbs.twimg.com\/media\/DreYmkAWsAAoyVL.jpg>",
+        "user": "U0A48EDPD",
+        "ts": "1542198986.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E67ai",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pbs.twimg.com\/media\/DreYmkAWsAAoyVL.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "1200x900px image",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/DreYmkAWsAAoyVL.jpg",
+                "image_width": 1200,
+                "image_height": 900,
+                "image_bytes": 131333,
+                "from_url": "https:\/\/pbs.twimg.com\/media\/DreYmkAWsAAoyVL.jpg",
+                "id": 1,
+                "original_url": "https:\/\/pbs.twimg.com\/media\/DreYmkAWsAAoyVL.jpg"
+            }
+        ]
+    }
+]

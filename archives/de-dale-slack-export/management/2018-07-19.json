@@ -1,0 +1,438 @@
+[
+    {
+        "client_msg_id": "6ab930ae-4c2a-421f-8316-981f3add7cb5",
+        "type": "message",
+        "text": "@ben ; j'était pas d'accord avec une remarque tu tu avais faite sur LinkedIn suite à un post sur le SoftwareCraftmanship (est-ce qu'on doit toujours dire non au Business, et bypasser le TDD)",
+        "user": "U0A48EDPD",
+        "ts": "1531995341.000215",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zx=j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@ben ; j'était pas d'accord avec une remarque tu tu avais faite sur LinkedIn suite à un post sur le SoftwareCraftmanship (est-ce qu'on doit toujours dire non au Business, et bypasser le TDD)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4134ba7b-6927-4989-bd5b-02c5b008a561",
+        "type": "message",
+        "text": "L'article suivant explique pas mal la philosophie de SoftwareCraftmanship : <https:\/\/www.linkedin.com\/pulse\/am%C3%A9liorer-la-qualit%C3%A9-de-vos-d%C3%A9velopements-logiciels-gr%C3%A2ce-thirion\/>",
+        "user": "U0A48EDPD",
+        "ts": "1531995370.000142",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xl6A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L'article suivant explique pas mal la philosophie de SoftwareCraftmanship : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.linkedin.com\/pulse\/am%C3%A9liorer-la-qualit%C3%A9-de-vos-d%C3%A9velopements-logiciels-gr%C3%A2ce-thirion\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bc457321-9bdc-4ca6-a198-dc482ca6513c",
+        "type": "message",
+        "text": "Du coup :\n- le TDD n'est pas un prérequis pour faire du craft, le Test oui\n- si le business te fixe une date : tu peux faire un logiciel sans qualité, il faut simplement avoir conscience du surcoût qu'il va y avoir pour le maintenir\n   - Valeur business &lt;&gt; SoftwareCraftmanship\n   - Valeur business d'un logiciel sur le long terme ==&gt; SoftwareCraftmanship c'est mieux",
+        "user": "U0A48EDPD",
+        "ts": "1531995556.000277",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jcu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Du coup :\n- le TDD n'est pas un prérequis pour faire du craft, le Test oui\n- si le business te fixe une date : tu peux faire un logiciel sans qualité, il faut simplement avoir conscience du surcoût qu'il va y avoir pour le maintenir\n   - Valeur business <> SoftwareCraftmanship\n   - Valeur business d'un logiciel sur le long terme ==> SoftwareCraftmanship c'est mieux"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11d40817-8246-4c96-9b52-1c9093cbc614",
+        "type": "message",
+        "text": "Je comprends mieux : en fait, mon message était très mal écrit si tu as pensé que je disais ça (en entier, sur la partie business). Quand je l'avais écrit (et je suis revenu en arrière), mon message était plutôt de dire que non, il ne faut pas toujours dire non au business (comme certains le disaient dans la discussion), que ça dépend totalement de la situation, comme il ne faut pas dire oui à tout. Et sur le bypass du TDD, effectivement, ce n'est pas un prérequis pour faire du craft (ce que je pensais \"bêtement\"... :slightly_smiling_face: Merci pour la baffe méritée ! ), et que tester oui (la qualité sans test ne peut pas exister, si je ne me goure pas ?)",
+        "user": "U0DSEQH9S",
+        "ts": "1532033735.000086",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c6Kt5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je comprends mieux : en fait, mon message était très mal écrit si tu as pensé que je disais ça (en entier, sur la partie business). Quand je l'avais écrit (et je suis revenu en arrière), mon message était plutôt de dire que non, il ne faut pas toujours dire non au business (comme certains le disaient dans la discussion), que ça dépend totalement de la situation, comme il ne faut pas dire oui à tout. Et sur le bypass du TDD, effectivement, ce n'est pas un prérequis pour faire du craft (ce que je pensais \"bêtement\"... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Merci pour la baffe méritée ! ), et que tester oui (la qualité sans test ne peut pas exister, si je ne me goure pas ?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DSEQH9S",
+            "ts": "1532033893.000000"
+        }
+    },
+    {
+        "client_msg_id": "c8cf380e-b5b8-43bd-ba7c-731df7547d20",
+        "type": "message",
+        "text": "Pour le business qui te fixe une date, c'est pas contradictoire justement. C'est même normal ! Faut juste se référer au triangle (carré ?) de fer :  ( Périmètre \/ Coût \/ Délai ) + Qualité.",
+        "user": "U0DSEQH9S",
+        "ts": "1532033792.000143",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qCI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour le business qui te fixe une date, c'est pas contradictoire justement. C'est même normal ! Faut juste se référer au triangle (carré ?) de fer :  ( Périmètre \/ Coût \/ Délai ) + Qualité."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DSEQH9S",
+            "ts": "1532033868.000000"
+        }
+    },
+    {
+        "client_msg_id": "1d421ab8-3c57-4f35-a993-dbd2dd8a05da",
+        "type": "message",
+        "text": "En général, il vaut mieux descoper le périmètre qu'autre chose. Car le périmètre est souvent le truc que l'on ne veut jamais changer sur un projet, alors qu'on sait maintenant qu'en général 45% du périmètre est inutile sur les projets IT.\nPar contre, est-ce qu'il faut accepter de faire un logiciel sans qualité ? Parce que sinon, si ça marche pas, on sait qui va taper sur qui (cad sur le dév... Et pas sur le business... :confused: ) Pour moi, c'est une erreur business. Pour 99% des business, c'est une erreur des dev. Bref, le serpent qui se mord la queue ... (On sort du craftsman ship ici : c'est plus de la logique de product management, et de management tout court aussi, qu'autre chose !)",
+        "user": "U0DSEQH9S",
+        "ts": "1532033845.000443",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ESm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En général, il vaut mieux descoper le périmètre qu'autre chose. Car le périmètre est souvent le truc que l'on ne veut jamais changer sur un projet, alors qu'on sait maintenant qu'en général 45% du périmètre est inutile sur les projets IT.\nPar contre, est-ce qu'il faut accepter de faire un logiciel sans qualité ? Parce que sinon, si ça marche pas, on sait qui va taper sur qui (cad sur le dév... Et pas sur le business... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ) Pour moi, c'est une erreur business. Pour 99% des business, c'est une erreur des dev. Bref, le serpent qui se mord la queue ... (On sort du craftsman ship ici : c'est plus de la logique de product management, et de management tout court aussi, qu'autre chose !)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DSEQH9S",
+            "ts": "1532035029.000000"
+        }
+    },
+    {
+        "client_msg_id": "63cc3cc1-62e1-49a2-bab1-aad4ab54d68c",
+        "type": "message",
+        "text": "Et y a un truc que je suis pas fan dans ton article :",
+        "user": "U0DSEQH9S",
+        "ts": "1532034388.000345",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4qzz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et y a un truc que je suis pas fan dans ton article :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "596194ef-0c02-4888-ade6-01e8b3ad7859",
+        "type": "message",
+        "text": "Si vous avez déjà ce genre de super développeurs chez vous, faites-en sorte qu'ils partagent et qu'ils communiquent leur passion et leur envie aux autres, cultivez leur héroïsme !",
+        "user": "U0DSEQH9S",
+        "ts": "1532034389.000399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9hxH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si vous avez déjà ce genre de super développeurs chez vous, faites-en sorte qu'ils partagent et qu'ils communiquent leur passion et leur envie aux autres, cultivez leur héroïsme !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "24d8c0ae-6b26-4f07-b4bb-18f2b5bcfea6",
+        "type": "message",
+        "text": "\"Cultivez leur héroïsme\" : ça me plait pas du tout. Justement, l'héroïsme, c'est pas la meilleure idée du siècle. Alors même si c'est pas l'idée derrière, je trouve le terme mal placé. C'est quoi un héros ? C'est un mec qui en fait beaucoup pour les autres ? une personne qui se tient à ses valeurs ? une personne simple ? etc... :disappointed:",
+        "user": "U0DSEQH9S",
+        "ts": "1532034463.000231",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uSLy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Cultivez leur héroïsme\" : ça me plait pas du tout. Justement, l'héroïsme, c'est pas la meilleure idée du siècle. Alors même si c'est pas l'idée derrière, je trouve le terme mal placé. C'est quoi un héros ? C'est un mec qui en fait beaucoup pour les autres ? une personne qui se tient à ses valeurs ? une personne simple ? etc... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DSEQH9S",
+            "ts": "1532034482.000000"
+        }
+    },
+    {
+        "client_msg_id": "ab56dd68-eec4-4436-8c4d-631470d74784",
+        "type": "message",
+        "text": "Mais le reste de l'article est top, merci ! Je comprends mieux.",
+        "user": "U0DSEQH9S",
+        "ts": "1532034795.000252",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ra3W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mais le reste de l'article est top, merci ! Je comprends mieux."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DSEQH9S",
+            "ts": "1532068128.000000"
+        }
+    }
+]

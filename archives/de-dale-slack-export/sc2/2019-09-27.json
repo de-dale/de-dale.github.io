@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "80fb0917-7e7d-4e52-9317-29f90784781a",
+        "type": "message",
+        "text": "un bien bel hommage <https:\/\/www.youtube.com\/watch?v=9mREvEfAZUQ>",
+        "user": "U0M8SF5CG",
+        "ts": "1569609741.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7SvAr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "un bien bel hommage "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=9mREvEfAZUQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Nouvel annonceur pour Starcraft !",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=9mREvEfAZUQ",
+                "author_name": "C'est Ça Que Je Veux",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCtIe-oALrfm3niCMVjylp5A",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/9mREvEfAZUQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Nouvel annonceur pour Starcraft !",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/9mREvEfAZUQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=9mREvEfAZUQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=9mREvEfAZUQ"
+            }
+        ]
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "82d9ccfc-5cdf-46c3-a2d7-46c506a2a537",
+        "type": "message",
+        "text": "avec le confinement ?",
+        "user": "U0AA0KVLH",
+        "ts": "1616354299.001200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K3HO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "avec le confinement ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2ccefb5f-100b-4c7d-a1e1-104428a1ea85",
+        "type": "message",
+        "text": "Vous voulez qu'on définisse une date ?",
+        "user": "U0AA0KVLH",
+        "ts": "1616354314.001600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mUBgY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vous voulez qu'on définisse une date ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1616354314.001600",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1616402934.002700",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0AA0KVLH"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1616401934.002100"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1616401956.002300"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1616402934.002700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1616402934.002700"
+    }
+]

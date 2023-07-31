@@ -1,0 +1,192 @@
+[
+    {
+        "client_msg_id": "934eb72c-ab89-40bc-8c1a-95313ab3a117",
+        "type": "message",
+        "text": "Les losange c'est comme des triangle en fait. Avec l'hexagone il y a plus de possibilités d'interactions avec les cases voisines.",
+        "user": "U0M8SF5CG",
+        "ts": "1642852003.021800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Up",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les losange c'est comme des triangle en fait. Avec l'hexagone il y a plus de possibilités d'interactions avec les cases voisines."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "46f03d1b-df47-4dfb-bdbc-ee84803564d9",
+        "type": "message",
+        "text": "oui",
+        "user": "U0A48EDPD",
+        "ts": "1642855950.022100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3KcY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0a7f3d12-8a1f-44bc-bd40-a5b9586f26c0",
+        "type": "message",
+        "text": "de plus, les hexgones, c'est le seul modèle qui propose de pouvoir aller directement sur les cases adjacentes",
+        "user": "U0A48EDPD",
+        "ts": "1642855986.022900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xyhb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "de plus, les hexgones, c'est le seul modèle qui propose de pouvoir aller directement sur les cases adjacentes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1fad30bf-e326-4572-ba71-30d38f409d8d",
+        "type": "message",
+        "text": "les triangles, les losange ou les carrés ne permettent pas nécessairement d'aller dans les cases en suivant les sommets",
+        "user": "U0A48EDPD",
+        "ts": "1642856014.023600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DCC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "les triangles, les losange ou les carrés ne permettent pas nécessairement d'aller dans les cases en suivant les sommets"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5b03c3be-9c08-475c-9ca7-e7dd23f10803",
+        "type": "message",
+        "text": "(en tout cas, ça demande des règles spécifiques. ex: dans D&amp;D la première case en diagonale coûte 1, la seconde 2, puis 1, puis 2 etc.)",
+        "user": "U0A48EDPD",
+        "ts": "1642856058.024400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6k0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(en tout cas, ça demande des règles spécifiques. ex: dans D&D la première case en diagonale coûte 1, la seconde 2, puis 1, puis 2 etc.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

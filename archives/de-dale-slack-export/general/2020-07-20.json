@@ -1,0 +1,823 @@
+[
+    {
+        "client_msg_id": "98622279-1076-4a24-8879-9783b9290c28",
+        "type": "message",
+        "text": "Plop !\nY en a qui ont testé Pathfinder v2 ? Si oui, quel est votre avis ?",
+        "user": "U0DSEQH9S",
+        "ts": "1595230879.051300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BM5ev",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop !\nY en a qui ont testé Pathfinder v2 ? Si oui, quel est votre avis ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b211b85f-ce0c-40ab-a78e-01430ccb1b39",
+        "type": "message",
+        "text": "&gt; Druids don't need Thieves' Tools.\n<https:\/\/twitter.com\/TheGodDamnDM\/status\/1284929066353610754>",
+        "user": "U0A48EDPD",
+        "ts": "1595232136.051800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kP2K=",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Druids don't need Thieves' Tools."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/TheGodDamnDM\/status\/1284929066353610754"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/TheGodDamnDM|@TheGodDamnDM>: Druids don't need Thieves' Tools.\n\n#dnd #dungeonsanddragons #dnd5e <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1284929033134673920\/pu\/img\/VKsbf0PKa2b3R3NK.jpg>",
+                "ts": 1595185936,
+                "author_name": "The GodDamn DM",
+                "author_link": "https:\/\/twitter.com\/TheGodDamnDM\/status\/1284929066353610754",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1279859059122823168\/Dxtsd9_y_normal.jpg",
+                "author_subname": "@TheGodDamnDM",
+                "text": "Druids don't need Thieves' Tools.\n\n#dnd #dungeonsanddragons #dnd5e",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/TheGodDamnDM\/status\/1284929066353610754",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1284929033134673920\/pu\/img\/VKsbf0PKa2b3R3NK.jpg",
+                "thumb_width": 960,
+                "thumb_height": 954,
+                "video_html_width": 960,
+                "video_html_height": 954,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1284929033134673920\/pu\/img\/VKsbf0PKa2b3R3NK.jpg\" width=\"960\" height=\"954\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1284929033134673920\/pu\/vid\/724x720\/TpBTGqd4W0gheAy2.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/TheGodDamnDM\/status\/1284929066353610754",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "thread_ts": "1595232136.051800",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1595250287.057500",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0AA0KVLH",
+            "U0DSEQH9S",
+            "U0M8SF5CG"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1595232156.052100"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1595232844.054000"
+            },
+            {
+                "user": "U0DSEQH9S",
+                "ts": "1595234567.054300"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1595235492.057100"
+            },
+            {
+                "user": "U0M8SF5CG",
+                "ts": "1595250287.057500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1595250287.057500",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0DSEQH9S",
+                    "U0AA0KVLH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0b2a3ed3-2170-4b3c-afa3-9e794935b428",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/i\/status\/1284929066353610754>",
+        "user": "U0A48EDPD",
+        "ts": "1595232156.052100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Er9x3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/i\/status\/1284929066353610754"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/TheGodDamnDM|@TheGodDamnDM>: Druids don't need Thieves' Tools.\n\n#dnd #dungeonsanddragons #dnd5e <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1284929033134673920\/pu\/img\/VKsbf0PKa2b3R3NK.jpg>",
+                "ts": 1595185936,
+                "author_name": "The GodDamn DM",
+                "author_link": "https:\/\/twitter.com\/TheGodDamnDM\/status\/1284929066353610754",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1279859059122823168\/Dxtsd9_y_normal.jpg",
+                "author_subname": "@TheGodDamnDM",
+                "text": "Druids don't need Thieves' Tools.\n\n#dnd #dungeonsanddragons #dnd5e",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/i\/status\/1284929066353610754",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1284929033134673920\/pu\/img\/VKsbf0PKa2b3R3NK.jpg",
+                "thumb_width": 960,
+                "thumb_height": 954,
+                "video_html_width": 960,
+                "video_html_height": 954,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1284929033134673920\/pu\/img\/VKsbf0PKa2b3R3NK.jpg\" width=\"960\" height=\"954\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1284929033134673920\/pu\/vid\/724x720\/TpBTGqd4W0gheAy2.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/i\/status\/1284929066353610754",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "thread_ts": "1595232136.051800",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "6bc555e8-e3ae-4aa7-93de-d542c0b8cc7e",
+        "type": "message",
+        "text": "<@U0DSEQH9S>: <@U5VQX0XTQ> et <@U63CG7FCZ> ont testé PF2 pas mal, ils seront les mieux placés poru répondre. J'ai testé une fois. J'ai bien aimé la mécanique qui a un aspect stratégique intéressant mais testé qu'au niveau 1 alors je ne sais pas sur la durée.",
+        "user": "U0AA0KVLH",
+        "ts": "1595232779.053700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yw=Ej",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0DSEQH9S"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5VQX0XTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U63CG7FCZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ont testé PF2 pas mal, ils seront les mieux placés poru répondre. J'ai testé une fois. J'ai bien aimé la mécanique qui a un aspect stratégique intéressant mais testé qu'au niveau 1 alors je ne sais pas sur la durée."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": ":wine_glass:",
+        "user": "USLACKBOT",
+        "ts": "1595232780.053800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YtY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wine_glass",
+                                "unicode": "1f377"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6031a352-c243-467c-87e1-0de89e9b6008",
+        "type": "message",
+        "text": "Par contre pour la discrétion, on repassera ^^",
+        "user": "U0AA0KVLH",
+        "ts": "1595232844.054000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2uh2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Par contre pour la discrétion, on repassera ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1595232136.051800",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "5e2a4c9c-c15b-40dc-829e-9ec1a62fb76c",
+        "type": "message",
+        "text": "Pourquoi être discret quand tu as une double attaque de griffe et croc et 34 PV gratos ? xD",
+        "user": "U0DSEQH9S",
+        "ts": "1595234567.054300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WXe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pourquoi être discret quand tu as une double attaque de griffe et croc et 34 PV gratos ? xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1595232136.051800",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "472ec25d-cf4e-4b2e-a9ec-9c6df3c61664",
+        "type": "message",
+        "text": "J'ai pu bien tester dnd 5e et évidemment j'ai envie de comparer les mécaniques ^^",
+        "user": "U0DSEQH9S",
+        "ts": "1595234607.055200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NyQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai pu bien tester dnd 5e et évidemment j'ai envie de comparer les mécaniques ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "51a6ce98-4e00-4aeb-b003-3529ebdc439a",
+        "type": "message",
+        "text": "c'est difficilement comparable",
+        "user": "U0AA0KVLH",
+        "ts": "1595235342.055400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jV8a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est difficilement comparable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f5ccb733-2275-4569-9a68-9f505fa75f60",
+        "type": "message",
+        "text": "PF 2 a une optique de progression classique qui t'entraine vers des sommets de puissance et un système à trois actions par tour. DD5 a une optique de progression bcp plus faible et reste sur deux actions par tour. De ce que j'ai vu, c'est deux jeux différents.",
+        "user": "U0AA0KVLH",
+        "ts": "1595235446.057000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vfOYR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PF 2 a une optique de progression classique qui t'entraine vers des sommets de puissance et un système à trois actions par tour. DD5 a une optique de progression bcp plus faible et reste sur deux actions par tour. De ce que j'ai vu, c'est deux jeux différents."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "88ae31a4-d1dc-4c49-92a2-c3d98a4f48f8",
+        "type": "message",
+        "text": "On se demande pourquoi ce sont les hommes qui dominent alors :stuck_out_tongue:",
+        "user": "U0AA0KVLH",
+        "ts": "1595235492.057100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OsWu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On se demande pourquoi ce sont les hommes qui dominent alors "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1595232136.051800",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "abfb3cee-24f5-49d4-a2cf-aa2fe99a290c",
+        "type": "message",
+        "text": "plop",
+        "user": "U0M8SF5CG",
+        "ts": "1595237110.057400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RgO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "26517649-afbe-4c91-8469-153e501aed0b",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=ImYu9dJM4kQ>",
+        "user": "U0M8SF5CG",
+        "ts": "1595250287.057500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nz1gf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=ImYu9dJM4kQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Are Humans OP?",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=ImYu9dJM4kQ",
+                "author_name": "TierZoo",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCHsRtomD4twRf5WVHHk-cMw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/ImYu9dJM4kQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Are Humans OP?",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/ImYu9dJM4kQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=ImYu9dJM4kQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=ImYu9dJM4kQ"
+            }
+        ],
+        "thread_ts": "1595232136.051800",
+        "parent_user_id": "U0A48EDPD",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "feb1aef6-1649-41f2-8b43-e9043de6a5b2",
+        "type": "message",
+        "text": "Bon. J'ai un demi-BG en plus des 5 de naveed :stuck_out_tongue_closed_eyes:",
+        "user": "U0A48EDPD",
+        "ts": "1595264471.000900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wR+Ch",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon. J'ai un demi-BG en plus des 5 de naveed "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue_closed_eyes",
+                                "unicode": "1f61d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f64f4ad4-6a9e-429a-a0ce-d747361f7468",
+        "type": "message",
+        "text": "C'est pas mzl",
+        "user": "U0A48EDPD",
+        "ts": "1595264478.001200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qqA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est pas mzl"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "59857c31-658c-4e2d-8076-491a9349b2f1",
+        "type": "message",
+        "text": "(Plus les miens, bien sûr...)",
+        "user": "U0A48EDPD",
+        "ts": "1595264676.001900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "txe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Plus les miens, bien sûr...)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "88ec0f85-40ca-4ab6-a1dc-4caf3dce241c",
+        "type": "message",
+        "text": "il faut saluer l'effort",
+        "user": "U0AA0KVLH",
+        "ts": "1595265106.002100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FGCU4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "il faut saluer l'effort"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

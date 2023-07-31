@@ -1,0 +1,117 @@
+[
+    {
+        "client_msg_id": "78a58054-fe80-4383-b27a-a53ed8365e02",
+        "type": "message",
+        "text": " Plop",
+        "user": "U0A48EDPD",
+        "ts": "1543564177.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C0V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a513fc34-1d4e-4a7a-9352-58cf85cd0cd8",
+        "type": "message",
+        "text": "Dernier jour :\n- œuvré sur Paris\n- œuvré chez Vidal\n- œuvré chez Arolla\n- où je prends le métro pour aller bosser",
+        "user": "U0A48EDPD",
+        "ts": "1543564252.002300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g0Ae",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dernier jour :\n- œuvré sur Paris\n- œuvré chez Vidal\n- œuvré chez Arolla\n- où je prends le métro pour aller bosser"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "92646516-5cbc-451c-b567-e14e236f04e7",
+        "type": "message",
+        "text": ":i_love_you_hand_sign: ",
+        "user": "U0A48EDPD",
+        "ts": "1543564273.002600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tjl08",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "i_love_you_hand_sign",
+                                "unicode": "1f91f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

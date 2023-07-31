@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "47cfc7f6-4523-402b-89f4-b674e0da2847",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/clemovitch\/status\/1587704354567495680>",
+        "user": "U0AA0KVLH",
+        "ts": "1667405975.044519",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZdqDZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/clemovitch\/status\/1587704354567495680"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/clemovitch\/status\/1587704354567495680",
+                "ts": 1667373190,
+                "thumb_url": "https:\/\/pbs.twimg.com\/media\/FggA42kaAAAcFPv.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/media\/FggA42kaAAAcFPv.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/amplify_video\/1587518773145190400\/vid\/1280x720\/nLogTFHU0W-9UJtQ.mp4?tag=14\"><\/video>",
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/clemovitch\/status\/1587704354567495680",
+                "fallback": "<https:\/\/twitter.com\/clemovitch|@clemovitch>: « Les faits divers tournent en boucle à la télé. Au-delà du drame, ils influencent en profondeur notre perception de la société. Les médias portent, à cet égard, une lourde responsabilité. »\n\nPour <https:\/\/twitter.com\/Qofficiel|@Qofficiel> : ma chronique... et une expérience en direct !",
+                "text": "« Les faits divers tournent en boucle à la télé. Au-delà du drame, ils influencent en profondeur notre perception de la société. Les médias portent, à cet égard, une lourde responsabilité. »\n\nPour <https:\/\/twitter.com\/Qofficiel|@Qofficiel> : ma chronique... et une expérience en direct !",
+                "author_name": "Clément Viktorovitch",
+                "author_link": "https:\/\/twitter.com\/clemovitch\/status\/1587704354567495680",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/793597009072627712\/ASGWA3tK_normal.jpg",
+                "author_subname": "@clemovitch",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

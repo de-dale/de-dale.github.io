@@ -1,0 +1,190 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Merci pour le retour. D'ailleurs, tu sais si l'Escape game qu'on  avait fait ensemble à une suite ? Ce serait sympa de refaire la suite. Bises",
+        "user": "U5ETCTF7V",
+        "ts": "1557648671.000500",
+        "thread_ts": "1557124299.002800",
+        "root": {
+            "client_msg_id": "3f16f835-26e6-4b22-9e69-d32564fdc257",
+            "type": "message",
+            "text": "En soit c'est cool, mais si tu cherches un escape game, tu va être déçu",
+            "user": "U0A48EDPD",
+            "ts": "1557124299.002800",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "4sA=",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "En soit c'est cool, mais si tu cherches un escape game, tu va être déçu"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "T0A48J0MV",
+            "thread_ts": "1557124299.002800",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1557678318.001200",
+            "reply_users": [
+                "U5ETCTF7V",
+                "U0A48EDPD"
+            ],
+            "replies": [
+                {
+                    "user": "U5ETCTF7V",
+                    "ts": "1557648671.000500"
+                },
+                {
+                    "user": "U0A48EDPD",
+                    "ts": "1557678318.001200"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1557678318.001200"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tGqWw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour le retour. D'ailleurs, tu sais si l'Escape game qu'on  avait fait ensemble à une suite ? Ce serait sympa de refaire la suite. Bises"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "67d1d29e-3820-4467-a2f5-9b61712ef317"
+    },
+    {
+        "client_msg_id": "c701a16f-8683-4338-a91d-ed6471c6eeb1",
+        "type": "message",
+        "text": "Olop",
+        "user": "U5ETCTF7V",
+        "ts": "1557648721.000900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G+=Yg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Olop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gc97cf1e535a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3c97cf1e535a7dc75d5b1cbaeb11e89e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Seb",
+            "real_name": "Seb Lebossu",
+            "display_name": "seblebossu",
+            "team": "T0A48J0MV",
+            "name": "seblebossu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7f73e447-117b-4ffd-968c-3df10cd8a2a6",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1557648743.001100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iPd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cbb77762-e821-4bfb-82b5-01dd84b83f5b",
+        "type": "message",
+        "text": "oui. Il y a une suite, qui doit paraître en mai.",
+        "user": "U0A48EDPD",
+        "ts": "1557678318.001200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RpQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oui. Il y a une suite, qui doit paraître en mai."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557124299.002800",
+        "parent_user_id": "U0A48EDPD"
+    }
+]

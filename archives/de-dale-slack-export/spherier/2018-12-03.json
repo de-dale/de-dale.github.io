@@ -1,0 +1,921 @@
+[
+    {
+        "client_msg_id": "3929edea-2080-4e99-b2c2-c15138da2af8",
+        "type": "message",
+        "text": "<@U0AA0KVLH>: tu aurais des idées à proposer pour donner une certaine maîtrise de l'initiative aux joueurs, avec le système de cartes d'action à piocher ?",
+        "user": "U0A48EDPD",
+        "ts": "1543830790.002500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bvc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0AA0KVLH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": tu aurais des idées à proposer pour donner une certaine maîtrise de l'initiative aux joueurs, avec le système de cartes d'action à piocher ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9f62e558-c329-4b4e-9127-1be3769e99c6",
+        "type": "message",
+        "text": "Et le wording donnerait quelque chose comme ça:  ",
+        "user": "U0A48EDPD",
+        "ts": "1543831189.002600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rpk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et le wording donnerait quelque chose comme ça:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9938a54e-365f-4cb9-b4c7-01330de02804",
+        "type": "message",
+        "text": "*Prétendre à agir*\n\nUne créature vivante peut prétendre à agir.\nElle prend sa place dans l'ordre d'initiative, et dispose, lors d'un tour de combat, de :\n* 2 Actions (`A°`)\n* 1 Réaction (`R°`)\n\nCes `Action` et `Réaction` peuvent être utilisées pour activer n'importe quelle `Capacité` connue du personnage.\n\n*Initiative*\n*Lancer de dé*\n&gt; pas détaillé ici (Slack)\n\n*Deck d'actions.*\nLes `Actions` des acteurs d'un combat sont représentées par des cartes nominatives. On mélange toutes les cartes et on les tire une par une. \n\nLorsqu'une carte est révélée, elle est rendue à son possesseur. Celui-ci acquiert \"la main\"\/l'initiative sur le combat.\nIl peut alors dépenser sa ou ses `Actions` pour activer une `Capacité` connue. Sinon, il peut garder ses Actions pour les dépenser plus tard dans le tour.\n\nUne fois le Deck vidé, c'est la fin du tour. On récupère toutes les cartes, même celles qui n'ont pas été jouées, et on les mélange.",
+        "user": "U0A48EDPD",
+        "ts": "1543831189.002700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O8Dd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Prétendre à agir",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nUne créature vivante peut prétendre à agir.\nElle prend sa place dans l'ordre d'initiative, et dispose, lors d'un tour de combat, de :\n* 2 Actions ("
+                            },
+                            {
+                                "type": "text",
+                                "text": "A°",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n* 1 Réaction ("
+                            },
+                            {
+                                "type": "text",
+                                "text": "R°",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\nCes "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Action",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " et "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Réaction",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " peuvent être utilisées pour activer n'importe quelle "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Capacité",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " connue du personnage.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Initiative",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Lancer de dé",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pas détaillé ici (Slack)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Deck d'actions.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLes "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Actions",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " des acteurs d'un combat sont représentées par des cartes nominatives. On mélange toutes les cartes et on les tire une par une. \n\nLorsqu'une carte est révélée, elle est rendue à son possesseur. Celui-ci acquiert \"la main\"\/l'initiative sur le combat.\nIl peut alors dépenser sa ou ses "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Actions",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " pour activer une "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Capacité",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " connue. Sinon, il peut garder ses Actions pour les dépenser plus tard dans le tour.\n\nUne fois le Deck vidé, c'est la fin du tour. On récupère toutes les cartes, même celles qui n'ont pas été jouées, et on les mélange."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1543831233.000000"
+        }
+    },
+    {
+        "client_msg_id": "434a5b17-ad75-4267-9c28-dde6ab32d965",
+        "type": "message",
+        "text": "Est-ce que le deck des actions ou il peut être divisé en rang ?",
+        "user": "U0AA0KVLH",
+        "ts": "1543831250.003400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WF1X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est-ce que le deck des actions ou il peut être divisé en rang ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4fb5c7b4-8f0a-49c7-9b13-2ca21f15b576",
+        "type": "message",
+        "text": "Je proposais de le diviser (cf. Plus haut)",
+        "user": "U0A48EDPD",
+        "ts": "1543831783.004700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yc+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je proposais de le diviser (cf. Plus haut)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "44455498-b95c-4290-b133-f51d51152eb0",
+        "type": "message",
+        "text": "Pour avoir des initiatives par palliers",
+        "user": "U0A48EDPD",
+        "ts": "1543831794.005100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uvXd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour avoir des initiatives par palliers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8c87acaf-df21-4a26-a868-d6cd3ad8f74b",
+        "type": "message",
+        "text": "Et pouvoir répartir les actions, un peu comme les épidémies dans Pandemic",
+        "user": "U0A48EDPD",
+        "ts": "1543831823.006000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IGw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et pouvoir répartir les actions, un peu comme les épidémies dans Pandemic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b8c63325-b1b4-43e5-ba0e-718f8dfe7964",
+        "type": "message",
+        "text": "Répartir les actions posent une question : imaginons deux personnes qui ont le pouvoir de réorganiser les 3 premières cartes du deck d'actions.",
+        "user": "U0AA0KVLH",
+        "ts": "1543831923.006800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/M0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Répartir les actions posent une question : imaginons deux personnes qui ont le pouvoir de réorganiser les 3 premières cartes du deck d'actions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cd9eebd7-297b-4ea3-a8e4-e8ff1353aa7d",
+        "type": "message",
+        "text": "Dans quelles ordres elles font cela ?",
+        "user": "U0AA0KVLH",
+        "ts": "1543831929.007100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QRy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dans quelles ordres elles font cela ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5315b444-a787-43ef-a863-8264a0f49c1c",
+        "type": "message",
+        "text": "parce que la réorganisation de la première n'a aucune utilité",
+        "user": "U0AA0KVLH",
+        "ts": "1543831940.007400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mMI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "parce que la réorganisation de la première n'a aucune utilité"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1c55a0cd-a0e1-45fa-bc2b-e7083a5c94e8",
+        "type": "message",
+        "text": "Aucune idée arrêtée:\n- au pif\n- à leur tour de jeu, par une action\n- selon un autre mécanisme (mais ça ferait beaucoup de meca différentes)",
+        "user": "U0A48EDPD",
+        "ts": "1543841502.009400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vKEJw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aucune idée arrêtée:\n- au pif\n- à leur tour de jeu, par une action\n- selon un autre mécanisme (mais ça ferait beaucoup de meca différentes)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1543841590.000000"
+        }
+    },
+    {
+        "client_msg_id": "84f4269c-a766-4a6c-b522-fde3b17bf08f",
+        "type": "message",
+        "text": "Sinon, pas de nouvelle idée? :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1543841529.010000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n98s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sinon, pas de nouvelle idée? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e5605e02-4ef1-4a9a-934f-6b2d334e92c2",
+        "type": "message",
+        "text": "Le système de deck donne bcp de possibilité  à mon sens. ",
+        "user": "U0AA0KVLH",
+        "ts": "1543843512.012200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nr\/x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le système de deck donne bcp de possibilité  à mon sens."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a4091adb-9af8-4f6a-9329-26b2c55b7347",
+        "type": "message",
+        "text": "Ya regarder X cartes, réorganiser, mettre en dessous, révéler.",
+        "user": "U0AA0KVLH",
+        "ts": "1543843583.013400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bpl=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ya regarder X cartes, réorganiser, mettre en dessous, révéler."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c2aa5649-aa15-4283-9d1f-f19e9e64539a",
+        "type": "message",
+        "text": "Est ce c'est full random genre tu peux avoir tes deux actions à la suite ou c'est d'abord une carte action pour chacun puis la deuxième ?",
+        "user": "U0AA0KVLH",
+        "ts": "1543843661.015300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Pog",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est ce c'est full random genre tu peux avoir tes deux actions à la suite ou c'est d'abord une carte action pour chacun puis la deuxième ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4a9bcfca-2f4e-40b4-ac30-2531fa2d98fe",
+        "type": "message",
+        "text": "Le plus agréable me paraît être un système à la Heroes 5. Tu dires toutes les cartes d'init et tu fais une frise, ensuite on applique les pouvoirs relatif à l'initiative pour modifier la disposition.",
+        "user": "U0AA0KVLH",
+        "ts": "1543843864.018000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sTV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le plus agréable me paraît être un système à la Heroes 5. Tu dires toutes les cartes d'init et tu fais une frise, ensuite on applique les pouvoirs relatif à l'initiative pour modifier la disposition."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e26d3534-e180-4cf2-a53d-c1a61539ea0a",
+        "type": "message",
+        "text": "Je sais pas si c'est compréhensible",
+        "user": "U0AA0KVLH",
+        "ts": "1543843914.018400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tEeu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je sais pas si c'est compréhensible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5e902289-387a-4814-8012-378b72b1deac",
+        "type": "message",
+        "text": "C’est “full random”, modulo la répartition des carte d’init en différents decks par priorité ou rang. Mais rien n’empêche d’avoir ses deux actions d’affiliée.",
+        "user": "U0A48EDPD",
+        "ts": "1543845002.020600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SN3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C’est “full random”, modulo la répartition des carte d’init en différents decks par priorité ou rang. Mais rien n’empêche d’avoir ses deux actions d’affiliée."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "58376f36-1f33-4b22-a947-5d50a2f3b851",
+        "type": "message",
+        "text": "Héroes V : c’est compréhensible. J’aime et j’aime pas.",
+        "user": "U0A48EDPD",
+        "ts": "1543845013.020900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GhgJ4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Héroes V : c’est compréhensible. J’aime et j’aime pas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e2eac562-12b8-40d1-bc01-ebbc05fc1acf",
+        "type": "message",
+        "text": "j’aime :\n- les possibilités que ça donne en terme de capacité de modification d’init\nj’aime pas :\n- l’information disponible à tout le monde et le manque de surprise de “quand joue le monstre”\n- quelques capa qui disparaissent (connaître les cartes en avances par exemple)",
+        "user": "U0A48EDPD",
+        "ts": "1543845165.023300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "caT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j’aime :\n- les possibilités que ça donne en terme de capacité de modification d’init\nj’aime pas :\n- l’information disponible à tout le monde et le manque de surprise de “quand joue le monstre”\n- quelques capa qui disparaissent (connaître les cartes en avances par exemple)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

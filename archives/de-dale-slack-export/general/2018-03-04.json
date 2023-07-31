@@ -1,0 +1,142 @@
+[
+    {
+        "type": "message",
+        "text": "<@U0DTHMU81> Je t’avais envoyé les cartes de Guilde sous format Excel ?",
+        "user": "U0A48EDPD",
+        "ts": "1520194584.000011",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t7M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0DTHMU81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Je t’avais envoyé les cartes de Guilde sous format Excel ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1520194584.000011",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1520337692.000374",
+        "reply_users": [
+            "U0DTHMU81",
+            "U0A48EDPD"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1520330650.000225"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1520337664.000222"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1520337692.000374"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1520337692.000374"
+    },
+    {
+        "type": "message",
+        "text": "plop sinon",
+        "user": "U0A48EDPD",
+        "ts": "1520235601.000137",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b\/H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop sinon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "de retour chez Vidal",
+        "user": "U0A48EDPD",
+        "ts": "1520235605.000166",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BjH95",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "de retour chez Vidal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

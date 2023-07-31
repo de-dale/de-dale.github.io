@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "text": "Qui serait chaud pour un atelier LEGO ? <https:\/\/www.youtube.com\/watch?v=vMtV9QxlVXo>",
+        "user": "U0A48EDPD",
+        "ts": "1495885474.331757",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Srh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Qui serait chaud pour un atelier LEGO ? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=vMtV9QxlVXo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Build a Dice Tower with LEGO!",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=vMtV9QxlVXo",
+                "author_name": "Craig Bragg",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCcVd9KrpqYIPRhgZfV7emeg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/vMtV9QxlVXo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Build a Dice Tower with LEGO!",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/vMtV9QxlVXo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=vMtV9QxlVXo",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    }
+]

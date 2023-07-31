@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "a3b0d120-e588-4800-a36d-1765de1f353e",
+        "type": "message",
+        "text": "<https:\/\/blog.trello.com\/fr\/methode-scrum>",
+        "user": "U0A48EDPD",
+        "ts": "1536232748.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bGca",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.trello.com\/fr\/methode-scrum"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Tutoriel pour débuter avec la méthode Scrum sur Trello",
+                "title_link": "https:\/\/blog.trello.com\/fr\/methode-scrum",
+                "text": "La méthode Scrum: kesako? Sprints, backlogs, Scrum Master… par où débuter? Que faut-il pour commencer? Voici le MVP de la méthode Scrum.",
+                "fallback": "Tutoriel pour débuter avec la méthode Scrum sur Trello",
+                "image_url": "https:\/\/blog.trello.com\/hubfs\/scrum_graphic.png?t=1536207727806#keepProtocol",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/blog.trello.com\/fr\/methode-scrum",
+                "image_bytes": 101748,
+                "service_icon": "https:\/\/blog.trello.com\/hubfs\/Trello_July2016_Theme\/trello-mark-blue.png?t=1536207727806",
+                "service_name": "blog.trello.com",
+                "id": 1,
+                "original_url": "https:\/\/blog.trello.com\/fr\/methode-scrum"
+            }
+        ]
+    }
+]

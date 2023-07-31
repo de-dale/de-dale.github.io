@@ -1,0 +1,780 @@
+[
+    {
+        "client_msg_id": "ea6b83ce-06e9-495c-ae8b-c7469dc513c2",
+        "type": "message",
+        "text": "Du coup ;  j'ai pas vu",
+        "user": "U0A48EDPD",
+        "ts": "1548420333.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=8u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Du coup ;  j'ai pas vu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "09b353b5-619a-4d05-bd07-79eae8e26b20",
+        "type": "message",
+        "text": "mais il semble que DeepMind ait gagné 10-1",
+        "user": "U0A48EDPD",
+        "ts": "1548420347.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l9t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais il semble que DeepMind ait gagné 10-1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1548420352.000000"
+        }
+    },
+    {
+        "client_msg_id": "4fd260db-719b-4afa-88f4-6a2bcc69acc3",
+        "type": "message",
+        "text": "<https:\/\/www.wired.co.uk\/article\/deepmind-starcraft-results-alphastar>",
+        "user": "U0A48EDPD",
+        "ts": "1548420366.001100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zxDm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wired.co.uk\/article\/deepmind-starcraft-results-alphastar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "WIRED UK",
+                "title": "This is how Google's DeepMind crushed puny humans at StarCraft",
+                "title_link": "https:\/\/www.wired.co.uk\/article\/deepmind-starcraft-results-alphastar",
+                "text": "AlphaStar was pitted against some of the best professional StarCraft players in the world – and the humans didn't stand a chance",
+                "fallback": "WIRED UK: This is how Google's DeepMind crushed puny humans at StarCraft",
+                "image_url": "https:\/\/wi-images.condecdn.net\/image\/GqegJw7GalO\/crop\/1020\/0.5235602094240838\/f\/scii.png",
+                "from_url": "https:\/\/www.wired.co.uk\/article\/deepmind-starcraft-results-alphastar",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 75167,
+                "service_icon": "https:\/\/www.wired.co.uk\/static\/icons\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.wired.co.uk\/article\/deepmind-starcraft-results-alphastar"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f2c4e943-a741-4669-be3c-fea89c0dfed0",
+        "type": "message",
+        "text": "c'est en redif dans les vidéo de la chaine twitch, et les replays sur le site de deepmind",
+        "user": "U0M8SF5CG",
+        "ts": "1548421877.001900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DHC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est en redif dans les vidéo de la chaine twitch, et les replays sur le site de deepmind"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "056aceb3-8435-450d-ae50-511e1bce73bf",
+        "type": "message",
+        "text": "les games sont sympa à voir",
+        "user": "U0M8SF5CG",
+        "ts": "1548421898.002400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DB=1g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "les games sont sympa à voir"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b7aa077d-6055-4cb1-81bc-c98197ffffdc",
+        "type": "message",
+        "text": "il me semble pas que c'est explicite dans cet article mais pour les 10 victoires l'ia triche un peu",
+        "user": "U0M8SF5CG",
+        "ts": "1548423512.003200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "euXRX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "il me semble pas que c'est explicite dans cet article mais pour les 10 victoires l'ia triche un peu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e213c3a1-fbb0-46b1-a986-2927427e6f33",
+        "type": "message",
+        "text": "<https:\/\/www.lemonde.fr\/pixels\/article\/2019\/01\/25\/un-programme-d-intelligence-artificielle-ecrase-des-joueurs-professionnels-a-starcraft-ii_5414567_4408996.html>",
+        "user": "U0AA0KVLH",
+        "ts": "1548429720.003400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HLDF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.lemonde.fr\/pixels\/article\/2019\/01\/25\/un-programme-d-intelligence-artificielle-ecrase-des-joueurs-professionnels-a-starcraft-ii_5414567_4408996.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Le Monde.fr",
+                "title": "Un programme d’intelligence artificielle écrase des joueurs professionnels à « Starcraft II »",
+                "title_link": "https:\/\/www.lemonde.fr\/pixels\/article\/2019\/01\/25\/un-programme-d-intelligence-artificielle-ecrase-des-joueurs-professionnels-a-starcraft-ii_5414567_4408996.html",
+                "text": "Le programme développé par DeepMind, déjà à l’origine de la victoire de la machine sur le jeu de go, a remporté dix parties d’affilée de ce jeu considéré comme un grand défi pour l’IA. Et en a perdu une.",
+                "fallback": "Le Monde.fr: Un programme d’intelligence artificielle écrase des joueurs professionnels à « Starcraft II »",
+                "image_url": "https:\/\/img.lemde.fr\/2007\/05\/21\/200\/0\/1600\/800\/1440\/720\/60\/0\/ill_912985_starcraft_2.jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/www.lemonde.fr\/pixels\/article\/2019\/01\/25\/un-programme-d-intelligence-artificielle-ecrase-des-joueurs-professionnels-a-starcraft-ii_5414567_4408996.html",
+                "image_bytes": 179761,
+                "service_icon": "https:\/\/www.lemonde.fr\/dist\/assets\/img\/logos\/pwa-180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.lemonde.fr\/pixels\/article\/2019\/01\/25\/un-programme-d-intelligence-artificielle-ecrase-des-joueurs-professionnels-a-starcraft-ii_5414567_4408996.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "669ec981-b110-440f-83f2-bfd184addf3b",
+        "type": "message",
+        "text": "Comment ça, l'ia triche ?",
+        "user": "U0A48EDPD",
+        "ts": "1548431445.003800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rHS91",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Comment ça, l'ia triche ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3ed8891c-2680-4b47-a0ba-6b7b92830b54",
+        "type": "message",
+        "text": "c'est expliqué dans l'article du monde",
+        "user": "U0AA0KVLH",
+        "ts": "1548431573.004000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1enK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est expliqué dans l'article du monde"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b52d8224-6606-45e0-bd6b-e64e1e3b2b07",
+        "type": "message",
+        "text": "Elle peut voir tout ce qu'elle peut voir alors que l'humain doit déplacer sa caméra",
+        "user": "U0AA0KVLH",
+        "ts": "1548431587.004400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uBPA1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Elle peut voir tout ce qu'elle peut voir alors que l'humain doit déplacer sa caméra"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "83466c8a-613b-42bb-825e-e4f1960bf050",
+        "type": "message",
+        "text": "même si ca ne semble pas si déterminant",
+        "user": "U0AA0KVLH",
+        "ts": "1548431595.004700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hnD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "même si ca ne semble pas si déterminant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c32485ce-f528-4f1a-969e-5704cbbb8042",
+        "type": "message",
+        "text": "Surtout elle ne joue que protoss contre protoss",
+        "user": "U0AA0KVLH",
+        "ts": "1548431617.005400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5hM6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Surtout elle ne joue que protoss contre protoss"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "eb8cf7e1-b610-48ff-9725-e45e61731951",
+        "type": "message",
+        "text": "il y a une des game contre mana ou ça m'a semblé déterminant",
+        "user": "U0M8SF5CG",
+        "ts": "1548432428.006000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7qfz3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "il y a une des game contre mana ou ça m'a semblé déterminant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e2dea20f-7484-4576-b116-5eaf7d3e7425",
+        "type": "message",
+        "text": "Après, de facto, lmia gère le multitask mieux que l'humains :confused:",
+        "user": "U0A48EDPD",
+        "ts": "1548432471.006400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E21n9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Après, de facto, lmia gère le multitask mieux que l'humains "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8f017b9b-3ebc-41a8-a1e3-b9a8b78db2cd",
+        "type": "message",
+        "text": "du coup, le fait qu'elle voit tou, la biaise",
+        "user": "U0A48EDPD",
+        "ts": "1548432498.007300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=U+ov",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "du coup, le fait qu'elle voit tou, la biaise"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1548432507.000000"
+        }
+    },
+    {
+        "client_msg_id": "fef3350f-96b3-4038-83b2-664f085ffe6a",
+        "type": "message",
+        "text": "Apparemment elle ne fait qu'un nombre limité d'actions à la minute",
+        "user": "U0AA0KVLH",
+        "ts": "1548432501.007500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tkT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Apparemment elle ne fait qu'un nombre limité d'actions à la minute"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c6b62649-f9e3-4e53-8a4e-6a7adf98d805",
+        "type": "message",
+        "text": "Elle a appris en copiant les humains donc elle ne joue pas plus vite qu'eux",
+        "user": "U0AA0KVLH",
+        "ts": "1548432523.008500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "txyh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Elle a appris en copiant les humains donc elle ne joue pas plus vite qu'eux"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "57e075ba-b66d-4e48-a1a3-aa529a055f0e",
+        "type": "message",
+        "text": "En revanche sa précision est redoutable",
+        "user": "U0AA0KVLH",
+        "ts": "1548432539.009000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FoRH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En revanche sa précision est redoutable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "53dbde4d-74b6-409f-b2dd-a4f968139862",
+        "type": "message",
+        "text": "le limite d'apm est un autre truc déterminant par rapport au déplacement de caméra, ça compte comme des action normalement",
+        "user": "U0M8SF5CG",
+        "ts": "1548432703.010900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N+O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le limite d'apm est un autre truc déterminant par rapport au déplacement de caméra, ça compte comme des action normalement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

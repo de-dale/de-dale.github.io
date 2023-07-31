@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "3a12bedf-acd9-4535-826d-37a20269a76a",
+        "type": "message",
+        "text": "<https:\/\/medium.com\/@nils.lesieur\/agile-fluency-en-mode-workshop-c36a37b52f92>",
+        "user": "U0A48EDPD",
+        "ts": "1552982273.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FigpP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/@nils.lesieur\/agile-fluency-en-mode-workshop-c36a37b52f92"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Agile Fluency en mode workshop",
+                "title_link": "https:\/\/medium.com\/@nils.lesieur\/agile-fluency-en-mode-workshop-c36a37b52f92",
+                "text": "Une perspective, des conversations et des M&amp;Ms",
+                "fallback": "Medium: Agile Fluency en mode workshop",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/0*T9KeM2bIGZsS9Q_5",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "5 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1552852307,
+                "from_url": "https:\/\/medium.com\/@nils.lesieur\/agile-fluency-en-mode-workshop-c36a37b52f92",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 194633,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*8I-HPL0bfoIzGied-dzOvA.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/@nils.lesieur\/agile-fluency-en-mode-workshop-c36a37b52f92"
+            }
+        ],
+        "thread_ts": "1552636866.000200",
+        "parent_user_id": "U0A48EDPD"
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "a7935936-5190-4cb3-9dfa-763c1cbf0109",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1604574006.027800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1j2a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "640fc1d1-fb11-4775-90b4-4d34040e6244",
+        "type": "message",
+        "text": "<https:\/\/9gag.com\/gag\/aVw850K>",
+        "user": "U0AA0KVLH",
+        "ts": "1604600073.028000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tzw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/9gag.com\/gag\/aVw850K"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "9GAG",
+                "title": "Amazing „Among Us“ Shortfilm",
+                "title_link": "https:\/\/9gag.com\/gag\/aVw850K",
+                "text": "Watch the video and join the fun convo with 9GAG community",
+                "fallback": "9GAG: Amazing „Among Us“ Shortfilm",
+                "image_url": "https:\/\/images-cdn.9gag.com\/photo\/aVw850K_700b.jpg",
+                "from_url": "https:\/\/9gag.com\/gag\/aVw850K",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 60327,
+                "service_icon": "https:\/\/9gag.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/9gag.com\/gag\/aVw850K"
+            }
+        ]
+    }
+]

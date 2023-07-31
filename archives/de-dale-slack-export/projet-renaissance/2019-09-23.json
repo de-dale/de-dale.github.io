@@ -1,0 +1,1308 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FNPGXJFJB",
+                "created": 1569241461,
+                "timestamp": 1569241470,
+                "name": "Update_sur_les_competences",
+                "title": "Update sur les compétences",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "docs",
+                "pretty_type": "Arugula",
+                "user": "U0DTHMU81",
+                "user_team": "T0A48J0MV",
+                "editable": true,
+                "size": 5316,
+                "mode": "docs",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-FNPGXJFJB\/Update_sur_les_competences?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0A48J0MV-FNPGXJFJB\/download\/Update_sur_les_competences?t=xoxe-10144612743-5648014094567-5665001837620-2c38b9d1d30d89a7388af1bb975e1737",
+                "permalink": "https:\/\/de-dale.slack.com\/files\/T0A48J0MV\/FNPGXJFJB",
+                "permalink_public": "https:\/\/slack-files.com\/T0A48J0MV-FNPGXJFJB-c3916ac574",
+                "preview": "<h1>Fonctionnement des compétences<\/h1><h2>Compétences de PJ<\/h2><p>Lorsqu'un pj entreprend une action dont le résultat est incertain et qui présente un risque, le MJ peut lui demander de faire un test de caractéristique pour déterminer la réussite ou l'échec de l'action.<br>Les compétences sont des bonus qui peuvent s'ajouter à ces tests de caractéristiques, sur l'indication du MJ. Leur utilité est purement hors-combat.<br>On peut distinguer <s>3<\/s> 2 types de compétences :<br>·       Exploration : Ces compétences sont utiles pour l'exploration et la compréhension du monde, du lieu où se trouve les pj.<br>Liste des compétences d’exploration : Mobilité \/ Finesse \/ Analyse magique \/ Manipulation d’objet \/ Survie en milieu sauvage \/ Survie en milieu urbain<br>·       Relationnel : Ces compétences servent aux aspects relationnels que les pjs peuvent avoir avec les PNJ.<br>Liste des compétences relationnelles : Bluff \/ Diplomatie \/ Intimidation \/ Psychologie \/ Performance artistique \/ Vie en société<\/p><ul><li><s>Développement : Ces compétences servent au développement de<\/s><\/li><\/ul><p><br><s>la ville et de la communauté des pj.<\/s><br><br>Lorsqu'il gagne un niveau dans sa classe, chaque pj gagne un nombre de points de compétences par catégorie <s>(?)<\/s> à répartir dans les compétences de son choix, jusqu'à un maximum de 15 points dans une compétence.<br>Si un pj devait gagner 1 ou plusieurs points de compétence dans une compétence déjà au maximum, il peut alors à la place mettre ces points dans les compétences de son choix.<\/p><ul><li><em>Différence avec DD\/PF : Il n'y a pas<\/em><\/li><\/ul><p><br><em>de limite au nombre de point qu'on peut mettre à chaque niveau dans une<\/em><br><em>compétence. Ainsi, si un pj a 3 points de compétences à mettre dans<\/em><br><em>Exploration, il peut choisir de mettre les 3 dans Mobilité au niveau 1.<\/em><br>Lorsqu'il a mis 5 points dans une compétence, le pj devient un apprenti dans cette compétence et gagne un bonus au choix parmi ceux proposés pour les apprentis.<br>Lorsqu'il a mis 10 points dans une compétence, le pj devient un expert dans cette compétence et gagne un bonus au choix parmi ceux proposés pour les experts et les apprentis. Il ne peut pas prendre un même bonus plusieurs fois.<br>Lorsqu'il a mis 15 points dans une compétence, le pj devient un maître dans cette compétence et gagne un bonus au choix parmi ceux proposés pour les maîtres, les experts et les apprentis. Il ne peut pas prendre un même bonus plusieurs fois.<br>Les bonus d’apprentis, experts et maîtres ne peuvent plus être changés une fois choisis.<br><\/p><h2>Compétences de communauté<\/h2><p>Au fur et à mesure que leur communauté grossit et de ce que les pj découvrent dans leurs aventures, la communauté va gagner en compétence. Ainsi lorsqu’un artisan compétent arrive dans la communauté, que les pj trouvent un livre sur les rituels magiques ou que leur communauté fait face à une situation critique et s’en sort, les compétences associées pourront progresser.<br>A certains moments, des tests de compétence seront demandés à la communauté. Par exemple, pour créer un objet magique particulièrement puissant, pour déterminer les pouvoirs d’un monstre que les pj affrontent ou pour organiser une rencontre avec des alliés potentiels. Ces tests de compétences se font normalement avec à un bonus de Caractéristique de 0. De plus, plus la communauté sera grande, plus elle sera efficace. Ainsi, tous les X membres de la communauté, elle bénéficiera d’un avantage\/d’un d20 supplémentaire et gardera le meilleur.<br><br>Il existe 3 types de compétences pour la communauté :<br>-       Artisanat :<br>L’artisanat représente la capacité de la communauté à fabriquer des biens et à améliorer son environnement. Elle est caractérisée par des métiers plutôt manuels.<br>Liste des compétences d’artisanat : Spiritueux \/ Calligraphie \/ Cartographie \/ Charpente \/ Cuisine \/ Forge \/ Joaillerie \/ Maçonnerie \/ Travail du cuir \/ Menuiserie \/ Peinture \/ Poterie \/ Verrerie \/ Couture \/ Agriculture \/ Elevage<br>-       Connaissances :<br>Les connaissances correspondent aux savoirs dans différents domaines dont dispose la communauté. Plus un savoir est élevé, plus les pj sauront de choses lorsqu’ils rencontrent une situation inconnue.<br>Liste des compétences de connaissance : Histoire \/ Folklore local \/ Magie \/ Géographie \/ Nature \/ Ingénierie \/ Religion \/ Plans (?) \/ Monstres<br>è <em>Contrairement à DD\/PF, les pj ne connaissent rien du monde. La première fois qu’ils rencontrent une nouvelle créature ou situation, ils ne peuvent rien savoir d’elle. Par contre, lorsqu’une compétence pouvant les aider possède des points dedans, un test de compétence est fait par la communauté pour déterminer ce qu’elle sait de la créature\/situation.<\/em><br>-       Gestion :<br>La gestion est la capacité de la communauté à gérer ses différends aspects communautaires.<br>Listes de compétences de gestion : Organisation \/ Loi \/ Budget \/ Management \/ Immobilier \/ Commerce<\/p>",
+                "editor": null,
+                "last_editor": "U0DTHMU81",
+                "non_owner_editable": false,
+                "updated": 1569241470,
+                "is_starred": false,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0DTHMU81",
+        "display_as_bot": false,
+        "ts": "1569241492.007900"
+    },
+    {
+        "client_msg_id": "e9f7debf-e598-45bd-95f6-43ff2173ff10",
+        "type": "message",
+        "text": "C'est quoi connaissance monstre ?",
+        "user": "U0AA0KVLH",
+        "ts": "1569243570.008600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Le\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est quoi connaissance monstre ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "097c1661-4951-441d-872c-8e81057e13f4",
+        "type": "message",
+        "text": "Exploration souterraine\/donjon passe dans quoi ?",
+        "user": "U0AA0KVLH",
+        "ts": "1569243602.009400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3lt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exploration souterraine\/donjon passe dans quoi ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569243602.009400",
+        "reply_count": 10,
+        "reply_users_count": 2,
+        "latest_reply": "1569245305.018100",
+        "reply_users": [
+            "U0DTHMU81",
+            "U0AA0KVLH"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1569244954.010300"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1569244979.010500"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1569244986.010700"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1569245007.010900"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1569245033.011100"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1569245045.011400"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1569245080.012400"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1569245274.017600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1569245286.017800"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1569245305.018100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8e5fcd3c-fec7-417f-aa99-70415ef59950",
+        "type": "message",
+        "text": "Connaissance des créatures rencontrées.",
+        "user": "U0DTHMU81",
+        "ts": "1569244926.010000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Aw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Connaissance des créatures rencontrées."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5d349a67-3773-48e8-accb-e2d8cfa61992",
+        "type": "message",
+        "text": "Ça servait à quoi ?",
+        "user": "U0DTHMU81",
+        "ts": "1569244954.010300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n=HED",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ça servait à quoi ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569243602.009400",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "888b22c0-d275-454e-a23b-1035c1f93013",
+        "type": "message",
+        "text": "Ça a été dilué dans le reste.",
+        "user": "U0DTHMU81",
+        "ts": "1569244979.010500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8kdRF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ça a été dilué dans le reste."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569243602.009400",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "ff04b215-9d52-4d6b-b8ce-cd3904ff18d2",
+        "type": "message",
+        "text": "Aberration, champignon, écologie souterraine",
+        "user": "U0AA0KVLH",
+        "ts": "1569244986.010700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JFjB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aberration, champignon, écologie souterraine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569243602.009400",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "56474d6a-27f8-426e-be34-49c1af6a8b0e",
+        "type": "message",
+        "text": "Milieu sauvage donc",
+        "user": "U0DTHMU81",
+        "ts": "1569245007.010900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s0dy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Milieu sauvage donc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569243602.009400",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "d01c8020-b188-4a7a-aa5e-b6b9e27a5071",
+        "type": "message",
+        "text": "Drow, duergar...",
+        "user": "U0AA0KVLH",
+        "ts": "1569245033.011100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R2L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Drow, duergar..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569243602.009400",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "c8727967-6a6a-4400-886c-2f58c6076f58",
+        "type": "message",
+        "text": "Humanoïde.",
+        "user": "U0DTHMU81",
+        "ts": "1569245045.011400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UZFCe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Humanoïde."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569243602.009400",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "a8af1523-8862-4d8f-8b5a-29b4b2ce58b7",
+        "type": "message",
+        "text": "Ca fait un peu connaissance poubelle de tout ce qui n'a pas été typé.",
+        "user": "U0DTHMU81",
+        "ts": "1569245080.012400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HqQO7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca fait un peu connaissance poubelle de tout ce qui n'a pas été typé."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569243602.009400",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "ce4c12f0-5a11-440b-916f-4a2b41530f36",
+        "type": "message",
+        "text": "Les autres connaissances ne servent pas pour les monstres alors ? Golem, dragon, fée, orque c'est de la compétence Monstre ?",
+        "user": "U0AA0KVLH",
+        "ts": "1569245111.013400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GIb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les autres connaissances ne servent pas pour les monstres alors ? Golem, dragon, fée, orque c'est de la compétence Monstre ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "57240260-6263-423a-a7b5-905d17333d2c",
+        "type": "message",
+        "text": "Pour le moment oui",
+        "user": "U0DTHMU81",
+        "ts": "1569245121.013700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kqcA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour le moment oui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3198be14-a92f-4167-9740-672cb30fd5a8",
+        "type": "message",
+        "text": "J'y mettrai ptet des sous types",
+        "user": "U0DTHMU81",
+        "ts": "1569245143.014100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bMe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'y mettrai ptet des sous types"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "150ac84e-571e-415b-ad2e-84167ad0a37b",
+        "type": "message",
+        "text": "En l'état elle semble plus forte",
+        "user": "U0AA0KVLH",
+        "ts": "1569245184.014800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y6zc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En l'état elle semble plus forte"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "44e73283-821a-40ce-a10c-131370991682",
+        "type": "message",
+        "text": "Je dirais déjà que humanoïdes ça va dans folklore local comme d'hab et extérieur dans plan, ça disperse un peu",
+        "user": "U0AA0KVLH",
+        "ts": "1569245226.017200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yks8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je dirais déjà que humanoïdes ça va dans folklore local comme d'hab et extérieur dans plan, ça disperse un peu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3035176c-3a4f-4f4b-898e-1f2e1b9e187c",
+        "type": "message",
+        "text": "Vu qu'on ne peut pas choisir de mettre des points dedans au détriment d'une autre, ca ne me semble pas trop gênant.",
+        "user": "U0DTHMU81",
+        "ts": "1569245234.017500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hyrRP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vu qu'on ne peut pas choisir de mettre des points dedans au détriment d'une autre, ca ne me semble pas trop gênant."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "37e836f3-0013-462f-9db2-e8b24411ff4a",
+        "type": "message",
+        "text": "Comme bcp de chose. Géographie, on pourrait mettre dans nature ou autre.",
+        "user": "U0AA0KVLH",
+        "ts": "1569245274.017600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8wFwu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Comme bcp de chose. Géographie, on pourrait mettre dans nature ou autre."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569243602.009400",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "13dec134-0220-498c-b9e3-b2c5718bc2ea",
+        "type": "message",
+        "text": "Yep",
+        "user": "U0DTHMU81",
+        "ts": "1569245286.017800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s=aZQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DTHMU81",
+            "ts": "1569245294.000000"
+        },
+        "thread_ts": "1569243602.009400",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "beb3fb07-0808-48de-a6fb-df7bf3bb30e3",
+        "type": "message",
+        "text": "D'où ma nouvelle répartition.",
+        "user": "U0DTHMU81",
+        "ts": "1569245305.018100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aWEWy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "D'où ma nouvelle répartition."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1569243602.009400",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "b6c7e770-1010-4b7a-aa37-b3065a3dec49",
+        "type": "message",
+        "text": "Le folklore local sera plus les US et coutumes du peuple rencontre.",
+        "user": "U0DTHMU81",
+        "ts": "1569245392.019000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0dB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le folklore local sera plus les US et coutumes du peuple rencontre."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6061b0c8-d3bb-4f6f-a852-2e4acd727079",
+        "type": "message",
+        "text": "Les plans (s'il y a) sur la structure des plans et leurs caractéristiques.",
+        "user": "U0DTHMU81",
+        "ts": "1569245429.020100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GiXYe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les plans (s'il y a) sur la structure des plans et leurs caractéristiques."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4a39dcd2-300f-43a1-9f92-e696f6b862ac",
+        "type": "message",
+        "text": "L'idée est aussi d'offrir D autres options que le combat aux pj.",
+        "user": "U0DTHMU81",
+        "ts": "1569245478.020900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "erB\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L'idée est aussi d'offrir D autres options que le combat aux pj."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0f9e20d6-0c55-4bb3-b792-6f9a8265f21e",
+        "type": "message",
+        "text": "S'ils tombent sur une créature dont ils connaissent le signe du salut, elle ne les attaquera ptet pas. Elle pourrait même fournir des infos voir devenir un allié.",
+        "user": "U0DTHMU81",
+        "ts": "1569245528.022500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Avuf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "S'ils tombent sur une créature dont ils connaissent le signe du salut, elle ne les attaquera ptet pas. Elle pourrait même fournir des infos voir devenir un allié."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ba75ae7e-ebb0-47c1-86de-a33a529cd216",
+        "type": "message",
+        "text": "Je sais que ca parait bizarre dans un projet dont l'objectif est de reconstruire le module de combat.",
+        "user": "U0DTHMU81",
+        "ts": "1569245565.023600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WER",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je sais que ca parait bizarre dans un projet dont l'objectif est de reconstruire le module de combat."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "squirrel",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd23f807-caf5-4610-a731-3738f4c6dfb0",
+        "type": "message",
+        "text": "Mais je compte sur les joueurs pour taper sur tout ce qui passe.",
+        "user": "U0DTHMU81",
+        "ts": "1569245585.024200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rsH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mais je compte sur les joueurs pour taper sur tout ce qui passe."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4365fd20-a573-4ebf-bc37-098aa72ea212",
+        "type": "message",
+        "text": "Ça dépend des joueurs. Tu sais qu'avec moi, c'est prendre un risque",
+        "user": "U0AA0KVLH",
+        "ts": "1569245632.025000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xbh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ça dépend des joueurs. Tu sais qu'avec moi, c'est prendre un risque"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6a0e5a15-08de-48a2-bd81-396947d092a3",
+        "type": "message",
+        "text": "Lequel ?",
+        "user": "U0DTHMU81",
+        "ts": "1569245649.025300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lpN=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lequel ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9e370d13-8a58-49ca-b6af-e1f0b46af867",
+        "type": "message",
+        "text": "Je ne tape pas sur tout ce qui passe",
+        "user": "U0AA0KVLH",
+        "ts": "1569245671.026100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ecax",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je ne tape pas sur tout ce qui passe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9379c985-9e71-4c6b-9197-85832bb1f33a",
+        "type": "message",
+        "text": "Que tu fasses pote avec la tarrasque en face ?",
+        "user": "U0DTHMU81",
+        "ts": "1569245672.026300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "myJT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Que tu fasses pote avec la tarrasque en face ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9ce0a3cb-351d-4fff-b82d-a5823fe01962",
+        "type": "message",
+        "text": "Avec son bébé",
+        "user": "U0AA0KVLH",
+        "ts": "1569245684.026600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mH0iI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Avec son bébé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "42129a59-6bad-45ec-8eef-6ccdbc3b0a01",
+        "type": "message",
+        "text": "Je l'appellerai Poupy",
+        "user": "U0AA0KVLH",
+        "ts": "1569245693.027000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e7Wzl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je l'appellerai Poupy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

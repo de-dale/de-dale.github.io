@@ -1,0 +1,257 @@
+[
+    {
+        "client_msg_id": "868be446-dfe7-4a2f-b896-c5d8301a8cce",
+        "type": "message",
+        "text": "??\nJ'ai dû rater un truc là. On joue bien en Chronique Oubliées Fantasy Deluxe ? Si oui, ils parlent de 6 points de carac (p15). Si non, je veux bien savoir de quel système il s'agit.",
+        "user": "U0DTHMU81",
+        "ts": "1586680520.003300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZIjd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "??\nJ'ai dû rater un truc là. On joue bien en Chronique Oubliées Fantasy Deluxe ? Si oui, ils parlent de 6 points de carac (p15). Si non, je veux bien savoir de quel système il s'agit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586544089.002100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "8ebce31d-16bc-4be9-858b-1fefb2498bdd",
+        "type": "message",
+        "text": "Il y a peut-être une différence entre cette version et celle que j'ai, ce n'est pas impossible. La règle de base que j'ai c'est : tirage aux dés, la seule de prévue. Il existe une règle optionnelle par méthode d'achat. Je vous sorts les couts, elle est un peu particulière.",
+        "user": "U0AA0KVLH",
+        "ts": "1586690839.003500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2sgiB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il y a peut-être une différence entre cette version et celle que j'ai, ce n'est pas impossible. La règle de base que j'ai c'est : tirage aux dés, la seule de prévue. Il existe une règle optionnelle par méthode d'achat. Je vous sorts les couts, elle est un peu particulière."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586544089.002100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "50bfa101-f454-4906-914f-63050f6c081f",
+        "type": "message",
+        "text": "Règle de création : Toutes les caracs sont à 8 de base. Vous avez 14 points d'achats :\n• 10 : 1 point\n• 12 : 2 points\n• 14 : 3 points\n• 16 : 5 points\n• 18 : 10 points.\nEnsuite choissisez 3 stats qui auront +1 afin d'être impair",
+        "user": "U0AA0KVLH",
+        "ts": "1586690975.005200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q\/PK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Règle de création : Toutes les caracs sont à 8 de base. Vous avez 14 points d'achats :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "10 : 1 point"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "12 : 2 points"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "14 : 3 points"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "16 : 5 points"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "18 : 10 points."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ensuite choissisez 3 stats qui auront +1 afin d'être impair"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7fc5773c-910e-4e43-a2e6-c56e75523b7c",
+        "type": "message",
+        "text": "en vrai un forgesort avec un golem en forme de chat taille G avec baliste et rétropropulseurs intégrés ça a l'air trop drôle",
+        "user": "U0DTHMU81",
+        "ts": "1586697597.006200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a7Zsq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en vrai un forgesort avec un golem en forme de chat taille G avec baliste et rétropropulseurs intégrés ça a l'air trop drôle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cadbb3df-7672-42e1-aa13-c701ecc0d749",
+        "type": "message",
+        "text": "lol",
+        "user": "U0AA0KVLH",
+        "ts": "1586698361.006400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qvG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

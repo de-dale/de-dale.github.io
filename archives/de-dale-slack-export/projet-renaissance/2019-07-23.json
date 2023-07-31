@@ -1,0 +1,25 @@
+[
+    {
+        "type": "message",
+        "subtype": "group_join",
+        "ts": "1563871750.000200",
+        "user": "U0DTHMU81",
+        "text": "<@U0DTHMU81> has joined the group"
+    },
+    {
+        "type": "message",
+        "subtype": "group_purpose",
+        "ts": "1563871751.000300",
+        "user": "U0DTHMU81",
+        "text": "set the channel's purpose: Discuter autour du projet Renaissance en cours de développement",
+        "purpose": "Discuter autour du projet Renaissance en cours de développement"
+    },
+    {
+        "type": "message",
+        "subtype": "group_join",
+        "ts": "1563871775.000500",
+        "user": "UF8MHGM1N",
+        "text": "<@UF8MHGM1N> has joined the group",
+        "inviter": "U0DTHMU81"
+    }
+]

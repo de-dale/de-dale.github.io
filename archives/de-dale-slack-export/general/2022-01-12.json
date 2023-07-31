@@ -1,0 +1,113 @@
+[
+    {
+        "client_msg_id": "10853324-2553-4ba3-b342-7ad83492bd5d",
+        "type": "message",
+        "text": "On devrait mettre des trucs de cul, je suis sur que ca attirerait du monde",
+        "user": "U0AA0KVLH",
+        "ts": "1641986483.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vedgo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On devrait mettre des trucs de cul, je suis sur que ca attirerait du monde"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eggplant",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db5cd85e-c3e6-4ca4-8140-9d88e7e8237d",
+        "type": "message",
+        "text": "salut, c'est pas du cul mais ça peut aussi attirer du monde, ce soir 20h il y a une émission JDR politique, potentiellement bien marrant <https:\/\/twitter.com\/clemovitch\/status\/1481228043607842817>",
+        "user": "U0M8SF5CG",
+        "ts": "1642007364.001800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h0mp3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "salut, c'est pas du cul mais ça peut aussi attirer du monde, ce soir 20h il y a une émission JDR politique, potentiellement bien marrant "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/clemovitch\/status\/1481228043607842817"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/twitter.com\/clemovitch\/status\/1481228043607842817",
+                "ts": 1641987260,
+                "image_url": "https:\/\/pbs.twimg.com\/media\/FI5hDX9WQAIQgmT.jpg",
+                "image_width": 1200,
+                "image_height": 675,
+                "image_bytes": 43210,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/clemovitch\/status\/1481228043607842817",
+                "fallback": "<https:\/\/twitter.com\/clemovitch|@clemovitch>: On se retrouve ce soir, 20h, sur Twitch, pour le 1er épisode de Game of Rôles - Les Deux Tours : le jeux de rôles politique de <https:\/\/twitter.com\/FibreTigre|@FibreTigre>, en partenariat avec <https:\/\/twitter.com\/franceinfo|@franceinfo> et <https:\/\/twitter.com\/Gozulting|@Gozulting> !\n\nAvec également <https:\/\/twitter.com\/mistermv|@mistermv>, <https:\/\/twitter.com\/dazjdm|@dazjdm>, <https:\/\/twitter.com\/JaklineM|@JaklineM> et <https:\/\/twitter.com\/JulesDeKiss|@JulesDeKiss> !\n\n:tv: <http:\/\/twitch.tv\/clemovitch> <https:\/\/pbs.twimg.com\/media\/FI5hDX9WQAIQgmT.jpg>",
+                "text": "On se retrouve ce soir, 20h, sur Twitch, pour le 1er épisode de Game of Rôles - Les Deux Tours : le jeux de rôles politique de <https:\/\/twitter.com\/FibreTigre|@FibreTigre>, en partenariat avec <https:\/\/twitter.com\/franceinfo|@franceinfo> et <https:\/\/twitter.com\/Gozulting|@Gozulting> !\n\nAvec également <https:\/\/twitter.com\/mistermv|@mistermv>, <https:\/\/twitter.com\/dazjdm|@dazjdm>, <https:\/\/twitter.com\/JaklineM|@JaklineM> et <https:\/\/twitter.com\/JulesDeKiss|@JulesDeKiss> !\n\n:tv: <http:\/\/twitch.tv\/clemovitch> <https:\/\/pbs.twimg.com\/media\/FI5hDX9WQAIQgmT.jpg>",
+                "author_name": "Clément Viktorovitch",
+                "author_link": "https:\/\/twitter.com\/clemovitch\/status\/1481228043607842817",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/793597009072627712\/ASGWA3tK_normal.jpg",
+                "author_subname": "@clemovitch",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

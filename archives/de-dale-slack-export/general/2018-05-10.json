@@ -1,0 +1,64 @@
+[
+    {
+        "type": "message",
+        "text": "J'arrive pas à arrêter d'écouter cette pub. <https:\/\/www.youtube.com\/watch?v=2xM-hdp56VQ>",
+        "user": "U0DSEQH9S",
+        "ts": "1525946195.000158",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GrKf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'arrive pas à arrêter d'écouter cette pub. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=2xM-hdp56VQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "The Worst Song In The World",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=2xM-hdp56VQ",
+                "author_name": "Monoprix",
+                "author_link": "https:\/\/www.youtube.com\/user\/monoprix",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/2xM-hdp56VQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: The Worst Song In The World",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/2xM-hdp56VQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=2xM-hdp56VQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=2xM-hdp56VQ"
+            }
+        ]
+    }
+]

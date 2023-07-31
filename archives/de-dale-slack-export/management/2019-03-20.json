@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "7e4445dc-7c02-4d8d-959c-70905d42f542",
+        "type": "message",
+        "text": "<https:\/\/zenexmachina.wordpress.com\/tag\/download\/>",
+        "user": "U0A48EDPD",
+        "ts": "1553070240.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xqXjt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zenexmachina.wordpress.com\/tag\/download\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "download – Zen Ex Machina – The blog",
+                "title_link": "https:\/\/zenexmachina.wordpress.com\/tag\/download\/",
+                "text": "Posts about download written by Matthew Hodgson and Stuart Hume",
+                "fallback": "download – Zen Ex Machina – The blog",
+                "from_url": "https:\/\/zenexmachina.wordpress.com\/tag\/download\/",
+                "service_icon": "https:\/\/secure.gravatar.com\/blavatar\/8d0923bff156ada86fe9602b3793abe2?s=114",
+                "service_name": "Zen Ex Machina - The blog",
+                "id": 1,
+                "original_url": "https:\/\/zenexmachina.wordpress.com\/tag\/download\/"
+            }
+        ]
+    }
+]

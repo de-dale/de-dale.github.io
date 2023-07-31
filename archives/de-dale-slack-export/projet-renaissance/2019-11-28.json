@@ -1,0 +1,98 @@
+[
+    {
+        "type": "message",
+        "text": "Exemple de Fanatique de lvl 1 pour test.",
+        "files": [
+            {
+                "id": "FQRFTMNN7",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "user": "U0DTHMU81",
+        "display_as_bot": false,
+        "ts": "1574955128.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VxK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exemple de Fanatique de lvl 1 pour test."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a8214e23-7081-4a47-a6c8-0bde25c632ab"
+    },
+    {
+        "type": "message",
+        "text": "Exemple d'Enragé lvl 1 pour test",
+        "files": [
+            {
+                "id": "FR2GEN0KW",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "user": "U0DTHMU81",
+        "display_as_bot": false,
+        "ts": "1574955682.000700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pP1AS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exemple d'Enragé lvl 1 pour test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "feeb5449-49a7-48a2-af75-847aadd3e8d4"
+    },
+    {
+        "type": "message",
+        "text": "Exemple de Barde lvl 1 pour test",
+        "files": [
+            {
+                "id": "FR4UEH3HV",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "user": "U0DTHMU81",
+        "display_as_bot": false,
+        "ts": "1574961232.000900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/8elg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exemple de Barde lvl 1 pour test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2d897784-f1fd-45a8-889f-2e12a54f714b"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "9d143334-1f25-426b-afb6-a47a4feb015b",
+        "type": "message",
+        "text": "<https:\/\/clips.twitch.tv\/InventiveBetterCatChefFrank-m0F_IrLmmCdgicOR>",
+        "user": "U0M8SF5CG",
+        "ts": "1614014000.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AS6EH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/clips.twitch.tv\/InventiveBetterCatChefFrank-m0F_IrLmmCdgicOR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Twitch",
+                "title": "OgamingSC2 - Une nuke",
+                "title_link": "https:\/\/clips.twitch.tv\/InventiveBetterCatChefFrank-m0F_IrLmmCdgicOR",
+                "text": "Watch OgamingSC2's clip titled \"Une nuke\"",
+                "fallback": "Twitch: OgamingSC2 - Une nuke",
+                "thumb_url": "https:\/\/clips-media-assets2.twitch.tv\/41188960732-offset-11998-social-preview.jpg",
+                "image_url": "https:\/\/clips-media-assets2.twitch.tv\/41188960732-offset-11998-social-preview.jpg",
+                "from_url": "https:\/\/clips.twitch.tv\/InventiveBetterCatChefFrank-m0F_IrLmmCdgicOR",
+                "thumb_width": 1920,
+                "thumb_height": 1080,
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 212425,
+                "service_icon": "https:\/\/static.twitchcdn.net\/assets\/favicon-32-d6025c14e900565d6177.png",
+                "id": 1,
+                "original_url": "https:\/\/clips.twitch.tv\/InventiveBetterCatChefFrank-m0F_IrLmmCdgicOR"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b1cbfbf6-df90-4034-9326-493643529917",
+        "type": "message",
+        "text": "Il prend tellement cher le zerg...",
+        "user": "U0A48EDPD",
+        "ts": "1614023555.001000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sk+d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il prend tellement cher le zerg..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

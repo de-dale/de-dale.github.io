@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "91e07d0c-5b46-44fd-97a0-508bfe82a756",
+        "type": "message",
+        "text": "*Agile Fluency Model* est un modèle d'analyse et de lecture de la maturité des équipes agiles.\nL'article, très complet, présente le modèle, ses différentes phases, et met l'accent sur les bénéfices que l'on peut tirer à investir de l'effort dans une phase ou une autre.\n<https:\/\/martinfowler.com\/articles\/agileFluency.html>",
+        "user": "U0A48EDPD",
+        "ts": "1552636866.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j2Ip",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agile Fluency Model",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " est un modèle d'analyse et de lecture de la maturité des équipes agiles.\nL'article, très complet, présente le modèle, ses différentes phases, et met l'accent sur les bénéfices que l'on peut tirer à investir de l'effort dans une phase ou une autre.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/martinfowler.com\/articles\/agileFluency.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "martinfowler.com",
+                "title": "The Agile Fluency Model",
+                "title_link": "https:\/\/martinfowler.com\/articles\/agileFluency.html",
+                "text": "The agile fluency model describes four zones of fluency that teams typically exhibit as their skill with agile methods improves.",
+                "fallback": "martinfowler.com: The Agile Fluency Model",
+                "image_url": "https:\/\/martinfowler.com\/articles\/agileFluency\/agile-fluency-model-v2-simple-2-1.png",
+                "from_url": "https:\/\/martinfowler.com\/articles\/agileFluency.html",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 84527,
+                "service_icon": "https:\/\/martinfowler.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/martinfowler.com\/articles\/agileFluency.html"
+            }
+        ],
+        "thread_ts": "1552636866.000200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1552982273.000100",
+        "reply_users": [
+            "U0A48EDPD"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1552982273.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1552982273.000100"
+    }
+]

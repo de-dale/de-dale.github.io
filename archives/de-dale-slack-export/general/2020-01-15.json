@@ -1,0 +1,425 @@
+[
+    {
+        "client_msg_id": "4bb4823a-7f00-4ec5-9dcd-1729dbd02a74",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1579100982.008500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zj+8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4a3c4309-b754-490e-b8df-14775c3a9ffa",
+        "type": "message",
+        "text": "Comme je sens qu'il n'y a pas beaucoup d'émotions ici",
+        "user": "U0AA0KVLH",
+        "ts": "1579101087.009000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f4X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Comme je sens qu'il n'y a pas beaucoup d'émotions ici"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "frowning",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b247ea6-0eec-4b70-81de-ff6240fb442a",
+        "type": "message",
+        "text": "Je place ça là",
+        "user": "U0AA0KVLH",
+        "ts": "1579101090.009200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nu\/+D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je place ça là"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "78e9157c-6488-476c-ba98-b4e87a5e9cfe",
+        "type": "message",
+        "text": "<https:\/\/www.lemonde.fr\/pixels\/article\/2020\/01\/15\/sites-pornographiques-les-donnees-de-4-000-camgirls-exposees-sans-protection-en-ligne_6025975_4408996.html>",
+        "user": "U0AA0KVLH",
+        "ts": "1579101091.009400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZhZO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.lemonde.fr\/pixels\/article\/2020\/01\/15\/sites-pornographiques-les-donnees-de-4-000-camgirls-exposees-sans-protection-en-ligne_6025975_4408996.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Le Monde.fr",
+                "title": "Sites pornographiques : les données de 4 000 « camgirls » exposées sans protection en ligne",
+                "title_link": "https:\/\/www.lemonde.fr\/pixels\/article\/2020\/01\/15\/sites-pornographiques-les-donnees-de-4-000-camgirls-exposees-sans-protection-en-ligne_6025975_4408996.html",
+                "text": "Des fichiers contenant notamment des copies de pièces d’identité de ces « camgirls », qui réalisent des shows pornographiques en direct, étaient accessibles sur un serveur mal protégé.",
+                "fallback": "Le Monde.fr: Sites pornographiques : les données de 4 000 « camgirls » exposées sans protection en ligne",
+                "image_url": "https:\/\/img.lemde.fr\/2020\/01\/10\/67\/0\/809\/404\/1440\/720\/60\/0\/5cebc49_GptIL3YVcMifRhqT41JHD4Ay.PNG",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/www.lemonde.fr\/pixels\/article\/2020\/01\/15\/sites-pornographiques-les-donnees-de-4-000-camgirls-exposees-sans-protection-en-ligne_6025975_4408996.html",
+                "image_bytes": 1060966,
+                "service_icon": "https:\/\/www.lemonde.fr\/dist\/assets\/img\/logos\/pwa-180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.lemonde.fr\/pixels\/article\/2020\/01\/15\/sites-pornographiques-les-donnees-de-4-000-camgirls-exposees-sans-protection-en-ligne_6025975_4408996.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1315f570-9c31-4b41-8efd-6d74dc8b632c",
+        "type": "message",
+        "text": "Voila, du cul, ya pas plus vendeur !",
+        "user": "U0AA0KVLH",
+        "ts": "1579101100.009800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hA2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Voila, du cul, ya pas plus vendeur !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b393e4f3-9d6b-4cdf-9d4a-8761876f4962",
+        "type": "message",
+        "text": "La CNIL se doit d'intervenir, il y a urgence",
+        "user": "U63CG7FCZ",
+        "ts": "1579102640.010100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nkGh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La CNIL se doit d'intervenir, il y a urgence"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g637f49bb175",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d637f49bb1756e01df7ed795e693ac56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Julien",
+            "real_name": "Julien LOPEZ",
+            "display_name": "ashyrra",
+            "team": "T0A48J0MV",
+            "name": "ashyrra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6f317e8a-388b-4449-84b1-7c643bef72a4",
+        "type": "message",
+        "text": "Tu veux protéger tes données ou celle de Charlotte là ?",
+        "user": "U0AA0KVLH",
+        "ts": "1579104070.010600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T8yF5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu veux protéger tes données ou celle de Charlotte là ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "759bcb56-1430-4f5f-ad17-9e6580a22067",
+        "type": "message",
+        "text": "Sinon plus pour vous ca :",
+        "user": "U0AA0KVLH",
+        "ts": "1579104080.010800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mn4H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sinon plus pour vous ca :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f74160a0-4585-4db0-b889-268c73a2a474",
+        "type": "message",
+        "text": "<http:\/\/www.jeuxvideo.com\/news\/1170479\/pathfinder-wrath-of-the-righteous-la-campagne-kickstarter-sera-lancee-le-4-fevrier.htm>",
+        "user": "U0AA0KVLH",
+        "ts": "1579104081.011000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g0o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.jeuxvideo.com\/news\/1170479\/pathfinder-wrath-of-the-righteous-la-campagne-kickstarter-sera-lancee-le-4-fevrier.htm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Jeuxvideo.com",
+                "title": "Pathfinder : Wrath of the Righteous - la campagne Kickstarter sera lancée le 4 février",
+                "title_link": "http:\/\/www.jeuxvideo.com\/news\/1170479\/pathfinder-wrath-of-the-righteous-la-campagne-kickstarter-sera-lancee-le-4-fevrier.htm",
+                "text": "Annoncé en décembre dernier, Pathfinder : Wrath of the Righteous va passer par la case Kickstarter pour son financement. Le studio Owlcat donne rendez-vous aux amateurs de CRPG le 4 février prochain. En attendant le lancement de cette campagne, le directeur créatif Alexander Mishulin a pris la parol...",
+                "fallback": "Jeuxvideo.com: Pathfinder : Wrath of the Righteous - la campagne Kickstarter sera lancée le 4 février",
+                "image_url": "http:\/\/image.jeuxvideo.com\/medias-md\/157909\/1579085089-3836-card.jpg",
+                "from_url": "http:\/\/www.jeuxvideo.com\/news\/1170479\/pathfinder-wrath-of-the-righteous-la-campagne-kickstarter-sera-lancee-le-4-fevrier.htm",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 167910,
+                "service_icon": "http:\/\/www.jeuxvideo.com\/apple-icon-180x180.png",
+                "id": 1,
+                "original_url": "http:\/\/www.jeuxvideo.com\/news\/1170479\/pathfinder-wrath-of-the-righteous-la-campagne-kickstarter-sera-lancee-le-4-fevrier.htm"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55787cf3-2905-4c9a-9a91-81d961ee0fd8",
+        "type": "message",
+        "text": "insta buy qd ça sort",
+        "user": "U63CG7FCZ",
+        "ts": "1579104635.011300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "53HN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "insta buy qd ça sort"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g637f49bb175",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d637f49bb1756e01df7ed795e693ac56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Julien",
+            "real_name": "Julien LOPEZ",
+            "display_name": "ashyrra",
+            "team": "T0A48J0MV",
+            "name": "ashyrra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

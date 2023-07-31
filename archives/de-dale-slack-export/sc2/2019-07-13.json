@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "701a4b90-ef29-4884-aadb-2513a29c8251",
+        "type": "message",
+        "text": "Je viens de trouver ce build, qui a l'air fun :\nZvP - Nydus\/Swarm Host\n<https:\/\/youtu.be\/PeYR8Aoiz54>",
+        "user": "U0A48EDPD",
+        "ts": "1563034321.001100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LWIR9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je viens de trouver ce build, qui a l'air fun :\nZvP - Nydus\/Swarm Host\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/PeYR8Aoiz54"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "StarCraft 2 - ZvP - Nydus\/Swarm Host 🧀 Le Build Order de l'Enfer ! [FR]",
+                "title_link": "https:\/\/youtu.be\/PeYR8Aoiz54",
+                "author_name": "zuka Ingame",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCtGX4FlsY17jn4qXynaUzsg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/PeYR8Aoiz54\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: StarCraft 2 - ZvP - Nydus\/Swarm Host 🧀 Le Build Order de l'Enfer ! [FR]",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/PeYR8Aoiz54?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/PeYR8Aoiz54",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/PeYR8Aoiz54"
+            }
+        ]
+    }
+]

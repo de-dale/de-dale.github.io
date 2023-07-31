@@ -1,0 +1,239 @@
+[
+    {
+        "type": "message",
+        "text": "\/roll 1d20",
+        "user": "U0A48EDPD",
+        "ts": "1493553884.952984",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dyr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\/roll 1d20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*faby* a lancé _1d20_\nObtenu : 8",
+        "ts": "1493553884.952995",
+        "bot_id": "B4RT2GVS5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GmY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "faby",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " a lancé "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1d20",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nObtenu : 8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/roll 2d13+5d6-12+3*4",
+        "user": "U0A48EDPD",
+        "ts": "1493554136.963781",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "79N3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\/roll 2d13+5d6-12+3*4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*faby* a lancé _2d13+5d6-12+3*4_\nObtenu : 26",
+        "ts": "1493554136.963782",
+        "bot_id": "B4RT2GVS5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vW9k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "faby",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " a lancé "
+                            },
+                            {
+                                "type": "text",
+                                "text": "2d13+5d6-12+3*4",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nObtenu : 26"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/roll 1d20 + 5",
+        "user": "U0A48EDPD",
+        "ts": "1493555149.003259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zbpf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\/roll 1d20 + 5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*faby* a lancé _1d20 + 5_\nObtenu : 14",
+        "ts": "1493555149.003266",
+        "bot_id": "B4RT2GVS5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=uBCc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "faby",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " a lancé "
+                            },
+                            {
+                                "type": "text",
+                                "text": "1d20 + 5",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nObtenu : 14"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

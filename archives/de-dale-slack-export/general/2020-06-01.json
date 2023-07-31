@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "99427a58-1bf5-4cf0-9f55-6a58bbc463af",
+        "type": "message",
+        "text": "plop fériéquinestpasférié",
+        "user": "U0A48EDPD",
+        "ts": "1590995248.236300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uBK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop fériéquinestpasférié"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6f0ca478-dab4-4212-859f-a39fbd2096df",
+        "type": "message",
+        "text": "ouai c'est l'arnaque je bossait pas ce lundi j'ai rien gagn\" pfff",
+        "user": "U0A9S1HCJ",
+        "ts": "1591008501.236800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yEm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ouai c'est l'arnaque je bossait pas ce lundi j'ai rien gagn\" pfff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g351ac31741f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a351ac31741fb51a9a267c46482d3522.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "findus",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "findus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

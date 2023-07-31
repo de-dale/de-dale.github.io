@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "8117a76c-d14d-444b-8ca6-3405cd8b52c2",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=aQR2hsWWXEg&amp;list=PLyVS60tuFRNDoDf6eAFg39mZLHWVx1OlB>",
+        "user": "U0AA0KVLH",
+        "ts": "1566839948.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iwR=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=aQR2hsWWXEg&amp;list=PLyVS60tuFRNDoDf6eAFg39mZLHWVx1OlB",
+                                "text": "https:\/\/www.youtube.com\/watch?v=aQR2hsWWXEg&list=PLyVS60tuFRNDoDf6eAFg39mZLHWVx1OlB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Histoire de Golarion 1\/6",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=aQR2hsWWXEg",
+                "author_name": "Team Zantetsuken",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCtUM-jQsWpIgYE-wXflVyYw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/aQR2hsWWXEg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Histoire de Golarion 1\/6",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/aQR2hsWWXEg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=aQR2hsWWXEg",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=aQR2hsWWXEg&amp;list=PLyVS60tuFRNDoDf6eAFg39mZLHWVx1OlB"
+            }
+        ]
+    }
+]

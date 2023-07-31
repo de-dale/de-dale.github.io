@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "6346370c-9d82-4068-bad3-2cde8e398338",
+        "type": "message",
+        "text": "@ben tu refais du Lego ? J'ai trouvé ce jeu de slides, si ça t'intéresse :\n<https:\/\/speakerdeck.com\/dupdob\/software-craftsmanship-par-la-pratique?slide=48>",
+        "user": "U0A48EDPD",
+        "ts": "1547206881.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1=2h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@ben tu refais du Lego ? J'ai trouvé ce jeu de slides, si ça t'intéresse :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/speakerdeck.com\/dupdob\/software-craftsmanship-par-la-pratique?slide=48"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Speaker Deck",
+                "title": "Software craftsmanship par la pratique",
+                "title_link": "https:\/\/speakerdeck.com\/dupdob\/software-craftsmanship-par-la-pratique?slide=48",
+                "text": "Introduction à Software Craftmanship à travers quelques exercices utilisant des Lego",
+                "fallback": "Speaker Deck: Software craftsmanship par la pratique",
+                "image_url": "https:\/\/speakerd.s3.amazonaws.com\/presentations\/e4b918f2a1f443998c99d2079a2c9a18\/slide_0.jpg?390816",
+                "from_url": "https:\/\/speakerdeck.com\/dupdob\/software-craftsmanship-par-la-pratique?slide=48",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 185744,
+                "service_icon": "https:\/\/d2dfho4r6t7asi.cloudfront.net\/assets\/favicon-c0fe5475f88a65b817c8cc7c0fedc01b7acc17fe27628fa13ca3f96e56e16977.png",
+                "id": 1,
+                "original_url": "https:\/\/speakerdeck.com\/dupdob\/software-craftsmanship-par-la-pratique?slide=48"
+            }
+        ]
+    }
+]

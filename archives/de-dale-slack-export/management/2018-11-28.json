@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "fa626b81-985c-4bc3-b124-c2d5b1a069c3",
+        "type": "message",
+        "text": "<https:\/\/pbs.twimg.com\/media\/DtBF0EQVsAMYJKK.jpg>",
+        "user": "U0A48EDPD",
+        "ts": "1543409372.000300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OvsM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pbs.twimg.com\/media\/DtBF0EQVsAMYJKK.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "1024x576px image",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/DtBF0EQVsAMYJKK.jpg",
+                "image_width": 1024,
+                "image_height": 576,
+                "image_bytes": 55822,
+                "from_url": "https:\/\/pbs.twimg.com\/media\/DtBF0EQVsAMYJKK.jpg",
+                "id": 1,
+                "original_url": "https:\/\/pbs.twimg.com\/media\/DtBF0EQVsAMYJKK.jpg"
+            }
+        ]
+    }
+]

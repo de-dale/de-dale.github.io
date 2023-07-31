@@ -1,0 +1,130 @@
+[
+    {
+        "client_msg_id": "f65b6078-a19b-4ec5-adfd-2cf2c63c8ffe",
+        "type": "message",
+        "text": "<http:\/\/blog.cleancoder.com\/uncle-bob\/2018\/08\/28\/CraftsmanshipMovement.html>",
+        "user": "U0DSEQH9S",
+        "ts": "1540547878.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DaNUd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/blog.cleancoder.com\/uncle-bob\/2018\/08\/28\/CraftsmanshipMovement.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "58380837-aa20-4264-b0f9-5bdca9cb7753",
+        "type": "message",
+        "text": "Je suis pas d'accord avec tout ce qu'il raconte, mais globalement j'aime bien :)\n&gt; Agile was never about project management",
+        "user": "U0A48EDPD",
+        "ts": "1540552738.000900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "92A9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis pas d'accord avec tout ce qu'il raconte, mais globalement j'aime bien :)"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agile was never about project management"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "76b130f3-2061-42f9-b934-0fec2d1e5cb0",
+        "type": "message",
+        "text": "Je suis pas d'accord avec tout non plus, mais pareil. La phrase que tu as mise est exactement ça :smile: ",
+        "user": "U0DSEQH9S",
+        "ts": "1540556076.001800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IJUTT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis pas d'accord avec tout non plus, mais pareil. La phrase que tu as mise est exactement ça "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "type": "message",
+        "text": "J'ai reregardé pour Pillars. En fait il y a bien 2 barres de vie: HP + endurance\n\nTon personnage a par exemple 60 endurance par jour et 15 pv.\n\nPar combat, on ne va regarder que sa barre de pv donc ici 15 PV max par combat.\n\nAu cours du combat il perd 10 pv. A la fin du combat il va full regen (donc repasser à 15 pv) mais il va consommer 10 points d'endurance pour régen.\n\nSon endurance passe de 60 à 50 (elle se régén après 8h de repos).",
+        "user": "U63CG7FCZ",
+        "ts": "1515856373.000002",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nSk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai reregardé pour Pillars. En fait il y a bien 2 barres de vie: HP + endurance\n\nTon personnage a par exemple 60 endurance par jour et 15 pv.\n\nPar combat, on ne va regarder que sa barre de pv donc ici 15 PV max par combat.\n\nAu cours du combat il perd 10 pv. A la fin du combat il va full regen (donc repasser à 15 pv) mais il va consommer 10 points d'endurance pour régen.\n\nSon endurance passe de 60 à 50 (elle se régén après 8h de repos)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g637f49bb175",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d637f49bb1756e01df7ed795e693ac56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Julien",
+            "real_name": "Julien LOPEZ",
+            "display_name": "ashyrra",
+            "team": "T0A48J0MV",
+            "name": "ashyrra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Une fois que le personnage a consommé toute son endurance, il n'aura plus aucune réserve et ne pourra plus régen entre les combats.",
+        "user": "U63CG7FCZ",
+        "ts": "1515856406.000022",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SwXt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une fois que le personnage a consommé toute son endurance, il n'aura plus aucune réserve et ne pourra plus régen entre les combats."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g637f49bb175",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d637f49bb1756e01df7ed795e693ac56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Julien",
+            "real_name": "Julien LOPEZ",
+            "display_name": "ashyrra",
+            "team": "T0A48J0MV",
+            "name": "ashyrra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Aussi, les heals au cours d'un combat ne compensent pas la perte d'endurance",
+        "user": "U63CG7FCZ",
+        "ts": "1515856421.000143",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pk4si",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aussi, les heals au cours d'un combat ne compensent pas la perte d'endurance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g637f49bb175",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d637f49bb1756e01df7ed795e693ac56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Julien",
+            "real_name": "Julien LOPEZ",
+            "display_name": "ashyrra",
+            "team": "T0A48J0MV",
+            "name": "ashyrra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Exemple: si au cours d'un combat, un personnage qui a 15 PV a subi 5 dégats + 2 heal + 10 dégats + 10 heal + 5 dégats alors après le combat, il aura perdu en tout 20 d'endurance",
+        "user": "U63CG7FCZ",
+        "ts": "1515856521.000055",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EoN9z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exemple: si au cours d'un combat, un personnage qui a 15 PV a subi 5 dégats + 2 heal + 10 dégats + 10 heal + 5 dégats alors après le combat, il aura perdu en tout 20 d'endurance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g637f49bb175",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d637f49bb1756e01df7ed795e693ac56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Julien",
+            "real_name": "Julien LOPEZ",
+            "display_name": "ashyrra",
+            "team": "T0A48J0MV",
+            "name": "ashyrra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

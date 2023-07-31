@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.black-book-editions.fr\/produit.php?id=4815>",
+        "user": "U0AA0KVLH",
+        "ts": "1505391105.000380",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "inHI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.black-book-editions.fr\/produit.php?id=4815"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Black Book Editions",
+                "title": "Starfinder • Premier contact [PDF]",
+                "title_link": "https:\/\/www.black-book-editions.fr\/produit.php?id=4815",
+                "text": "Starfinder • Premier contact [PDF]...",
+                "fallback": "Black Book Editions: Starfinder • Premier contact [PDF]",
+                "image_url": "https:\/\/www.black-book-editions.fr\/img_produit\/5\/XL\/6295.jpg",
+                "from_url": "https:\/\/www.black-book-editions.fr\/produit.php?id=4815",
+                "image_width": 188,
+                "image_height": 250,
+                "image_bytes": 100303,
+                "service_icon": "http:\/\/www.black-book-editions.fr\/img\/favicon_x72.png",
+                "id": 1
+            }
+        ]
+    }
+]

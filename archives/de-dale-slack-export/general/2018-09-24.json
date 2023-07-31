@@ -1,0 +1,147 @@
+[
+    {
+        "client_msg_id": "61a2e4c6-6d1e-409c-a72d-1cd223c94f4a",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1537776121.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LTtp8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6f5799b6-9594-4982-a38b-5ca130e7aef9",
+        "type": "message",
+        "text": "@ben : <https:\/\/businessofeminin.com\/feature\/comment-transformer-votre-ultrasensibilite-en-atout-au-travail\/>",
+        "user": "U0A48EDPD",
+        "ts": "1537788722.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pqR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@ben : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/businessofeminin.com\/feature\/comment-transformer-votre-ultrasensibilite-en-atout-au-travail\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Business O Féminin",
+                "title": "Comment transformer votre ultrasensibilité en atout au travail ?",
+                "title_link": "https:\/\/businessofeminin.com\/feature\/comment-transformer-votre-ultrasensibilite-en-atout-au-travail\/",
+                "text": "Comme un quart de la population française, peut-être figurez-vous dans le clan des ultrasensibles. Intuition, créativité, empathie... vous ne manquez pas de qualités. Mais comment les mettre à profit dans votre environnement professionnel ? La réponse avec Saverio Tomasella, spécialiste de l’ultrasensibilité.",
+                "fallback": "Business O Féminin: Comment transformer votre ultrasensibilité en atout au travail ?",
+                "image_url": "https:\/\/businessofeminin.com\/wp-content\/uploads\/2018\/09\/utrasensible-featured.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "ts": 1537293583,
+                "from_url": "https:\/\/businessofeminin.com\/feature\/comment-transformer-votre-ultrasensibilite-en-atout-au-travail\/",
+                "image_bytes": 47618,
+                "service_icon": "https:\/\/www2.businessofeminin.com\/wp-content\/themes\/bof\/img\/icons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/businessofeminin.com\/feature\/comment-transformer-votre-ultrasensibilite-en-atout-au-travail\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14a9cb0c-f947-4b5f-a612-2c5bff8e3b6e",
+        "type": "message",
+        "text": "Bien intéressant l'article !",
+        "user": "U0DSEQH9S",
+        "ts": "1537805514.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t6A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bien intéressant l'article !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

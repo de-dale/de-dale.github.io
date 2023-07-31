@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "5b3365ef-7e6b-4b38-9e9c-a3533b07618c",
+        "type": "message",
+        "text": "de retour au boulot",
+        "user": "U0AA0KVLH",
+        "ts": "1640680452.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Aio",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "de retour au boulot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9af3f5f0-4382-40f2-8c46-6f9255286ebd",
+        "type": "message",
+        "text": "Petite pensée à vous tous, passez de bonnes fêtes de fin d'année !",
+        "user": "U0DSEQH9S",
+        "ts": "1640701484.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bIh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Petite pensée à vous tous, passez de bonnes fêtes de fin d'année !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

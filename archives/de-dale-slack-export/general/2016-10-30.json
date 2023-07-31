@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "text": "<http:\/\/9gag.com\/gag\/aOdmB1M>",
+        "user": "U0A48EDPD",
+        "ts": "1477894564.000002",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W9eq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/9gag.com\/gag\/aOdmB1M"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "9GAG",
+                "title": "The only one who nails that costume",
+                "title_link": "http:\/\/9gag.com\/gag\/aOdmB1M",
+                "text": "Click to see the pic and write a comment...",
+                "fallback": "9GAG: The only one who nails that costume",
+                "image_url": "http:\/\/images-cdn.9gag.com\/photo\/aOdmB1M_700b.jpg",
+                "from_url": "http:\/\/9gag.com\/gag\/aOdmB1M",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 118486,
+                "service_icon": "http:\/\/assets-9gag-fun.9cache.com\/s\/fab0aa49\/7c0f83f0251d2d943c6ee4767e7d6668f77d3de5\/static\/dist\/core\/img\/favicon_v2.png",
+                "id": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,898 @@
+[
+    {
+        "client_msg_id": "f89e70e1-a78a-49b3-9cfe-3ff8cb15055f",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1570604448.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SKJtw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7dc46b6f-ad35-4c45-8bc4-908c4864717c",
+        "type": "message",
+        "text": "<http:\/\/lartdujeu.gameasart.com\/2019\/09\/20\/les-jeux-et-lapprentissage-introduction\/>",
+        "user": "U0A48EDPD",
+        "ts": "1570604494.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wbJZW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/lartdujeu.gameasart.com\/2019\/09\/20\/les-jeux-et-lapprentissage-introduction\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "L'Art du Jeu",
+                "title": "Les jeux et l’apprentissage – Introduction",
+                "title_link": "http:\/\/lartdujeu.gameasart.com\/2019\/09\/20\/les-jeux-et-lapprentissage-introduction\/",
+                "text": "Introduction à une série d’articles faisant le parallèle entre les jeux et les mécanismes cognitifs de l’apprentissage.",
+                "fallback": "L'Art du Jeu: Les jeux et l’apprentissage – Introduction",
+                "image_url": "https:\/\/i1.wp.com\/lartdujeu.gameasart.com\/wp-content\/uploads\/sites\/2\/2019\/09\/game_learning_intro.jpg?fit=1200%2C802",
+                "image_width": 374,
+                "image_height": 250,
+                "ts": 1568998700,
+                "from_url": "http:\/\/lartdujeu.gameasart.com\/2019\/09\/20\/les-jeux-et-lapprentissage-introduction\/",
+                "image_bytes": 59475,
+                "id": 1,
+                "original_url": "http:\/\/lartdujeu.gameasart.com\/2019\/09\/20\/les-jeux-et-lapprentissage-introduction\/"
+            }
+        ],
+        "thread_ts": "1570604494.000400",
+        "reply_count": 16,
+        "reply_users_count": 3,
+        "latest_reply": "1570612258.003800",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0DTHMU81",
+            "U0M8SF5CG"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1570604556.000600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1570606033.000800"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1570606091.001000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1570606121.001200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1570606384.001400"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1570606485.001600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1570606609.001800"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1570606662.002000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1570606703.002400"
+            },
+            {
+                "user": "U0M8SF5CG",
+                "ts": "1570607202.002600"
+            },
+            {
+                "user": "U0M8SF5CG",
+                "ts": "1570607223.002800"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1570607418.003000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1570607423.003200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1570607536.003400"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1570607659.003600"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1570612258.003800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1570612258.003800"
+    },
+    {
+        "client_msg_id": "e8a5236e-1eb7-4bc8-ae19-8614b02cac7e",
+        "type": "message",
+        "text": "<@U0DTHMU81> Ca me fait penser à la méthode que tu utilise dans les rencontres pour faire découvrir des mécanismes aux joueurs",
+        "user": "U0A48EDPD",
+        "ts": "1570604556.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qjv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0DTHMU81"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Ca me fait penser à la méthode que tu utilise dans les rencontres pour faire découvrir des mécanismes aux joueurs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570604494.000400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "15203221-5c83-4780-be8d-b02449aee6fa",
+        "type": "message",
+        "text": "il enfonce un peu des portes ouvertes et ne va pas très loin dans son analyse",
+        "user": "U0DTHMU81",
+        "ts": "1570606033.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "txjI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "il enfonce un peu des portes ouvertes et ne va pas très loin dans son analyse"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570604494.000400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "76423973-877e-475c-9291-5873482fa451",
+        "type": "message",
+        "text": "avec comme explications : regardez, les pros de ce business font comme ça, alors ça doit être vrai",
+        "user": "U0DTHMU81",
+        "ts": "1570606091.001000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1LOl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "avec comme explications : regardez, les pros de ce business font comme ça, alors ça doit être vrai"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570604494.000400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "dd3da133-b99e-43cc-81f4-9054b156a436",
+        "type": "message",
+        "text": "ou des analyses hautement statistiques : les cours de mes filles était nuls",
+        "user": "U0DTHMU81",
+        "ts": "1570606121.001200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jDL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ou des analyses hautement statistiques : les cours de mes filles était nuls"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570604494.000400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "b8300f54-2a85-4757-8340-b60dd9bc9659",
+        "type": "message",
+        "text": "\"Si les jeux de société ne savent pas encore s’en passer, c’est parce qu’ils souffrent de moyens techniques beaucoup plus réduits. Le passage par la lecture des règles reste un incontournable, et est vécu par de très nombreux joueurs comme une corvée, voire un frein à la découverte de nouveaux jeux. C’est pourquoi les concepteur·rice·s cherchent à s’émanciper de plus en plus du texte, et cela principalement depuis que le marché s’est ouvert à un public plus large. \"\nRien que là dedans il y a des aneries.",
+        "user": "U0DTHMU81",
+        "ts": "1570606384.001400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y6Lr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Si les jeux de société ne savent pas encore s’en passer, c’est parce qu’ils souffrent de moyens techniques beaucoup plus réduits. Le passage par la lecture des règles reste un incontournable, et est vécu par de très nombreux joueurs comme une corvée, voire un frein à la découverte de nouveaux jeux. C’est pourquoi les concepteur·rice·s cherchent à s’émanciper de plus en plus du texte, et cela principalement depuis que le marché s’est ouvert à un public plus large. \"\nRien que là dedans il y a des aneries."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570604494.000400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "9201e766-5982-4e0e-b31d-300d896cd84b",
+        "type": "message",
+        "text": "La lectures des règles n'est pas obligatoires pour pas mal de petits jeux. Un let's play initial serait suffisant (apprentissage par l'expérience). Certains jeux le font pour les 1° tours de jeu.",
+        "user": "U0DTHMU81",
+        "ts": "1570606485.001600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f\/eh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La lectures des règles n'est pas obligatoires pour pas mal de petits jeux. Un let's play initial serait suffisant (apprentissage par l'expérience). Certains jeux le font pour les 1° tours de jeu."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570604494.000400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "434b501b-b1cd-4664-aa17-f518321bf705",
+        "type": "message",
+        "text": "Et quant au fait que le formalisme des règles ait changé depuis que ça s'est ouvert à un public plus large : Relation de causalité inversée je pense. Pour toucher un public large il faut des règles simples, pas l'inverse.",
+        "user": "U0DTHMU81",
+        "ts": "1570606609.001800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5zq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et quant au fait que le formalisme des règles ait changé depuis que ça s'est ouvert à un public plus large : Relation de causalité inversée je pense. Pour toucher un public large il faut des règles simples, pas l'inverse."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570604494.000400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "455d8cb3-595c-4bcc-ab16-e85321b04b13",
+        "type": "message",
+        "text": "(Et je pense que la plupart des dernières évolutions du jeu de société proviennent des jeux vidéos, qui sont bcp plus créatifs dans leurs modèles pour des raisons économiques.)",
+        "user": "U0DTHMU81",
+        "ts": "1570606662.002000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hkqcZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Et je pense que la plupart des dernières évolutions du jeu de société proviennent des jeux vidéos, qui sont bcp plus créatifs dans leurs modèles pour des raisons économiques.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570604494.000400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "d969bf3e-fb65-4423-b32c-95d6b59da631",
+        "type": "message",
+        "text": "plop",
+        "user": "U0M8SF5CG",
+        "ts": "1570606693.002300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WX9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9edbd4a6-d2df-4979-a8c4-3bbc797acee1",
+        "type": "message",
+        "text": "bon j'ai bien défoncé son blog, je peux commencer à bosser.",
+        "user": "U0DTHMU81",
+        "ts": "1570606703.002400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Kfi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bon j'ai bien défoncé son blog, je peux commencer à bosser."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570604494.000400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "8de6f11b-f332-452b-ac7c-350ea05ee7db",
+        "type": "message",
+        "text": "\" Il est quasiment acquis de nos jours qu’un jeu vidéo doit se passer de mode d’emploi ou manuel, là où, il y a encore 20 ans, ils étaient systématiquement présent dans les boîtes de jeu.\"",
+        "user": "U0M8SF5CG",
+        "ts": "1570607202.002600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3dwu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\" Il est quasiment acquis de nos jours qu’un jeu vidéo doit se passer de mode d’emploi ou manuel, là où, il y a encore 20 ans, ils étaient systématiquement présent dans les boîtes de jeu.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570604494.000400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "aa22d4f0-00f4-46f0-a6f2-c6789c164ef1",
+        "type": "message",
+        "text": "les manuel dans le temps c'était 3 pages de règles , 50 pages de lore",
+        "user": "U0M8SF5CG",
+        "ts": "1570607223.002800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Chj7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "les manuel dans le temps c'était 3 pages de règles , 50 pages de lore"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570604494.000400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "d93a4a3e-fbd5-4b68-88b3-4eb559442f77",
+        "type": "message",
+        "text": "D2 avait plus de 3 pages de règles  :p",
+        "user": "U0DTHMU81",
+        "ts": "1570607418.003000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XUjnP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "D2 avait plus de 3 pages de règles  :p"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570604494.000400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "d62017c9-5706-46bd-bff2-cfde33f4ab1e",
+        "type": "message",
+        "text": "Mais oui.",
+        "user": "U0DTHMU81",
+        "ts": "1570607423.003200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+GRdz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mais oui."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570604494.000400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "8dd37c22-93cf-4d70-a722-25871ecc3da8",
+        "type": "message",
+        "text": "C'est un changement de paradigme entre montrer (par de longues cinématiques, un livre,...) et faire jouer le lore (cut scène, flash back joues,...)",
+        "user": "U0DTHMU81",
+        "ts": "1570607536.003400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i3XZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est un changement de paradigme entre montrer (par de longues cinématiques, un livre,...) et faire jouer le lore (cut scène, flash back joues,...)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570604494.000400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "585b8968-6f20-4050-9304-53fa6f8be038",
+        "type": "message",
+        "text": "Et je trouve que plus de jeux ne rendent plus le lore obligatoire, mais plutot un petit plus annexe à la Dark Soul.\nIls ne font que mettre en contexte ce qui se passe.",
+        "user": "U0DTHMU81",
+        "ts": "1570607659.003600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KNE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et je trouve que plus de jeux ne rendent plus le lore obligatoire, mais plutot un petit plus annexe à la Dark Soul.\nIls ne font que mettre en contexte ce qui se passe."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570604494.000400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "965d3573-f169-4585-8794-e9f5f5a4ed4a",
+        "type": "message",
+        "text": "Content de voir que ça vous plaît :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1570612258.003800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SknK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Content de voir que ça vous plaît "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1570604494.000400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "ff6631f2-0487-4efa-aa12-4cf497028c90",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0A48EDPD",
+        "ts": "1570679914.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5gJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

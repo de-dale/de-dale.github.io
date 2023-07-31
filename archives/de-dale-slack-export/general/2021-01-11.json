@@ -1,0 +1,256 @@
+[
+    {
+        "client_msg_id": "00a53b75-1a4c-4d97-ad6b-ec6ac85136f3",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1610354920.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dRh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b772c5d1-9cd8-4915-ade9-432bbfb0823b",
+        "type": "message",
+        "text": "Mécomptes de plops",
+        "user": "U0M8SF5CG",
+        "ts": "1610360130.001000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mécomptes de plops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "54854339-ab2b-476a-b7ef-8528e76843fe",
+        "type": "message",
+        "text": "Evolupop",
+        "user": "U0AA0KVLH",
+        "ts": "1610360908.001200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ro05X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Evolupop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4bf403f0-cc9a-49d3-9abe-36911b24df71",
+        "type": "message",
+        "text": "Marrant de tomber sur ça juste après qu'on est parlé de logiciel pour créer des cartes :\n<https:\/\/www.kickstarter.com\/projects\/ultimaterpgbattlemap\/ultimate-rpg-battle-map-creation-kit-for-virtual-tabletop?ref=discovery_category>",
+        "user": "U0AA0KVLH",
+        "ts": "1610377782.001700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GmFW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Marrant de tomber sur ça juste après qu'on est parlé de logiciel pour créer des cartes :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.kickstarter.com\/projects\/ultimaterpgbattlemap\/ultimate-rpg-battle-map-creation-kit-for-virtual-tabletop?ref=discovery_category"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Kickstarter",
+                "title": "Ultimate RPG Battle Map Creation Kit for Virtual TableTop",
+                "title_link": "https:\/\/www.kickstarter.com\/projects\/ultimaterpgbattlemap\/ultimate-rpg-battle-map-creation-kit-for-virtual-tabletop?ref=discovery_category",
+                "text": "A Complete and Versatile Quest Map Kit, Total Freedom for Game Master to Create Immersive Storytelling content for VTT RPG",
+                "fallback": "Kickstarter: Ultimate RPG Battle Map Creation Kit for Virtual TableTop",
+                "image_url": "https:\/\/ksr-ugc.imgix.net\/assets\/031\/765\/096\/93988da4e76dd2965c735c475684da25_original.jpg?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1608159876&auto=format&frame=1&q=92&s=0d49df705df4055e1eea70a50e5f4bd4",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/www.kickstarter.com\/projects\/ultimaterpgbattlemap\/ultimate-rpg-battle-map-creation-kit-for-virtual-tabletop?ref=discovery_category",
+                "image_bytes": 421217,
+                "service_icon": "https:\/\/www.kickstarter.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.kickstarter.com\/projects\/ultimaterpgbattlemap\/ultimate-rpg-battle-map-creation-kit-for-virtual-tabletop?ref=discovery_category"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93e1e38a-14d5-440d-8050-a5c3a18417d6",
+        "type": "message",
+        "text": "un projet qui ne verra pas le jour... :confused:",
+        "user": "U0A48EDPD",
+        "ts": "1610396298.002100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dSM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "un projet qui ne verra pas le jour... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "22b5d24d-9e76-4fe7-bf98-e193a97be026",
+        "type": "message",
+        "text": "3 jours avant la fin, il manque 35k\/38k",
+        "user": "U0A48EDPD",
+        "ts": "1610396332.002600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gSXpy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3 jours avant la fin, il manque 35k\/38k"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/9gag.com\/gag\/a6Vz7Vm?ref=android>",
+        "user": "U0A48EDPD",
+        "ts": "1511021466.000020",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F2jk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/9gag.com\/gag\/a6Vz7Vm?ref=android"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "9GAG",
+                "title": "When you lovemusic and coding at the same  time",
+                "title_link": "https:\/\/9gag.com\/gag\/a6Vz7Vm?ref=android",
+                "text": "Share with your friends now",
+                "fallback": "9GAG: When you lovemusic and coding at the same  time",
+                "image_url": "https:\/\/images-cdn.9gag.com\/photo\/a6Vz7Vm_700b.jpg",
+                "from_url": "https:\/\/9gag.com\/gag\/a6Vz7Vm?ref=android",
+                "image_width": 239,
+                "image_height": 250,
+                "image_bytes": 37870,
+                "service_icon": "https:\/\/assets-9gag-fun.9cache.com\/s\/fab0aa49\/bd34d24abf5a5cc48e878b143b659b9ee5c7df1d\/static\/dist\/core\/img\/favicon.ico",
+                "id": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,981 @@
+[
+    {
+        "client_msg_id": "8f361cb8-d2d3-4e0b-82c6-526446efadd2",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1586593774.091600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C0=D8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f8231257-552e-4d25-8afd-09f28990254d",
+        "type": "message",
+        "text": "pas pour tout le monde :confused:",
+        "user": "U0A48EDPD",
+        "ts": "1586593782.091900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5LsK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pas pour tout le monde "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused",
+                                "unicode": "1f615"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a3985492-f80c-4fbb-bdb0-94139897769d",
+        "type": "message",
+        "text": "être parent ; c'est sans pause :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1586593792.092200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e5X+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "être parent ; c'est sans pause "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dd2a001d-f495-4b36-bc6c-d6ee86d85f46",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1586598586.092400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xSs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e662e7bf-a264-4693-addb-e79d797c6c8f",
+        "type": "message",
+        "text": "Pour être plus précis, AD est pour Attack Damage et Carry pour le fait qu'il peut carry (porter) la partie tout seul au bout d'un moment. Comme indiqué par clément, son rôle est d'être un glass canon : laissé tranquille, il va détruire l'équipe adverse.\nC'est généralement un perso très faible au début et extrêmement puissant en fin de partie s'il a pu se développer. Un des enjeux stratégique d'un MOBA est de tuer le carry adverse ou ralentir suffisamment sa progression.",
+        "user": "U0DTHMU81",
+        "ts": "1586619657.092500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IJk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour être plus précis, AD est pour Attack Damage et Carry pour le fait qu'il peut carry (porter) la partie tout seul au bout d'un moment. Comme indiqué par clément, son rôle est d'être un glass canon : laissé tranquille, il va détruire l'équipe adverse.\nC'est généralement un perso très faible au début et extrêmement puissant en fin de partie s'il a pu se développer. Un des enjeux stratégique d'un MOBA est de tuer le carry adverse ou ralentir suffisamment sa progression."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586528734.086600",
+        "parent_user_id": "U0AA0KVLH",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81df94b0-bbe0-40ad-923b-3f553785d994",
+        "type": "message",
+        "text": "Pour les autres rôles :\nLe Mage est un combattant magique à fort dégâts immédiats avec potentiellement du CC. Sa courbe de dégât est plus limité que le carry AD, mais démarre plus haut : il est plus dangereux en début et milieu de partie, mais plus faible plus la partie dure. Il capitalise généralement sur un bon début de partie pour prendre et garder de l'avance sur les autres.",
+        "user": "U0DTHMU81",
+        "ts": "1586619829.092700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "913p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour les autres rôles :\nLe Mage est un combattant magique à fort dégâts immédiats avec potentiellement du CC. Sa courbe de dégât est plus limité que le carry AD, mais démarre plus haut : il est plus dangereux en début et milieu de partie, mais plus faible plus la partie dure. Il capitalise généralement sur un bon début de partie pour prendre et garder de l'avance sur les autres."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586528734.086600",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "25513b20-d1c7-4252-be2c-31f6f4a6e210",
+        "type": "message",
+        "text": "Le Bruiser a été présenté par Clément. Généralement, il a besoin d'être suffisamment solide pour pouvoir engager l'équipe adverse et suffisamment pénible pour les forcer à le gérer, soit par ses dégâts, soit par des effet de CC",
+        "user": "U0DTHMU81",
+        "ts": "1586619908.092900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tkiF7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le Bruiser a été présenté par Clément. Généralement, il a besoin d'être suffisamment solide pour pouvoir engager l'équipe adverse et suffisamment pénible pour les forcer à le gérer, soit par ses dégâts, soit par des effet de CC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586528734.086600",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "8ce3093f-9e24-435d-98f2-71122f2d1229",
+        "type": "message",
+        "text": "Le Jungler est plus couteau suisse, mais a un double rôle spécifique aux moba : jungle et gank. Le Jungle c'est le fait d'aller tuer des monstres neutres en dehors des routes. Ca demande des capacité spécifiques. Le gank, c'est d'essayer de tuer un héros adverse par surprise et en surnombre. Le jungler est un peu la wild card de l'équipe : il pex à côté (donc ne prend pas l'xp des alliés), est invisible pour l'ennemi et peut créer un avantage numéraire à tout moment. Il est généralement assez tanky pour pouvoir jungle et engage sans trop de risque et avec une bonne mobilité pour surprendre facilement et se déplacer sur la carte.",
+        "user": "U0DTHMU81",
+        "ts": "1586620151.093100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gys",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le Jungler est plus couteau suisse, mais a un double rôle spécifique aux moba : jungle et gank. Le Jungle c'est le fait d'aller tuer des monstres neutres en dehors des routes. Ca demande des capacité spécifiques. Le gank, c'est d'essayer de tuer un héros adverse par surprise et en surnombre. Le jungler est un peu la wild card de l'équipe : il pex à côté (donc ne prend pas l'xp des alliés), est invisible pour l'ennemi et peut créer un avantage numéraire à tout moment. Il est généralement assez tanky pour pouvoir jungle et engage sans trop de risque et avec une bonne mobilité pour surprendre facilement et se déplacer sur la carte."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DTHMU81",
+            "ts": "1586620208.000000"
+        },
+        "thread_ts": "1586528734.086600",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "594f3229-fac6-4c8d-86fc-5be41fad832a",
+        "type": "message",
+        "text": "Très bien vu. Je n'avais pas vu cette particularité.\nLe support sera généralement en retard d'argent voir d'xp car il essayera de se sacrifier pour les autres. Les supports sont défensifs ou offensifs, souvent un mix des 2. Son job est protection\/disruption. Il sert à sauver le carry et lui permettre d'opérer un maximum de temps.",
+        "user": "U0DTHMU81",
+        "ts": "1586620466.093400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A4+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Très bien vu. Je n'avais pas vu cette particularité.\nLe support sera généralement en retard d'argent voir d'xp car il essayera de se sacrifier pour les autres. Les supports sont défensifs ou offensifs, souvent un mix des 2. Son job est protection\/disruption. Il sert à sauver le carry et lui permettre d'opérer un maximum de temps."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586544525.090100",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "0053f7c4-1c38-4d45-bcb6-1db91ce0b51b",
+        "type": "message",
+        "text": "- Guerrier\/Mage\/Voleur\/Prêtre : c'est pas une formation de combat. Le voleur n'a pas de rôle en combat différent du guerrier. Réfère toi plutôt à Arm\/Anvil\/Hammer qui est plus solide et véritable : le mage et le prêtre peuvent remplir ces 3 rôles à eux seuls donc n'importe quel mix de ces 2 classes marche. Ce n'est pas vrai pour les 2 autres.",
+        "user": "U0DTHMU81",
+        "ts": "1586620692.093600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AzBi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "- Guerrier\/Mage\/Voleur\/Prêtre : c'est pas une formation de combat. Le voleur n'a pas de rôle en combat différent du guerrier. Réfère toi plutôt à Arm\/Anvil\/Hammer qui est plus solide et véritable : le mage et le prêtre peuvent remplir ces 3 rôles à eux seuls donc n'importe quel mix de ces 2 classes marche. Ce n'est pas vrai pour les 2 autres."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586511111.076100",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "46c881eb-e938-4561-8af9-ea6630c6b04a",
+        "type": "message",
+        "text": "Arm\/Anvil\/Hammer : C'est la plus basique de toute et la plus pure car elle demande le moins d'éléments. Les autres formations en découlent car elles spécialisent ou découpent des rôles en 2.\nLe MoBA a un point spécifique avec le jungler qui une utilité particulière sur l'hors combat. En combat, il sera généralement entre l'Anvil et le Hammer.",
+        "user": "U0DTHMU81",
+        "ts": "1586620965.093800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wZBk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Arm\/Anvil\/Hammer : C'est la plus basique de toute et la plus pure car elle demande le moins d'éléments. Les autres formations en découlent car elles spécialisent ou découpent des rôles en 2.\nLe MoBA a un point spécifique avec le jungler qui une utilité particulière sur l'hors combat. En combat, il sera généralement entre l'Anvil et le Hammer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586511036.074200",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "e1e5db55-4f53-4151-bbc1-4bb4ba5b10ac",
+        "type": "message",
+        "text": "Pêcheur\/Lancier\/Veilleur\/Contrôleur : Si l'idée initiale est à peu près bonne, la réalisation de ce truc est à chier et on se retrouve vite avec un Arm\/anvil\/Hammer. Le Veilleur est une parade à l'information imparfaite de la situation.",
+        "user": "U0DTHMU81",
+        "ts": "1586621124.094000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xkogi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pêcheur\/Lancier\/Veilleur\/Contrôleur : Si l'idée initiale est à peu près bonne, la réalisation de ce truc est à chier et on se retrouve vite avec un Arm\/anvil\/Hammer. Le Veilleur est une parade à l'information imparfaite de la situation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586511111.076100",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "d992e4be-57d7-49a7-8ca0-f7201d561171",
+        "type": "message",
+        "text": "Il peut aussi être intéressant d'élargir ta question au hors combat aussi et plus parler de formation d'équipe.\nEn partant du principe que les nécessités du combat sont couvertes par le Arm\/Anvil\/Hammer, il faut regarder le reste.\nPour moi (ouvert à discussion), il manque du coup :\n• Accès à l'information\n• Déplacements\/voyage",
+        "user": "U0DTHMU81",
+        "ts": "1586621608.094200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "722",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il peut aussi être intéressant d'élargir ta question au hors combat aussi et plus parler de formation d'équipe.\nEn partant du principe que les nécessités du combat sont couvertes par le Arm\/Anvil\/Hammer, il faut regarder le reste.\nPour moi (ouvert à discussion), il manque du coup :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Accès à l'information"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Déplacements\/voyage"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586511036.074200",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "cbf896e8-bce3-4410-8cfd-854d12904ca4",
+        "type": "message",
+        "text": "Accès à l'information : Comment les personnages savent-ils ce qu'ils ont besoin de savoir pour décider de la suite ? Je vois plusieurs réponses :\n• Infiltration : Chercher les réponses sur le terrain\n• Relationnel : Demander à d'autres\n• Divination : Demander à une entité supérieure \/ Hacking ?\nD'autres idées ?",
+        "user": "U0DTHMU81",
+        "ts": "1586621766.094400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qGG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Accès à l'information : Comment les personnages savent-ils ce qu'ils ont besoin de savoir pour décider de la suite ? Je vois plusieurs réponses :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Infiltration : Chercher les réponses sur le terrain"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Relationnel : Demander à d'autres"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Divination : Demander à une entité supérieure \/ Hacking ?"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "D'autres idées ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586511036.074200",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "8a696620-fe90-41c4-a502-0365f94c763d",
+        "type": "message",
+        "text": "Déplacements\/voyage : Comment les joueurs vont-ils d'un point A à un point B en toute sécurité ? Cela inclut aussi bien les longues distances que le passage d'un gouffre.\nPour le voyage long :\n• Connaissances pour mener le voyage à son terme\n• Ressources nécessaires au voyage et à la survie\n• Moyen de locomotion\nPour le déplacement, il s'agit de passer outre les obstacles non-combat (piège, passage détruit,etc...) Il y a beaucoup de possibilités de réponse : vol, passe-muraille, TP courte distance, forme gazeuse, invisibilité, nage, escalade etc... La question est quels sont les types de déplacements auxquels les perso ont accès et à quelle fréquence ? Plus le spectre sera large, moins ils seront bloqués.",
+        "user": "U0DTHMU81",
+        "ts": "1586622178.094600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/tuHe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Déplacements\/voyage : Comment les joueurs vont-ils d'un point A à un point B en toute sécurité ? Cela inclut aussi bien les longues distances que le passage d'un gouffre.\nPour le voyage long :\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Connaissances pour mener le voyage à son terme"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ressources nécessaires au voyage et à la survie"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Moyen de locomotion"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour le déplacement, il s'agit de passer outre les obstacles non-combat (piège, passage détruit,etc...) Il y a beaucoup de possibilités de réponse : vol, passe-muraille, TP courte distance, forme gazeuse, invisibilité, nage, escalade etc... La question est quels sont les types de déplacements auxquels les perso ont accès et à quelle fréquence ? Plus le spectre sera large, moins ils seront bloqués."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586511036.074200",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "d1b8aa08-73ab-4963-b72b-f292a68f2cef",
+        "type": "message",
+        "text": "Je pense qu'une équipe qui est parée sur ces 3 axes (combat\/info\/déplacement), i.e. qui a plusieurs rôles\/réponses possibles sur chacun d'eux ne devrait pas rencontrer de difficulté majeure au cours d'une aventure.",
+        "user": "U0DTHMU81",
+        "ts": "1586622334.094800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=PKUF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je pense qu'une équipe qui est parée sur ces 3 axes (combat\/info\/déplacement), i.e. qui a plusieurs rôles\/réponses possibles sur chacun d'eux ne devrait pas rencontrer de difficulté majeure au cours d'une aventure."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586511036.074200",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "6b68f623-3605-4ca8-9edc-93fcc9b6dbdf",
+        "type": "message",
+        "text": "bon ce serait bien qu'on joue mercredi et que les gens fassent leur perso",
+        "user": "U0AA0KVLH",
+        "ts": "1586629490.095400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Au",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bon ce serait bien qu'on joue mercredi et que les gens fassent leur perso"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586629490.095400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586679733.101300",
+        "reply_users": [
+            "U0DTHMU81"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1586679733.101300"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "59172ebb-078f-4595-972a-30b37904ca6f",
+        "type": "message",
+        "text": "Ton point sur le hors-combat est intéressant.\nCa va au delà de ce que je veux faire pour le combat (uniquement)",
+        "user": "U0A48EDPD",
+        "ts": "1586631299.095500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KEQeb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ton point sur le hors-combat est intéressant.\nCa va au delà de ce que je veux faire pour le combat (uniquement)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586511036.074200",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "765d86c3-969f-4cf4-93df-3ae5af55092e",
+        "type": "message",
+        "text": "Dans toutes les formations, on se retrouve à pouvoir décliner en Arm\/Anvil\/Hammer. Et c'est ce que tu as dis dans ton autre post : on peut décliner tout le reste à partir de ces trois trucs de base.",
+        "user": "U0A48EDPD",
+        "ts": "1586631744.095700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1vDks",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dans toutes les formations, on se retrouve à pouvoir décliner en Arm\/Anvil\/Hammer. Et c'est ce que tu as dis dans ton autre post : on peut décliner tout le reste à partir de ces trois trucs de base."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586511111.076100",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "c7f27e43-20fc-4430-ab91-fa7c3888921b",
+        "type": "message",
+        "text": "Tout ce qui rajoute du superflu est à chier",
+        "user": "U0A48EDPD",
+        "ts": "1586631788.095900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q5aT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tout ce qui rajoute du superflu est à chier"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586511111.076100",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "cd061874-7e43-4c77-85ad-b79f362fffc6",
+        "type": "message",
+        "text": "En revanche, le superflu apporte ce que je cherche maintenant : du fluffy et des idées de combo.",
+        "user": "U0A48EDPD",
+        "ts": "1586631864.096100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UCi9F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En revanche, le superflu apporte ce que je cherche maintenant : du fluffy et des idées de combo."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586511111.076100",
+        "parent_user_id": "U0A48EDPD"
+    }
+]

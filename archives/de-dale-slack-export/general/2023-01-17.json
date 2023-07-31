@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "909e592b-8517-40e0-a093-facf6a624d71",
+        "type": "message",
+        "text": "Bon <@U0A48EDPD> que deviens-tu ?",
+        "user": "U0AA0KVLH",
+        "ts": "1673954743.238239",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2y+W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bon "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " que deviens-tu ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673954743.238239",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1676294169.119139",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0AA0KVLH"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1676016957.511809"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1676294169.119139"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1676294169.119139"
+    }
+]

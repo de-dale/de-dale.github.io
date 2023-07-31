@@ -1,0 +1,78 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/github.com\/de-dale\/skills-sphere>",
+        "user": "U0A48EDPD",
+        "ts": "1522061171.000151",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Ua",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/de-dale\/skills-sphere"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "de-dale\/skills-sphere",
+                "title_link": "https:\/\/github.com\/de-dale\/skills-sphere",
+                "text": "skills-sphere - **Sphérier**",
+                "fallback": "GitHub: de-dale\/skills-sphere",
+                "from_url": "https:\/\/github.com\/de-dale\/skills-sphere",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/35458963?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U0A48EDPD> pinned a message to this channel.",
+        "user": "U0A48EDPD",
+        "item_type": "C",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "de-dale\/skills-sphere",
+                "title_link": "https:\/\/github.com\/de-dale\/skills-sphere",
+                "text": "skills-sphere - **Sphérier**",
+                "fallback": "GitHub: de-dale\/skills-sphere",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/35458963?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "from_hidden_wksp": false,
+                "private_channel_prompt": false
+            }
+        ],
+        "ts": "1522061177.000342"
+    }
+]

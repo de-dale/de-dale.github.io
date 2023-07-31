@@ -1,0 +1,243 @@
+[
+    {
+        "client_msg_id": "d3c65247-810e-4bd4-b5c0-28c70ea1165d",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1602663186.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kp8GI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4755b0b1-3e39-46df-b13d-de78d0f1e997",
+        "type": "message",
+        "text": "plop",
+        "user": "U0M8SF5CG",
+        "ts": "1602668772.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lbg+K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6fa8e307-0d43-4a99-919b-44c644169505",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1602680279.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rw1K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f26fe630-e162-4f2c-ad0d-1d22868b9b0f",
+        "type": "message",
+        "text": "&gt; *bisser*\n&gt; Étymologie\n&gt; _(1820)_<https:\/\/fr.wiktionary.org\/wiki\/bisser#cite_note-TLFi-1|[1]> Dérivé de _<https:\/\/fr.wiktionary.org\/wiki\/bis#fr|bis>_ avec le suffixe _<https:\/\/fr.wiktionary.org\/wiki\/-er#fr|-er>_, littéralement « deux fois ».",
+        "user": "U0A48EDPD",
+        "ts": "1602680356.001100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jck",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bisser",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nÉtymologie\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "(1820)",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fr.wiktionary.org\/wiki\/bisser#cite_note-TLFi-1",
+                                "text": "[1]"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Dérivé de "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fr.wiktionary.org\/wiki\/bis#fr",
+                                "text": "bis",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " avec le suffixe "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fr.wiktionary.org\/wiki\/-er#fr",
+                                "text": "-er",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", littéralement « deux fois »."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "eaa2721c-01bb-4b5f-86d8-caea1147e9c2",
+        "type": "message",
+        "text": "on va se mettre à utiliser ça du coup maintenant",
+        "user": "U0AA0KVLH",
+        "ts": "1602684107.001400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xmu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on va se mettre à utiliser ça du coup maintenant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0AA0KVLH",
+            "ts": "1602684121.000000"
+        }
+    }
+]

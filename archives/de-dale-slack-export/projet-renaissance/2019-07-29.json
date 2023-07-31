@@ -1,0 +1,3393 @@
+[
+    {
+        "type": "message",
+        "subtype": "group_join",
+        "ts": "1564388904.000200",
+        "user": "U0AA0KVLH",
+        "text": "<@U0AA0KVLH> has joined the group",
+        "inviter": "U0DTHMU81"
+    },
+    {
+        "type": "message",
+        "subtype": "group_join",
+        "ts": "1564388904.000400",
+        "user": "U0A48EDPD",
+        "text": "<@U0A48EDPD> has joined the group",
+        "inviter": "U0DTHMU81"
+    },
+    {
+        "client_msg_id": "4c700fe1-6f11-40c3-9877-1b25f0028f31",
+        "type": "message",
+        "text": "<@U0AA0KVLH>: tu peux voir le doc ?",
+        "user": "U0DTHMU81",
+        "ts": "1564389783.002200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nHUFh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0AA0KVLH"
+                            },
+                            {
+                                "type": "text",
+                                "text": ": tu peux voir le doc ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "495134f0-1981-41e8-8cfd-a65e46f5f15c",
+        "type": "message",
+        "text": "je peux voir un doc d'une page avec un tableau au milieu",
+        "user": "U0AA0KVLH",
+        "ts": "1564389818.002500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yCNhn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je peux voir un doc d'une page avec un tableau au milieu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4cd2ae13-52b9-440e-8b1b-db90c4933e64",
+        "type": "message",
+        "text": "ok c'est bon",
+        "user": "U0DTHMU81",
+        "ts": "1564389832.002700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b2\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok c'est bon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8cc2ca46-e8f7-413e-afbc-157419b3977e",
+        "type": "message",
+        "text": "tu pourrais créer un drive google aussi pour stocker des documents et les partager une fois que tu les as finis",
+        "user": "U0AA0KVLH",
+        "ts": "1564389862.003400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p4DKf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu pourrais créer un drive google aussi pour stocker des documents et les partager une fois que tu les as finis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d9e7ded4-0596-4889-b396-4c7c39a0b069",
+        "type": "message",
+        "text": "ca permettrait d'avoir une archive",
+        "user": "U0AA0KVLH",
+        "ts": "1564389867.003500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oi1K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ca permettrait d'avoir une archive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "799bccbe-8f68-413c-ae98-edffcf6386e6",
+        "type": "message",
+        "text": "ça vient de google drive",
+        "user": "U0DTHMU81",
+        "ts": "1564389877.003800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A8x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ça vient de google drive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "665d8b0c-155f-4788-98eb-4980ec332b2b",
+        "type": "message",
+        "text": "je vais voir comment je partage ça après, mais pour le moment c'est le bordel avec plein de trucs pas finis",
+        "user": "U0DTHMU81",
+        "ts": "1564389912.004400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "raV6f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je vais voir comment je partage ça après, mais pour le moment c'est le bordel avec plein de trucs pas finis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "20c58600-4501-4afd-8387-c8e16320a617",
+        "type": "message",
+        "text": "Du coup, je suis preneur de retour quand vous aurez le temps d'y jeter un oeil",
+        "user": "U0DTHMU81",
+        "ts": "1564390063.005700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UuD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Du coup, je suis preneur de retour quand vous aurez le temps d'y jeter un oeil"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "635cb883-df5e-4d4c-bd56-d9830e58f481",
+        "type": "message",
+        "text": "Ca marche, j'essaye de lire ça dans la journée",
+        "user": "U0AA0KVLH",
+        "ts": "1564390175.006100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x6v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca marche, j'essaye de lire ça dans la journée"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d4bcd1a9-7656-4450-8d78-20b619927dfb",
+        "type": "message",
+        "text": "En te relisant tu changeras des formulations",
+        "user": "U0AA0KVLH",
+        "ts": "1564407778.006500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vgVU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En te relisant tu changeras des formulations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "411fcad3-f215-4cdb-af09-95bb9fc22ef8",
+        "type": "message",
+        "text": "Le système des paliers est donc commun à plusieurs classes ? Ou à toutes ?",
+        "user": "U0AA0KVLH",
+        "ts": "1564407801.007000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ulf2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le système des paliers est donc commun à plusieurs classes ? Ou à toutes ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c08f0b7c-4ca9-4668-9e52-1059519e8b77",
+        "type": "message",
+        "text": "L'avantage conféré pour cette classe (pv tempo) semble mineur, elle ne définit pas une identité qui donne envie d'être jouer pour moi",
+        "user": "U0AA0KVLH",
+        "ts": "1564407837.007700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CwUh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L'avantage conféré pour cette classe (pv tempo) semble mineur, elle ne définit pas une identité qui donne envie d'être jouer pour moi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e70fd37c-5e34-40da-82e7-e74286acbb56",
+        "type": "message",
+        "text": "Donc je suppose que ce n'est qu'une de ses mécaniques",
+        "user": "U0AA0KVLH",
+        "ts": "1564407853.008200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c\/3a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Donc je suppose que ce n'est qu'une de ses mécaniques"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6a90a1b7-7ffb-4220-88db-08950b24d0ab",
+        "type": "message",
+        "text": "mais c'est présenté comme si c'était une mécanique primordiale (enfin c'est tout ce qu'on a sur la classe pour le moment)",
+        "user": "U0AA0KVLH",
+        "ts": "1564407874.008700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+PjI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais c'est présenté comme si c'était une mécanique primordiale (enfin c'est tout ce qu'on a sur la classe pour le moment)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c3eaa8cf-dbcc-4ade-8fa8-cc4c2b7632c0",
+        "type": "message",
+        "text": "Si je résume les règles spécifiques : on cumule les gains à condition qu'il ne soit pas de même nature mais on ne cumule pas les effets qui font gagner des charges mais chacun peut-être déclencher séparement.",
+        "user": "U0AA0KVLH",
+        "ts": "1564407983.009600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q1x\/m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si je résume les règles spécifiques : on cumule les gains à condition qu'il ne soit pas de même nature mais on ne cumule pas les effets qui font gagner des charges mais chacun peut-être déclencher séparement."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e06df2d4-67e1-470e-929a-64f3c1d23086",
+        "type": "message",
+        "text": "En quoi ce système évolue avec les niveaux ?",
+        "user": "U0AA0KVLH",
+        "ts": "1564408010.009900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tJG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En quoi ce système évolue avec les niveaux ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3c9872c1-7666-4a20-9f77-98713802c603",
+        "type": "message",
+        "text": "Oui les formulations vont évoluer au fur et à mesure",
+        "user": "U0DTHMU81",
+        "ts": "1564408049.010300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HQ8Ev",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui les formulations vont évoluer au fur et à mesure"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5db22efc-a5ea-4cb6-9cea-a8a78b01ea84",
+        "type": "message",
+        "text": "Je vais définir des gameplay \"types\" qui seront communs à plusieurs classes (pas toutes). Il sera plus évident et simple de mélanger des classes basées sur le même système de gameplay. Après ces gameplays seront affinés à l'intérieur de chaque classe pour avoir une personnalité plus spécifique. Ainsi, l'Enragé sera basé sur du combat cac, là un caster palier sera basé sur des sorts pour passer des paliers (par exemple).",
+        "user": "U0DTHMU81",
+        "ts": "1564408200.012800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3c\/Lk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vais définir des gameplay \"types\" qui seront communs à plusieurs classes (pas toutes). Il sera plus évident et simple de mélanger des classes basées sur le même système de gameplay. Après ces gameplays seront affinés à l'intérieur de chaque classe pour avoir une personnalité plus spécifique. Ainsi, l'Enragé sera basé sur du combat cac, là un caster palier sera basé sur des sorts pour passer des paliers (par exemple)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e5976478-5551-4e2e-8294-ddedd8228d17",
+        "type": "message",
+        "text": "Je suis d'accord que le bonus des PV tempo est faible. Ce sera ptet amené à évoluer, mais normalement, le coeur des avantages sera donné par chaque classe.",
+        "user": "U0DTHMU81",
+        "ts": "1564408286.014800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TSNI7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis d'accord que le bonus des PV tempo est faible. Ce sera ptet amené à évoluer, mais normalement, le coeur des avantages sera donné par chaque classe."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "93e72d9a-04da-4265-946f-333519a8fbaf",
+        "type": "message",
+        "text": "Je verrais bien une attaque chargée alors pour l'enragé : plus ton palier est élevé, plus tu peux faire une attaque puissante\/contrôle mais qui te fait perdre tes charges",
+        "user": "U0AA0KVLH",
+        "ts": "1564408288.015000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V1KV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je verrais bien une attaque chargée alors pour l'enragé : plus ton palier est élevé, plus tu peux faire une attaque puissante\/contrôle mais qui te fait perdre tes charges"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "64b942b7-b8a4-4d62-ada8-37adc6b3cd93",
+        "type": "message",
+        "text": "Euh, je vais rephraser ce que j'ai voulu écrire car je ne suis pas sûr de comprendre ce que tu dis.\nPour les avantages conférés par les Paliers, les avantages de bases ne sont pas dupliqués. Il n'y qu'un pool de Charges et de Palier. Donc un perso en Palier 1 gagnera 1 pv tempo \/ tour même s'il a 3 classes avec le système de palier. Par contre ceux apportés par les classes peuvent. Ainsi si ses 3 classes lui donnent 1 pouvoir spécifique qui confère 1 pv tempo \/ tour en Palier 1, alors il gagner 4 Pv tempo par tour en palier 1 (1 de base + 1 \/ classe).\nPour les gains de charge, le perso prend le plus avatageux dans chaque situation parmi tous les gains possibles. Ainsi si ses 3 classes lui donnent la possibilité de gagner 1, 2 et 3 Charges \/ attaque réussie, il ne gagnera pas 6 charges par attaque, mais 1, 2 ou 3 charges (vraisemblablement 3 donc). Donc ça ne sert à rien de stacker les mêmes possibilités de gain.",
+        "user": "U0DTHMU81",
+        "ts": "1564408749.021600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kfZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Euh, je vais rephraser ce que j'ai voulu écrire car je ne suis pas sûr de comprendre ce que tu dis.\nPour les avantages conférés par les Paliers, les avantages de bases ne sont pas dupliqués. Il n'y qu'un pool de Charges et de Palier. Donc un perso en Palier 1 gagnera 1 pv tempo \/ tour même s'il a 3 classes avec le système de palier. Par contre ceux apportés par les classes peuvent. Ainsi si ses 3 classes lui donnent 1 pouvoir spécifique qui confère 1 pv tempo \/ tour en Palier 1, alors il gagner 4 Pv tempo par tour en palier 1 (1 de base + 1 \/ classe).\nPour les gains de charge, le perso prend le plus avatageux dans chaque situation parmi tous les gains possibles. Ainsi si ses 3 classes lui donnent la possibilité de gagner 1, 2 et 3 Charges \/ attaque réussie, il ne gagnera pas 6 charges par attaque, mais 1, 2 ou 3 charges (vraisemblablement 3 donc). Donc ça ne sert à rien de stacker les mêmes possibilités de gain."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4310bbb8-acd6-4401-bf95-7498957b80b2",
+        "type": "message",
+        "text": "Le fait que le pool de charge soit partagé entre les classes signifie aussi qu'il n'y a qu'1 ressource à suivre. Le perso peut génerer des charges via les capacités d'une de ses classes et les dépenser dans les capacités d'une autre.",
+        "user": "U0DTHMU81",
+        "ts": "1564408834.023000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vC3SC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le fait que le pool de charge soit partagé entre les classes signifie aussi qu'il n'y a qu'1 ressource à suivre. Le perso peut génerer des charges via les capacités d'une de ses classes et les dépenser dans les capacités d'une autre."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6ea549a1-a89a-4aa4-8345-7f3bb6dde418",
+        "type": "message",
+        "text": "Donc si je suis Enragé 1\/ Choucroute 1 et que Enrage au premier palier me donne 1pv\/tempo et que Choucroute 1 me donne +1 dégât au premier palier",
+        "user": "U0AA0KVLH",
+        "ts": "1564408880.024300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ESf26",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Donc si je suis Enragé 1\/ Choucroute 1 et que Enrage au premier palier me donne 1pv\/tempo et que Choucroute 1 me donne +1 dégât au premier palier"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1c9d1481-dc99-4d6b-b9a0-02a090e981e6",
+        "type": "message",
+        "text": "je dois choisir un seul effet, aps cumulable",
+        "user": "U0AA0KVLH",
+        "ts": "1564408888.024700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NcdW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je dois choisir un seul effet, aps cumulable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e54919dd-1944-4633-a7f6-cc5db83e6f52",
+        "type": "message",
+        "text": "Attention",
+        "user": "U0DTHMU81",
+        "ts": "1564408908.025300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yZ2N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Attention"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "92a2d258-4ce8-40cb-88d3-59318a86e536",
+        "type": "message",
+        "text": "par contre si Choucroute 1 me donne également 1pv\/tempo alors j'ai 2pv\/tempo",
+        "user": "U0AA0KVLH",
+        "ts": "1564408909.025500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "345",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "par contre si Choucroute 1 me donne également 1pv\/tempo alors j'ai 2pv\/tempo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d32ad9d7-f9b7-488c-b412-b24ef1e7bae3",
+        "type": "message",
+        "text": "Là j'ai présenté le système général",
+        "user": "U0DTHMU81",
+        "ts": "1564408923.025800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vs+3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Là j'ai présenté le système général"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b128caef-3ed9-496d-8d34-4a72cc5f6828",
+        "type": "message",
+        "text": "de base, le système donne 1 pv tempo \/ palier \/ tour.",
+        "user": "U0DTHMU81",
+        "ts": "1564408943.026300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3mlOU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "de base, le système donne 1 pv tempo \/ palier \/ tour."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f54a0bf7-8207-40b2-897f-b8507e23d836",
+        "type": "message",
+        "text": "Il n'y a pas de classe attachée",
+        "user": "U0DTHMU81",
+        "ts": "1564408956.026600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b7Hs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il n'y a pas de classe attachée"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "751e0490-77e5-4e31-89d6-26099924251f",
+        "type": "message",
+        "text": "ah",
+        "user": "U0AA0KVLH",
+        "ts": "1564408973.026800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XtZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "542c137f-8ca7-4c20-b48b-8c19521cf9dd",
+        "type": "message",
+        "text": "L'Enragé donnera +1 att au cac \/ palier en plus.",
+        "user": "U0DTHMU81",
+        "ts": "1564409004.027300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j0b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L'Enragé donnera +1 att au cac \/ palier en plus."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "da94f580-1f6e-4a53-856c-3d1713fa1406",
+        "type": "message",
+        "text": "Si la 2° classe donne le même bonus, pas de problème, ça fera +2 att cac \/ palier. Mais les PV tempo du système général resteront à 1 par palier",
+        "user": "U0DTHMU81",
+        "ts": "1564409048.028300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VOmr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si la 2° classe donne le même bonus, pas de problème, ça fera +2 att cac \/ palier. Mais les PV tempo du système général resteront à 1 par palier"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "95f5d01b-312c-40bf-a2ab-085cde061d09",
+        "type": "message",
+        "text": "et il ne faut pas sous-estimer 1 choucroute vénère",
+        "user": "U0DTHMU81",
+        "ts": "1564409112.028700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jm2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et il ne faut pas sous-estimer 1 choucroute vénère"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564409112.028700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1564409760.038800",
+        "reply_users": [
+            "U0AA0KVLH"
+        ],
+        "replies": [
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1564409760.038800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "020114a3-cb32-4e89-9b29-e2fa34ab5e48",
+        "type": "message",
+        "text": "Concernant l'évolution avec les niveaux, le système en lui-même reste fixe. Mais il sera difficile de passer le Palier 1 dans les bas niveaux et plus simple d'atteindre le palier 3 dans les hauts niveaux et donc de bénéficier de plus gros bonus.\nOui un perso bas lvl qui réussit à passer régulièrement en palier 2-3 bénéficiera d'un avantage sur les persos de même niveau, mais ce sera forcément au prix de quelque chose.",
+        "user": "U0DTHMU81",
+        "ts": "1564409260.031200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E+qWm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Concernant l'évolution avec les niveaux, le système en lui-même reste fixe. Mais il sera difficile de passer le Palier 1 dans les bas niveaux et plus simple d'atteindre le palier 3 dans les hauts niveaux et donc de bénéficier de plus gros bonus.\nOui un perso bas lvl qui réussit à passer régulièrement en palier 2-3 bénéficiera d'un avantage sur les persos de même niveau, mais ce sera forcément au prix de quelque chose."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5f91e69b-47ea-4562-84b7-5717bb84d4ef",
+        "type": "message",
+        "text": "Et pour la proposition, la possibilité de consommer des Charges pour améliorer des effets est dans le pipe (type une attaque chargée). Ce sera au joueur de mesurer l'avantage qu'il a de faire une méga-attaque tout de suite vs les avantages apportés par les paliers dans les tours suivants.",
+        "user": "U0DTHMU81",
+        "ts": "1564409390.033600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AjY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et pour la proposition, la possibilité de consommer des Charges pour améliorer des effets est dans le pipe (type une attaque chargée). Ce sera au joueur de mesurer l'avantage qu'il a de faire une méga-attaque tout de suite vs les avantages apportés par les paliers dans les tours suivants."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4e4409e8-0a0d-4bd6-a611-62d184162b53",
+        "type": "message",
+        "text": "Merci pour les retours en tout cas",
+        "user": "U0DTHMU81",
+        "ts": "1564409424.034300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yLs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour les retours en tout cas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "723e44eb-61ac-41f8-b01b-c325c92a2073",
+        "type": "message",
+        "text": "donc si Enragé me donne +1 att\/1pv tempo et Choucroute +1 dégâts\/+1 pv tempo au premier palier, j'ai 2pv tempo et ?",
+        "user": "U0AA0KVLH",
+        "ts": "1564409430.034500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Smjln",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "donc si Enragé me donne +1 att\/1pv tempo et Choucroute +1 dégâts\/+1 pv tempo au premier palier, j'ai 2pv tempo et ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2666098b-b333-49cb-ab4e-ab470ae7e380",
+        "type": "message",
+        "text": "Et encore, la pire c'est la choucroute noire du chaos",
+        "user": "U0AA0KVLH",
+        "ts": "1564409760.038800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "APSa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et encore, la pire c'est la choucroute noire du chaos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564409112.028700",
+        "parent_user_id": "U0DTHMU81"
+    },
+    {
+        "client_msg_id": "8ed65760-e3cf-4dd4-bc56-91ec42dc6b15",
+        "type": "message",
+        "text": "Je vais tout détailler (en Palier 1, logique identique pour les autres paliers) :\nEnragé 1 :\nCapacité offerte : +1 att cac\nTotal : +1 pv tempo \/ tour (bonus général) \/ +1 att cac (spécifique enragé)\nEnr 1 \/ Cho 1 :\nCapacité offerte : +1 dmgs cac\n+1 pv tempo \/ tour (bonus général \/ +1 att cac (spécifique enragé) \/ +1 dmgs cac (spécifique Choucroute)\nEnr 2 \/ Cho 1 :\nCapacité offerte : +1 pv tempo \/ tour\n+1 pv tempo \/ tour (bonus général \/ +1 att cac (spécifique enragé) \/ +1 dmgs cac (spécifique Choucroute) \/ +1 pv tempo \/ tour (Enragé)\n-&gt; Donc +2 pv tempo \/ tour\nEnr 2 \/ Cho 2 :\nCapacité offerte : +1 pv tempo \/ tour\n+1 pv tempo \/ tour (bonus général \/ +1 att cac (spécifique enragé) \/ +1 dmgs cac (spécifique Choucroute) \/ +1 pv tempo \/ tour (Enragé) \/ +1 pv tempo \/ tour (Choucroute)\n-&gt; Donc +3 pv tempo \/ tour",
+        "user": "U0DTHMU81",
+        "ts": "1564409787.039400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+p==e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vais tout détailler (en Palier 1, logique identique pour les autres paliers) :\nEnragé 1 :\nCapacité offerte : +1 att cac\nTotal : +1 pv tempo \/ tour (bonus général) \/ +1 att cac (spécifique enragé)\nEnr 1 \/ Cho 1 :\nCapacité offerte : +1 dmgs cac\n+1 pv tempo \/ tour (bonus général \/ +1 att cac (spécifique enragé) \/ +1 dmgs cac (spécifique Choucroute)\nEnr 2 \/ Cho 1 :\nCapacité offerte : +1 pv tempo \/ tour\n+1 pv tempo \/ tour (bonus général \/ +1 att cac (spécifique enragé) \/ +1 dmgs cac (spécifique Choucroute) \/ +1 pv tempo \/ tour (Enragé)\n-> Donc +2 pv tempo \/ tour\nEnr 2 \/ Cho 2 :\nCapacité offerte : +1 pv tempo \/ tour\n+1 pv tempo \/ tour (bonus général \/ +1 att cac (spécifique enragé) \/ +1 dmgs cac (spécifique Choucroute) \/ +1 pv tempo \/ tour (Enragé) \/ +1 pv tempo \/ tour (Choucroute)\n-> Donc +3 pv tempo \/ tour"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a9a8f80b-51b6-496c-bb77-610b4ebda46c",
+        "type": "message",
+        "text": "Les \"\/\" sont des \"et\", pas des \"ou\"",
+        "user": "U0DTHMU81",
+        "ts": "1564409866.039800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ruve",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les \"\/\" sont des \"et\", pas des \"ou\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "35971bd9-59eb-4ba1-8717-ea8cc5907512",
+        "type": "message",
+        "text": "(ou des \"par\")",
+        "user": "U0DTHMU81",
+        "ts": "1564409883.040100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N5C0F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(ou des \"par\")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2a41e56f-de25-49f4-824f-cfd972d8b403",
+        "type": "message",
+        "text": "k",
+        "user": "U0AA0KVLH",
+        "ts": "1564409891.040300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AGGS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "k"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5bcd4819-6224-4cdb-824b-829574e334f8",
+        "type": "message",
+        "text": "Alors dernière remarque",
+        "user": "U0AA0KVLH",
+        "ts": "1564409895.040600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T8k0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alors dernière remarque"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "257c0151-93db-48dc-9098-147757f3fcbd",
+        "type": "message",
+        "text": "Je vais rephraser mon truc",
+        "user": "U0DTHMU81",
+        "ts": "1564409900.040900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DZk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vais rephraser mon truc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b360de19-d168-4cf8-a908-4188779ca1e1",
+        "type": "message",
+        "text": "pour mettre en avant que c'est un pool unique et que les avantages apportés par les classes viennent  s'y ajouter",
+        "user": "U0DTHMU81",
+        "ts": "1564409931.041900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XrXw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pour mettre en avant que c'est un pool unique et que les avantages apportés par les classes viennent  s'y ajouter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8bd42271-c813-4bed-9d3b-0518a3f13d16",
+        "type": "message",
+        "text": "je ne ferais pas : Les joueurs gagnent X charges par tour et perdent une charge par tour mais les joueurs gagnent (X-1) charges par tour et en perdent une les tours où ils n'en gagnent pas",
+        "user": "U0AA0KVLH",
+        "ts": "1564409941.042200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GI4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je ne ferais pas : Les joueurs gagnent X charges par tour et perdent une charge par tour mais les joueurs gagnent (X-1) charges par tour et en perdent une les tours où ils n'en gagnent pas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0AA0KVLH",
+            "ts": "1564409963.000000"
+        }
+    },
+    {
+        "client_msg_id": "df61cca4-1528-4c3f-8eb9-a3424852d001",
+        "type": "message",
+        "text": "Autant inclure la perte directement afin d'éviter un calcul supplémentaire",
+        "user": "U0AA0KVLH",
+        "ts": "1564409979.042700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EL5e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Autant inclure la perte directement afin d'éviter un calcul supplémentaire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6234b2c9-eaab-46e9-8b55-b3fd5b8f5085",
+        "type": "message",
+        "text": "oula non",
+        "user": "U0DTHMU81",
+        "ts": "1564409991.042900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dM\/J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oula non"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e6b76897-1fba-4811-b5de-7507c670473f",
+        "type": "message",
+        "text": "dans ta proposition, tu mets 1 baffes, tu as gagné 0 Charges. Rien n'a changé.",
+        "user": "U0DTHMU81",
+        "ts": "1564410041.043700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lTIF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dans ta proposition, tu mets 1 baffes, tu as gagné 0 Charges. Rien n'a changé."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "561de344-0bc6-4277-843f-2d31d6bb94f3",
+        "type": "message",
+        "text": "Tu mets 2 attaques. La première te laisse à 0 et la 2ième te passe a 1, donc Palier 1.\nDans ma version, la 1° te passe en palier 1 et la seconde bénéficie de l'avantage qu'il peut y avoir.",
+        "user": "U0DTHMU81",
+        "ts": "1564410121.045000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xkjDa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu mets 2 attaques. La première te laisse à 0 et la 2ième te passe a 1, donc Palier 1.\nDans ma version, la 1° te passe en palier 1 et la seconde bénéficie de l'avantage qu'il peut y avoir."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1940e82a-1806-4e75-a0ec-8189f0d80f70",
+        "type": "message",
+        "text": "C'est très différent pour le coup.",
+        "user": "U0DTHMU81",
+        "ts": "1564410137.045300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QziL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est très différent pour le coup."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a2f20051-fac5-4b49-a73c-67423f4cf1c0",
+        "type": "message",
+        "text": "Et pour expliquer que c'est le nombre total de charges gagnées pendant le tour -1, ça va pas être facile.\nLà, tu tapes : tu charges. Et après tu dégonfles.",
+        "user": "U0DTHMU81",
+        "ts": "1564410263.046300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JYNIv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et pour expliquer que c'est le nombre total de charges gagnées pendant le tour -1, ça va pas être facile.\nLà, tu tapes : tu charges. Et après tu dégonfles."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1be7c645-559d-4ced-9f15-ecf3cb7889ce",
+        "type": "message",
+        "text": "Si tu veux mais pour moi 1) X-1 est une simplificaition tu peux très bien dire : la première baffe n'apporte rien, la deuxième apporte 1.\n2) le tu dégonfles, c'est un peu étrange : après tout il ne fait que taper, il n'est pas censé avoir vraiment le temps de dégonfler",
+        "user": "U0AA0KVLH",
+        "ts": "1564410375.047600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rZh\/O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si tu veux mais pour moi 1) X-1 est une simplificaition tu peux très bien dire : la première baffe n'apporte rien, la deuxième apporte 1.\n2) le tu dégonfles, c'est un peu étrange : après tout il ne fait que taper, il n'est pas censé avoir vraiment le temps de dégonfler"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6350eefc-8d2c-4e36-b877-8dc832c24156",
+        "type": "message",
+        "text": "Question de point de vue.",
+        "user": "U0AA0KVLH",
+        "ts": "1564410383.047900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PPR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Question de point de vue."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3e7a123a-44ed-4d7d-9823-cc16c289c169",
+        "type": "message",
+        "text": "Rien d'autres à ajouter pour le moment",
+        "user": "U0AA0KVLH",
+        "ts": "1564410388.048100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KWQY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Rien d'autres à ajouter pour le moment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0387ed84-3382-478e-baec-a59ebef18fec",
+        "type": "message",
+        "text": "C'est plus un effet pour maintenir la pression sur la mécanique. Pour la justification, le perso peut fatiguer par exemple. C'est sensé être un gameplay plutot brusque. Tu n'es pas sensé temporisé avec. Tu veux faire monter tes rangs vite avant que la dégénérescence de charge n'en consomme trop. Il en faut 6 pour passer Palier 3. Chaque tour qui passe augmente cet objectif de 1. Et chaque tour que tu passes CC te coûte cher.\nLe fait de dire que la 1° attaque ne rapporte rien est, je trouve, difficile à justifier et à expliquer, limite les possibilités de capacités et est potentiellement abusable.",
+        "user": "U0DTHMU81",
+        "ts": "1564410901.054200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W+Jl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est plus un effet pour maintenir la pression sur la mécanique. Pour la justification, le perso peut fatiguer par exemple. C'est sensé être un gameplay plutot brusque. Tu n'es pas sensé temporisé avec. Tu veux faire monter tes rangs vite avant que la dégénérescence de charge n'en consomme trop. Il en faut 6 pour passer Palier 3. Chaque tour qui passe augmente cet objectif de 1. Et chaque tour que tu passes CC te coûte cher.\nLe fait de dire que la 1° attaque ne rapporte rien est, je trouve, difficile à justifier et à expliquer, limite les possibilités de capacités et est potentiellement abusable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "34a11594-57e2-45ec-b5e3-f0d745953beb",
+        "type": "message",
+        "text": "Merci en tout cas",
+        "user": "U0DTHMU81",
+        "ts": "1564410957.054400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uvooq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci en tout cas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "127dba82-b00e-4d6f-ab1a-dd37d5546c2c",
+        "type": "message",
+        "text": "Je vais voir pour avancer dessus et sortir un draft de classe plus complet qu'on puisse échanger dessus samedi pendant le trajet.",
+        "user": "U0DTHMU81",
+        "ts": "1564410986.055000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RrhGD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vais voir pour avancer dessus et sortir un draft de classe plus complet qu'on puisse échanger dessus samedi pendant le trajet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DTHMU81",
+            "ts": "1564410990.000000"
+        }
+    },
+    {
+        "client_msg_id": "450af391-ad91-4b0a-b415-05d741f41fd3",
+        "type": "message",
+        "text": "Ce sera ptet plus simple de visualiser ce que j'imagine avec un exemple concret",
+        "user": "U0DTHMU81",
+        "ts": "1564411027.055600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xmfM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ce sera ptet plus simple de visualiser ce que j'imagine avec un exemple concret"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "438dc90d-12c1-4c0d-b650-8b0bbe1a9b27",
+        "type": "message",
+        "text": "Disons que c'est uns système bien sur ordi mais en IRL ca force le joueur à faire bcp de calcul à chaque tour",
+        "user": "U0AA0KVLH",
+        "ts": "1564411076.056100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VndU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Disons que c'est uns système bien sur ordi mais en IRL ca force le joueur à faire bcp de calcul à chaque tour"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c6cd0ad0-095c-4cb9-8875-490b6fceb166",
+        "type": "message",
+        "text": "(c'est sur que c'estpas al complexité du calcul qui étouffe mais bon)",
+        "user": "U0AA0KVLH",
+        "ts": "1564411099.056500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yU9yW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(c'est sur que c'estpas al complexité du calcul qui étouffe mais bon)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8753172b-7625-4fe1-aaf9-fb389ed4b231",
+        "type": "message",
+        "text": "pour ça que je veux tester",
+        "user": "U0DTHMU81",
+        "ts": "1564411353.056900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nDc6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pour ça que je veux tester"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "47120365-6ed1-4e93-95c8-180d777ae735",
+        "type": "message",
+        "text": "mais je peux me tromper",
+        "user": "U0DTHMU81",
+        "ts": "1564411410.057700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XK2n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais je peux me tromper"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b961fd31-0316-409d-a774-0fec9a8522d8",
+        "type": "message",
+        "text": "je ne pense pas que ça fasse trop de calcul (surtout si on a genre des jetons) de retirer 1 charge à la de chaque tour",
+        "user": "U0DTHMU81",
+        "ts": "1564411415.057800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pt=R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "je ne pense pas que ça fasse trop de calcul (surtout si on a genre des jetons) de retirer 1 charge à la de chaque tour"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cb4768b8-2593-43f9-903b-5a8b335abe68",
+        "type": "message",
+        "text": "Pourquoi ne pas faire dégonfler au début du tour? Genre comme un \"entretien\"?",
+        "user": "U0A48EDPD",
+        "ts": "1564433268.059600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5mW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pourquoi ne pas faire dégonfler au début du tour? Genre comme un \"entretien\"?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564433268.059600",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1564464497.069500",
+        "reply_users": [
+            "U0DTHMU81"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564464426.069300"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564464497.069500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1564464497.069500"
+    },
+    {
+        "client_msg_id": "ae954409-451d-4fda-926e-f80371fcef6a",
+        "type": "message",
+        "text": "Ça permettrait de centraliser les pertes avec des effets néfastes, ou des investissements en Charge dans des capacités de \"concentration\".",
+        "user": "U0A48EDPD",
+        "ts": "1564433339.061600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zPB+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ça permettrait de centraliser les pertes avec des effets néfastes, ou des investissements en Charge dans des capacités de \"concentration\"."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ea87ccf4-0fb3-43c9-ba6b-33a39993af80",
+        "type": "message",
+        "text": "C'est quoi la différence avec le Prana?",
+        "user": "U0A48EDPD",
+        "ts": "1564433376.062600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BCPc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est quoi la différence avec le Prana?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564433376.062600",
+        "reply_count": 23,
+        "reply_users_count": 2,
+        "latest_reply": "1564504588.091100",
+        "reply_users": [
+            "U0DTHMU81",
+            "U0A48EDPD"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564464616.069700"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1564480148.072900"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564480282.073200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564480345.073600"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1564484712.075700"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564485641.076100"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564485669.076300"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564485887.076500"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564485945.076800"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564486012.077000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564486040.077200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564486131.077400"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564486193.077600"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1564495152.077800"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1564495200.078000"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1564495227.078200"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1564495282.078400"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1564495390.078600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564495485.078800"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564495859.079000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564496147.079200"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1564504514.090900"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564504588.091100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1564504588.091100"
+    },
+    {
+        "client_msg_id": "ebdcada6-3d53-440c-a1c4-747b5698ea28",
+        "type": "message",
+        "text": "Au final, au Palier 3, tu as :\n+3 PV.tmp par tour? \n+1+2+3 = +6 pv.tmp par tour?",
+        "user": "U0A48EDPD",
+        "ts": "1564433491.064800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mYNNZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Au final, au Palier 3, tu as :\n+3 PV.tmp par tour? \n+1+2+3 = +6 pv.tmp par tour?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564433491.064800",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1564464718.070400",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0DTHMU81"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1564433659.065000"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564464686.069900"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564464701.070200"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564464718.070400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1564464718.070400"
+    },
+    {
+        "client_msg_id": "bdcf1d23-7367-49e3-b0cb-a40e955a7f08",
+        "type": "message",
+        "text": "Questions due à la phrase suivante :\n\"Il bénéficie\nde tous les effets de ce Palier et des précédents.\"",
+        "user": "U0A48EDPD",
+        "ts": "1564433659.065000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vUk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Questions due à la phrase suivante :\n\"Il bénéficie\nde tous les effets de ce Palier et des précédents.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564433491.064800",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "3923da39-cf8d-460e-8183-5eeccb216050",
+        "type": "message",
+        "text": "Est-ce qu'un \"Pallier 4\" est envisagé pour certaines classes? Tu es parti sur un rapport n&lt;&gt;n(n+1)\/2, max 10 : il y a la place pour un Palier de plus.",
+        "user": "U0A48EDPD",
+        "ts": "1564433849.068400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3FY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est-ce qu'un \"Pallier 4\" est envisagé pour certaines classes? Tu es parti sur un rapport n<>n(n+1)\/2, max 10 : il y a la place pour un Palier de plus."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564433849.068400",
+        "reply_count": 19,
+        "reply_users_count": 3,
+        "latest_reply": "1564485604.075900",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0DTHMU81",
+            "U0AA0KVLH"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1564433993.068500"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1564434022.068700"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564464827.070600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564464834.070800"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564464968.071000"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1564472742.071400"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564472865.071600"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564473000.071800"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564473042.072000"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1564480307.073400"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1564480361.073800"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1564480394.074000"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1564480466.074200"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1564480513.074400"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564480579.074700"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564480593.074900"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1564480710.075100"
+            },
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1564480718.075300"
+            },
+            {
+                "user": "U0DTHMU81",
+                "ts": "1564485604.075900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1564504453.000902"
+    },
+    {
+        "client_msg_id": "689a4a20-436c-4c22-ba0b-4332e4d991bc",
+        "type": "message",
+        "text": "Pour info, j'utilise ceci pour avoir rapidement mes échelles de puissance :",
+        "user": "U0A48EDPD",
+        "ts": "1564433993.068500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dbNuP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour info, j'utilise ceci pour avoir rapidement mes échelles de puissance :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564433849.068400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "38ba43ad-1775-4988-a8a6-0cb91917a81e",
+        "type": "message",
+        "text": "```\n|  n | 2n-1 | n(n+1)\/2 |  n2 |\n|  1 |    1 |        1 |   1 |\n|  2 |    3 |        3 |   4 |\n|  3 |    5 |        6 |   9 |\n|  4 |    7 |       10 |  16 |\n|  5 |    9 |       15 |  25 |\n|  6 |   11 |       21 |  36 |\n|  7 |   13 |       28 |  49 |\n|  8 |   15 |       36 |  64 |\n|  9 |   17 |       45 |  81 |\n| 10 |   19 |       55 | 100 |\n| 11 |   21 |       66 | 121 |\n| 12 |   23 |       78 | 144 |\n```",
+        "user": "U0A48EDPD",
+        "ts": "1564434022.068700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iB\/uI",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "|  n | 2n-1 | n(n+1)\/2 |  n2 |\n|  1 |    1 |        1 |   1 |\n|  2 |    3 |        3 |   4 |\n|  3 |    5 |        6 |   9 |\n|  4 |    7 |       10 |  16 |\n|  5 |    9 |       15 |  25 |\n|  6 |   11 |       21 |  36 |\n|  7 |   13 |       28 |  49 |\n|  8 |   15 |       36 |  64 |\n|  9 |   17 |       45 |  81 |\n| 10 |   19 |       55 | 100 |\n| 11 |   21 |       66 | 121 |\n| 12 |   23 |       78 | 144 |\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564433849.068400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "49997d85-fc06-4f13-abca-8b0bba17f520",
+        "type": "message",
+        "text": "C'est aussi une option. Il y a déjà des effets qui se passe en fin de tour, genre la fin des effetsqui durent un nombre de roud limités",
+        "user": "U0DTHMU81",
+        "ts": "1564464426.069300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Cmwr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est aussi une option. Il y a déjà des effets qui se passe en fin de tour, genre la fin des effetsqui durent un nombre de roud limités"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564433268.059600",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "eff181dd-33d1-4afc-933e-258e3072ce87",
+        "type": "message",
+        "text": "Pour faire un parallèle avec les jeux de cartes, il y a aussi des phases de fin tour et de nettoyage des effets",
+        "user": "U0DTHMU81",
+        "ts": "1564464497.069500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uut",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour faire un parallèle avec les jeux de cartes, il y a aussi des phases de fin tour et de nettoyage des effets"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564433268.059600",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "7bea0cbb-87e8-4a44-9189-f208b897cb74",
+        "type": "message",
+        "text": "Le montant max de Prana varie avec les niveaux (10\/lvl) donc difficile de faire des effets de palier avec ça.\nLa différence aussi est que le Prana reste entre les combats. Là, les stacks reset rapidement",
+        "user": "U0DTHMU81",
+        "ts": "1564464616.069700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HAU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le montant max de Prana varie avec les niveaux (10\/lvl) donc difficile de faire des effets de palier avec ça.\nLa différence aussi est que le Prana reste entre les combats. Là, les stacks reset rapidement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564433376.062600",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "fa3cc9c0-a2cd-4543-828c-00793c340d19",
+        "type": "message",
+        "text": "bien vu",
+        "user": "U0DTHMU81",
+        "ts": "1564464686.069900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iMrIj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bien vu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564433491.064800",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "34b2c52b-e3c2-4133-baec-fd22d3c49cbf",
+        "type": "message",
+        "text": "c'est +1 \/ rang, cumulatif",
+        "user": "U0DTHMU81",
+        "ts": "1564464701.070200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h5B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est +1 \/ rang, cumulatif"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564433491.064800",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "7b15d340-6ede-4d83-aeca-1f08d88dce79",
+        "type": "message",
+        "text": "donc +3\/round au palier 3",
+        "user": "U0DTHMU81",
+        "ts": "1564464718.070400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4veoc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "donc +3\/round au palier 3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564433491.064800",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "1fba892a-0d77-4622-8e9f-9021a43b4312",
+        "type": "message",
+        "text": "yep, c'est exactement pour ça que j'ai pris ces paliers",
+        "user": "U0DTHMU81",
+        "ts": "1564464827.070600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5D\/V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep, c'est exactement pour ça que j'ai pris ces paliers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564433849.068400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "8592b905-5a2a-49a2-be82-68bf0fe57cbd",
+        "type": "message",
+        "text": "Merci pour la table",
+        "user": "U0DTHMU81",
+        "ts": "1564464834.070800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wNL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour la table"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564433849.068400",
+        "parent_user_id": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "ceeafdd5-1ba6-429f-a16e-058b8b486436",
+        "type": "message",
+        "text": "le 4° palier sera une option possible dans certaines classes. Un palier difficile a atteindre, mais plus puissant",
+        "user": "U0DTHMU81",
+        "ts": "1564464968.071000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TD3l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le 4° palier sera une option possible dans certaines classes. Un palier difficile a atteindre, mais plus puissant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564433849.068400",
+        "parent_user_id": "U0A48EDPD"
+    }
+]

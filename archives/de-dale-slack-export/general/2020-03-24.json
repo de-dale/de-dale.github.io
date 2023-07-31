@@ -1,0 +1,151 @@
+[
+    {
+        "client_msg_id": "acc357a3-49b5-44e3-90eb-a46a39c85d4e",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1585055617.089200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u5Yh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "60221be2-ea77-4833-bb61-ca42c22ed6c7",
+        "type": "message",
+        "text": "pas la bande passante pour réfléchir, avec deux gosses :)",
+        "user": "U0A48EDPD",
+        "ts": "1585055637.089700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r+94",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pas la bande passante pour réfléchir, avec deux gosses :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585055637.089700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585249527.002400",
+        "reply_users": [
+            "U0DTHMU81"
+        ],
+        "replies": [
+            {
+                "user": "U0DTHMU81",
+                "ts": "1585249527.002400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1585249527.002400"
+    },
+    {
+        "client_msg_id": "41bafa94-b5b7-438c-96bc-416ebb61141a",
+        "type": "message",
+        "text": "Une critique du manuel de base :\n<http:\/\/www.legrog.org\/jeux\/hitos\/hitos-fr>",
+        "user": "U0A48EDPD",
+        "ts": "1585056202.090000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yDK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Une critique du manuel de base :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.legrog.org\/jeux\/hitos\/hitos-fr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "HITOS (978-2375640050)",
+                "title_link": "http:\/\/www.legrog.org\/jeux\/hitos\/hitos-fr",
+                "text": "Le Guide du Roliste Galactique, l'encyclopédie des jeux de roles",
+                "fallback": "HITOS (978-2375640050)",
+                "from_url": "http:\/\/www.legrog.org\/jeux\/hitos\/hitos-fr",
+                "service_icon": "http:\/\/www.legrog.org\/images\/structure\/favicon.png",
+                "service_name": "legrog.org",
+                "id": 1,
+                "original_url": "http:\/\/www.legrog.org\/jeux\/hitos\/hitos-fr"
+            }
+        ],
+        "thread_ts": "1584973612.087300",
+        "parent_user_id": "U0AA0KVLH"
+    }
+]

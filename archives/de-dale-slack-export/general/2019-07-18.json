@@ -1,0 +1,362 @@
+[
+    {
+        "client_msg_id": "73c69e30-c1f2-4ec0-acb3-606c0d44cbb7",
+        "type": "message",
+        "text": "plop",
+        "user": "U0M8SF5CG",
+        "ts": "1563436557.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5UU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "33eff4cd-9a75-44ad-bc94-7678a55f6498",
+        "type": "message",
+        "text": "Visiblement qqun a traduit l'histoire trouvé sur le site de Magic en francais",
+        "user": "U0AA0KVLH",
+        "ts": "1563443079.001000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f7Hx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Visiblement qqun a traduit l'histoire trouvé sur le site de Magic en francais"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f088a96a-9dc4-4af8-94b7-bc6b0db826f3",
+        "type": "message",
+        "text": "<http:\/\/www.smfcorp.net\/mtg-articles-19398-la-guerre-des-planeswalkers-partie-1.html>",
+        "user": "U0AA0KVLH",
+        "ts": "1563443080.001200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D4N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.smfcorp.net\/mtg-articles-19398-la-guerre-des-planeswalkers-partie-1.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "La Guerre des Planeswalkers : partie 1 - Magic the Gathering",
+                "title_link": "http:\/\/www.smfcorp.net\/mtg-articles-19398-la-guerre-des-planeswalkers-partie-1.html",
+                "text": "Au cours des semaines suivantes, les histoires publiées de Greg Weisman seront des extraits de son roman paru il y a peu : il va sans dire que, si vous voulez garder la surprise, ne touchez pas à cet article ; pour les autres, foncez !",
+                "fallback": "La Guerre des Planeswalkers : partie 1 - Magic the Gathering",
+                "from_url": "http:\/\/www.smfcorp.net\/mtg-articles-19398-la-guerre-des-planeswalkers-partie-1.html",
+                "service_icon": "http:\/\/www.smfcorp.net\/images\/divers\/favicon.ico",
+                "service_name": "smfcorp.net",
+                "id": 1,
+                "original_url": "http:\/\/www.smfcorp.net\/mtg-articles-19398-la-guerre-des-planeswalkers-partie-1.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f759d50-b372-4cf3-99ca-83d5cf853b76",
+        "type": "message",
+        "text": "(j'ai rapidement feuilleté, la traduction est moyenne, mieux que Google mais sommaire)",
+        "user": "U0AA0KVLH",
+        "ts": "1563456473.001800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0mb9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(j'ai rapidement feuilleté, la traduction est moyenne, mieux que Google mais sommaire)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "14114571-9a06-44da-8479-e7c4b30c6e14",
+        "type": "message",
+        "text": "Hello",
+        "user": "U0AA0KVLH",
+        "ts": "1563516796.002000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OtnbF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e0d1ae8a-99c5-4c89-a3d0-33c2f92f48d3",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0A48EDPD",
+        "ts": "1563517315.002200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pWk+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1d70c308-cdb7-4b5c-9d00-1df735b5b5b0",
+        "type": "message",
+        "text": "Tu te mets à l'anglais?",
+        "user": "U0A48EDPD",
+        "ts": "1563517317.002300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qytwY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu te mets à l'anglais?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6f5e9a89-ae3a-4525-be8d-1424cf556c2d",
+        "type": "message",
+        "text": "Le vendredi seulement",
+        "user": "U0AA0KVLH",
+        "ts": "1563519001.002600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "phwL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le vendredi seulement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "31b80d24-a77e-4a7a-8746-c810c21e5e19",
+        "type": "message",
+        "text": "C'est déjà pas mal :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1563519568.002800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "asJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est déjà pas mal "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

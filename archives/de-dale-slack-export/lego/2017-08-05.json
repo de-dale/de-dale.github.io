@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/9gag.com\/gag\/aWq1RqA>",
+        "user": "U0A48EDPD",
+        "ts": "1501950069.585215",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AyKt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/9gag.com\/gag\/aWq1RqA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "9GAG",
+                "title": "Schienengeschütz schwerer Gustav - Lego style",
+                "title_link": "https:\/\/9gag.com\/gag\/aWq1RqA",
+                "text": "Share with your friends now",
+                "fallback": "9GAG: Schienengeschütz schwerer Gustav - Lego style",
+                "image_url": "https:\/\/images-cdn.9gag.com\/photo\/aWq1RqA_700b.jpg",
+                "from_url": "https:\/\/9gag.com\/gag\/aWq1RqA",
+                "image_width": 43,
+                "image_height": 250,
+                "image_bytes": 652916,
+                "service_icon": "https:\/\/assets-9gag-fun.9cache.com\/s\/fab0aa49\/f73ad39586655434f042dbe94ffb3a4d54fbce3b\/static\/dist\/core\/img\/favicon_v2.png",
+                "id": 1
+            }
+        ]
+    }
+]

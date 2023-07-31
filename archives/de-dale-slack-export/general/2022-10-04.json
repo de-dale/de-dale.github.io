@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "d04886d3-51a3-497b-8726-f3fe0bb86ed0",
+        "type": "message",
+        "text": "Ca me surprends pas :wink:",
+        "user": "U0A48EDPD",
+        "ts": "1664880526.451789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5nLHf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca me surprends pas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "16fadf4d-03a8-4ebf-9afe-f0ae72c1452e",
+        "type": "message",
+        "text": "Je suis EASK\nExplorer 80%\nAchiever 53%\nSocializer 47%\nKiller 20%",
+        "user": "U0A48EDPD",
+        "ts": "1664911743.296679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fEux",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je suis EASK\nExplorer 80%\nAchiever 53%\nSocializer 47%\nKiller 20%"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

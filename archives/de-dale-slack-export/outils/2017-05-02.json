@@ -1,0 +1,121 @@
+[
+    {
+        "type": "message",
+        "text": "<@U0A48EDPD|faby> shared a file: <https:\/\/de-dale.slack.com\/files\/faby\/F4T99DA0L\/alignement_d_d.png|Alignement D&amp;D.png>",
+        "files": [
+            {
+                "id": "F4T99DA0L",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U0A48EDPD",
+        "display_as_bot": false,
+        "ts": "1493794480.433924",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LODr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " shared a file: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/de-dale.slack.com\/files\/faby\/F4T99DA0L\/alignement_d_d.png",
+                                "text": "Alignement D&D.png",
+                                "unsafe": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/prezi.com>",
+        "user": "U0A48EDPD",
+        "ts": "1493794528.440844",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wTPB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/prezi.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "prezi.com",
+                "title": "Presentation Software | Online Presentation Tools | Prezi",
+                "title_link": "https:\/\/prezi.com",
+                "text": "Welcome to Prezi, the presentation software that uses motion, zoom, and spatial relationships to bring your ideas to life and make you a great presenter.",
+                "fallback": "prezi.com: Presentation Software | Online Presentation Tools | Prezi",
+                "image_url": "https:\/\/prezi-a.akamaihd.net\/cover-versioned\/123-7db437824c938e22791b1c3de43fac6a3dcdc9ec\/cover\/next\/img\/og_image_cover.jpg",
+                "from_url": "https:\/\/prezi.com",
+                "image_width": 464,
+                "image_height": 250,
+                "image_bytes": 71068,
+                "service_icon": "https:\/\/prezi-a.akamaihd.net\/cover-versioned\/123-7db437824c938e22791b1c3de43fac6a3dcdc9ec\/common\/img\/prezi-apple-touch-icon.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "pinned_item",
+        "text": "<@U0A48EDPD> pinned a message to this channel.",
+        "user": "U0A48EDPD",
+        "item_type": "C",
+        "attachments": [
+            {
+                "service_name": "prezi.com",
+                "title": "Presentation Software | Online Presentation Tools | Prezi",
+                "title_link": "https:\/\/prezi.com",
+                "text": "Welcome to Prezi, the presentation software that uses motion, zoom, and spatial relationships to bring your ideas to life and make you a great presenter.",
+                "fallback": "prezi.com: Presentation Software | Online Presentation Tools | Prezi",
+                "image_url": "https:\/\/prezi-a.akamaihd.net\/cover-versioned\/123-7db437824c938e22791b1c3de43fac6a3dcdc9ec\/cover\/next\/img\/og_image_cover.jpg",
+                "image_width": 464,
+                "image_height": 250,
+                "image_bytes": 71068,
+                "service_icon": "https:\/\/prezi-a.akamaihd.net\/cover-versioned\/123-7db437824c938e22791b1c3de43fac6a3dcdc9ec\/common\/img\/prezi-apple-touch-icon.png",
+                "id": 1,
+                "from_hidden_wksp": false,
+                "private_channel_prompt": false
+            }
+        ],
+        "ts": "1493794536.442003"
+    }
+]

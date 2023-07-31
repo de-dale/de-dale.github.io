@@ -1,0 +1,254 @@
+[
+    {
+        "type": "message",
+        "text": "Un bot",
+        "user": "U0A48EDPD",
+        "ts": "1505631613.000066",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xh=ba",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un bot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "pour l’instant, il ne fait rien",
+        "user": "U0A48EDPD",
+        "ts": "1505631628.000033",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xxdu\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pour l’instant, il ne fait rien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505637783.000067",
+        "user": "U75CMDS6T",
+        "text": "<@U75CMDS6T> has joined the channel",
+        "inviter": "U0A48EDPD"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1505637800.000008",
+        "user": "U71L5MP60",
+        "text": "<@U71L5MP60> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.commitstrip.com\/fr\/2017\/09\/14\/how-long-is-a-super-quick-meeting\/>",
+        "user": "U0DSEQH9S",
+        "ts": "1505674141.000043",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ESB23",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.commitstrip.com\/fr\/2017\/09\/14\/how-long-is-a-super-quick-meeting\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Combien de temps dure une réunion « super rapide » ?",
+                "title_link": "http:\/\/www.commitstrip.com\/fr\/2017\/09\/14\/how-long-is-a-super-quick-meeting\/",
+                "fallback": "Combien de temps dure une réunion « super rapide » ?",
+                "image_url": "http:\/\/www.commitstrip.com\/wp-content\/uploads\/2017\/09\/HeadlineImageTemplate-1-4.jpg",
+                "from_url": "http:\/\/www.commitstrip.com\/fr\/2017\/09\/14\/how-long-is-a-super-quick-meeting\/",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 151551,
+                "service_icon": "http:\/\/www.commitstrip.com\/wp-content\/themes\/krds_blog\/favicon.png?v=5",
+                "service_name": "commitstrip.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Et c'est pas que pour un dév... xD",
+        "user": "U0DSEQH9S",
+        "ts": "1505674156.000077",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BzYJn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et c'est pas que pour un dév... xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Je vais l'imprimer dans l'open space",
+        "user": "U0A48EDPD",
+        "ts": "1505716483.000089",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rVZ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vais l'imprimer dans l'open space"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Plop",
+        "user": "U0A48EDPD",
+        "ts": "1505716484.000238",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j+W8L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

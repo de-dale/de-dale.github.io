@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "4f5697a8-26f8-4eeb-a5e1-b50f3b9e5e95",
+        "type": "message",
+        "text": "Il y a des gens en vacances ici ?K",
+        "user": "U0A48EDPD",
+        "ts": "1640162178.000300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il y a des gens en vacances ici ?K"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

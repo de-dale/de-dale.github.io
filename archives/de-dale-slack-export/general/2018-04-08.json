@@ -1,0 +1,145 @@
+[
+    {
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1523198071.000040",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xM6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/9gag.com\/gag\/aeMAW8O>",
+        "user": "U0A48EDPD",
+        "ts": "1523198071.000106",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QYw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/9gag.com\/gag\/aeMAW8O"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "9GAG",
+                "title": "Terrifying Unheard Mythological Creatures Will Send Chills Down Your Spine",
+                "title_link": "https:\/\/9gag.com\/gag\/aeMAW8O",
+                "text": "More memes, funny videos and pics at 9GAG",
+                "fallback": "9GAG: Terrifying Unheard Mythological Creatures Will Send Chills Down Your Spine",
+                "image_url": "https:\/\/images-cdn.9gag.com\/images\/thumbnail-facebook\/42564653_1522677620.584_uHALyr_n.jpg",
+                "from_url": "https:\/\/9gag.com\/gag\/aeMAW8O",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 172478,
+                "service_icon": "https:\/\/assets-9gag-fun.9cache.com\/s\/fab0aa49\/033037194a549b0bf83e2ac4ba90706a52a9132e\/static\/dist\/core\/img\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/9gag.com\/gag\/abMVPeX>",
+        "user": "U0A48EDPD",
+        "ts": "1523198085.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e8VLF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/9gag.com\/gag\/abMVPeX"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "9GAG",
+                "title": "Have fun!",
+                "title_link": "https:\/\/9gag.com\/gag\/abMVPeX",
+                "text": "More memes, funny videos and pics at 9GAG",
+                "fallback": "9GAG: Have fun!",
+                "image_url": "https:\/\/images-cdn.9gag.com\/images\/thumbnail-facebook\/42588965_1522994573.3982_naPA5A_n.jpg",
+                "from_url": "https:\/\/9gag.com\/gag\/abMVPeX",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 72368,
+                "service_icon": "https:\/\/assets-9gag-fun.9cache.com\/s\/fab0aa49\/033037194a549b0bf83e2ac4ba90706a52a9132e\/static\/dist\/core\/img\/favicon.ico",
+                "id": 1
+            }
+        ]
+    }
+]

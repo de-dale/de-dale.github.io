@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "16936209-871e-4150-b43d-f13cbed96dbd",
+        "type": "message",
+        "text": "Moi qui a enfin presque réellement compris le SRP en lisant le chapitre sur Clean Architecture : :hankey:",
+        "user": "U0DSEQH9S",
+        "ts": "1534867859.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5YB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Moi qui a enfin presque réellement compris le SRP en lisant le chapitre sur Clean Architecture : "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hankey",
+                                "unicode": "1f4a9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DSEQH9S",
+            "ts": "1534867867.000000"
+        },
+        "reactions": [
+            {
+                "name": "face_with_rolling_eyes",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "2aeb6e9f-88bd-4446-8091-8b58f30b0704",
+        "type": "message",
+        "text": "ha. J'avais vu #840084",
+        "user": "U0A48EDPD",
+        "ts": "1532085079.000125",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sjm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ha. J'avais vu "
+                            },
+                            {
+                                "type": "color",
+                                "value": "#840084"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1532085093.000000"
+        }
+    }
+]

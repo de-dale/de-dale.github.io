@@ -1,0 +1,437 @@
+[
+    {
+        "client_msg_id": "61fb5dc3-4702-4ebd-984a-257ae81a6d40",
+        "type": "message",
+        "text": "coucou",
+        "user": "U0M8SF5CG",
+        "ts": "1570693035.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GVp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "coucou"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fc2eddff-1827-4fb5-8734-9dc282eae7fa",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1570693225.000300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Krfu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "996ed443-b7e3-49a3-a807-463d6413e4a1",
+        "type": "message",
+        "text": "France Angleterre annulée",
+        "user": "U0AA0KVLH",
+        "ts": "1570693231.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v9TGt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "France Angleterre annulée"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d3bf896b-e7d7-4f14-a873-3ef7127c8c7a",
+        "type": "message",
+        "text": "<https:\/\/www.lemonde.fr\/pixels\/article\/2019\/10\/10\/suspension-d-un-joueur-hongkongais-la-grogne-contre-blizzard-ne-s-essouffle-pas_6014980_4408996.html>",
+        "user": "U0M8SF5CG",
+        "ts": "1570711045.000700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W8WbE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.lemonde.fr\/pixels\/article\/2019\/10\/10\/suspension-d-un-joueur-hongkongais-la-grogne-contre-blizzard-ne-s-essouffle-pas_6014980_4408996.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Le Monde.fr",
+                "title": "e-Sport : après la suspension d’un joueur hongkongais, la grogne contre Blizzard ne s’essouffle pas",
+                "title_link": "https:\/\/www.lemonde.fr\/pixels\/article\/2019\/10\/10\/suspension-d-un-joueur-hongkongais-la-grogne-contre-blizzard-ne-s-essouffle-pas_6014980_4408996.html",
+                "text": "L’éditeur de jeux vidéo américain avait exclu Blitzchung après qu’il a tenu des propos prodémocratie à l’issue d’un match de « Hearthstone ».",
+                "fallback": "Le Monde.fr: e-Sport : après la suspension d’un joueur hongkongais, la grogne contre Blizzard ne s’essouffle pas",
+                "image_url": "https:\/\/img.lemde.fr\/2019\/10\/10\/292\/0\/640\/320\/1440\/720\/60\/0\/7d764c5_6fQ2pBBJkA1hQ_YkLL9D6hsc.png",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/www.lemonde.fr\/pixels\/article\/2019\/10\/10\/suspension-d-un-joueur-hongkongais-la-grogne-contre-blizzard-ne-s-essouffle-pas_6014980_4408996.html",
+                "image_bytes": 961576,
+                "service_icon": "https:\/\/www.lemonde.fr\/dist\/assets\/img\/logos\/pwa-180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.lemonde.fr\/pixels\/article\/2019\/10\/10\/suspension-d-un-joueur-hongkongais-la-grogne-contre-blizzard-ne-s-essouffle-pas_6014980_4408996.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62602b90-a936-405c-9b72-b74504714b69",
+        "type": "message",
+        "text": "j’espère que ça va pas annuler France Italie",
+        "user": "U0M8SF5CG",
+        "ts": "1570711071.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DHU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j’espère que ça va pas annuler France Italie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "329df1f0-a292-4640-ad39-88a88d2fbf56",
+        "type": "message",
+        "text": "J'ai vu",
+        "user": "U0AA0KVLH",
+        "ts": "1570711208.001500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3llI9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai vu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "642b9b18-5332-45bb-a36c-c3d69b23e2c5",
+        "type": "message",
+        "text": "Ils l'ont un peu chercher aussi",
+        "user": "U0AA0KVLH",
+        "ts": "1570711232.001900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5cN\/b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ils l'ont un peu chercher aussi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "49d680bf-a06d-4731-9571-2c36dfe74179",
+        "type": "message",
+        "text": "on ne sait pas qui a choisi la sentence, ça viens probablement d'une filière chinoise",
+        "user": "U0M8SF5CG",
+        "ts": "1570711425.003100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7SP9T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "on ne sait pas qui a choisi la sentence, ça viens probablement d'une filière chinoise"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "44415cb2-4e91-4b56-8fa6-acb1a0cfa55c",
+        "type": "message",
+        "text": "confié de la politique à des chinois aussi",
+        "user": "U0AA0KVLH",
+        "ts": "1570711588.003500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uf1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "confié de la politique à des chinois aussi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2530384b-29ad-4453-a9e1-3540c84a3732",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1570774266.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u3aF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "202b8042-152c-4809-9c86-c62ea3dd2b41",
+        "type": "message",
+        "text": "J'ai vu que Blizzard réfléchissait à la sanction. On dirait bien quelle ne vient pas du siège mais pas désavoué pour autant.",
+        "user": "U0AA0KVLH",
+        "ts": "1570774324.002100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "04K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "J'ai vu que Blizzard réfléchissait à la sanction. On dirait bien quelle ne vient pas du siège mais pas désavoué pour autant."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

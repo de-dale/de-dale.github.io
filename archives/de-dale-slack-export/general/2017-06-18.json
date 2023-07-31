@@ -1,0 +1,221 @@
+[
+    {
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1497853082.913442",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ST+H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U0A48EDPD> created <https:\/\/trello.com\/c\/igFr0n6d|DeDale | Card viewer | Card to Image | Permettre de générer une image à partir d'un carte, pour un affichage dans Slack>",
+        "ts": "1497855116.203750",
+        "bot_id": "B489J8DB4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P+VLp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " created "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/c\/igFr0n6d",
+                                "text": "DeDale | Card viewer | Card to Image | Permettre de générer une image à partir d'un carte, pour un affichage dans Slack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "attachments": [
+            {
+                "author_name": "Card",
+                "callback_id": "callback-idCard:5947748c5eae9a1e0991dbd0-ts:1497856205206",
+                "fallback": "DeDale | Card viewer | Card to Image | Permettre de générer une image à partir d'un carte, pour un affichage dans Slack (<https:\/\/trello.com\/c\/igFr0n6d>)",
+                "text": "In list *Idées en vrac* on *<https:\/\/trello.com\/b\/OAzJHwLr|De-Dale App>*\n:speech_balloon: 1  :bust_in_silhouette: Naveed  \nLabels: Card\nPermettre de générer une image à partir d'un carte, pour un affichage dans Slack",
+                "title": "DeDale | Card viewer | Card to Image | Permettre de générer une image à partir d'un carte, pour un affichage dans Slack",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/igFr0n6d",
+                "author_icon": "https:\/\/slack-chat.trello.services\/img\/card-gray-900.png",
+                "color": "0079BF",
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "join",
+                        "text": "Join",
+                        "type": "button",
+                        "value": "{\"idCard\":\"5947748c5eae9a1e0991dbd0\",\"reqBoardMembership\":true}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "subscribe",
+                        "text": "Subscribe",
+                        "type": "button",
+                        "value": "{\"idCard\":\"5947748c5eae9a1e0991dbd0\"}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "due",
+                        "text": "Due Date",
+                        "type": "button",
+                        "value": "{\"idCard\":\"5947748c5eae9a1e0991dbd0\",\"reqBoardMembership\":true}",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "labels",
+                        "text": "Labels",
+                        "type": "button",
+                        "value": "{\"idCard\":\"5947748c5eae9a1e0991dbd0\",\"reqBoardMembership\":true}",
+                        "style": ""
+                    },
+                    {
+                        "id": "5",
+                        "name": "link",
+                        "text": "Attach Conversation",
+                        "type": "button",
+                        "value": "{\"idCard\":\"5947748c5eae9a1e0991dbd0\",\"reqBoardMembership\":true}",
+                        "style": ""
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U0A48EDPD> created <https:\/\/trello.com\/c\/vtWYvL9j|DeDale | Card viewer | Slack | Intégrer le module de Cartes à Slack>",
+        "ts": "1497855561.274590",
+        "bot_id": "B489J8DB4",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oNv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0A48EDPD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " created "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trello.com\/c\/vtWYvL9j",
+                                "text": "DeDale | Card viewer | Slack | Intégrer le module de Cartes à Slack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "attachments": [
+            {
+                "author_name": "Card",
+                "callback_id": "callback-idCard:59477649430ac8c472ba5f14-ts:1497856204823",
+                "fallback": "DeDale | Card viewer | Slack | Intégrer le module de Cartes à Slack (<https:\/\/trello.com\/c\/vtWYvL9j>)",
+                "text": "In list *Idées en vrac* on *<https:\/\/trello.com\/b\/OAzJHwLr|De-Dale App>*\n:bust_in_silhouette: Naveed  ",
+                "title": "DeDale | Card viewer | Slack | Intégrer le module de Cartes à Slack",
+                "id": 1,
+                "title_link": "https:\/\/trello.com\/c\/vtWYvL9j",
+                "author_icon": "https:\/\/slack-chat.trello.services\/img\/card-gray-900.png",
+                "color": "0079BF",
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "join",
+                        "text": "Join",
+                        "type": "button",
+                        "value": "{\"idCard\":\"59477649430ac8c472ba5f14\",\"reqBoardMembership\":true}",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "subscribe",
+                        "text": "Subscribe",
+                        "type": "button",
+                        "value": "{\"idCard\":\"59477649430ac8c472ba5f14\"}",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "due",
+                        "text": "Due Date",
+                        "type": "button",
+                        "value": "{\"idCard\":\"59477649430ac8c472ba5f14\",\"reqBoardMembership\":true}",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "labels",
+                        "text": "Labels",
+                        "type": "button",
+                        "value": "{\"idCard\":\"59477649430ac8c472ba5f14\",\"reqBoardMembership\":true}",
+                        "style": ""
+                    },
+                    {
+                        "id": "5",
+                        "name": "link",
+                        "text": "Attach Conversation",
+                        "type": "button",
+                        "value": "{\"idCard\":\"59477649430ac8c472ba5f14\",\"reqBoardMembership\":true}",
+                        "style": ""
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text"
+                ]
+            }
+        ]
+    }
+]

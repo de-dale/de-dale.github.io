@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "09383ebe-c0be-4141-a2b1-63e3e17f5dc3",
+        "type": "message",
+        "text": "mise à jour du wiki : il supporte maintenant les graphes \"mermaid\"",
+        "user": "U0A48EDPD",
+        "ts": "1588340071.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SIpzD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mise à jour du wiki : il supporte maintenant les graphes \"mermaid\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "48ad76ae-656e-41a8-8603-f15836402342",
+        "type": "message",
+        "text": "<https:\/\/mermaid-js.github.io\/mermaid-live-editor\/>",
+        "user": "U0A48EDPD",
+        "ts": "1588340101.000800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iif",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mermaid-js.github.io\/mermaid-live-editor\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Mermaid live editor",
+                "title_link": "https:\/\/mermaid-js.github.io\/mermaid-live-editor\/",
+                "text": "Simplify documentation and avoid heavy tools. Open source Visio Alternative. Commonly used for explaining your code! Mermaid is a simple markdown-like script language for generating charts from text via javascript.",
+                "fallback": "Mermaid live editor",
+                "from_url": "https:\/\/mermaid-js.github.io\/mermaid-live-editor\/",
+                "service_name": "mermaid-js.github.io",
+                "id": 1,
+                "original_url": "https:\/\/mermaid-js.github.io\/mermaid-live-editor\/"
+            }
+        ]
+    }
+]

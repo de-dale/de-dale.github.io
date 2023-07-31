@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "c14a31ba-a3e1-436d-a478-d88bc7f99f47",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Du7IOvM-auI>  résurrection des guignols?",
+        "user": "U0M8SF5CG",
+        "ts": "1672505706.707159",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZCCF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=Du7IOvM-auI"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  résurrection des guignols?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Du7IOvM-auI",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Du7IOvM-auI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Du7IOvM-auI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"LES JEVEUX 2023 AUX FRANÇAIS DU PRÉSIDENT DE LA RÉPUBLIQUE\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=Du7IOvM-auI",
+                "fallback": "YouTube Video: LES JEVEUX 2023 AUX FRANÇAIS DU PRÉSIDENT DE LA RÉPUBLIQUE",
+                "title": "LES JEVEUX 2023 AUX FRANÇAIS DU PRÉSIDENT DE LA RÉPUBLIQUE",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Du7IOvM-auI",
+                "author_name": "BLAST, Le souffle de l'info",
+                "author_link": "https:\/\/www.youtube.com\/@blastinfo",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    }
+]

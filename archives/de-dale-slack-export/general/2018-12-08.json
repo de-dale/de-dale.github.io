@@ -1,0 +1,543 @@
+[
+    {
+        "client_msg_id": "648ad879-6d81-42c2-a9ec-21a9902e826c",
+        "type": "message",
+        "text": "Bien sûr ! L'atelier est très simple à expliquer, le but étant d'intégrer l'idée de faire des petites US et des petites tâches, et l'intérêt par rapport aux gros lots classiques. Je l'ai aussi orienté sur la qualité du code. J'ai suivi les instructions de Kniberg, et j'ai découpé l'atelier en 4 parties :",
+        "user": "U0DSEQH9S",
+        "ts": "1544272498.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RRT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bien sûr ! L'atelier est très simple à expliquer, le but étant d'intégrer l'idée de faire des petites US et des petites tâches, et l'intérêt par rapport aux gros lots classiques. Je l'ai aussi orienté sur la qualité du code. J'ai suivi les instructions de Kniberg, et j'ai découpé l'atelier en 4 parties :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DSEQH9S",
+            "ts": "1544272868.000000"
+        },
+        "thread_ts": "1544196183.007900",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "1bc4568a-68f9-4f8b-8f4f-d01fd80c5ae3",
+        "type": "message",
+        "text": "_ expliquer les US et l'intérêt d'en avoir des petites en faisant un brainstorming (les parties prenantes sont plus heureuses, les devs aussi car plus de motivation, moins de risque business et technique, etc...)",
+        "user": "U0DSEQH9S",
+        "ts": "1544272532.000300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sV+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "_ expliquer les US et l'intérêt d'en avoir des petites en faisant un brainstorming (les parties prenantes sont plus heureuses, les devs aussi car plus de motivation, moins de risque business et technique, etc...)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1544196183.007900",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "00ddb586-164f-4322-a7f3-a9bac4a11daa",
+        "type": "message",
+        "text": "_ découper un backlog en 2 parties : d'abord les laisser faire pendant 10 minutes, puis après en discuter vite fait, puis laisser 5 min pour améliorer leur backlog. Le but étant d'avoir quelques US et les tâches techniques derrière. Je leur dis de bien faire attention entre les deux !!",
+        "user": "U0DSEQH9S",
+        "ts": "1544272595.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CMjr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "_ découper un backlog en 2 parties : d'abord les laisser faire pendant 10 minutes, puis après en discuter vite fait, puis laisser 5 min pour améliorer leur backlog. Le but étant d'avoir quelques US et les tâches techniques derrière. Je leur dis de bien faire attention entre les deux !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1544196183.007900",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "c5e40766-63e8-415b-9caf-f5e82bf85d9f",
+        "type": "message",
+        "text": "Faut pas hésiter à beaucoup expliquer la différence entre les deux, et qu'ici le but du jeu est de se forcer à faire des toutes petites US.",
+        "user": "U0DSEQH9S",
+        "ts": "1544272630.000700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Td2\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Faut pas hésiter à beaucoup expliquer la différence entre les deux, et qu'ici le but du jeu est de se forcer à faire des toutes petites US."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1544196183.007900",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "cce28cca-e938-4ec6-ae8c-1d0e2d83fe48",
+        "type": "message",
+        "text": "_ codage pendant 40 min (8 min * 5 sprints), je les laisse entièrement libre là dessus, j'ai pas eu de question et ça s'est bien passé",
+        "user": "U0DSEQH9S",
+        "ts": "1544272660.000900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "akP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "_ codage pendant 40 min (8 min * 5 sprints), je les laisse entièrement libre là dessus, j'ai pas eu de question et ça s'est bien passé"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1544196183.007900",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "7cd2bcd4-9820-4cfe-91c3-0478b69a68f7",
+        "type": "message",
+        "text": "à chaque fin de sprint, ils font la démo rapide à un autre groupe. Le chrono continue de tourner donc ça doit aller vite !",
+        "user": "U0DSEQH9S",
+        "ts": "1544272683.001100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dhOu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "à chaque fin de sprint, ils font la démo rapide à un autre groupe. Le chrono continue de tourner donc ça doit aller vite !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1544196183.007900",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "64174351-3003-4588-a1cb-8b206a74aab4",
+        "type": "message",
+        "text": "(d'où l'intérêt de petites US :slightly_smiling_face:  ils ont quasi tjr un truc à montrer !!)",
+        "user": "U0DSEQH9S",
+        "ts": "1544272690.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "adHcH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(d'où l'intérêt de petites US "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  ils ont quasi tjr un truc à montrer !!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DSEQH9S",
+            "ts": "1544272700.000000"
+        },
+        "thread_ts": "1544196183.007900",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "99470483-a1d7-48f3-a79e-a356d0a03dca",
+        "type": "message",
+        "text": "_ à la fin, y a eu débat sur la qualité du code évidemment : un groupe a fait du NFT, les autres ont tenté le TDD. Les personnes qui ont fait du TDD ont noté leur code entre 3 et 4, le groupe NFT a noté son code à 1 avec une énorme dette.",
+        "user": "U0DSEQH9S",
+        "ts": "1544272748.001600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J91",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "_ à la fin, y a eu débat sur la qualité du code évidemment : un groupe a fait du NFT, les autres ont tenté le TDD. Les personnes qui ont fait du TDD ont noté leur code entre 3 et 4, le groupe NFT a noté son code à 1 avec une énorme dette."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DSEQH9S",
+            "ts": "1544272886.000000"
+        },
+        "thread_ts": "1544196183.007900",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "1da3491f-b100-4a25-bfac-28ab7eec3da0",
+        "type": "message",
+        "text": "Et au final, le groupe NFT a même pas eu le bon résultat xD",
+        "user": "U0DSEQH9S",
+        "ts": "1544272757.001800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VBA1F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et au final, le groupe NFT a même pas eu le bon résultat xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1544196183.007900",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "9f62c444-9067-4e07-85aa-a6665c9e4aa2",
+        "type": "message",
+        "text": "Donc c'était génial pour montrer l'intérêt du TDD derrière (sachant que je les ai entrainé sur des kata avant, mais pas eu le temps d'en faire bcp, juste fizzbuzz et bowling)",
+        "user": "U0DSEQH9S",
+        "ts": "1544272793.002000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sO5r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Donc c'était génial pour montrer l'intérêt du TDD derrière (sachant que je les ai entrainé sur des kata avant, mais pas eu le temps d'en faire bcp, juste fizzbuzz et bowling)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1544196183.007900",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "18863ebb-e323-4e61-b4b0-2eb88a3c6ad5",
+        "type": "message",
+        "text": "Pour les personnes business présentes, je leur ai demandé l'intérêt d'être là, et clairement ils voyaient l'intérêt de laisser les dev faire et de pas être derrière eux. Ils s'occupaient d'affiner le backlog pour les aider au mieux.",
+        "user": "U0DSEQH9S",
+        "ts": "1544272834.002200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ATL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour les personnes business présentes, je leur ai demandé l'intérêt d'être là, et clairement ils voyaient l'intérêt de laisser les dev faire et de pas être derrière eux. Ils s'occupaient d'affiner le backlog pour les aider au mieux."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1544196183.007900",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "15e3124f-d435-43e7-a91b-48f8cae7d958",
+        "type": "message",
+        "text": "Bref, c'était un excellent exercice que je referai !!",
+        "user": "U0DSEQH9S",
+        "ts": "1544272849.002400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pcwj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bref, c'était un excellent exercice que je referai !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1544196183.007900",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "7c841e08-b699-4c18-a927-4016a2d6d52c",
+        "type": "message",
+        "text": "Maintenant, faut que je prépare l'atelier CNV. Si j'ai le temps ce sera cette aprem ou demain.",
+        "user": "U0DSEQH9S",
+        "ts": "1544272914.002800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/+tm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maintenant, faut que je prépare l'atelier CNV. Si j'ai le temps ce sera cette aprem ou demain."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1544196183.007900",
+        "parent_user_id": "U0DSEQH9S"
+    }
+]

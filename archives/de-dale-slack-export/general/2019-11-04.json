@@ -1,0 +1,266 @@
+[
+    {
+        "client_msg_id": "7233a4eb-da60-45cc-a4e8-529a73a95b3a",
+        "type": "message",
+        "text": "plop",
+        "user": "U0M8SF5CG",
+        "ts": "1572856092.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=tS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "plop",
+        "ts": "1572857163.000700",
+        "username": "De-Dale",
+        "bot_id": "B747T10SF",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ECsc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26b09916-c8b0-481d-8273-af956bade122",
+        "type": "message",
+        "text": "<@U0DSEQH9S>\n<https:\/\/www.gameontabletop.com\/cf258\/rotting-christ-le-jeu-metal-musical.html>",
+        "user": "U0AA0KVLH",
+        "ts": "1572863645.001000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4l0J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0DSEQH9S"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.gameontabletop.com\/cf258\/rotting-christ-le-jeu-metal-musical.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Rotting Christ, le jeu metal &amp; musical (Batro Games)",
+                "title_link": "https:\/\/www.gameontabletop.com\/cf258\/rotting-christ-le-jeu-metal-musical.html",
+                "text": "Crowdfunding: Rotting Christ, le jeu metal &amp; musical (Batro Games)",
+                "fallback": "Rotting Christ, le jeu metal &amp; musical (Batro Games)",
+                "thumb_url": "https:\/\/www.gameontabletop.com\/contenu\/image\/fb_share\/258_a3dPgp-6paMyojbs-6wi8eaoJjkv.jpg",
+                "from_url": "https:\/\/www.gameontabletop.com\/cf258\/rotting-christ-le-jeu-metal-musical.html",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/www.gameontabletop.com\/public\/dist\/img\/favicons\/apple-icon-57x57.png",
+                "service_name": "gameontabletop.com",
+                "id": 1,
+                "original_url": "https:\/\/www.gameontabletop.com\/cf258\/rotting-christ-le-jeu-metal-musical.html"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": ":wine_glass:",
+        "user": "USLACKBOT",
+        "ts": "1572863646.001100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lgqru",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wine_glass",
+                                "unicode": "1f377"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f2071933-a598-492c-8cac-2ab57fdd2d1a",
+        "type": "message",
+        "text": "Mais ça a l'air trop bien !!!",
+        "user": "U0DSEQH9S",
+        "ts": "1572899933.001600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oSLXO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mais ça a l'air trop bien !!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0be4683e-67d6-4244-9a0c-5fcfb728d662",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1572937822.001800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mv73",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3b71edd9-1531-416d-a7de-4f7fb48e6e3e",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1572939016.002000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lau",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

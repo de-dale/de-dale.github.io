@@ -1,0 +1,251 @@
+[
+    {
+        "client_msg_id": "daa97c7b-76fd-4b91-a350-95cf99cb4826",
+        "type": "message",
+        "text": "Question <@U0M8SF5CG>\nDans ce build order Macro Zerg :\n*YouTubeOgamingTV:*\n[:fish: Michel Serral :fish: Tutoriel Macro ZvT](<https:\/\/youtu.be\/VMpiyjl6ZXw>)\n\n&gt; Asset à 2:13\n\n```\n                  13 | Dominant\n                  17 | Couveuse\n                  17 | Gaz\n                  17 | Bassin Génétique\n                  19 | Dominant\n   @Bassin Génétique | Reine x2 + Zergling x6 \n                     | + Vitesse Zergling\n                  30 | Dominant\n             @Reines | Reine x2\n             @Reines | Reine #5\n                  48 | Couveuse #3\n                     | + Dominant\n                     | + Terrier des Cafards (3.40)\n                     | + Zergling x16\n               4mins | Gaz #2\n               60\/60 | Dominant x4\n                     | + Tier 2\n                     | + Gaz #3\n```",
+        "user": "U0A48EDPD",
+        "ts": "1556001634.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C3h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Question "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0M8SF5CG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nDans ce build order Macro Zerg :\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "YouTubeOgamingTV:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n["
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fish",
+                                "unicode": "1f41f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Michel Serral "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fish",
+                                "unicode": "1f41f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Tutoriel Macro ZvT]("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/VMpiyjl6ZXw"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Asset à 2:13"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "                  13 | Dominant\n                  17 | Couveuse\n                  17 | Gaz\n                  17 | Bassin Génétique\n                  19 | Dominant\n   @Bassin Génétique | Reine x2 + Zergling x6 \n                     | + Vitesse Zergling\n                  30 | Dominant\n             @Reines | Reine x2\n             @Reines | Reine #5\n                  48 | Couveuse #3\n                     | + Dominant\n                     | + Terrier des Cafards (3.40)\n                     | + Zergling x16\n               4mins | Gaz #2\n               60\/60 | Dominant x4\n                     | + Tier 2\n                     | + Gaz #3\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1556001673.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "La Poissonnerie - Build Zerg vs Terran",
+                "title_link": "https:\/\/youtu.be\/VMpiyjl6ZXw",
+                "author_name": "OGAMINGTV REPLAY",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCISxfmGLpsA1sSMHkyZpPOw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/VMpiyjl6ZXw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: La Poissonnerie - Build Zerg vs Terran",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/VMpiyjl6ZXw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/VMpiyjl6ZXw",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/VMpiyjl6ZXw"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4688456-0861-45ec-b5f4-9e6796d4ce98",
+        "type": "message",
+        "text": "Il ne manquerai pas un Overlord quelque part ?",
+        "user": "U0A48EDPD",
+        "ts": "1556001648.001100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3wB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il ne manquerai pas un Overlord quelque part ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4c8bbdbb-a638-46e2-8194-6781ad2102e9",
+        "type": "message",
+        "text": "Genre à 38 ?",
+        "user": "U0A48EDPD",
+        "ts": "1556001652.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ybf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Genre à 38 ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5532fa90-59ff-4e3c-87ff-6e76a75c3e6f",
+        "type": "message",
+        "text": "et est-ce que tu le mettrais ailleurs ?",
+        "user": "U0A48EDPD",
+        "ts": "1556001707.001900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lYH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et est-ce que tu le mettrais ailleurs ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

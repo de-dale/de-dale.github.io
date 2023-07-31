@@ -1,0 +1,179 @@
+[
+    {
+        "client_msg_id": "1a35ac90-bacd-46e0-92fa-e75b263b3a1e",
+        "type": "message",
+        "text": "Plop de reprise",
+        "user": "U0AA0KVLH",
+        "ts": "1557122689.000300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ASoHk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop de reprise"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "56b298aa-b59f-4936-8839-5f8b876db78a",
+        "type": "message",
+        "text": "plop",
+        "user": "U0A48EDPD",
+        "ts": "1557124177.000500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zpY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "70885aad-cd2a-4fac-b4e0-87e86695bf9f",
+        "type": "message",
+        "text": "<@U5ETCTF7V> On l'a fait avec Quentin l'an dernier. Ce n'est pas vraiment un escape game. C'est une visite de l'opéra, avec des énigmes bidon, en mode boîte à céréales (facile pour les enfants de 10ans), qui servent de prétexte pour te faire découvrir des parties méconnues de l'histoire de l'opéra.",
+        "user": "U0A48EDPD",
+        "ts": "1557124279.002300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2KOs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U5ETCTF7V"
+                            },
+                            {
+                                "type": "text",
+                                "text": " On l'a fait avec Quentin l'an dernier. Ce n'est pas vraiment un escape game. C'est une visite de l'opéra, avec des énigmes bidon, en mode boîte à céréales (facile pour les enfants de 10ans), qui servent de prétexte pour te faire découvrir des parties méconnues de l'histoire de l'opéra."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3f16f835-26e6-4b22-9e69-d32564fdc257",
+        "type": "message",
+        "text": "En soit c'est cool, mais si tu cherches un escape game, tu va être déçu",
+        "user": "U0A48EDPD",
+        "ts": "1557124299.002800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kb9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En soit c'est cool, mais si tu cherches un escape game, tu va être déçu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1557124299.002800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1557678318.001200",
+        "reply_users": [
+            "U5ETCTF7V",
+            "U0A48EDPD"
+        ],
+        "replies": [
+            {
+                "user": "U5ETCTF7V",
+                "ts": "1557648671.000500"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1557678318.001200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1557678318.001200"
+    }
+]

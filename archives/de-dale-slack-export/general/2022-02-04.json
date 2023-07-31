@@ -1,0 +1,141 @@
+[
+    {
+        "client_msg_id": "f6418cae-852c-4bf7-b3fe-15d60d68cf60",
+        "type": "message",
+        "text": "Pas aussi surprenant que ça <https:\/\/www.youtube.com\/watch?v=t6wmQy-5EAM>",
+        "user": "U0M8SF5CG",
+        "ts": "1643972937.182539",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sbq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pas aussi surprenant que ça "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=t6wmQy-5EAM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=t6wmQy-5EAM",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/t6wmQy-5EAM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/t6wmQy-5EAM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=t6wmQy-5EAM",
+                "fallback": "YouTube Video: Connected by Mwk feat. Hatsune Miku",
+                "title": "Connected by Mwk feat. Hatsune Miku",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=t6wmQy-5EAM",
+                "author_name": "HatsuneMiku",
+                "author_link": "https:\/\/www.youtube.com\/user\/HatsuneMiku",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4dc1e034-5b7f-4ddb-b5d4-b47a8bf07047",
+        "type": "message",
+        "text": "Je ne vois pas ce qu'il y a de surprenant même si le clip est bas de gamme (et la musique, je ne juge pas)",
+        "user": "U0AA0KVLH",
+        "ts": "1643996669.065289",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=lOQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je ne vois pas ce qu'il y a de surprenant même si le clip est bas de gamme (et la musique, je ne juge pas)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "927b38c1-680e-4a78-96a9-16b9f1fdd580",
+        "type": "message",
+        "text": "MTG dans un univers science fantasy japonais ? Ya certains pitchs de monde de Magic plus timbré je pense",
+        "user": "U0AA0KVLH",
+        "ts": "1643996722.528349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pc6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MTG dans un univers science fantasy japonais ? Ya certains pitchs de monde de Magic plus timbré je pense"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

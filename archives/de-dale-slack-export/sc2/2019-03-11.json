@@ -1,0 +1,134 @@
+[
+    {
+        "client_msg_id": "75256cf1-e3d3-4510-823f-02104cc1d4b4",
+        "type": "message",
+        "text": "Hello.\nCa vous dit qu'on essaie de se caler un soir de semaine pour se caler les hauts faits ? Je vous avoue que c'est un peu compliqué de mon côté, mais je ferai mon max :slightly_smiling_face:\n-&gt; Quel jour vous arrange ? Lundi ou Mercredi, ça vous irait ?",
+        "user": "U0A48EDPD",
+        "ts": "1552308450.002300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "19f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello.\nCa vous dit qu'on essaie de se caler un soir de semaine pour se caler les hauts faits ? Je vous avoue que c'est un peu compliqué de mon côté, mais je ferai mon max "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n-> Quel jour vous arrange ? Lundi ou Mercredi, ça vous irait ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4ad03e5d-98cc-47e3-a60e-8948c5c99048",
+        "type": "message",
+        "text": "Ok pour s'organiser.",
+        "user": "U0AA0KVLH",
+        "ts": "1552309087.002600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Cf5\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok pour s'organiser."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4ee94402-a65f-4446-9163-db4c1d4db2f0",
+        "type": "message",
+        "text": "pas de jour qui m'arrange plus qu'un autre, ok pour en choisir un",
+        "user": "U0M8SF5CG",
+        "ts": "1552322560.003200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hc\/n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pas de jour qui m'arrange plus qu'un autre, ok pour en choisir un"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

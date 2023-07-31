@@ -1,0 +1,44 @@
+[
+    {
+        "type": "message",
+        "text": "C'est énorme :smile:",
+        "user": "U5VQX0XTQ",
+        "ts": "1507970558.000021",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2XTx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est énorme "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "7fd0013473c6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-16\/199882379159_7fd0013473c63b10490a_72.png",
+            "first_name": "Charlotte",
+            "real_name": "Charlotte Derquennes",
+            "display_name": "sy4",
+            "team": "T0A48J0MV",
+            "name": "sy4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

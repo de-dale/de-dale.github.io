@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "6a11b052-5307-4d2d-b65d-4cf4d00c09a4",
+        "type": "message",
+        "text": "Pour info: les cartes sont disponibles directement depuis le site \"de-dale\":\n<https:\/\/de-dale.github.io\/cards\/>",
+        "user": "U0A48EDPD",
+        "ts": "1552057727.027700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0vqe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pour info: les cartes sont disponibles directement depuis le site \"de-dale\":\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/de-dale.github.io\/cards\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "De-Dale",
+                "title": "Cartes",
+                "title_link": "https:\/\/de-dale.github.io\/cards\/",
+                "text": "Méandres de l’imaginaire",
+                "fallback": "De-Dale: Cartes",
+                "from_url": "https:\/\/de-dale.github.io\/cards\/",
+                "id": 1,
+                "original_url": "https:\/\/de-dale.github.io\/cards\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0AA0KVLH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

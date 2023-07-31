@@ -1,0 +1,427 @@
+[
+    {
+        "client_msg_id": "026c84ff-09b3-4f6f-83c3-b9c3c444100e",
+        "type": "message",
+        "text": "Comment ça block note ?",
+        "user": "U0A48EDPD",
+        "ts": "1608279011.004200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=PG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Comment ça block note ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "33d96fba-3f52-4cbb-9797-f4352bb7e2a6",
+        "type": "message",
+        "text": "le slack te sert pour garder trace de trucs ? :stuck_out_tongue:",
+        "user": "U0A48EDPD",
+        "ts": "1608279026.004700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vyL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le slack te sert pour garder trace de trucs ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c38f737f-1dae-4f7b-a7cb-f5a3a442c515",
+        "type": "message",
+        "text": "Exactement !",
+        "user": "U0AA0KVLH",
+        "ts": "1608279039.005000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sna",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exactement !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "72a958a1-a745-4c13-aae9-edbd8f209ff1",
+        "type": "message",
+        "text": "Ca fait plus d'activité comme ça :stuck_out_tongue:",
+        "user": "U0AA0KVLH",
+        "ts": "1608279049.005300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L790",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca fait plus d'activité comme ça "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "stuck_out_tongue",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3a6013d-bdc4-4e42-a0b3-760d4c5e18ce",
+        "type": "message",
+        "text": "Perso, pour faire ma veille pro comme perso, j'utilise trello ^^",
+        "user": "U0A48EDPD",
+        "ts": "1608279358.005800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Laat",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perso, pour faire ma veille pro comme perso, j'utilise trello ^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2bf617a5-8521-417c-949c-b84c0c6208af",
+        "type": "message",
+        "text": "et Bonjour, aussi :slightly_smiling_face:!",
+        "user": "U0A48EDPD",
+        "ts": "1608279367.006000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fpDba",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et Bonjour, aussi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "14a751f4-81d9-46bc-8733-26cf7b0e646c",
+        "type": "message",
+        "text": "Bisous",
+        "user": "U0AA0KVLH",
+        "ts": "1608279404.006200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ce",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bisous"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d584f20b-3a0a-4e62-a234-d61d415134d1",
+        "type": "message",
+        "text": "Salut",
+        "user": "U0M8SF5CG",
+        "ts": "1608284910.006400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jUvHd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salut"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3a422487-1722-4e82-99a7-2b03586b8fed",
+        "type": "message",
+        "text": "<https:\/\/www.canardpc.com\/414\/la-possibilite-dune-ville-cyberpunk-2077>",
+        "user": "U0AA0KVLH",
+        "ts": "1608285743.006600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bn6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.canardpc.com\/414\/la-possibilite-dune-ville-cyberpunk-2077"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Canard PC",
+                "title": "Cyberpunk 2077 La possibilité d'une ville | CanardPC.com",
+                "title_link": "https:\/\/www.canardpc.com\/414\/la-possibilite-dune-ville-cyberpunk-2077",
+                "text": "Vous vous souvenez de cet article à propos d'un développeur de Cyberpunk 2077 qui aurait passé 175 heures dans le jeu sans en voir le bout ? Ce que le titre de l'article ne disait pas, c'est que le développeur en question travaillait au service qualité : pendant 175 heures, il a rasé les murs pour vérifier qu'il ne passait pas à travers. Ce que l'article ne racontait pas non plus, c'est qu'en 175 heures à recenser les bugs, le pauvre homme n'a probablement jamais dû dépasser le prologue.",
+                "fallback": "Canard PC: Cyberpunk 2077 La possibilité d'une ville | CanardPC.com",
+                "image_url": "https:\/\/www.canardpc.com\/sites\/default\/files\/numeros\/414\/10936-cyberpunk-1.png",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/www.canardpc.com\/414\/la-possibilite-dune-ville-cyberpunk-2077",
+                "image_bytes": 3767014,
+                "service_icon": "https:\/\/www.canardpc.com\/themes\/canardpc\/images\/favicon21.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.canardpc.com\/414\/la-possibilite-dune-ville-cyberpunk-2077"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e462a1e4-752c-4144-84ca-62388e5be91e",
+        "type": "message",
+        "text": "article gratuit de la semaine",
+        "user": "U0AA0KVLH",
+        "ts": "1608285751.006900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "duYW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "article gratuit de la semaine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

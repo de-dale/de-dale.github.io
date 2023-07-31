@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "0338af9c-1aaa-4777-9fa8-8a5111eaed6f",
+        "type": "message",
+        "text": "Georges Clemenceau : « Qu’est-ce que l’Angleterre ? Une colonie française qui a mal tourné ».",
+        "user": "U0AA0KVLH",
+        "ts": "1673285750.918569",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+f3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Georges Clemenceau : « Qu’est-ce que l’Angleterre ? Une colonie française qui a mal tourné »."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

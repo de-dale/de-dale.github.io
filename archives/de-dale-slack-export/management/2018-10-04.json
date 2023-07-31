@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "028d948e-4269-4c83-95bd-2739c7b84a4b",
+        "type": "message",
+        "text": "<https:\/\/gitpitch.com\/gitpitch\/feature-demo\/real-world-content>",
+        "user": "U0A48EDPD",
+        "ts": "1538654462.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CpGj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gitpitch.com\/gitpitch\/feature-demo\/real-world-content"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1538654470.000000"
+        },
+        "attachments": [
+            {
+                "title": "[ GitPitch ] gitpitch\/feature-demo\/real-world-content",
+                "title_link": "https:\/\/gitpitch.com\/gitpitch\/feature-demo\/real-world-content#\/42",
+                "text": "The Markdown Presentation Service on Git.",
+                "fallback": "[ GitPitch ] gitpitch\/feature-demo\/real-world-content",
+                "from_url": "https:\/\/gitpitch.com\/gitpitch\/feature-demo\/real-world-content#\/42",
+                "service_icon": "https:\/\/gitpitch.com\/favicon.ico",
+                "service_name": "gitpitch.com",
+                "id": 1,
+                "original_url": "https:\/\/gitpitch.com\/gitpitch\/feature-demo\/real-world-content#\/42"
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "0a6fd7e3-e6b8-409e-9670-34ae6850b23b",
+        "type": "message",
+        "text": "- Petouille de lien corrigée\n- masse d'info brute et moche sur le trello",
+        "user": "U0A48EDPD",
+        "ts": "1542093812.001500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H70Hn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "- Petouille de lien corrigée\n- masse d'info brute et moche sur le trello"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

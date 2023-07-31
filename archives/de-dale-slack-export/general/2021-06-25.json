@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "4e6b1c83-31c0-4e20-b1a0-a68f7954f8cb",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Dpylq69Q6JA>",
+        "user": "U0A48EDPD",
+        "ts": "1624614710.001400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WycF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=Dpylq69Q6JA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "[Fonderie du MJ] Faire de l'horreur psychologique dans vos sessions !",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Dpylq69Q6JA",
+                "author_name": "Naetherion",
+                "author_link": "https:\/\/www.youtube.com\/c\/NaetherionGM",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Dpylq69Q6JA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: [Fonderie du MJ] Faire de l'horreur psychologique dans vos sessions !",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Dpylq69Q6JA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Dpylq69Q6JA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=Dpylq69Q6JA"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "052c3461-1df6-4e10-9ddd-4847cdf2903a",
+        "type": "message",
+        "text": "pas encore pris le temps de regardder",
+        "user": "U0A48EDPD",
+        "ts": "1624614735.001900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ab0Ui",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pas encore pris le temps de regardder"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

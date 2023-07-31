@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "165e48ee-eb30-4609-9f42-932e3a571619",
+        "type": "message",
+        "text": "En effet, bon courage, donne quand même de tes nouvelles :slightly_smiling_face:",
+        "user": "U0AA0KVLH",
+        "ts": "1676294169.119139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mM0l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En effet, bon courage, donne quand même de tes nouvelles "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1673954743.238239",
+        "parent_user_id": "U0AA0KVLH"
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "client_msg_id": "b069b307-b832-4ea6-a01a-617a8e067ef5",
+        "type": "message",
+        "text": "test",
+        "user": "U0A48EDPD",
+        "ts": "1571935191.000200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pqx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cc1822b0-a6bf-4fdb-8403-9a0335af13e9",
+        "type": "message",
+        "text": "test",
+        "user": "U0A48EDPD",
+        "ts": "1571935250.000400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sHNJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7e7cbe84-53a8-4eb4-90c9-2bab0eb1e7bf",
+        "type": "message",
+        "text": "<@U75CMDS6T> test",
+        "user": "U0A48EDPD",
+        "ts": "1571935279.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VAp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U75CMDS6T"
+                            },
+                            {
+                                "type": "text",
+                                "text": " test"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "group_join",
+        "ts": "1571935283.000800",
+        "user": "U75CMDS6T",
+        "text": "<@U75CMDS6T> has joined the group",
+        "inviter": "U0A48EDPD"
+    },
+    {
+        "client_msg_id": "1d558b07-a115-4790-9693-cf3f200f62d8",
+        "type": "message",
+        "text": "fuu",
+        "user": "U0A48EDPD",
+        "ts": "1571935317.001000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ye\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fuu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

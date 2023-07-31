@@ -1,0 +1,661 @@
+[
+    {
+        "client_msg_id": "b7bf7491-dbef-4868-94b6-fba24f871fe4",
+        "type": "message",
+        "text": "Si la partie Scrum t'intéresse, c'est ça que tu dois lire, et principalement ça : <https:\/\/www.scrumguides.org\/docs\/scrumguide\/v2017\/2017-Scrum-Guide-French.pdf>",
+        "user": "U0DSEQH9S",
+        "ts": "1530605955.000175",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hk=0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si la partie Scrum t'intéresse, c'est ça que tu dois lire, et principalement ça : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.scrumguides.org\/docs\/scrumguide\/v2017\/2017-Scrum-Guide-French.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "943dd012-f740-43cd-98b4-3a56088929af",
+        "type": "message",
+        "text": "C'est la seule source officielle. Tant que tu n'as pas la base (le fameux Shu) qui est ce guide, est-ce que ça vaut le coup de regarder ailleurs ? :wink:",
+        "user": "U0DSEQH9S",
+        "ts": "1530605960.000084",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QXGRV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C'est la seule source officielle. Tant que tu n'as pas la base (le fameux Shu) qui est ce guide, est-ce que ça vaut le coup de regarder ailleurs ? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink",
+                                "unicode": "1f609"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DSEQH9S",
+            "ts": "1530606142.000000"
+        },
+        "thread_ts": "1530605960.000084",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1530631520.000070",
+        "reply_users": [
+            "U0A48EDPD",
+            "U0DSEQH9S"
+        ],
+        "replies": [
+            {
+                "user": "U0A48EDPD",
+                "ts": "1530629778.000178"
+            },
+            {
+                "user": "U0A48EDPD",
+                "ts": "1530629806.000341"
+            },
+            {
+                "user": "U0DSEQH9S",
+                "ts": "1530631520.000070"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1530631520.000070"
+    },
+    {
+        "client_msg_id": "22ec96b8-37d1-42ad-9c55-69f926c0a7bb",
+        "type": "message",
+        "text": "Ah au fait, on m'a initié récemment à l'EventStorming, tu connais ? C'est en rapport avec du DDD",
+        "user": "U0DSEQH9S",
+        "ts": "1530610843.000197",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3gaj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah au fait, on m'a initié récemment à l'EventStorming, tu connais ? C'est en rapport avec du DDD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "09f7bd52-2d8f-4a86-9c9c-0cf73a2e020b",
+        "type": "message",
+        "text": "merci",
+        "user": "U0A48EDPD",
+        "ts": "1530612019.000085",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cZgvv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8f30fdcf-c3cb-4d3d-9704-cfb2d7370110",
+        "type": "message",
+        "text": "Oui ; j'ai suivi une formation par mon CTO (Cyrille Martraire)",
+        "user": "U0A48EDPD",
+        "ts": "1530612039.000388",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eWqL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oui ; j'ai suivi une formation par mon CTO (Cyrille Martraire)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1530612044.000000"
+        }
+    },
+    {
+        "client_msg_id": "ec3a4568-4002-4ab7-b59d-f63298e9d77e",
+        "type": "message",
+        "text": "si tu t'intéresse au DDD ; c'est la figure française du DDD",
+        "user": "U0A48EDPD",
+        "ts": "1530612063.000137",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tAv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si tu t'intéresse au DDD ; c'est la figure française du DDD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            },
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U0DSEQH9S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6eb1f52f-ecb5-4e4c-b4c5-509e5066a938",
+        "type": "message",
+        "text": "Je vois qu'il a des conf. Je regarderai ça !",
+        "user": "U0DSEQH9S",
+        "ts": "1530613771.000273",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l1P9J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je vois qu'il a des conf. Je regarderai ça !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "047363a6-9824-436e-b78a-2da4bee22309",
+        "type": "message",
+        "text": "Merci",
+        "user": "U0DSEQH9S",
+        "ts": "1530613773.000015",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xC89F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "685344a0-5eea-47fc-8db1-3a31567974d9",
+        "type": "message",
+        "text": "*Introducing EventStorming*\n&gt; An act of Deliberate Collective Learning\n&gt; Alberto Brandolini\n<https:\/\/drive.google.com\/file\/d\/1eVr15jWIRdP2JqE8XZA2gfChaFCRUada\/view>\naussi ici :\n<http:\/\/leanpub.com\/introducing_eventstorming>",
+        "user": "U0A48EDPD",
+        "ts": "1530616684.000088",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DY\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Introducing EventStorming",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "An act of Deliberate Collective Learning\nAlberto Brandolini"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/file\/d\/1eVr15jWIRdP2JqE8XZA2gfChaFCRUada\/view"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\naussi ici :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/leanpub.com\/introducing_eventstorming"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1530616765.000000"
+        }
+    },
+    {
+        "client_msg_id": "a9eafa8a-daf8-4682-ae88-b1d8e8713d55",
+        "type": "message",
+        "text": "Tiens d'ailleurs : je ne sais pas si tu avais vu ça \n<https:\/\/scrumorg-website-prod.s3.amazonaws.com\/drupal\/2018-05\/ScrumValues-Tabloid.pdf>",
+        "user": "U0A48EDPD",
+        "ts": "1530629778.000178",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EOxY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tiens d'ailleurs : je ne sais pas si tu avais vu ça \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/scrumorg-website-prod.s3.amazonaws.com\/drupal\/2018-05\/ScrumValues-Tabloid.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1530605960.000084",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "222bfd42-74cb-47c0-9458-2f840a983439",
+        "type": "message",
+        "text": "Ca, par contre ; je suis sûr que tu ne l'as pas vu :stuck_out_tongue:\n<https:\/\/docs.google.com\/presentation\/d\/1jDnRJJVWPtDvLX3aMnQ7_QhsJpYJ2AvR8PWFwj2Ppq0\/edit>",
+        "user": "U0A48EDPD",
+        "ts": "1530629806.000341",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T7e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca, par contre ; je suis sûr que tu ne l'as pas vu "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1jDnRJJVWPtDvLX3aMnQ7_QhsJpYJ2AvR8PWFwj2Ppq0\/edit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1530629817.000000"
+        },
+        "thread_ts": "1530605960.000084",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "49c2b0b0-933a-44b7-8dbc-cdf3002f73d8",
+        "type": "message",
+        "text": "Haha, si, les valeurs de Scrum je les connais :stuck_out_tongue: Elles sont dans le guide d'ailleurs. La prez de pair prog, je regarde ça, merci beaucoup !!",
+        "user": "U0DSEQH9S",
+        "ts": "1530631520.000070",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BuSK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha, si, les valeurs de Scrum je les connais "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue",
+                                "unicode": "1f61b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Elles sont dans le guide d'ailleurs. La prez de pair prog, je regarde ça, merci beaucoup !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1530605960.000084",
+        "parent_user_id": "U0DSEQH9S"
+    },
+    {
+        "client_msg_id": "96ffc9a6-246a-41b3-8280-5ff81d9a5761",
+        "type": "message",
+        "text": "D'ailleurs, sur le pair programming, quand tu en fais, tu tournes tous les combien de temps en général ? Et est-ce que vous faites des pauses programmées ?",
+        "user": "U0DSEQH9S",
+        "ts": "1530631600.000308",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WFz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "D'ailleurs, sur le pair programming, quand tu en fais, tu tournes tous les combien de temps en général ? Et est-ce que vous faites des pauses programmées ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c4917afa-0fb2-42d2-9feb-6ecfb296b2dd",
+        "type": "message",
+        "text": "(Je pense à la méthode de gestion du temps pomodoro + pair programming. Bosser 25 min, puis pause, puis on tourne et rebosser 25 min, puis... etc... avec une plus grosse pause après. Je sais pas ce que ça vaut ! )",
+        "user": "U0DSEQH9S",
+        "ts": "1530631642.000657",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l5A8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Je pense à la méthode de gestion du temps pomodoro + pair programming. Bosser 25 min, puis pause, puis on tourne et rebosser 25 min, puis... etc... avec une plus grosse pause après. Je sais pas ce que ça vaut ! )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

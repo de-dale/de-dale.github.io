@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "25f657fe-432a-4de5-9567-fc464ad5c775",
+        "type": "message",
+        "text": "la liste des bo cremerie et poissonnerie, écrit+lien vidéo : <http:\/\/www.ogaming.tv\/news\/cremerie-poissonnerie-tous-les-build-order\/11211>",
+        "user": "U0M8SF5CG",
+        "ts": "1535143631.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h571",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la liste des bo cremerie et poissonnerie, écrit+lien vidéo : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.ogaming.tv\/news\/cremerie-poissonnerie-tous-les-build-order\/11211"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "O'Gaming",
+                "title": "Crémerie\/Poissonnerie, tous les Build Order !",
+                "title_link": "http:\/\/www.ogaming.tv\/news\/cremerie-poissonnerie-tous-les-build-order\/11211",
+                "text": "« La crémerie » et « La poissonnerie » sur la chaine StarCraft II semblent vous plaire. Et comme vous nous les avez réclamés à corps et à cris, on vous rassemble tous les liens utiles. Deux concepts, deux émissions, un seul objectif : faire de vous un meilleur joueur sur le ladder. À vous de...",
+                "fallback": "O'Gaming: Crémerie\/Poissonnerie, tous les Build Order !",
+                "image_url": "http:\/\/www.ogaming.tv\/upload\/news\/image\/header_perco_crempoi_1535115429.jpg",
+                "ts": 1535126400,
+                "from_url": "http:\/\/www.ogaming.tv\/news\/cremerie-poissonnerie-tous-les-build-order\/11211",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 272919,
+                "service_icon": "http:\/\/www.ogaming.tv\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/www.ogaming.tv\/news\/cremerie-poissonnerie-tous-les-build-order\/11211"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

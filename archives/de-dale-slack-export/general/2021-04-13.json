@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "71120ac9-070d-4a0a-a010-2f6945d93887",
+        "type": "message",
+        "text": "Plopo, a star wars story",
+        "user": "U0AA0KVLH",
+        "ts": "1618328235.006300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iPR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plopo, a star wars story"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0AA0KVLH",
+            "ts": "1618328240.000000"
+        }
+    },
+    {
+        "client_msg_id": "3be57886-1b53-4cc5-8033-f1023ee6f6f8",
+        "type": "message",
+        "text": "Plop-E",
+        "user": "U0A48EDPD",
+        "ts": "1618328601.006600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XjjPl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop-E"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

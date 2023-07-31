@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "897bf1a3-9952-47b2-a078-dd9ce438673c",
+        "type": "message",
+        "text": "<https:\/\/fr.ulule.com\/rdajdp-reedition\/>",
+        "user": "U0M8SF5CG",
+        "ts": "1680109294.796979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rPiz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/fr.ulule.com\/rdajdp-reedition\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/img.ulule.com\/display\/4241ed3115e2948a6539d209563678732b259056\/thumbnail\/600x315\/presales\/1\/7\/9\/9\/5\/1\/159971\/top-ulule.znkFWNkKRT.jpg",
+                "image_width": 600,
+                "image_height": 315,
+                "image_bytes": 224760,
+                "from_url": "https:\/\/fr.ulule.com\/rdajdp-reedition\/",
+                "service_icon": "https:\/\/s3-eu-west-1.amazonaws.com\/com.ulule.assets\/site\/build\/apple-touch-icon.4552687b655c.png",
+                "id": 1,
+                "original_url": "https:\/\/fr.ulule.com\/rdajdp-reedition\/",
+                "fallback": "Ulule: \"Reflets d'Acide\" : add-ons et réédition du jeu de plateau !",
+                "text": "Précommande de la réédition et\/ou des add-ons du jeu de plateau rôlistico-médiévalo-fantastique !",
+                "title": "\"Reflets d'Acide\" : add-ons et réédition du jeu de plateau !",
+                "title_link": "https:\/\/fr.ulule.com\/rdajdp-reedition\/",
+                "service_name": "Ulule"
+            }
+        ],
+        "thread_ts": "1680109294.796979",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1680196580.949899",
+        "reply_users": [
+            "U0AA0KVLH",
+            "U0M8SF5CG"
+        ],
+        "replies": [
+            {
+                "user": "U0AA0KVLH",
+                "ts": "1680185317.122439"
+            },
+            {
+                "user": "U0M8SF5CG",
+                "ts": "1680196580.949899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

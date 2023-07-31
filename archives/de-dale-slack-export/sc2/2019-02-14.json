@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "b0de40b5-106d-494f-8914-83c3c7521664",
+        "type": "message",
+        "text": "Ouverture en cc first comme ici :\n<https:\/\/youtu.be\/B_MYNn9QEi0>\nPuis rush double spatioport dès la fin de l'usine, noyau de fusion et les labos techs ensuite. On lance le yamato dans la foulée des deux premiers bc",
+        "user": "U0A48EDPD",
+        "ts": "1550187447.000100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lppsx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ouverture en cc first comme ici :\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/B_MYNn9QEi0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPuis rush double spatioport dès la fin de l'usine, noyau de fusion et les labos techs ensuite. On lance le yamato dans la foulée des deux premiers bc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "La Poissonnerie - Build Terran Macro",
+                "title_link": "https:\/\/youtu.be\/B_MYNn9QEi0",
+                "author_name": "OGAMINGTV REPLAY",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCISxfmGLpsA1sSMHkyZpPOw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/B_MYNn9QEi0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: La Poissonnerie - Build Terran Macro",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/B_MYNn9QEi0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/B_MYNn9QEi0",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/B_MYNn9QEi0"
+            }
+        ],
+        "thread_ts": "1549989765.001100",
+        "parent_user_id": "U0A48EDPD"
+    }
+]

@@ -1,0 +1,188 @@
+[
+    {
+        "client_msg_id": "c446eb8d-67ea-4f98-9545-33bc0afedc94",
+        "type": "message",
+        "text": "Plop",
+        "user": "U0AA0KVLH",
+        "ts": "1591167748.237400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=wZwU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2b8e9ac6-adde-4d36-b246-2e5daf94abeb",
+        "type": "message",
+        "text": "plop",
+        "user": "U0M8SF5CG",
+        "ts": "1591171837.237600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7fWP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "plop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "g0c9d4255841",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c0c9d4255841bbe9144f72d426469028.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "",
+            "real_name": "clement.s",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "clement.s",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4f3a45af-569d-4e46-8f1f-cea480144566",
+        "type": "message",
+        "text": "<http:\/\/www.jeuxvideo.com\/news\/1232798\/command-conquer-remastered-collection-le-code-source-est-disponible.htm>",
+        "user": "U0AA0KVLH",
+        "ts": "1591173485.237800",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZwGhp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.jeuxvideo.com\/news\/1232798\/command-conquer-remastered-collection-le-code-source-est-disponible.htm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Jeuxvideo.com",
+                "title": "Command &amp; Conquer Remastered Collection : le code source est disponible",
+                "title_link": "http:\/\/www.jeuxvideo.com\/news\/1232798\/command-conquer-remastered-collection-le-code-source-est-disponible.htm",
+                "text": "Comme annoncé le mois dernier, EA \"affirme son engagement auprès des moddeurs\" en partageant les fichiers TiberianDawn.dll et RedAlert.dll ainsi que leur code source respectif sous licence GPL version 3.0. Le tout est désormais téléchargeable librement sur GitHub. Grâce à ces fichiers, les moddeurs...",
+                "fallback": "Jeuxvideo.com: Command &amp; Conquer Remastered Collection : le code source est disponible",
+                "image_url": "http:\/\/image.jeuxvideo.com\/medias-md\/159110\/1591103221-6851-card.jpg",
+                "from_url": "http:\/\/www.jeuxvideo.com\/news\/1232798\/command-conquer-remastered-collection-le-code-source-est-disponible.htm",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 193517,
+                "service_icon": "http:\/\/www.jeuxvideo.com\/apple-icon-180x180.png",
+                "id": 1,
+                "original_url": "http:\/\/www.jeuxvideo.com\/news\/1232798\/command-conquer-remastered-collection-le-code-source-est-disponible.htm"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c3bdcaf5-6115-4fbd-8bab-c8b2f4ea9ee6",
+        "type": "message",
+        "text": "<https:\/\/9gag.com\/gag\/aqnLyA7>",
+        "user": "U0AA0KVLH",
+        "ts": "1591204212.238100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IK8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/9gag.com\/gag\/aqnLyA7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "9GAG",
+                "title": "People Are Redrawing Studio Ghibli Icons In Their Own Style",
+                "title_link": "https:\/\/9gag.com\/gag\/aqnLyA7",
+                "text": ":art::sparkles:",
+                "fallback": "9GAG: People Are Redrawing Studio Ghibli Icons In Their Own Style",
+                "image_url": "https:\/\/images-cdn.9gag.com\/images\/thumbnail-facebook\/53105767_1591068015.9444_Zu9yHy_n.jpg",
+                "from_url": "https:\/\/9gag.com\/gag\/aqnLyA7",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 75311,
+                "service_icon": "https:\/\/assets-9gag-fun.9cache.com\/s\/fab0aa49\/bea16e95be248aa40c119569b9c3dd5c3227bbd6\/static\/dist\/core\/img\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/9gag.com\/gag\/aqnLyA7"
+            }
+        ]
+    }
+]

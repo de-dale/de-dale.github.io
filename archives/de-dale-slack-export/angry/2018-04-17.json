@@ -1,0 +1,192 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1523956939.000295",
+        "user": "U0DTHMU81",
+        "text": "<@U0DTHMU81> has joined the channel",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0A48EDPD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1523956940.000289",
+        "user": "U0A48EDPD",
+        "text": "<@U0A48EDPD> has joined the channel",
+        "inviter": "U0DTHMU81"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/theangrygm.com\/three-shocking-things-you-wont-believe-about-dd-combat\/>",
+        "user": "U0DTHMU81",
+        "ts": "1523956943.000213",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zMQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/theangrygm.com\/three-shocking-things-you-wont-believe-about-dd-combat\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The Angry GM",
+                "title": "Three Shocking Things You Won’t Believe About D&amp;D Combat",
+                "title_link": "http:\/\/theangrygm.com\/three-shocking-things-you-wont-believe-about-dd-combat\/",
+                "text": "In this preamble to The Angry Guide to Kicka$&amp; Combat, we’re going to tell you a few things you never knew about combat and debunk a few things everyone thinks they know about combat.",
+                "fallback": "The Angry GM: Three Shocking Things You Won’t Believe About D&amp;D Combat",
+                "image_url": "http:\/\/theangrygm.com\/wp-content\/uploads\/2015\/03\/Category-GMing-800-x-450.png",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1409141710,
+                "from_url": "http:\/\/theangrygm.com\/three-shocking-things-you-wont-believe-about-dd-combat\/",
+                "image_bytes": 116825,
+                "service_icon": "http:\/\/theangrygm.com\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/theangrygm.com\/three-shocking-things-you-wont-believe-about-dd-combat\/"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "j'ai lu celui-là ce matin",
+        "user": "U0DTHMU81",
+        "ts": "1523956954.000405",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G62i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "j'ai lu celui-là ce matin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "c'est un vieux, mais il ne me disait rien",
+        "user": "U0DTHMU81",
+        "ts": "1523956991.000107",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cFpof",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est un vieux, mais il ne me disait rien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "ça parle :\nShocking Combat Encounter Fact 1: There is no such thing as a combat encounter.\nShocking Combat Encounter Fact 2: Even if there were such a thing as a combat encounter, rules for combat encounters are completely unnecessary.\nShocking Combat Encounter Fact 3: Even if there were such a thing as a combat encounter and even if the rules for combat encounters were actually necessary, you should avoid using them whenever possible.",
+        "user": "U0DTHMU81",
+        "ts": "1523957005.000244",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r5x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ça parle :\nShocking Combat Encounter Fact 1: There is no such thing as a combat encounter.\nShocking Combat Encounter Fact 2: Even if there were such a thing as a combat encounter, rules for combat encounters are completely unnecessary.\nShocking Combat Encounter Fact 3: Even if there were such a thing as a combat encounter and even if the rules for combat encounters were actually necessary, you should avoid using them whenever possible."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

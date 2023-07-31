@@ -1,0 +1,597 @@
+[
+    {
+        "client_msg_id": "9d8cb7bb-59d5-4e8c-b118-1c8c97483431",
+        "type": "message",
+        "text": "Tu as lu ce document ?",
+        "user": "U0A48EDPD",
+        "ts": "1530786259.000247",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0g1J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu as lu ce document ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "072dbae8-627d-4285-9b3f-d501ab3c2007",
+        "type": "message",
+        "text": "<https:\/\/www.areyouagile.com\/pdf\/pratiques_de_lagilite_2_1_15.pdf>",
+        "user": "U0A48EDPD",
+        "ts": "1530786260.000172",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3D3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.areyouagile.com\/pdf\/pratiques_de_lagilite_2_1_15.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a4fcd82a-b3b2-4e04-b8dc-b79bb573c8d3",
+        "type": "message",
+        "text": "Je l'avais lu y a longtemps, mais je me souviens qu'y a des passages dont je suis pas fan.  En relisant je m'en rends compte. Du genre \"Le Scrum Master s'assure que la qualité du produit n'est jamais remise en cause\", ce serait plutôt qu'il encourage à ce qu'on améliore la qualité du produit. On la remet en cause justement, mais vers le haut : ça s'appelle l'amélioration continue. Et les responsables de la qualité sont ceux qui font, donc l'équipe. Mais sinon y a pleins de trucs sympas :smile:",
+        "user": "U0DSEQH9S",
+        "ts": "1530802675.000520",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zV+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je l'avais lu y a longtemps, mais je me souviens qu'y a des passages dont je suis pas fan.  En relisant je m'en rends compte. Du genre \"Le Scrum Master s'assure que la qualité du produit n'est jamais remise en cause\", ce serait plutôt qu'il encourage à ce qu'on améliore la qualité du produit. On la remet en cause justement, mais vers le haut : ça s'appelle l'amélioration continue. Et les responsables de la qualité sont ceux qui font, donc l'équipe. Mais sinon y a pleins de trucs sympas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d6bfa1bd-c1d2-4d71-9cb6-def4c4aeb8f6",
+        "type": "message",
+        "text": "Et le sprint qui dure entre 2 semaines à 1 mois, euh... Non, ça dure 1 mois max. Ca peut durer une semaine, et c'est souvent une meilleure chose si c'est faisable (un feedback plus rapide du client et de l'équipe).",
+        "user": "U0DSEQH9S",
+        "ts": "1530802779.000293",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b2RV6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et le sprint qui dure entre 2 semaines à 1 mois, euh... Non, ça dure 1 mois max. Ca peut durer une semaine, et c'est souvent une meilleure chose si c'est faisable (un feedback plus rapide du client et de l'équipe)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DSEQH9S",
+            "ts": "1530802784.000000"
+        }
+    },
+    {
+        "client_msg_id": "2a8b7a6c-8c58-4a6b-9d61-c870e42a133b",
+        "type": "message",
+        "text": "Je viens de trouver ce jeu excellent : <https:\/\/play14.org\/files\/yata\/Yata.pdf>",
+        "user": "U0DSEQH9S",
+        "ts": "1530814823.000076",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u7bjU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je viens de trouver ce jeu excellent : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/play14.org\/files\/yata\/Yata.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2dc0110d-ddc3-4536-8146-2ce81f509cf9",
+        "type": "message",
+        "text": "Un jeu DevOps",
+        "user": "U0DSEQH9S",
+        "ts": "1530814828.000374",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xGZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un jeu DevOps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d6358d4c-cb24-48fa-8a40-26425f1e4b85",
+        "type": "message",
+        "text": "Et j'ai eu une idée stupide pour un energizer \/ icrebreaker génial",
+        "user": "U0DSEQH9S",
+        "ts": "1530814891.000417",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Csze5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et j'ai eu une idée stupide pour un energizer \/ icrebreaker génial"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c14c7a02-1838-4317-a6f9-3c5099a80315",
+        "type": "message",
+        "text": "Le Real Life Twister",
+        "user": "U0DSEQH9S",
+        "ts": "1530814901.000390",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cA1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le Real Life Twister"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fef608e6-93b3-4339-9bbd-163577305711",
+        "type": "message",
+        "text": "En clair c'est un Twister, mais sans le tapis",
+        "user": "U0DSEQH9S",
+        "ts": "1530814907.000474",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FrnaU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En clair c'est un Twister, mais sans le tapis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fabcfb57-840c-4d79-a400-4a0873d88c82",
+        "type": "message",
+        "text": "Le facilitateur dit un truc du genre \"Marc : épaule gauche sur rouge\"",
+        "user": "U0DSEQH9S",
+        "ts": "1530814936.000049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TRdhB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le facilitateur dit un truc du genre \"Marc : épaule gauche sur rouge\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fc1b195f-fdc8-4bd6-8256-4579978052de",
+        "type": "message",
+        "text": "Et faut qu'il trouve du rouge quelque part. Ca peut être une autre personne.",
+        "user": "U0DSEQH9S",
+        "ts": "1530814948.000096",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "le0z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et faut qu'il trouve du rouge quelque part. Ca peut être une autre personne."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "beca534c-fa41-475a-8ee4-06bd06c6b911",
+        "type": "message",
+        "text": "Ca semble stupide et génial xD",
+        "user": "U0DSEQH9S",
+        "ts": "1530814953.000250",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qmk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca semble stupide et génial xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "51f08f9e-707d-4669-b5cb-3f75e051331e",
+        "type": "message",
+        "text": "Faut que je le teste !!",
+        "user": "U0DSEQH9S",
+        "ts": "1530814957.000187",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NHD0B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Faut que je le teste !!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gb7a4eabe992",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fb7a4eabe992a47220e4d35f7cca605e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Feireisen",
+            "display_name": "maggeus",
+            "team": "T0A48J0MV",
+            "name": "maggeus",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "Moi qui m'entraine à la modélisation",
+        "files": [
+            {
+                "id": "FBK4Y4T3K",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": true,
+        "user": "U0DSEQH9S",
+        "display_as_bot": false,
+        "ts": "1530820498.000173",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bsAym",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0DSEQH9S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " uploaded a file: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/de-dale.slack.com\/files\/U0DSEQH9S\/FBK4Y4T3K\/manifeste_agile.jpg",
+                                "text": "manifeste agile.jpg",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " and commented: Moi qui m'entraine à la modélisation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3633aeec-69f1-4592-98ae-fc10c861f4f0",
+        "type": "message",
+        "text": "Merci pour le partage :slightly_smiling_face:",
+        "user": "U0A48EDPD",
+        "ts": "1530858436.000079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hLDrK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci pour le partage "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

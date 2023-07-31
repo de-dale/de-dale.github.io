@@ -1,0 +1,1228 @@
+[
+    {
+        "client_msg_id": "c3dc6095-2637-454b-93eb-3f3bad67bb8b",
+        "type": "message",
+        "text": "Est-ce que le PJ1 a \"retardé son tour de jeu\" ? ou \"préparé son action\" ?\nCas 1; si on stacke pas les actions, ça ne se produit pas, si le PJ retarde son initiative (et remet ses cartes dans le deck), il ne peut pas décider de quand il joue\nDonc il faut jouer 1 action quand on la pioche ?",
+        "user": "U0DTHMU81",
+        "ts": "1546849564.000900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EUq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Est-ce que le PJ1 a \"retardé son tour de jeu\" ? ou \"préparé son action\" ?\nCas 1; si on stacke pas les actions, ça ne se produit pas, si le PJ retarde son initiative (et remet ses cartes dans le deck), il ne peut pas décider de quand il joue\nDonc il faut jouer 1 action quand on la pioche ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "1e83a218-c135-493b-a8b6-501cbcd20835",
+        "type": "message",
+        "text": "Ou on peut monter jusqu'à 2 cartes action mais quand on pioche la seconde il faut tout jouer ou tout remettre dans la pioche ?",
+        "user": "U0DTHMU81",
+        "ts": "1546849671.001100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oRqV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ou on peut monter jusqu'à 2 cartes action mais quand on pioche la seconde il faut tout jouer ou tout remettre dans la pioche ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "30e7dfe0-6c3a-479e-856c-7f9186511c0a",
+        "type": "message",
+        "text": "Et dans ce cas, si je veux jouer ma 1° carte action entre le moment où je l'ai pioché et le moment ou je pioche ma 2°, ça se passe comment ?",
+        "user": "U0DTHMU81",
+        "ts": "1546849719.001300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kKd=h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et dans ce cas, si je veux jouer ma 1° carte action entre le moment où je l'ai pioché et le moment ou je pioche ma 2°, ça se passe comment ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "ddc725d6-3d88-460f-87fa-83ca27352233",
+        "type": "message",
+        "text": "&gt; Donc il faut jouer 1 action quand on la pioche ?\n&gt; Ou on peut monter jusqu'à 2 cartes action mais quand on pioche la seconde il faut tout jouer ou tout remettre dans la pioche ?\nwip; encore une fois, ton idée \"ne pas stacker les actions\" me plaît, mais j'ai rien fait pour l'implémenter. C'est pour ça que ça reste \"si\".",
+        "user": "U0A48EDPD",
+        "ts": "1546866185.001500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eYMK",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Donc il faut jouer 1 action quand on la pioche ?\nOu on peut monter jusqu'à 2 cartes action mais quand on pioche la seconde il faut tout jouer ou tout remettre dans la pioche ?"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wip; encore une fois, ton idée \"ne pas stacker les actions\" me plaît, mais j'ai rien fait pour l'implémenter. C'est pour ça que ça reste \"si\"."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "d52f23b6-a6b8-4b85-a134-ea3523fbf676",
+        "type": "message",
+        "text": "&gt; Et dans ce cas, si je veux jouer ma 1° carte action entre le moment où je l'ai pioché et le moment ou je pioche ma 2°, ça se passe comment ?\nEt bien : tu ne peux pas. Et je ne veux pas que ça puisse se produire. Si tu souhaiter jouer à un moment quelconque, et réagir à un adversaire, tu dois savoir ce que tu veux faire, et donc \"préparer ton action\"",
+        "user": "U0A48EDPD",
+        "ts": "1546866319.001700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aV0ec",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et dans ce cas, si je veux jouer ma 1° carte action entre le moment où je l'ai pioché et le moment ou je pioche ma 2°, ça se passe comment ?"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Et bien : tu ne peux pas. Et je ne veux pas que ça puisse se produire. Si tu souhaiter jouer à un moment quelconque, et réagir à un adversaire, tu dois savoir ce que tu veux faire, et donc \"préparer ton action\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "dfd8e4c2-e830-4abe-af7c-0104f8a1cd37",
+        "type": "message",
+        "text": "et dans le cas d'une \"canalisation\" ?",
+        "user": "U0DTHMU81",
+        "ts": "1546866497.001900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fv\/P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et dans le cas d'une \"canalisation\" ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "be5906b5-8deb-4390-8920-16c04a2207ba",
+        "type": "message",
+        "text": "\"Je canalise jusqu'à avoir X actions ?\"",
+        "user": "U0DTHMU81",
+        "ts": "1546866511.002100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GEza",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Je canalise jusqu'à avoir X actions ?\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "08528dff-04e5-4359-b01a-8757de60b10b",
+        "type": "message",
+        "text": "Je ne suis pas un grand fan de la préparation. Globalement, un combat ça reste de l'opportunisme. On attend qu'il se passe quelque chose. Je ne peux pas décrire : \"J'attends qu'il se passe 1 truc qui me mette en position d'avantage sur un adversaire pour le stab, en attendant je ne fais qu'éviter ses attaques\".",
+        "user": "U0DTHMU81",
+        "ts": "1546866653.002300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r3Kjy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je ne suis pas un grand fan de la préparation. Globalement, un combat ça reste de l'opportunisme. On attend qu'il se passe quelque chose. Je ne peux pas décrire : \"J'attends qu'il se passe 1 truc qui me mette en position d'avantage sur un adversaire pour le stab, en attendant je ne fais qu'éviter ses attaques\"."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "e0c96424-7d4c-463b-854c-cbb7a9a01131",
+        "type": "message",
+        "text": "Sinon tout le monde dis ça tout le temps et ce n'est plus de la préparation",
+        "user": "U0DTHMU81",
+        "ts": "1546866682.002500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uvNA6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sinon tout le monde dis ça tout le temps et ce n'est plus de la préparation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "0a9c76a5-02a6-4491-875b-20c53b22efea",
+        "type": "message",
+        "text": "Le problème de la préparation c'est que ça détruit une partie de la tactique pour la forcer en stratégie. Il faut avoir très bien prévu (et tu perds des actions en bonus) pour juste réagir. Si tu as tapé à côté, tu perds ton tour. Gros risque,faible avantage",
+        "user": "U0DTHMU81",
+        "ts": "1546866794.002700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dJt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Le problème de la préparation c'est que ça détruit une partie de la tactique pour la forcer en stratégie. Il faut avoir très bien prévu (et tu perds des actions en bonus) pour juste réagir. Si tu as tapé à côté, tu perds ton tour. Gros risque,faible avantage"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "95c397ba-d9f2-4fa8-b31f-c6faa248c7ed",
+        "type": "message",
+        "text": "L'idée du ping pong n'est pas une usine à gaz à mon avis. Le camp de celui qui a tiré l'action peut jouer. S'il ne le fait pas, l'autre camp peut jouer. Si personne ne joue, on tire l'action d'après. A chaque fois qu'un camp joue, il passe la main à l'autre. Les actions sont entièrement résolues avant de passer la main. A chaque fois qu'une action est faite, l'autre camp peut faire 1 réaction. Celle-ci est résolue avant l'action.",
+        "user": "U0DTHMU81",
+        "ts": "1546867451.002900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FmZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "L'idée du ping pong n'est pas une usine à gaz à mon avis. Le camp de celui qui a tiré l'action peut jouer. S'il ne le fait pas, l'autre camp peut jouer. Si personne ne joue, on tire l'action d'après. A chaque fois qu'un camp joue, il passe la main à l'autre. Les actions sont entièrement résolues avant de passer la main. A chaque fois qu'une action est faite, l'autre camp peut faire 1 réaction. Celle-ci est résolue avant l'action."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "c6d69f30-838f-4559-a2c7-3e7fccbbb3bd",
+        "type": "message",
+        "text": "Tu peux simplifier en disant que seul le camp qui a tiré l'action peut jouer",
+        "user": "U0DTHMU81",
+        "ts": "1546867466.003100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MBR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu peux simplifier en disant que seul le camp qui a tiré l'action peut jouer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "c18f1aee-55d8-4d8f-b6eb-8e2f92442002",
+        "type": "message",
+        "text": "c'est la pile de magic ?",
+        "user": "U0AA0KVLH",
+        "ts": "1546867496.003300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PpE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "c'est la pile de magic ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "03c18acb-9485-4fc6-97aa-f00d4fa0bc42",
+        "type": "message",
+        "text": "Magic nouvelle version",
+        "user": "U0DTHMU81",
+        "ts": "1546867512.003500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=SB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Magic nouvelle version"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "50115029-9c33-4bde-ae91-588cc8d8c53f",
+        "type": "message",
+        "text": "dans l'ancienne, tu peux empiler les réactions à l'infini",
+        "user": "U0DTHMU81",
+        "ts": "1546867535.003700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tsvki",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dans l'ancienne, tu peux empiler les réactions à l'infini"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "97bd803b-c5ba-4154-89a4-c8421fed48f6",
+        "type": "message",
+        "text": "et ensuite tu les traites en FILO",
+        "user": "U0DTHMU81",
+        "ts": "1546867554.003900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ing",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "et ensuite tu les traites en FILO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "35825561-c9c0-48f6-8b3d-a5cf325573c1",
+        "type": "message",
+        "text": "Les cartes sont piochées quand les 2 camps ont passé d'affilé.",
+        "user": "U0DTHMU81",
+        "ts": "1546867678.004100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7mROT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Les cartes sont piochées quand les 2 camps ont passé d'affilé."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "8edf45d2-8f70-4f21-855f-d4a1d8c33b11",
+        "type": "message",
+        "text": "Tu peux avoir : Pioche camp A - A joue - B passe - A joue - B joue - A passe - B joue - A réagit - A passe - B passe - Pioche camp A - A passe - B passe - Pioche camp B- etc....",
+        "user": "U0DTHMU81",
+        "ts": "1546867785.004300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ExvG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tu peux avoir : Pioche camp A - A joue - B passe - A joue - B joue - A passe - B joue - A réagit - A passe - B passe - Pioche camp A - A passe - B passe - Pioche camp B- etc...."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "eda3dc0b-c40e-40b4-bed8-61e734bb3fb1",
+        "type": "message",
+        "text": "Ca vient d'où la pile \"Magic Nouvelle Version\" ? C'est quelle version ? Tu as un lien vers la règle ? (ça m'intéresse)",
+        "user": "U0A48EDPD",
+        "ts": "1546867889.004500",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C=e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca vient d'où la pile \"Magic Nouvelle Version\" ? C'est quelle version ? Tu as un lien vers la règle ? (ça m'intéresse)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "9ae1df64-1d47-4a0e-9514-1711db98dfd9",
+        "type": "message",
+        "text": "A cela tu peux ajouter que la carte Réaction retourne dans la pile d'action quand elle est jouée. Une carte de réaction quand elle est piochée est juste donnée à son possesseur, elle n'ouvre pas de jeu d'action",
+        "user": "U0DTHMU81",
+        "ts": "1546867920.004700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4aHf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A cela tu peux ajouter que la carte Réaction retourne dans la pile d'action quand elle est jouée. Une carte de réaction quand elle est piochée est juste donnée à son possesseur, elle n'ouvre pas de jeu d'action"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0DTHMU81",
+            "ts": "1546868046.000000"
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "d63f81f8-057f-449f-a93e-906e91d5a531",
+        "type": "message",
+        "text": "Il y a quelques années, Magic a changé ses règles de pile pour les rendre plus simples",
+        "user": "U0DTHMU81",
+        "ts": "1546867944.004900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/DgLy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Il y a quelques années, Magic a changé ses règles de pile pour les rendre plus simples"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "ef0a4152-3d38-4991-89be-6c6c88f6b523",
+        "type": "message",
+        "text": "mais pas de lien non",
+        "user": "U0DTHMU81",
+        "ts": "1546867947.005100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pjp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mais pas de lien non"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "6fabc201-85f5-4e22-8e25-034b3e320467",
+        "type": "message",
+        "text": "<https:\/\/magic.wizards.com\/fr\/game-info\/gameplay\/rules-and-formats\/rules>",
+        "user": "U0AA0KVLH",
+        "ts": "1546867960.005300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UGB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/magic.wizards.com\/fr\/game-info\/gameplay\/rules-and-formats\/rules"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "0a59895e-66b7-42ac-bc78-25ee07a3c72e",
+        "type": "message",
+        "text": "Normalement ça donne un jeu plus dynamique ce fonctionnement",
+        "user": "U0DTHMU81",
+        "ts": "1546868083.006000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mzw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Normalement ça donne un jeu plus dynamique ce fonctionnement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "8fc4ff63-de13-4c79-b603-7dedbb8314de",
+        "type": "message",
+        "text": "joue ou passe",
+        "user": "U0DTHMU81",
+        "ts": "1546868097.006200",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JEw9T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "joue ou passe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "c2f1b32e-b59b-4d95-bc7f-b3a36b88f045",
+        "type": "message",
+        "text": "tu as magic arena si tu veux voir à quoi ca ressemble",
+        "user": "U0AA0KVLH",
+        "ts": "1546868187.006400",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4q0VZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tu as magic arena si tu veux voir à quoi ca ressemble"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "275e83af5eea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-17\/526295781970_275e83af5eea190a97e5_72.png",
+            "first_name": "naveed",
+            "real_name": "naveed",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "naveed",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "e9e63db8-d3fc-4a6c-a427-2f2daeea0687",
+        "type": "message",
+        "text": "La\/les Réactions, je préfère que tout le monde les aie en main au début du tour. \nJouer \"Réaction\" doit être un Gameplay différent de jouer \"Action\"",
+        "user": "U0A48EDPD",
+        "ts": "1546880529.006600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fFeE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La\/les Réactions, je préfère que tout le monde les aie en main au début du tour. \nJouer \"Réaction\" doit être un Gameplay différent de jouer \"Action\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0A48EDPD",
+            "ts": "1546880833.000000"
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "4e2ca0a8-55ba-4f3d-a8de-65681da86558",
+        "type": "message",
+        "text": "Je comprends mieux ton \"ping-pong\"",
+        "user": "U0A48EDPD",
+        "ts": "1546881030.006900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yaOFa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Je comprends mieux ton \"ping-pong\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "0afdabdefe98",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-06\/179039830384_0afdabdefe98471fc0ae_72.png",
+            "first_name": "",
+            "real_name": "faby",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "faby",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "89fa4bc4-132a-4c09-b333-1d24fbc79156",
+        "type": "message",
+        "text": "Ca revient au jeu sans init dont je te parlais",
+        "user": "U0DTHMU81",
+        "ts": "1546881184.007100",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XwYX\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ca revient au jeu sans init dont je te parlais"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    },
+    {
+        "client_msg_id": "01817d87-50f7-423e-8735-b9c943e6aa53",
+        "type": "message",
+        "text": "Mais avec une distribution d'action aléatoire",
+        "user": "U0DTHMU81",
+        "ts": "1546881203.007300",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m8WlR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mais avec une distribution d'action aléatoire"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T0A48J0MV",
+        "user_team": "T0A48J0MV",
+        "source_team": "T0A48J0MV",
+        "user_profile": {
+            "avatar_hash": "gf93bee477dc",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2f93bee477dc9401eeca351b86195938.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "sharah",
+            "display_name": "",
+            "team": "T0A48J0MV",
+            "name": "sharah",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1546504880.005900",
+        "parent_user_id": "U0AA0KVLH"
+    }
+]
