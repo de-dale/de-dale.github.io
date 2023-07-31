@@ -8,16 +8,39 @@ edit_uri: edit/main/docs/
 nav:
   - De-Dale:
       - index.md
+      - Univers:
+          - universes/index.md
+      - 👑 Kingmaker:
+        - universes/kingmaker/mara-lahyani.md
+      - Varisie:
+        - universes/varisie/alykhaÿa.md
+        - universes/varisie/clederin.md
+      - Khrystie:
+        - universes/khrystie/index.md
+      - Owryath:
+        - universes/owryath/index.md
+        - universes/owryath/synopsis.md
+        - universes/owryath/elfes.md
+        - universes/owryath/familles-nobles.md
+        - universes/owryath/pantheon.md
+        - universes/owryath/petit-peuple.md
   - Blog:
       - blog/index.md
   - Ressources & Outils:
     - tools/index.md
+    - tools/caracteres-personnages.md
+    - tools/description-personnages.md
+    - tools/sites-reference.md
+    - tools/titres-de-noblesse.md
     - Cartes:
       - Playground: https://de-dale.github.io/cards
       - tools/cards/shelves.md
   - Projets:
       - projects/index.md
-      - Sphérier: https://de-dale.github.io/spherier
+      - Sphérier:
+        - https://de-dale.github.io/spherier
+        - projects/sphérier/vrac.md
+        - projects/sphérier/vrac-essai-magie.md
   - Communauté:
       - community/index.md
 
