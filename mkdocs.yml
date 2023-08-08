@@ -20,10 +20,10 @@ nav:
       - Owryath:
         - universes/owryath/index.md
         - universes/owryath/synopsis.md
-        - universes/owryath/elfes.md
         - universes/owryath/familles-nobles.md
         - universes/owryath/pantheon.md
-        - universes/owryath/petit-peuple.md
+        - universes/owryath/ethnies-elfes.md
+        - universes/owryath/ethnies-petit-peuple.md
   - Blog:
       - blog/index.md
   - Ressources & Outils:
@@ -43,6 +43,9 @@ nav:
         - projects/sphérier/vrac-essai-magie.md
   - Communauté:
       - community/index.md
+not_in_nav: |
+  tags.md
+  slides*
 
 theme:
   name: material
@@ -77,6 +80,10 @@ plugins:
   - search
   - tags:
       tags_file: tags.md
+  - rss:
+      match_path: blog/posts/.*
+      date_from_meta:
+        as_creation: date
 # Extra
 extra_css:
   - assets/css/extra.css

@@ -1,5 +1,4 @@
 ---
-title: 'Les Marais du Cerythan'
 date: 2018-06-23
 authors: 
 - naveed
@@ -7,6 +6,8 @@ categories:
 - Arkilen
 excerpt: 'Synopsis du One-Shot "Les Marais du Cerythan"'
 ---
+# Les Marais du Cerythan
+
 ## Synopsis
 
 Le Cerythan est un considéré par les premiers nés comme un puissant état mais pour le Dalwyn, c’est une nation secrète et refermée surtout connu pour ses fruits exotiques et en particulier le cacao qu’il est le seul à produire. De nombreux mythes sur l’opulence des cités du Cerythan existent car il est vrai que les étranges produits qui sont commercés rapportent une fortune aux Hommes-Tigres du Cerythan.

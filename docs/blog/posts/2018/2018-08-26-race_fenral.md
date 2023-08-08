@@ -5,7 +5,7 @@ authors:
 categories:
 - Arkilen
 tags: 
-- race
+- races
 excerpt: >
   Présentation de la race des Fenrals
 ---

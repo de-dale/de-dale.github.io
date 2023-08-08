@@ -16,7 +16,7 @@ jobs:
 
       - name: Install and Build 🔧
         run: | 
-          pip install mkdocs-material==9.2.0b2 mkdocs-material
+          pip install mkdocs mkdocs-material==9.2.0b2 mkdocs-rss-plugin
           mkdocs build
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.4.3

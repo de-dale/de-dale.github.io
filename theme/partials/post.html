@@ -84,18 +84,24 @@
         </div>
     </header>
 
+    <!-- CUSTOM -->
+    {% if post.meta.tags %}
+    <nav class="md-typeset md-tags">
+        {%- for tag in post.meta.tags -%}
+        {%- set tag_name = tag %}
+        {%- set tag_type = tag|lower|replace(" ", "-") %}
+        {%- set icon = " md-tag-icon md-tag--" ~ tag_type -%}
+        <span class="md-tag{{ icon }}">
+                {{- tag_name -}}
+             </span>
+        {%- endfor -%}
+    </nav>
+    {%- endif -%}
+    <!-- END CUSTOM -->
+
     <!-- Post content -->
     <div class="md-post__content md-typeset">
-        <!-- CUSTOM -->
-        {% if post.meta.excerpt %}
-        <h2>
-            <a href="{{ post.url | url }}" class=""> {{ post.title }} </a>
-        </h2>
-        {{ post.meta.excerpt }}
-        {% else %}
         {{ post.content }}
-        {% endif %}
-        <!-- END CUSTOM -->
 
         <!-- Continue reading link -->
         <nav class="md-post__action">
