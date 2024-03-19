@@ -3,9 +3,12 @@ title: La Communauté du Dé-Dale
 tags:
 - community
 ---
-Une équipe de rôlistes depuis 2004.
+Le "**De-Dale**" est une communauté de copains et copines de lycées que nous avions créée pour organiser des sessions de jeu de rôle.
+Le nom survit encore aujourd'hui, mais la communauté est peu active et nous n'avons pas cherché à nous agrandir.
 
-Anciennes productions
+Nous contacter :
 
-* [Ancien forum](http://de-dale.go-board.com/)
-* [Repo](https://drive.google.com/open?id=1b3sqRj3sHtN2Ovugs0sp6UZnxx2LDYis)
+- [:fontawesome-brands-discord: Discord](https://discord.gg/AWsdmSkt) 
+- [:fontawesome-brands-slack: Slack](https://join.slack.com/t/de-dale/shared_invite/zt-22s87ekgl-xrMTOeMDs~oIYrRxEIvHMw) 
+
+Nous sommes une communauté d'amateurs, et tout ce que vous trouverez à ces endroits reste de l'ordre du hobby.

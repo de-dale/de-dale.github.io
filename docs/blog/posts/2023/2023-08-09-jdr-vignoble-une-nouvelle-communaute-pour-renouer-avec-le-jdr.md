@@ -4,7 +4,7 @@ date: 2023-08-09
 authors:
 - fhiegel
 tags:
-- rpg
+- jdr
 - community
 ---
 # JDR Vignoble : Une nouvelle communauté pour renouer avec le JDR

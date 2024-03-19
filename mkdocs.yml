@@ -3,18 +3,21 @@ site_url: https://de-dale.github.io
 site_description: >
   Méandres de l'imaginaire
 repo_url: https://github.com/de-dale/de-dale.github.io
-edit_uri: edit/main/docs/
+edit_uri: '' #edit/main/docs/
 
 nav:
   - De-Dale:
       - index.md
-      - Univers:
-          - universes/index.md
-      - 👑 Kingmaker:
-        - universes/kingmaker/mara-lahyani.md
-      - Varisie:
-        - universes/varisie/alykhaÿa.md
-        - universes/varisie/clederin.md
+  - Blog:
+      - blog/index.md
+  - Univers:
+      - universes/index.md
+      - Pathfinder & Golarion:
+        - 👑 Kingmaker:
+          - universes/kingmaker/mara-lahyani.md
+        - Varisie:
+          - universes/varisie/alykhaÿa.md
+          - universes/varisie/clederin.md
       - Khrystie:
         - universes/khrystie/index.md
       - Owryath:
@@ -24,8 +27,6 @@ nav:
         - universes/owryath/pantheon.md
         - universes/owryath/ethnies-elfes.md
         - universes/owryath/ethnies-petit-peuple.md
-  - Blog:
-      - blog/index.md
   - Ressources & Outils:
     - tools/index.md
     - tools/caracteres-personnages.md
@@ -72,7 +73,7 @@ theme:
       community: fontawesome/solid/people-group
       projets: material/view-dashboard
       outils: material/tools
-      rpg: fontawesome/solid/dice-d20
+      jdr: fontawesome/solid/dice-d20
 plugins:
   - blog:
       blog_toc: true
@@ -104,7 +105,7 @@ extra:
     community: community
     projets: projets
     outils: outils
-    rpg: rpg
+    jdr: jdr
 # Extensions
 markdown_extensions:
   - admonition

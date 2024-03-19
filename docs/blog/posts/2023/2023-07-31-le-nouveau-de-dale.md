@@ -6,7 +6,7 @@ authors:
 categories:
 - Communauté du Dé d'Ale
 tags:
-- rpg
+- jdr
 - community
 ---
 # Le "Nouveau" De-Dale
